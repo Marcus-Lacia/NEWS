@@ -164,8 +164,7 @@ var initialize = function() {
         
         <div id="important-column-679" class="weighty-column" onclick="javascript:toggleTargetColumn('important-text-679', 'important-column-679', false)">
 
-            2021/03/05 15:00                            <!-- 新着 --><img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png" />
-            
+            2021/03/05 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               アップデートのお知らせ            </div>
