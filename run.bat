@@ -1,4 +1,4 @@
-wget https://alice.colopl.jp/news/importants
+aria2c https://alice.colopl.jp/news/importants
 
 call git add -A 
 call git commit -m "ÓÐ¸üÐÂ"
