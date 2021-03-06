@@ -14,7 +14,7 @@
         var _APP_INFO = {
             apv: "1.0",
             device: "",
-            userAgent: "aria2/1.35.0",
+            userAgent: "Wget/1.20.3 (mingw32)",
             userId: "",
             mail: "alice@colopl.jp",
             mailPayment: "alice-kessai@colopl.jp",
