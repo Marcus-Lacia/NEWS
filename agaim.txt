@@ -35,8 +35,7 @@
         
         <div id="important-column-680" class="weighty-column">
 
-            2021/03/05 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/03/05 18:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部スキルの「自身以外のキャラクターにのみ効果を与える」効果が正常に適用されない            </div>
