@@ -118,7 +118,7 @@
             <div class="list">
                 ▶小芦 睦海の専用クロスギアにアレンジを追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210305/bnr_l00_inf_303_05.jpg?v=1032">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210305/bnr_l00_inf_303_05.jpg?v=1033">
             <div class="list">
                 ▶「アレンジ」機能の追加に伴い、ギア進化画面にて「Lv80専用ギアの性能を切り替える」際のボタンの表示文言を変更しました。
             </div>
@@ -595,17 +595,17 @@
                 <div class="list">
                     ▶籠目 深沙希の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210212/bnr_l00_inf_302_12.jpg?v=1032">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210212/bnr_l00_inf_302_12.jpg?v=1033">
                 <div class="list">
                     ▶籠目 深沙希の専用ボトムスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210212/bnr_l00_inf_302_13.jpg?v=1032">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210212/bnr_l00_inf_302_13.jpg?v=1033">
                 <div class="list red">
                     ※各種進化分岐ギアの特殊な動作について、<br>
                     籠目 深沙希【泡影】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/396?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_047_70/bnr_header.jpg?v=1032">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_047_70/bnr_header.jpg?v=1033">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
