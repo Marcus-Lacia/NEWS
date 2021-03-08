@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 腳本需要用到jsdom執行腳本前先安裝
  * 在腳本所在位置開命令工具執行下面命令安裝
  * npm i jsdom
@@ -13,7 +13,7 @@ const { JSDOM } = jsdom;
 // 要讀取的html檔案名稱
 const fileName = 'agaim.txt';
 // 輸出的資料夾名稱
-const exportDirName = 'export';
+const exportDirName = '更新公告';
 
 
 const html = fs.readFileSync(fileName, 'utf8');

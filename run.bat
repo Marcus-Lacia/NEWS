@@ -1,5 +1,5 @@
 cd C:\Users\Administrator\Desktop\githubc\NEWS
-rmdir /s/q export
+rmdir /s/q 更新公告
 cd C:\Users\Administrator\Desktop\githubc\NEWS\download
 python aga.py
 move agaim.txt C:\Users\Administrator\Desktop\githubc\NEWS
