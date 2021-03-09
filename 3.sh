@@ -1,5 +1,5 @@
-file1=C:\Users\Administrator\Desktop\githubc\NEWS\beta\new.txt
-file2=C:\Users\Administrator\Desktop\githubc\NEWS\new\new.txt
+file1=/root/NEWS/beta/new.txt
+file2=/root/NEWS/new/new.txt
  
 diff $file1 $file2 > /dev/null
 if [ $0 == 0 ]; then
