@@ -7,7 +7,7 @@ D = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 B = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 
 
- 
+
 shutil.copyfile(C,D) 
 
 S = requests.Session()
@@ -23,3 +23,4 @@ PARAMS_1 = {
 R = S.post(url=URL, params=PARAMS_1)
 DATA = R.json()
 print(DATA)
+os.remove(C) 

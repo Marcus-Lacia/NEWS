@@ -1,7 +1,4 @@
 cd ..
-cd C:\Users\Administrator\Desktop\githubc\NEWS
-rmdir /s/q beta
-md beta
 cd C:\Users\Administrator\Desktop\githubc\NEWS\download
 python aga.py
 move agaim.txt C:\Users\Administrator\Desktop\githubc\NEWS
