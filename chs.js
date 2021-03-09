@@ -13,7 +13,7 @@ const { JSDOM } = jsdom;
 // 要讀取的html檔案名稱
 const fileName = 'agaim.txt';
 // 輸出的資料夾名稱
-const exportDirName = '更新公告';
+const exportDirName = 'beta';
 
 
 const html = fs.readFileSync(fileName, 'utf8');
@@ -25,8 +25,35 @@ if (!fs.existsSync(exportDirName)) {
     fs.mkdirSync(exportDirName);
 }
 
-nodes.forEach(n => {
+function nodeToFile(n) {
     const saveName = n.id + '.txt';
-    const text = n.children[0].textContent;
+    let text = n.children[0].textContent + '';
+    let texts = text.split('\n').map(t => t.trim()).filter(t => t);
+    text = texts.join('\n');
     fs.writeFileSync(`./${exportDirName}/${saveName}`, text);
-})
+}
+
+const handleNodes = [];
+
+// 只取最後的節點
+// {
+//     let lastIndex = nodes.length - 1;
+//     if (lastIndex < 0) { lastIndex = 0; }
+//     const lastNode = nodes.item(lastIndex);
+//     handleNodes.push(lastNode);
+// }
+
+// 只取第一個節點
+{
+    const firstNode = nodes.item(0);
+    handleNodes.push(firstNode);
+}
+
+// 加入處理所有節點
+// {
+//     handleNodes.push(...nodes);
+// }
+
+handleNodes.forEach(n => {
+    nodeToFile(n);
+});
