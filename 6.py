@@ -19,7 +19,7 @@ if Z<4 :
 
     PARAMS_1 = {
         "group_id": H[Z],
-        "message": A&L[0],
+        "message": str(A&L[0]),
     }
     R = S.post(url=URL, params=PARAMS_1)
     DATA = R.json()
@@ -32,7 +32,7 @@ if Z<4 :
     result = open(tr,'rb').read()
     PARAMS_tr1 = {
             "group_id": H[Z],
-            "message": result&L[1],
+            "message": str(result&L[1]),
 
     }
         # PARAMS_tr2 = {
