@@ -8,6 +8,7 @@ B = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 
 
 
+
 shutil.copyfile(C,D) 
 
 S = requests.Session()
@@ -46,6 +47,7 @@ PARAMS_6 = {
     "message": "DesignBy @Lacia  AssistBy @KINGMAX",
 
 }
+
 R = S.post(url=URL, params=PARAMS_1)
 DATA = R.json()
 print(DATA)
@@ -65,3 +67,35 @@ R = S.post(url=URL, params=PARAMS_6)
 DATA = R.json()
 print(DATA)
 os.remove(C) 
+os.system('python C:\Users/Administrator/Desktop/githubc/tr/6.py')
+tr = ("C:/Users/Administrator/Desktop/githubc/tr/tr.txt")
+result = open(tr,'rb').read()
+PARAMS_tr1 = {
+    "group_id": "602762228",
+    "message": result,
+
+}
+PARAMS_tr2 = {
+    "group_id": "602762228",
+    "message": "自动机翻",
+
+}
+PARAMS_tr3 = {
+    "group_id": "970916689",
+    "message": result,
+
+}
+PARAMS_tr4 = {
+    "group_id": "970916689",
+    "message": "自动机翻",
+
+}PARAMS_tr5 = {
+    "group_id": "894769419",
+    "message": result,
+
+}
+PARAMS_tr6 = {
+    "group_id": "894769419",
+    "message": "自动机翻",
+
+}
