@@ -13,6 +13,7 @@ rename *.txt new.txt
 cd C:\Users\Administrator\Desktop\githubc\NEWS\new
 rename *.txt new.txt
 cd C:\Users\Administrator\Desktop\githubc\NEWS
+node compare_file.js
 sh ./5.sh
 
 
