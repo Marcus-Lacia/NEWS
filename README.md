@@ -1,3 +1,5 @@
+[download version](https://github.com/Marcus-Lacia/NEWS/releases/tag/V1.0)
+[下载版本](https://github.com/Marcus-Lacia/NEWS/releases/tag/V1.0)
 # 抓取更新公告并进行推送
 ## 全平台通用，请注意安装依赖
 ### nodejs  python（filecmp、requests、shutil、lxml）
