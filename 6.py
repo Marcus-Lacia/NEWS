@@ -99,3 +99,22 @@ PARAMS_tr6 = {
     "message": "自动机翻",
 
 }
+R = S.post(url=URL, params=PARAMS_tr1)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_tr2)
+DATA = R.json()
+print(DATA)
+
+R = S.post(url=URL, params=PARAMS_tr3)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_tr4)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_tr5)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_tr6)
+DATA = R.json()
+print(DATA)
