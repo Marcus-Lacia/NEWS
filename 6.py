@@ -11,7 +11,7 @@ B = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 shutil.move(C,D) 
 
 S = requests.Session()
-URL = "http://127.0.0.1:5700/send_group_msg"
+URL = "http://47.103.207.213:27015/send_group_msg"
 
 A = open(B,'rb').read()
 
