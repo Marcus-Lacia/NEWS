@@ -5,5 +5,5 @@ diff $file1 $file2 > /dev/null
 if [ $0 == 0 ]; then
     echo "Both file are same"
 else   
-	python 6.py	
+	echo "python 6.py"	
 fi
