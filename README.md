@@ -32,10 +32,4 @@
 
 
 Translated with www.DeepL.com/Translator (free version)
-=======
-### git add -A 
-### git commit -m "公告更新"
-### git push -u origin main
-### 不需要删除，同时可以享受github推送更新邮件通知
-### 若克隆，请删除上述代码避免无用的提交
->>>>>>> d80cc8bb83b38ac3e7a917d8910d683e5e87444b
+
