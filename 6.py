@@ -20,7 +20,31 @@ PARAMS_1 = {
     "message": A,
 
 }
+PARAMS_2 = {
+    "group_id": "894769419",
+    "message": "DesignBy @Lacia  AssistBy @KINGMAX",
+
+}
+PARAMS_3 = {
+    "group_id": "970916689",
+    "message": A,
+
+}
+PARAMS_4 = {
+    "group_id": "894769419",
+    "message": "DesignBy @Lacia  AssistBy @KINGMAX",
+
+}
 R = S.post(url=URL, params=PARAMS_1)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_2)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_3)
+DATA = R.json()
+print(DATA)
+R = S.post(url=URL, params=PARAMS_4)
 DATA = R.json()
 print(DATA)
 os.remove(C) 
