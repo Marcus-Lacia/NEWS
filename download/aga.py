@@ -1,4 +1,3 @@
-# encoding: utf-8
 from lxml.html.clean import Cleaner
 import requests
 

@@ -1,6 +1,4 @@
-cd /root/NEWS/beta
+cd C:\Users\Administrator\Desktop\githubc\NEWS\beta
 rename *.txt new.txt
-cd ..
-cd /root/NEWS/new
+cd C:\Users\Administrator\Desktop\githubc\NEWS\new
 rename *.txt new.txt
-cd

@@ -1,18 +1,17 @@
-# encoding: utf-8
 import requests
 import shutil
 import os
 G = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")  
 C = ("C:/Users/Administrator/Desktop/githubc/NEWS/beta/new.txt")
-D = ("C:/Users/Administrator/Desktop/githubc/NEWS/new")
+D = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 B = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 
 
  
-shutil.move(C,D) 
+shutil.copyfile(C,D) 
 
 S = requests.Session()
-URL = "http://47.103.207.213:27015/send_group_msg"
+URL = "http://127.0.0.1:5700/send_group_msg"
 
 A = open(B,'rb').read()
 
