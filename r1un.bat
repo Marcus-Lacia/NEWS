@@ -1,4 +1,5 @@
 cd ..
+cd C:\Users\Administrator\Desktop\githubc\NEWS
 rmdir /s/q beta
 md beta
 cd C:\Users\Administrator\Desktop\githubc\NEWS\download
