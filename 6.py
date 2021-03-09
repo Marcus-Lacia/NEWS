@@ -89,7 +89,8 @@ PARAMS_tr4 = {
     "group_id": "970916689",
     "message": "自动机翻",
 
-}PARAMS_tr5 = {
+}
+PARAMS_tr5 = {
     "group_id": "894769419",
     "message": result,
 
