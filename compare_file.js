@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 使用:
  * 直接 node compare_file.js
  */
@@ -13,5 +13,5 @@ const content2 = fs.readFileSync(filePath2, 'utf8');
 if (content1 == content2) {
     console.log('Both file are same');
 } else {
-    exec('python', ["6.py"]);
+    python 6.py;
 }
