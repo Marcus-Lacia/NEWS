@@ -29,27 +29,27 @@ if Z<4 :
         # }
 
 
-        R = S.post(url=URL, params=PARAMS_1)
-        DATA = R.json()
-        print(DATA)
+     R = S.post(url=URL, params=PARAMS_1)
+     DATA = R.json()
+     print(DATA)
 
         
-        os.remove(C) 
-        os.system('python C:/Users/Administrator/Desktop/githubc/tr/6.py')
-        tr = ("C:/Users/Administrator/Desktop/githubc/tr/tr.txt")
-        result = open(tr,'rb').read()
-        PARAMS_tr1 = {
+     os.remove(C) 
+     os.system('python C:/Users/Administrator/Desktop/githubc/tr/6.py')
+     tr = ("C:/Users/Administrator/Desktop/githubc/tr/tr.txt")
+     result = open(tr,'rb').read()
+     PARAMS_tr1 = {
             "group_id": H[Z],
             "message": result&L[1],
 
-        }
+     }
         # PARAMS_tr2 = {
             # "group_id": H[Z],
             # "message": L[1],
 
         # }
         
-        R = S.post(url=URL, params=PARAMS_tr1)
-        DATA = R.json()
-        print(DATA)
-        Z = Z+1
+     R = S.post(url=URL, params=PARAMS_tr1)
+     DATA = R.json()
+     print(DATA)
+     Z = Z+1
