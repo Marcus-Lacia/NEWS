@@ -8,11 +8,11 @@ D = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 B = ("C:/Users/Administrator/Desktop/githubc/NEWS/new/new.txt")
 
 H =["970916689","894769419","602762228"]
-L =["DesignBy @Lacia  AssistBy @KINGMAX","自动机翻"]
-
+#L =["DesignBy @Lacia  AssistBy @KINGMAX","自动机翻"]
+L =["机器人测试","自动机翻"]
 Z = 0
 
-shutil.copyfile(C,D) 
+
 
 S = requests.Session()
 URL = "http://127.0.0.1:5700/send_group_msg"
