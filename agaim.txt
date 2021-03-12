@@ -33,6 +33,127 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-682" class="weighty-column">
+
+            2021/03/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-682" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月12日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶セルケトの一部挙動を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【調整内容】</p>
+            <p class="list">・エリア外へ出ないように調整。</p>
+            <p class="list">・行動変化時の無敵時間を短縮。</p>
+            <p class="list">・回転攻撃を受けたキャラクターの<br>吹き飛び方向を調整。</p>
+        </div>
+        <div class="list">
+            ▶セルケト特異型の一部挙動を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【調整内容】</p>
+            <p class="list">・エリア外へ出ないように調整。</p>
+            <p class="list">・行動変化時の無敵時間を短縮。</p>
+            <p class="list">・回転攻撃を受けたキャラクターの<br>吹き飛び方向を調整。</p>
+            <p class="list">・特定行動の後に硬直時間を追加。</p>
+            <p class="list">・一部レーザー攻撃時の旋回速度を低下。</p>
+        </div>
+        <div class="list">
+            ▶セルケト特異型の棘尾を特定タイミングで破壊した場合、その後の回転攻撃の挙動とエフェクトがずれてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶激動編3章の一部へクスにて、出撃前画面に特定ボスのアイコンが表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶宮南 ひかりのSPスキル「クリエイション」発動時、効果音が正常に再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ti2のSPスキル「ニアバーストビーム」の発動演出中、攻撃エフェクトの一部が敵のいない方向に表示されてしまう不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、攻撃は正しく行われていることを確認しております。
+        </p>
+        <div class="list">
+            ▶Ti2【イア・レトナ】のSPスキル「コンプレッション・ニア」の発動演出中、一瞬だけ、不自然なエフェクトが表示されることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ギア装備中の須賀 乙莉がコスチューム「ガラッシア」着用時、下半身が正常に表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶宮南 ひかりがコスチューム「カラクルール」着用中、特定ポーズをとった際に特定部位の見た目に違和感がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶籠目 深沙希がコスチューム「クリプトグラフ」着用中、アクセサリー等が揺れなくなる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                <span class="bold">一条 綾香</span><br>
+                ・アマ女中等部の制服<br>
+                ・ピンクスピネル<br>
+                ・スタープロムナード<br>
+                ・アマ女中等部夏服<br>
+                ・タピアン
+            </div>
+            <div>
+                <span class="bold">相河 愛花</span><br>
+                ・スタープロムナード<br>
+                ・テネラ
+            </div>
+            <div>
+                <span class="bold">小芦 睦海</span><br>
+                ・八八式戦闘服<br>
+                ・スタープロムナード<br>
+                ・リギダ
+            </div>
+            <div>
+                <span class="bold">藤野 やよい</span><br>
+                ・パンツスーツ
+            </div>
+        </div>
+        <div class="list">
+            ▶任務中、アクセサリー「NC-B101」の中央に白い線が表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-680" class="weighty-column">
 
             2021/03/05 18:30            
@@ -134,7 +255,11 @@
         
         <div id="important-column-678" class="weighty-column">
 
-            2021/02/26 20:45            
+            2021/02/26 20:45                            
+                <span class="bold">
+                                            (03/12 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ギア装備中の須賀 乙莉がコスチューム「ガラッシア」着用時、下半身が正常に表示されない            </div>
@@ -143,6 +268,23 @@
         <div id="important-text-678" class="weighty-notice hide">
            
     <div>
+        
+        <div>
+            ■2021年03月12日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
         
         <div>
             ■2021年02月26日 20:45<br>
@@ -1422,67 +1564,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-659" class="weighty-column">
-
-            2021/01/15 19:40            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              ニーナ・Kのパッシブスキル「ハチューイェースチ」の仕様追加について            </div>
-
-        </div>
-        <div id="important-text-659" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年01月15日 19:40<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        近日中に行うアップデートにて、ニーナ・Kのパッシブスキル「ハチューイェースチ」の一部仕様追加を予定しておりますので、ご報告申し上げます。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【追加内容】</p>
-        
-        <div class="list">
-            ▶「近接攻撃の速度が上昇する」効果の対象範囲に「自身を強化する特殊タイプのSPスキル発動中の近接攻撃」を追加いたします。
-        </div>
-
-        <div class="sub-box bg_skin">
-            <p class="bold">＜調整前＞</p>
-            <ul>
-                <li>
-                    ハンマーを装備し、戦闘開始時もしくはSPスキル使用時、
-                    近接攻撃の速度が上昇する 12秒間継続<br>
-                    この効果は条件を満たす限り再発動する
-                </li>
-            </ul>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜調整後＞</p>
-            <ul>
-                <li>
-                    ハンマーを装備し、戦闘開始時もしくはSPスキル使用時、
-                    近接攻撃の速度が上昇する 12秒間継続<br>
-                    <span class="red">強化SPの近接攻撃にも適用</span><br>
-                    条件を満たす限り再発動する
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div>
-        本来の仕様では、パッシブスキル「ハチューイェースチ」の対象に「SPスキルの効果時間中」は含まれず、近接攻撃の速度上昇効果は発動いたしません。<br>
-        しかし、ニーナ【破軍】のSPスキル「スネグーラチカ」と組み合わせてクロスギアの性能を上書きした場合に、近接攻撃の速度上昇効果が発動しない状態となっておりましたので、より扱いやすくなるように対象を追加いたします。
-    </div>
-    <div>
-        本調整が完了次第、追ってご案内いたしますので、少々お時間をいただけますと幸いです。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
