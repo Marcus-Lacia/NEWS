@@ -26,12 +26,4 @@ PARAMS_1 = {
 R = S.post(url=URL, params=PARAMS_1)
 DATA = R.json()
 print(DATA)
-PARAMS_2 = {
-            "group_id": H[Z],
-            "message": L[0],
-
-}
-R = S.post(url=URL, params=PARAMS_2)
-DATA = R.json()
-print(DATA)        
 
