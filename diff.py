@@ -15,5 +15,6 @@ else:
     os.system('python 6.py')
     os.system('python 7.py')
     os.system('python 8.py')
+    os.system('python 9.py')
     
 
