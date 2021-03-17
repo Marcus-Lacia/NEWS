@@ -33,6 +33,120 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-685" class="weighty-column">
+
+            2021/03/17 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.40.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-685" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月17日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.40.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.40.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面デザインをリニューアルしました。
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面に、ランダムで表示される履歴書に下記アクトレスを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【追加アクトレス】</p>
+            <div>
+            	・四谷 ゆみ<br>
+            	・一条 綾香<br>
+            	・相河 愛花
+            </div>
+        </div>
+        <div class="list">
+            ▶任務中の「丘陵地帯」背景の空を変更しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/stg2_008_01.png?v=1043">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/stg2_008_02.png?v=1043">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/stg2_008_03.png?v=1043">
+        </div>
+        <div class="list">
+            ▶一部スキルの「自身以外のキャラクターにのみ効果を与える」効果が正常に適用されない不具合を修正しました。
+        </div>        
+        <div class="list">
+            ▶マルチにて、「全アクトレスを回復する」効果のスキルが発動した際、一瞬だけ、他のプレイヤーのHPが本来よりも多く回復したように表示されることがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、回復量に変更はございません。
+        </p>
+        <div class="list">
+            ▶マルチにて、下落合 桃歌【明星】のパッシブスキル「セットリスト」の効果が、自身以外のキャラクターに反映されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶一部キャラクターの「ショットギアの攻撃を上書きする特殊タイプのSPスキル」の効果時間中、敵をロックオンしていない状態にポーズが切り替わらない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶AIT Ti2が下記ギアを装備中に、強化状態の溜め撃ち射撃を行う際、特定操作を行うとエフェクトの表示位置がずれてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/LSHB-001 DUA<br>
+                ・★4/LSHB-001S DUA
+            </div>
+        </div>
+        <div class="list">
+            ▶AIT【イア・レトナ】のパッシブスキル「SUPER ARM」発動時、特定操作を行うとエフェクトの表示位置がずれてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶AIT【イア・レトナ】が専用クロスギア装備時、特定ポーズをとった際の腕の見え方に違和感がある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶リタ・HのSPスキル「Knヘクセパンツァー」の、発動演出中のエフェクトを微調整しました。
+        </div>
+        <div class="list">
+            ▶激動編7章に登場する一部大型ヴァイスのHPゲージが、開発意図と異なる位置に表示されている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ウェルウィッチアを特定タイミングでダウン状態にした場合、外殻が破壊されないままバトルが進行してしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種ネペンテスの種子を破壊後、特定状況にて、破壊された種子が攻撃を行うことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶VWヘヴィが近接攻撃を行う際に、複数キャラクターがいる場合、ロックオン対象が切り替わってしまい、開発意図と異なる挙動になることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.40.0の配信に伴い、<span class="bold red">3/18（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-684" class="weighty-column">
 
             2021/03/15 19:45                            
@@ -245,7 +359,11 @@
         
         <div id="important-column-680" class="weighty-column">
 
-            2021/03/05 18:30            
+            2021/03/05 18:30                            
+                <span class="bold">
+                                            (03/17 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部スキルの「自身以外のキャラクターにのみ効果を与える」効果が正常に適用されない            </div>
@@ -254,6 +372,23 @@
         <div id="important-text-680" class="weighty-notice hide">
            
     <div>
+        
+        <div>
+            ■2021年03月17日 14:10 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            Ver.1.39.0アプリより発生していた本件につきまして、順次配信されておりますVer1.40.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
         
         <div>
             ■2021年03月05日 18:30<br>
@@ -1386,110 +1521,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-655" class="weighty-column">
-
-            2021/01/12 15:20                            
-                <span class="bold">
-                                            (01/19 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「3周年前夜祭 スカポくじ」に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-655" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年01月19日 12:50 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            当該日にログインし「A組」のくじを獲得できていないお客様へ、下記補填を受取箱に配布いたしております。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                1/12（火）15:00 ～ 15:40 までにログイン後、<br>
-                1/13（水）14:59 までに再度ログインせず、<br>
-                「A組」のくじを獲得できていないお客様
-            </div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 80
-            </div>
-            <div>
-                <p class="bold">【受取期限】</p>
-                <div class="paragraph">
-                    4/18（日）23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">  
-
-        <div>
-            ■2021年01月12日 15:40 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、先ほど修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <p class="list red">
-            ※本日分のくじにつきましては、ホーム画面に遷移していただくことで獲得することができます。
-        </p>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">  
-        
-        <div>
-            ■2021年01月12日 15:20<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、「3周年前夜祭 スカポくじ」にて、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶くじ一覧画面を開こうとすると、くじ一覧が正常に開かれず、「データがありません」と表示され、くじを正常に受け取れない。
-            </div>
-            <p class="list red">
-                ※本不具合の発生に伴い、現在、一時的に「3周年前夜祭 スカポくじ」のお知らせを非表示にしております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/32</div>
+                    <div class="page-box box-radius">1/33</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
