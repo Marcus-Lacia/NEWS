@@ -77,9 +77,9 @@
             ▶任務中の「丘陵地帯」背景の空を変更しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/stg2_008_01.png?v=1044">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/stg2_008_02.png?v=1044">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/stg2_008_03.png?v=1044">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/info_01.jpg?v=1044">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/info_02.jpg?v=1044">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/info_03.jpg?v=1044">
         </div>
         <div class="list">
             ▶一部スキルの「自身以外のキャラクターにのみ効果を与える」効果が正常に適用されない不具合を修正しました。
