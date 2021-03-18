@@ -33,6 +33,65 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-687" class="weighty-column">
+
+            2021/03/18 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-687" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年03月18日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div>
+                <div class="list">
+                    ▶「黎明編」、「躍進編」、「陰謀編」にストーリースキップ機能を追加しました。
+                </div>
+                <p class="list red">
+                    ※ストーリー画面から、対象の編をスキップできる機能となります。
+                </p>
+                <p class="list red">
+                    ※スキップした各種任務は未クリア扱いとなりますが、スキップ後にプレイすることで、各種クリア報酬を獲得できます。
+                </p>
+                <p class="list red">
+                    ※ストーリー進行に応じて開放される一部機能のチュートリアルがスキップされる場合があります。
+                </p>
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1046">
+                <p class="list red">
+                    ※対象の編を既にクリア、もしくはスキップした場合には表示されません。
+                </p>
+                <div class="list">
+                    ▶「黎明編」、「躍進編」、「陰謀編」にストーリー紹介機能を追加しました。
+                </div>
+                <p class="list red">
+                    ※ストーリー画面から、対象の編の簡易あらすじを閲覧できる機能となります。
+                </p>
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1046">
+                <p class="list red">
+                    ※対象の編をクリア、もしくはスキップしていない場合は利用できません。
+                </p>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-686" class="weighty-column">
 
             2021/03/18 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1412,50 +1471,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-666" class="weighty-column">
-
-            2021/01/28 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-666" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年01月28日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「ことほげ!!! ～成子坂への招待状～」のEp.5にて、特定タイミングで「LOG」ボタンを押すと、進行不能になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
