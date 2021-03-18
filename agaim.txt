@@ -70,7 +70,9 @@
                 <p class="list red">
                     ※ストーリー進行に応じて開放される一部機能のチュートリアルがスキップされる場合があります。
                 </p>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1046">
+                <div class="center">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1046">
+                </div>
                 <p class="list red">
                     ※対象の編を既にクリア、もしくはスキップした場合には表示されません。
                 </p>
@@ -80,7 +82,9 @@
                 <p class="list red">
                     ※ストーリー画面から、対象の編の簡易あらすじを閲覧できる機能となります。
                 </p>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1046">
+                <div class="center">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1046">
+                </div>
                 <p class="list red">
                     ※対象の編をクリア、もしくはスキップしていない場合は利用できません。
                 </p>
