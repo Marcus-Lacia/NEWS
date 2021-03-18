@@ -33,6 +33,124 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-685" class="weighty-column">
+
+            2021/03/17 14:10                            
+                <span class="red bold">
+                                            (03/18 更新)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.40.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-685" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月17日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.40.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.40.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面デザインをリニューアルしました。
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面に、ランダムで表示される履歴書に下記アクトレスを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【追加アクトレス】</p>
+            <div>
+            	・四谷 ゆみ<br>
+            	・一条 綾香<br>
+            	・相河 愛花
+            </div>
+        </div>
+        <div class="list">
+            ▶<s>任務中の「丘陵地帯」背景の空を変更しました。</s>
+        </div>
+        <div class="list red">
+            ※3/18 18:20 追記<br>
+            本変更が正常に反映されていないことを確認しております。<br>
+            現在原因を調査しておりますので、対応完了まで今しばらくお待ち下さい。　
+        </div>
+        
+        <div class="list">
+            ▶一部スキルの「自身以外のキャラクターにのみ効果を与える」効果が正常に適用されない不具合を修正しました。
+        </div>        
+        <div class="list">
+            ▶マルチにて、「全アクトレスを回復する」効果のスキルが発動した際、一瞬だけ、他のプレイヤーのHPが本来よりも多く回復したように表示されることがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、回復量に変更はございません。
+        </p>
+        <div class="list">
+            ▶マルチにて、下落合 桃歌【明星】のパッシブスキル「セットリスト」の効果が、自身以外のキャラクターに反映されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶一部キャラクターの「ショットギアの攻撃を上書きする特殊タイプのSPスキル」の効果時間中、敵をロックオンしていない状態にポーズが切り替わらない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶AIT Ti2が下記ギアを装備中に、強化状態の溜め撃ち射撃を行う際、特定操作を行うとエフェクトの表示位置がずれてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/LSHB-001 DUA<br>
+                ・★4/LSHB-001S DUA
+            </div>
+        </div>
+        <div class="list">
+            ▶AIT【イア・レトナ】のパッシブスキル「SUPER ARM」発動時、特定操作を行うとエフェクトの表示位置がずれてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶AIT【イア・レトナ】が専用クロスギア装備時、特定ポーズをとった際の腕の見え方に違和感がある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶リタ・HのSPスキル「Knヘクセパンツァー」の、発動演出中のエフェクトを微調整しました。
+        </div>
+        <div class="list">
+            ▶激動編7章に登場する一部大型ヴァイスのHPゲージが、開発意図と異なる位置に表示されている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ウェルウィッチアを特定タイミングでダウン状態にした場合、外殻が破壊されないままバトルが進行してしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種ネペンテスの種子を破壊後、特定状況にて、破壊された種子が攻撃を行うことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶VWヘヴィが近接攻撃を行う際に、複数キャラクターがいる場合、ロックオン対象が切り替わってしまい、開発意図と異なる挙動になることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.40.0の配信に伴い、<span class="bold red">3/18（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-687" class="weighty-column">
 
             2021/03/18 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -137,119 +255,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-685" class="weighty-column">
-
-            2021/03/17 14:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.40.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-685" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年03月17日 14:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.40.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.40.0の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面デザインをリニューアルしました。
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面に、ランダムで表示される履歴書に下記アクトレスを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【追加アクトレス】</p>
-            <div>
-            	・四谷 ゆみ<br>
-            	・一条 綾香<br>
-            	・相河 愛花
-            </div>
-        </div>
-        <div class="list">
-            ▶任務中の「丘陵地帯」背景の空を変更しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/info_01.jpg?v=1046">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/info_02.jpg?v=1046">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210317/info_03.jpg?v=1046">
-        </div>
-        <div class="list">
-            ▶一部スキルの「自身以外のキャラクターにのみ効果を与える」効果が正常に適用されない不具合を修正しました。
-        </div>        
-        <div class="list">
-            ▶マルチにて、「全アクトレスを回復する」効果のスキルが発動した際、一瞬だけ、他のプレイヤーのHPが本来よりも多く回復したように表示されることがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、回復量に変更はございません。
-        </p>
-        <div class="list">
-            ▶マルチにて、下落合 桃歌【明星】のパッシブスキル「セットリスト」の効果が、自身以外のキャラクターに反映されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部キャラクターの「ショットギアの攻撃を上書きする特殊タイプのSPスキル」の効果時間中、敵をロックオンしていない状態にポーズが切り替わらない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶AIT Ti2が下記ギアを装備中に、強化状態の溜め撃ち射撃を行う際、特定操作を行うとエフェクトの表示位置がずれてしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★4/LSHB-001 DUA<br>
-                ・★4/LSHB-001S DUA
-            </div>
-        </div>
-        <div class="list">
-            ▶AIT【イア・レトナ】のパッシブスキル「SUPER ARM」発動時、特定操作を行うとエフェクトの表示位置がずれてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶AIT【イア・レトナ】が専用クロスギア装備時、特定ポーズをとった際の腕の見え方に違和感がある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶リタ・HのSPスキル「Knヘクセパンツァー」の、発動演出中のエフェクトを微調整しました。
-        </div>
-        <div class="list">
-            ▶激動編7章に登場する一部大型ヴァイスのHPゲージが、開発意図と異なる位置に表示されている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ウェルウィッチアを特定タイミングでダウン状態にした場合、外殻が破壊されないままバトルが進行してしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種ネペンテスの種子を破壊後、特定状況にて、破壊された種子が攻撃を行うことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶VWヘヴィが近接攻撃を行う際に、複数キャラクターがいる場合、ロックオン対象が切り替わってしまい、開発意図と異なる挙動になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.40.0の配信に伴い、<span class="bold red">3/18（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
