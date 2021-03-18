@@ -83,7 +83,7 @@
                     ※ストーリー画面から、対象の編の簡易あらすじを閲覧できる機能となります。
                 </p>
                 <div class="center">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1046">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1046">
                 </div>
                 <p class="list red">
                     ※対象の編をクリア、もしくはスキップしていない場合は利用できません。
