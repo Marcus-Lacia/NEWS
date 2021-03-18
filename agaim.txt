@@ -33,6 +33,54 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-686" class="weighty-column">
+
+            2021/03/18 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-686" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月18日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶激動編3章にて、クリア後の再プレイに対応していなかった一部のバトルへクスを、再プレイ可能にしました。
+        </div>
+        <div class="list">
+            ▶ファティマ・Bがアクセサリー「グリュプス」着用中、特定状況において眉毛の表示に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-685" class="weighty-column">
 
             2021/03/17 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1390,117 +1438,6 @@
         
         <div class="list">
             ▶イベント「ことほげ!!! ～成子坂への招待状～」のEp.5にて、特定タイミングで「LOG」ボタンを押すと、進行不能になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-665" class="weighty-column">
-
-            2021/01/22 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-665" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年01月22日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ギア所持数を100枠拡張しました。
-        </div>
-        <p class="list red">
-            ※カラットで購入できる拡張枠とは別に、全てのお客様の所持数が100枠拡張されておりおます。
-        </p>
-        <div class="list">
-            ▶ミッション（ノーマル）に、下記追加ミッションを実装しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ミッション】</p>
-            <div>
-                ・ゴールド累計所持数<br>
-            	・アニマ累計所持数<br>
-            	・調査任務クリア宙域数
-            </div>
-        </div>
-        <div class="list">
-            ▶ニーナ・Kのパッシブスキル「ハチューイェースチ」の効果対象範囲に、「自身を強化する特殊タイプのSPスキル発動中の近接攻撃」を追加しました。
-        </div>
-        <div class="list">
-            ▶下記ヴァイス出現時の、効果音の追加及び調整を行いました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・ヴァイスワーカー<br>
-                ・サーペント<br>
-                ・キュクロプス<br>
-                ・ケルベロス<br>
-                ・ケプリ<br>
-                ・ストリック<br>
-                ・ガーデン<br>
-                ・ウェルウィッチア<br>
-                ・各種レントラー<br>
-                ・各種ポイゾネルモス<br>
-                ・各種リムルインバス<br>
-                ・各種キャリアタートル<br>
-                ・各種セルケト<br>
-                ・各種ヒュドラ<br>
-                ・各種ネペンテス<br>
-                ・各種リコサアラゴギ
-            </div>
-        </div>
-        <div class="list">
-            ▶我龍 絵美の3Dモデルの、目元の印象と眉毛の色味を微調整しました。
-        </div>
-        <div class="list">
-            ▶王 紅花のキャラエピソードEp.2「出たがり紅花」にて、特定シーンの王 紅花がちらついて見える不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                <span class="bold">州天頃 椎奈</span><br>
-                ・アマ女高等部の制服<br>
-                ・フツヌシ<br>
-                ・アマ女高等部夏服
-            </div>
-            <div>
-                <span class="bold">仁紀藤 奏</span><br>
-                ・アマ女高等部の制服<br>
-                ・VRZ-R2<br>
-                ・アマ女高等部夏服<br>
-                ・BDナース/B<br>
-                ・コンパニオン/YS
-            </div>
         </div>
         <div class="list">
             ▶各種データを追加しました。
