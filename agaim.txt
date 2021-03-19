@@ -33,6 +33,43 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-689" class="weighty-column">
+
+            2021/03/19 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.40.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-689" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月19日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.40.1のアプリにて、以下の調整を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.40.1の更新内容】</p>
+        
+        <div class="list">
+            ▶任務中の動作安定性改善を行いました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.40.1の配信に伴い、<span class="bold red">3/22（月）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-688" class="weighty-column">
 
             2021/03/18 20:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1376,86 +1413,6 @@
     <div>
         なお、Ver.1.38.0の配信に伴い、<span class="bold red">2/12（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-668" class="weighty-column">
-
-            2021/02/04 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-668" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年02月04日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶任務中の「市街地」背景の空を変更しました。
-        </div>
-        <div class="list">
-            ▶宮南 ひかり専用アクセサリー「ヘッドバンド」が着用時の挙動に対して不自然な名称になっていたため、「たたんだヘアバンド」に名称を変更し、説明文を調整しました。
-        </div>
-        <p class="list red">
-            ※対象アクセサリーの挙動に変更はありません。
-        </p>
-        <div class="list">
-            ▶宮南 ひかり専用アクセサリー「たたんだヘアバンド」の、アイコン上のコストが正しい数値よりも高く表記されていた不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正しいコストは「1」となります。
-        </p>
-        <div class="list">
-            ▶宮南 ひかりが各種メガネを着用した際、メガネが髪の毛に干渉してしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶宮南 ひかり専用★4ショットギア、及び★4ボトムスギアの一部パーツが、開発意図と異なる見た目になっていた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶宮南 ひかりが専用クロスギアを装備時、特定ポーズをとった際に、眉毛が不自然に表示されてしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶我龍 絵美専用★3ショットギアの溜め撃ちで、SPゲージが上昇しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶我龍 絵美が専用ショットギアを装備時の、出撃演出中の一部パーツの表示位置や角度を微調整しました。
-        </div>
-        <div class="list">
-            ▶我龍 絵美が専用★3クロスギア、及び★4ボトムスギアを装備時、一部パーツが体にめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶我龍 絵美専用トップスギアが特定状況において、パーツが展開されたままになってしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ニーナ・K専用トップスギアのギアスキル発動時、開発意図と異なるエフェクトが表示される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
