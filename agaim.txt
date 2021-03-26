@@ -35,8 +35,7 @@
         
         <div id="important-column-692" class="weighty-column">
 
-            2021/03/25 12:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/03/25 12:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               日向 リン専用ボトムスギアのギアスキルについて            </div>
