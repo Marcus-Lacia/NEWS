@@ -33,9 +33,77 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-693" class="weighty-column">
+
+            2021/03/30 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.40.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-693" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月30日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.40.2のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.40.2の更新内容】</p>
+        
+        <div class="list">
+            ▶ミニゲーム「成子坂ホームランダービー」にて、ボールを打った直後に表示される飛距離が小数点1位まで表示されるよう調整しました。
+        </div>
+        <div class="list">
+            ▶ミニゲーム「成子坂ホームランダービー」にて、結果画面に表示される最大飛距離が、ボールを打った直後に表示された飛距離と異なることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ミニゲーム「成子坂ホームランダービー」にて、特定タイミングで「SKIP」を選択すると、効果音が鳴り止まなくなる不具合を修正しました。
+        </div>        
+        <div class="list show_only_DMM">
+            ▶特定操作を行うと、任務中にキーボードによる移動操作が行えなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶日向 リン専用ボトムスギアの、ギアスキルの最大ロックオン数が減少していた不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶山野 薫子の絆エピソードEp.3～5にて、山野 薫子の前髪の見た目に違和感がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶モバイル広告の計測プラットフォームを更新しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.40.2の配信に伴い、<span class="bold red">3/31（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-692" class="weighty-column">
 
-            2021/03/25 12:00            
+            2021/03/25 12:00                            
+                <span class="bold">
+                                            (03/30 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               日向 リン専用ボトムスギアのギアスキルについて            </div>
@@ -44,6 +112,23 @@
         <div id="important-text-692" class="weighty-notice hide">
            
     <div>
+        
+        <div>
+            ■2021年03月30日 14:05 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日順次配信されましたVer1.40.2アプリにて、対象ギアスキルのロックオン数を「最大6体」に修正いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
         
         <div>
             ■2021年03月25日 12:00<br>
@@ -1307,54 +1392,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-672" class="weighty-column">
-
-            2021/02/12 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-672" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年02月12日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶籠目 深沙希の専用クロスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210212/bnr_l00_inf_302_12.jpg?v=1058">
-                <div class="list">
-                    ▶籠目 深沙希の専用ボトムスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210212/bnr_l00_inf_302_13.jpg?v=1058">
-                <div class="list red">
-                    ※各種進化分岐ギアの特殊な動作について、<br>
-                    籠目 深沙希【泡影】の詳細ページにて説明しております。
-                </div>
-                <a href="/news/show/id/396?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_047_70/bnr_header.jpg?v=1058">
-                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-                </a>
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
