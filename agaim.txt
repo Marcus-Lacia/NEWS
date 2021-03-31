@@ -33,10 +33,89 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-695" class="weighty-column">
+
+            2021/03/31 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-695" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年03月31日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶相河 愛花専用コスチューム「エーススーツV」の一部カラーリングを変更しました。
+        </div>
+        <p class="list red">
+            ※本変更に伴い、カラーリング変更前のデザインを別コスチューム「エーススーツVb」として追加実装しております。
+        </p>
+        <div class="list">
+            ▶相河 愛花の「アナザーギア体験エピソード」の初回クリア報酬に、コスチューム「エーススーツVb」を追加しました。
+        </div>
+        <p class="list red">
+            ※既に当該エピソードをクリア済みのお客様には、後日、受取箱へ追加コスチュームの配布を予定しております。
+        </p>
+        <div class="list">
+            ▶スカウト一覧画面のBGMをリニューアルしました。
+        </div>
+        <div class="list">
+            ▶九炉鉄 悠都のSPスキル「トリプルクラウン」の、カウンター待機状態の当たり判定を調整し、カウンターを成功させやすくしました。
+        </div>
+        <div class="list">
+            ▶イベント「特殊宙域作戦 Op.フォーシシア」で獲得可能な称号「驚異の種」及び「遺伝的変異」の、一部デザインを微調整しました。
+        </div>
+        <div class="list">
+            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                <span class="bold">二子玉 舞</span><br>
+                ・八八式戦闘服<br>
+                ・桃学の制服<br>
+                ・コミマ戦闘服/舞
+            </div>
+            <div>
+                <span class="bold">萬場 盟華</span><br>
+                ・スカートスーツ<br>
+                ・M・S&amp;K
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-693" class="weighty-column">
 
-            2021/03/30 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/03/30 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.40.2 配信のお知らせ            </div>
@@ -1306,88 +1385,6 @@
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-673" class="weighty-column">
-
-            2021/02/12 19:35                            
-                <span class="bold">
-                                            (02/25 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              籠目 深沙希のSPスキル「荒絹の帳」に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-673" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年02月25日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            籠目 深沙希のSPスキル「荒絹の帳」発動中の挙動につきまして、先ほど行いましたデータ更新にて以下の調整対応を行いましたので、ご報告申し上げます。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【調整内容】</p>
-            
-            <div class="list">
-                ・近接攻撃1～3段目の攻撃判定を前方に調整。
-            </div>
-            <div class="list">
-                ・各種ステップ行動中、ごく短時間「存在解離」状態になるよう調整。
-            </div>
-            <div class="list">
-                ・近接攻撃から派生する「カウンター攻撃」成功後、即座に各種ステップ行動へ移行できないよう調整しました。
-            </div>
-            <div class="list">
-                ※カウンター待機中や、カウンター攻撃成功後の近接攻撃中は、各種ステップ行動への移行が従来通り可能です。
-            </div>
-        </div> 
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-
-
-        <div>
-            ■2021年02月12日 19:35<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            籠目 深沙希のSPスキル「荒絹の帳」について、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶籠目 深沙希のSPスキル「荒絹の帳」使用中、特定の操作を連続で行うことで、SPスキル発動後、「存在解離」状態が継続してしまう。
-            </div>
-            <div class="list">
-                ※SPスキル中に近接攻撃を行った際、ごく短時間「存在解離」状態になるのは正常な挙動となりますが、各種攻撃へ移行した際は、一度「存在解離」状態が解除され、再度近接攻撃をした際に、再び「存在解離」状態になるのが、本来の開発意図となります。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を進めております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
