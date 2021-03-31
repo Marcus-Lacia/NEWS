@@ -35,7 +35,10 @@
         
         <div id="important-column-695" class="weighty-column">
 
-            2021/03/31 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/03/31 14:00                            
+                <span class="red bold">
+                                            (03/31 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -65,8 +68,12 @@
         <div class="list">
             ▶相河 愛花の「アナザーギア体験エピソード」の初回クリア報酬に、コスチューム「エーススーツVb」を追加しました。
         </div>
-        <p class="list red">
+        <s></s><p class="list red">
             ※既に当該エピソードをクリア済みのお客様には、後日、受取箱へ追加コスチュームの配布を予定しております。
+        </p>
+        <p class="red list">
+            ※17:05 追記<br>
+            既に当該エピソードをクリア済みのお客様へ、コスチュームの配布が完了いたしました。
         </p>
         <div class="list">
             ▶スカウト一覧画面のBGMをリニューアルしました。
