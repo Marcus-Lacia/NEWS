@@ -671,7 +671,7 @@
                     ※ストーリー進行に応じて開放される一部機能のチュートリアルがスキップされる場合があります。
                 </p>
                 <div class="center">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1065">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1066">
                 </div>
                 <p class="list red">
                     ※対象の編を既にクリア、もしくはスキップした場合には表示されません。
@@ -683,7 +683,7 @@
                     ※ストーリー画面から、対象の編の簡易あらすじを閲覧できる機能となります。
                 </p>
                 <div class="center">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1065">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1066">
                 </div>
                 <p class="list red">
                     ※対象の編をクリア、もしくはスキップしていない場合は利用できません。
@@ -769,13 +769,13 @@
                 <div class="list">
                     ▶リタ・Hの専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210312/bnr_l00_inf_303_12.jpg?v=1065">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210312/bnr_l00_inf_303_12.jpg?v=1066">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     リタ【巧匠】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/405?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_046_70/bnr_header.jpg?v=1065">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_046_70/bnr_header.jpg?v=1066">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1012,7 +1012,7 @@
             <div class="list">
                 ▶小芦 睦海の専用クロスギアにアレンジを追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210305/bnr_l00_inf_303_05.jpg?v=1065">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210305/bnr_l00_inf_303_05.jpg?v=1066">
             <div class="list">
                 ▶「アレンジ」機能の追加に伴い、ギア進化画面にて「Lv80専用ギアの性能を切り替える」際のボタンの表示文言を変更しました。
             </div>
