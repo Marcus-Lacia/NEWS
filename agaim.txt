@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-694" class="weighty-column">
+
+            2021/04/02 16:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_announce.png" class="icn-category">
+              プライバシーポリシーの改定について            </div>
+
+        </div>
+        <div id="important-text-694" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年04月02日 16:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        プライバシーポリシーの改定を2021年4月15日に予定しておりますので、以下のとおりお知らせいたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【プライバシーポリシー変更点】</p>
+        
+        <div class="list">
+            ▶「6. 情報の提供」の規定を改定。
+        </div>
+        
+        <p class="list red">※<span class="bold browser" data-url="https://colopl.co.jp/app/privacypolicy/alicegearaegis/ja_rev2021_04.html"><u>改定後のプライバシーポリシー</u></span>はこちらより確認できます。</p>
+    </div>
+    
+    <div>
+        プライバシーポリシー変更に伴い、改定実施後の初回起動時に、利用規約の確認画面が表示されます。<br>
+        お手数をおかけいたしますが、何卒、ご理解とご協力のほど、よろしくお願い申し上げます。<br>
+        <p class="list red">
+            ※上記プライバシーポリシー以外の規約変更はございません。
+        </p>
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-695" class="weighty-column">
 
             2021/03/31 14:00                            
@@ -1340,66 +1382,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-674" class="weighty-column">
-
-            2021/02/12 20:00                            
-                <span class="bold">
-                                            (02/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              任務中、特定状況にてメガネのレンズに色がついてしまう            </div>
-
-        </div>
-        <div id="important-text-674" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年02月24日 14:15 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer1.39.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-
-        <div>
-            ■2021年02月12日 20:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶任務中、各種メガネアクセサリーを装着したキャラクターに特定エフェクトが表示されている場合、メガネのレンズに色がついてしまう。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
