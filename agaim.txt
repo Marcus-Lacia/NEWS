@@ -33,6 +33,83 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-697" class="weighty-column">
+
+            2021/04/08 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-697" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年04月08日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記アクトレス専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    <div>
+                        <span class="bold">バージニア・G</span><br>
+                        ・「PG417A」シリーズ<br>
+                        ・「ヴォルパーティンガー9A」シリーズ<br>
+                        ・「US-AG1A/T」シリーズ<br>
+                        ・「US-AG1A/B」シリーズ
+                        <p class="list red">
+                            ※「ヴォルパーティンガー9A」シリーズは<br>
+                            「拳銃」タイプのクロスギアとなります。
+                        </p>
+                	</div>
+                    <div>
+                        <span class="bold">四谷 ゆみ</span><br>
+                        ・「グリッツグルースA」シリーズ<br>
+                        ・「ダスククレインA」シリーズ<br>
+                        ・「グレイスクレインA/T」シリーズ<br>
+                        ・「グレイスクレインA/B」シリーズ
+                	</div>
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで下記アクトレスが選択できるようになりました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象アクトレス】</p>
+                <div>
+                    ・バージニア・G<br>
+                    ・四谷 ゆみ
+                </div>
+            </div>
+            <div class="list">
+                ▶下記アクトレスに「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">※各エピソードは対象アクトレスが加入している場合に、「キャラエピソード画面」から再生できます。</p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象アクトレス】</p>
+                <div>
+                    ・バージニア【MOBIUS】<br>
+                    ・四谷 ゆみ【絢爛】
+                </div>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-696" class="weighty-column">
 
             2021/04/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1244,107 +1321,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-676" class="weighty-column">
-
-            2021/02/25 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-676" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年02月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶激動編マップ形式の各章において、クリア済みの各種バトルへクスを再度プレイできるよう仕様変更を行いました。
-        </div>
-        <p class="list red">
-            ※本変更に伴い、対象バトルヘクスの見た目及びクリア時の報酬量を微調整しました。
-        </p>
-        <div class="list">
-            ▶籠目 深沙希専用クロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・ベアレスト・シー<br>
-                ・トワル・ド・ラ・モール
-            </div>
-            <p class="list">・近接攻撃1～3段目の攻撃判定を前方に調整。</p>
-            <p class="list">・近接攻撃3段目の踏み込み距離を延長。</p>
-            <p class="list">・左右ステップ攻撃に、短い無敵時間を追加。</p>
-        </div>
-        <div class="list">
-            ▶籠目 深沙希のSPスキル「荒絹の帳」発動中の挙動を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【調整内容】</p>
-            <p class="list">・近接攻撃1～3段目の攻撃判定を前方に調整。</p>
-            <p class="list">・各種ステップ行動中、ごく短時間「存在解離」状態になるよう調整。</p>
-            <p class="list">・近接攻撃から派生する「カウンター攻撃」成功後、即座に各種ステップ行動へ移行できないよう調整しました。</p>
-            <p class="list">※カウンター待機中や、カウンター攻撃成功後の近接攻撃中は、各種ステップ行動への移行が従来通り可能です。</p>
-        </div>
-        <div class="list">
-            ▶宮南 ひかりがコスチューム「アニバドレスW」着用時、特定モーション再生時にスカートがめり込む問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶一部キャラクターがコスチューム「アニバドレス」着用時、任務中及び3D MODEL画面でのみ、特定部位の見え方に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                <span class="bold">比良坂 夜露</span><br>
-                ・八八式戦闘服<br>
-                ・芦高の制服<br>
-                ・スタープロムナード<br>
-                ・芦原高校夏服<br>
-                ・クーベルチュール<br>
-                ・活動修道マトイ
-            </div>
-            <div>
-                <span class="bold">百科 文嘉</span><br>
-                ・八八式戦闘服<br>
-                ・星大付属の制服<br>
-                ・クーベルチュール<br>
-                ・ソーサラーローブ
-            </div>
-        </div>
-        <div class="list">
-            ▶リタ・Hの履歴書にて、職業欄が非表示になっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
