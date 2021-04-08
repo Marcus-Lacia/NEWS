@@ -88,7 +88,7 @@
         <div id="important-column-695" class="weighty-column">
 
             2021/03/31 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/07 更新)
                                     </span>
             
