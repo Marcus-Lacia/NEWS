@@ -35,8 +35,7 @@
         
         <div id="important-column-698" class="weighty-column">
 
-            2021/04/08 22:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/04/08 22:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               バージニア・Gのアナザーショットギア使用中、開発意図と異なるエフェクトが表示される            </div>
