@@ -33,9 +33,106 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-699" class="weighty-column">
+
+            2021/04/12 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.41.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-699" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年04月12日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.41.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.41.0の更新内容】</p>
+        
+        <div class="list">
+            ▶トレーニングモード「習熟訓練」を実装しました。
+        </div>
+        <div class="center show_only_Android">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1079">
+        </div>
+        <div class="center show_only_iOS">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1079">
+        </div>
+        <div class="center show_only_DMM">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1079">
+        </div>
+        <div class="list red">
+            ※詳細は<a href="/news/show/id/416?returnUrl=back"><u><span class="bold">こちら</span></u></a>をご確認ください。
+        </div>
+        <div class="list">
+            ▶アクセサリー「フェイスベール」に半透明表現を追加しました。
+        </div>
+        <div class="list red">
+            ※半透明表現はバトル中の一部状況では無効となります。
+        </div>
+        <div class="list">
+            ▶各種交換所で、ゴールドやアニマの交換数を指定する際、所持上限数を越えた数を指定できないよう調整しました。
+        </div>
+        <div class="list">
+            ▶侵蝕編3章で登場する一部の任務中背景を微調整しました。
+        </div>
+        <div class="list">
+            ▶一部エリアで「あきらめる」や「やり直す」を選んだ際に、画面が暗転している時間が長くなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶バージニア・Gのアナザーショットギア使用中、特定状況にて開発意図と異なるエフェクトが表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶比良坂 夜露のアナザーショットギア使用中、特定状況にて開発意図と異なるエフェクトが表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶一部ショットギアにて、特定操作を行うと残弾数が正常に表示されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶一部ショットギアにて、特定状況で溜め撃ちを行うと残弾数が回復しないことがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【追加ギア】</p>
+            <div>
+                ・「ヤクモA」シリーズ<br>
+                ・「CホークANs」シリーズ<br>
+                ・「アルカーヌム」シリーズ
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.41.0の配信に伴い、<span class="bold red">4/13（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-698" class="weighty-column">
 
-            2021/04/08 22:10            
+            2021/04/08 22:10                            
+                <span class="red bold">
+                                            (04/12 補填済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               バージニア・Gのアナザーショットギア使用中、開発意図と異なるエフェクトが表示される            </div>
@@ -44,6 +141,56 @@
         <div id="important-text-698" class="weighty-notice hide">
            
     <div>
+        
+        <div>
+            ■2021年04月12日 14:05 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日より順次配信されておりますVer.1.41.0アプリにて、修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            本不具合は射撃後のリロードモーションを再生する際に、銃口から発するエフェクトの設定に誤りがあったのが発生原因となります。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1079">
+        </div>
+        <div>
+            通常、新たなショット動作を製作する際は、主に背面カメラ（通常のバトル操作と同じ）状態で検証を重ねるため、「王 紅花」用の特殊な爆発エフェクトがリロード動作のイメージに合ったエフェクトに見えてしまい、かつ多角度からのチェックが不十分だったため、誤設定のままリリースされてしまいました。
+        </div>
+        <div>
+            バージニアや紅花ファンのお客様、並びに全てのお客様に不快な思いをさせてしまったこと深くお詫び申し上げます。
+        </div>
+        <div>
+            なお、今回、お客様にご迷惑をおかけしておりますお詫びとして、以下の補填対応を実施いたしましたので、併せてご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    4/12（月）13:59 までに<br>
+                    アカウントを作成しているお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 100
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    4/26（月）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
         
         <div>
             ■2021年04月08日 22:10<br>
@@ -1238,66 +1385,6 @@
             </p>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-678" class="weighty-column">
-
-            2021/02/26 20:45                            
-                <span class="bold">
-                                            (03/12 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ギア装備中の須賀 乙莉がコスチューム「ガラッシア」着用時、下半身が正常に表示されない            </div>
-
-        </div>
-        <div id="important-text-678" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年03月12日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年02月26日 20:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶ギア装備中の須賀 乙莉がコスチューム「ガラッシア」着用時、下半身が正常に表示されない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
