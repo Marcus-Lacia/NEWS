@@ -35,7 +35,10 @@
         
         <div id="important-column-699" class="weighty-column">
 
-            2021/04/12 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/04/12 14:05                            
+                <span class="red bold">
+                                            (04/12 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -117,7 +120,14 @@
         </div>
     </div>
     <div>
-        なお、Ver.1.41.0の配信に伴い、<span class="bold red">4/13（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        <s>なお、Ver.1.41.0の配信に伴い、<span class="bold red">4/13（火）14:00頃を目途に強制アップデートを実施</span>いたします。</s><br>
+    </div>
+    <div>
+        ※22:05 訂正<br>
+        不具合修正のため、<span class="bold red">強制アップデートの実施時刻を<br>
+        4/12（月）22:15 頃に変更させていただきます。</span><br>
+    </div>
+    <div>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
