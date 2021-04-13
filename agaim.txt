@@ -277,7 +277,7 @@
         <div id="important-column-698" class="weighty-column">
 
             2021/04/08 22:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/12 補填済)
                                     </span>
             
