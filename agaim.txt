@@ -35,8 +35,7 @@
         
         <div id="important-column-701" class="weighty-column">
 
-            2021/04/12 22:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/04/12 22:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               本日のデータ更新内容について            </div>
@@ -130,8 +129,7 @@
         
         <div id="important-column-700" class="weighty-column">
 
-            2021/04/12 22:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/04/12 22:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.41.0アプリより、イベント「メガミデバイスコラボ 相河 愛花【仁愛】予約任務」のクリア状況がリセットされている            </div>
