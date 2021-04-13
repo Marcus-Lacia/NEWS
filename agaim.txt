@@ -174,7 +174,7 @@
         <div id="important-column-699" class="weighty-column">
 
             2021/04/12 14:05                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/12 更新)
                                     </span>
             
