@@ -201,13 +201,13 @@
             ▶トレーニングモード「習熟訓練」を実装しました。
         </div>
         <div class="center show_only_Android">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1079">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1080">
         </div>
         <div class="center show_only_iOS">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1079">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1080">
         </div>
         <div class="center show_only_DMM">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1079">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1080">
         </div>
         <div class="list red">
             ※詳細は<a href="/news/show/id/416?returnUrl=back"><u><span class="bold">こちら</span></u></a>をご確認ください。
@@ -303,7 +303,7 @@
         
         <hr>
         <div class="bg_white news-box">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1079">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1080">
         </div>
         <div>
             通常、新たなショット動作を製作する際は、主に背面カメラ（通常のバトル操作と同じ）状態で検証を重ねるため、「王 紅花」用の特殊な爆発エフェクトがリロード動作のイメージに合ったエフェクトに見えてしまい、かつ多角度からのチェックが不十分だったため、誤設定のままリリースされてしまいました。
@@ -1183,7 +1183,7 @@
                     ※ストーリー進行に応じて開放される一部機能のチュートリアルがスキップされる場合があります。
                 </p>
                 <div class="center">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1079">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_01.jpg?v=1080">
                 </div>
                 <p class="list red">
                     ※対象の編を既にクリア、もしくはスキップした場合には表示されません。
@@ -1195,7 +1195,7 @@
                     ※ストーリー画面から、対象の編の簡易あらすじを閲覧できる機能となります。
                 </p>
                 <div class="center">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1079">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2021/210318/info_02.jpg?v=1080">
                 </div>
                 <p class="list red">
                     ※対象の編をクリア、もしくはスキップしていない場合は利用できません。
@@ -1281,13 +1281,13 @@
                 <div class="list">
                     ▶リタ・Hの専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210312/bnr_l00_inf_303_12.jpg?v=1079">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210312/bnr_l00_inf_303_12.jpg?v=1080">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     リタ【巧匠】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/405?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_046_70/bnr_header.jpg?v=1079">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_046_70/bnr_header.jpg?v=1080">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
