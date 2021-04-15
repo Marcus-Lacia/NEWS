@@ -33,6 +33,103 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-702" class="weighty-column">
+
+            2021/04/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-702" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年04月15日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶イベント「特殊宙域作戦 Op.フォーシシア」の難度VERYHARDに登場する一部大型ヴァイスの能力が、開発意図よりも低く設定されていた不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ヴァイス】</p>
+            <div>
+                ・ブレイズウィッチア<br>
+                ・エレクウィッチア<br>
+                ・グラヴィウィッチア
+            </div>
+        </div>
+        <p class="list red">
+            ※本修正に伴い、対象大型ヴァイスの一部挙動を変更しております。
+        </p>
+        <div class="list">
+            ▶バージニア・G専用の一部「許可証」や「Aギアシェル」の、説明文の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶宮南 ひかりが下記アクセサリーを着用時、前髪がアクセサリーにめり込んでしまう問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクセサリー】</p>
+            <div>
+                ・不織布マスク<br>
+                ・ピレータ<br>
+                ・B-013T
+            </div>
+        </div>
+        <div class="list">
+            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                <span class="bold">籠目 深沙希</span><br>
+                ・アリアドネー
+            </div>
+            <div>
+                <span class="bold">村尾 未羅</span><br>
+                ・桃学の制服<br>
+                ・スケアクロウ
+            </div>
+            <div>
+                <span class="bold">君影 唯</span><br>
+                ・カプリース
+            </div>
+            <div>
+                <span class="bold">須賀 乙莉</span><br>
+                ・桃学の制服
+            </div>
+            <div>
+                <span class="bold">二階堂 司</span><br>
+                ・パンツスーツ
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-701" class="weighty-column">
 
             2021/04/12 22:30            
@@ -1295,126 +1392,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-682" class="weighty-column">
-
-            2021/03/12 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-682" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年03月12日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶セルケトの一部挙動を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【調整内容】</p>
-            <p class="list">・エリア外へ出ないように調整。</p>
-            <p class="list">・行動変化時の無敵時間を短縮。</p>
-            <p class="list">・回転攻撃を受けたキャラクターの<br>吹き飛び方向を調整。</p>
-        </div>
-        <div class="list">
-            ▶セルケト特異型の一部挙動を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【調整内容】</p>
-            <p class="list">・エリア外へ出ないように調整。</p>
-            <p class="list">・行動変化時の無敵時間を短縮。</p>
-            <p class="list">・回転攻撃を受けたキャラクターの<br>吹き飛び方向を調整。</p>
-            <p class="list">・特定行動の後に硬直時間を追加。</p>
-            <p class="list">・一部レーザー攻撃時の旋回速度を低下。</p>
-        </div>
-        <div class="list">
-            ▶セルケト特異型の棘尾を特定タイミングで破壊した場合、その後の回転攻撃の挙動とエフェクトがずれてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶激動編3章の一部へクスにて、出撃前画面に特定ボスのアイコンが表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶宮南 ひかりのSPスキル「クリエイション」発動時、効果音が正常に再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ti2のSPスキル「ニアバーストビーム」の発動演出中、攻撃エフェクトの一部が敵のいない方向に表示されてしまう不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、攻撃は正しく行われていることを確認しております。
-        </p>
-        <div class="list">
-            ▶Ti2【イア・レトナ】のSPスキル「コンプレッション・ニア」の発動演出中、一瞬だけ、不自然なエフェクトが表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ギア装備中の須賀 乙莉がコスチューム「ガラッシア」着用時、下半身が正常に表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶宮南 ひかりがコスチューム「カラクルール」着用中、特定ポーズをとった際に特定部位の見た目に違和感がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶籠目 深沙希がコスチューム「クリプトグラフ」着用中、アクセサリー等が揺れなくなる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                <span class="bold">一条 綾香</span><br>
-                ・アマ女中等部の制服<br>
-                ・ピンクスピネル<br>
-                ・スタープロムナード<br>
-                ・アマ女中等部夏服<br>
-                ・タピアン
-            </div>
-            <div>
-                <span class="bold">相河 愛花</span><br>
-                ・スタープロムナード<br>
-                ・テネラ
-            </div>
-            <div>
-                <span class="bold">小芦 睦海</span><br>
-                ・八八式戦闘服<br>
-                ・スタープロムナード<br>
-                ・リギダ
-            </div>
-            <div>
-                <span class="bold">藤野 やよい</span><br>
-                ・パンツスーツ
-            </div>
-        </div>
-        <div class="list">
-            ▶任務中、アクセサリー「NC-B101」の中央に白い線が表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
