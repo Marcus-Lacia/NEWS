@@ -33,6 +33,59 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-694" class="weighty-column">
+
+            2021/04/02 16:00                            
+                <span class="red bold">
+                                            (04/15 実施済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_announce.png" class="icn-category">
+              プライバシーポリシーの改定について            </div>
+
+        </div>
+        <div id="important-text-694" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年04月15日 16:00 追記<br>
+        事前の告知内容に基づき、プライバシーポリシーの改定を実施いたしましたので、ご報告申し上げます。
+    </div>
+        
+    
+    <hr class="red">
+
+    <div>
+        ■2021年04月02日 16:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        プライバシーポリシーの改定を2021年4月15日に予定しておりますので、以下のとおりお知らせいたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【プライバシーポリシー変更点】</p>
+        
+        <div class="list">
+            ▶「6. 情報の提供」の規定を改定。
+        </div>
+        
+        <p class="list red">※<span class="bold browser" data-url="https://colopl.co.jp/app/privacypolicy/alicegearaegis/ja_rev2021_04.html"><u>改定後のプライバシーポリシー</u></span>はこちらより確認できます。</p>
+    </div>
+    
+    <div>
+        プライバシーポリシー変更に伴い、改定実施後の初回起動時に、利用規約の確認画面が表示されます。<br>
+        お手数をおかけいたしますが、何卒、ご理解とご協力のほど、よろしくお願い申し上げます。<br>
+        <p class="list red">
+            ※上記プライバシーポリシー以外の規約変更はございません。
+        </p>
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-702" class="weighty-column">
 
             2021/04/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -681,47 +734,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-694" class="weighty-column">
-
-            2021/04/02 16:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_announce.png" class="icn-category">
-              プライバシーポリシーの改定について            </div>
-
-        </div>
-        <div id="important-text-694" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年04月02日 16:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        プライバシーポリシーの改定を2021年4月15日に予定しておりますので、以下のとおりお知らせいたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【プライバシーポリシー変更点】</p>
-        
-        <div class="list">
-            ▶「6. 情報の提供」の規定を改定。
-        </div>
-        
-        <p class="list red">※<span class="bold browser" data-url="https://colopl.co.jp/app/privacypolicy/alicegearaegis/ja_rev2021_04.html"><u>改定後のプライバシーポリシー</u></span>はこちらより確認できます。</p>
-    </div>
-    
-    <div>
-        プライバシーポリシー変更に伴い、改定実施後の初回起動時に、利用規約の確認画面が表示されます。<br>
-        お手数をおかけいたしますが、何卒、ご理解とご協力のほど、よろしくお願い申し上げます。<br>
-        <p class="list red">
-            ※上記プライバシーポリシー以外の規約変更はございません。
-        </p>
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
