@@ -135,7 +135,7 @@
         <div id="important-column-694" class="weighty-column">
 
             2021/04/02 16:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/15 実施済)
                                     </span>
             
