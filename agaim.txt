@@ -33,6 +33,185 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-701" class="weighty-column">
+
+            2021/04/12 22:30                            
+                <span class="red bold">
+                                            (04/22 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-701" class="weighty-notice hide">
+           
+<div>
+    
+        <div>
+            ■2021年04月22日 16:10 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            ③の不具合につきまして、対象となるお客様への補填対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">補填対応①</p>
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                4/8（木）15:00 ～<br>
+                4/12（月）16:45 までに<br>
+                対象許可証でギアチューンを行ったお客様
+            </div>
+            <div>
+                <p class="bold">【対象許可証】</p>
+                <div class="paragraph">
+                    <div>
+                        <span class="bold">バージニア・G</span><br>
+                        ・特A級/VGs射01（最大作業精度3）<br>
+                        ・特A級/VGs射01（最大作業精度5）<br>
+                        ・特A級/VGs上01（最大作業精度3）<br>
+                        ・特A級/VGs上01（最大作業精度5）
+                    </div>
+                    <span class="bold">四谷 ゆみ</span><br>
+                    ・特A級/YYs射01（最大作業精度3）<br>
+                    ・特A級/YYs射01（最大作業精度5）<br>
+                    ・特A級/YYs下01（最大作業精度3）<br>
+                    ・特A級/YYs下01（最大作業精度5）
+                </div>
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    不具合期間中に消費した「対象許可証」及び、<br>
+                    消費したギア進化素材に相当する<br>
+                    「作業メモ」を返還いたします。
+                </div>
+            </div>
+            <div>
+                <p class="bold">【受取期限】</p>
+                <div class="paragraph">
+                    7/20（火）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">補填対応②</p>
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    4/12（月）22:28 までに<br>
+                    アカウントを作成しているお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    ・特A級/VGs射01（最大作業精度5）×3<br>
+                    ・特A級/VGs上01（最大作業精度5）×3<br>
+                    ・特A級/YYs射01（最大作業精度5）×3<br>
+                    ・特A級/YYs下01（最大作業精度5）×3
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    5/6（木）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+    
+    
+    <div>
+        ■2021年04月12日 22:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ①Ver.1.41.0アプリより、ギアオクの「K.I.S.S.対応ギア一覧」に、未実装ギアのアイコンが表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ②Ver.1.41.0アプリより、兼志谷 シタラの下記アナザーギアをギアチューンすると、低確率で開発用のダミーデータが付与される不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・「GカルバチョートA/T」シリーズ<br>
+	            ・「GカルバチョートA/B」シリーズ
+            </div>
+        </div>
+        <div class="list red">
+            ※不具合修正に伴い、ダミーデータが付与されてしまったギアに関しては、本来付与されるはずだったチューンスキル「PA変換効率KSs」及び「射撃形態変更KSs」を付与しております。
+        </div>
+        <div class="list">
+            ③バージニア・G、及び四谷 ゆみ専用の下記許可証にて、メインマージンの抽選率が開発意図と異なる数値になっていた不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象許可証】</p>
+            <div>
+                <span class="bold">バージニア・G</span><br>
+                ・特A級/VGs射01（最大作業精度3）<br>
+                ・特A級/VGs射01（最大作業精度5）<br>
+                ・特A級/VGs上01（最大作業精度3）<br>
+                ・特A級/VGs上01（最大作業精度5）
+            </div>
+            <div>
+                <span class="bold">四谷 ゆみ</span><br>
+                ・特A級/YYs射01（最大作業精度3）<br>
+                ・特A級/YYs射01（最大作業精度5）<br>
+                ・特A級/YYs下01（最大作業精度3）<br>
+                ・特A級/YYs下01（最大作業精度5）
+            </div>
+        </div>
+    </div>
+    <div>
+        ③の不具合につきましては、後日対象となるお客様への補填対応を検討しております。<br>
+        対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+    </div>
+    <div>
+        また、データ更新発生に加え、一時的に「ギアチューン」がご利用できなかったお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                4/12（月）22:30 までに<br>
+                アカウントを作成していたお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 100
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                4/26（月）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけいたしましたこと、深くお詫び申し上げます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-700" class="weighty-column">
 
             2021/04/12 22:30                            
@@ -274,100 +453,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-701" class="weighty-column">
-
-            2021/04/12 22:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-701" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年04月12日 22:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ①Ver.1.41.0アプリより、ギアオクの「K.I.S.S.対応ギア一覧」に、未実装ギアのアイコンが表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ②Ver.1.41.0アプリより、兼志谷 シタラの下記アナザーギアをギアチューンすると、低確率で開発用のダミーデータが付与される不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・「GカルバチョートA/T」シリーズ<br>
-	            ・「GカルバチョートA/B」シリーズ
-            </div>
-        </div>
-        <div class="list red">
-            ※不具合修正に伴い、ダミーデータが付与されてしまったギアに関しては、本来付与されるはずだったチューンスキル「PA変換効率KSs」及び「射撃形態変更KSs」を付与しております。
-        </div>
-        <div class="list">
-            ③バージニア・G、及び四谷 ゆみ専用の下記許可証にて、メインマージンの抽選率が開発意図と異なる数値になっていた不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象許可証】</p>
-            <div>
-                <span class="bold">バージニア・G</span><br>
-                ・特A級/VGs射01（最大作業精度3）<br>
-                ・特A級/VGs射01（最大作業精度5）<br>
-                ・特A級/VGs上01（最大作業精度3）<br>
-                ・特A級/VGs上01（最大作業精度5）
-            </div>
-            <div>
-                <span class="bold">四谷 ゆみ</span><br>
-                ・特A級/YYs射01（最大作業精度3）<br>
-                ・特A級/YYs射01（最大作業精度5）<br>
-                ・特A級/YYs下01（最大作業精度3）<br>
-                ・特A級/YYs下01（最大作業精度5）
-            </div>
-        </div>
-    </div>
-    <div>
-        ③の不具合につきましては、後日対象となるお客様への補填対応を検討しております。<br>
-        対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
-    </div>
-    <div>
-        また、データ更新発生に加え、一時的に「ギアチューン」がご利用できなかったお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                4/12（月）22:30 までに<br>
-                アカウントを作成していたお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                4/26（月）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけいたしましたこと、深くお詫び申し上げます。
     </div>
     
     <div>
