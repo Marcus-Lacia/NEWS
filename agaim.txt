@@ -33,6 +33,57 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-703" class="weighty-column">
+
+            2021/04/26 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              一部スキル効果が、発動条件を満たしていない状況で発動することがある            </div>
+
+        </div>
+        <div id="important-text-703" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年04月26日 20:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶一部のパッシブスキルやチューンスキルの「溜め撃ち時に発動する効果」が、発動条件を満たしていない状況で発動することがある。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象スキル】</p>
+                <div>
+                    <span class="bold">パッシブスキル</span><br>
+                    ・破邪走
+                </div>
+                <div>
+                    <span class="bold">チューンスキル</span><br>
+                    ・ENスナイパー防護
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-701" class="weighty-column">
 
             2021/04/12 22:30                            
@@ -1501,50 +1552,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-683" class="weighty-column">
-
-            2021/03/12 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-683" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年03月12日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶リタ・Hの専用ショットギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210312/bnr_l00_inf_303_12.jpg?v=1095">
-                <div class="list red">
-                    ※進化分岐ギアの特殊な動作について、<br>
-                    リタ【巧匠】の詳細ページにて説明しております。
-                </div>
-                <a href="/news/show/id/405?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_046_70/bnr_header.jpg?v=1095">
-                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-                </a>
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
