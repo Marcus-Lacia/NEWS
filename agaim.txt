@@ -96,8 +96,7 @@
         
         <div id="important-column-703" class="weighty-column">
 
-            2021/04/26 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/04/26 20:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部スキル効果が、発動条件を満たしていない状況で発動することがある            </div>
