@@ -33,6 +33,67 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-704" class="weighty-column">
+
+            2021/04/27 14:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.41.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-704" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年04月27日 14:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.41.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.41.1の更新内容】</p>
+        
+        <div class="list">
+            ▶任務中、一時停止した際に、現在再生されているBGMの曲名を表示する機能を追加しました。
+        </div>
+        <div class="list">
+            ▶一部任務に出現するエルフラが、攻撃を行わないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「特殊宙域作戦 Op.フォーシシア」の難度NORMAL及びHARDにて、へクス「忍び寄るもの」に出現するタキプリを撃破しなくてもクリアできてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶躍進編7章の任務「討伐任務:3件目」にて、サポーターとして登場するキャラクターが攻撃を行わない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定タイミングで一時停止画面から「やり直す」を選択し、サポーターを呼び出すと進行不能になる場合がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶3D MODEL画面にて、バージニア・Gが各種アナザーギア装備中かつ、コスチューム「レスト」を着用し特定ポーズをとった際に、スカートの一部に干渉してしまう問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.41.1の配信に伴い、<span class="bold red">4/28（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-703" class="weighty-column">
 
             2021/04/26 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1506,52 +1567,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-684" class="weighty-column">
-
-            2021/03/15 19:45                            
-                <span class="bold">
-                                            (03/15 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              定期要撃任務スケジュールの一部が正常に表示されていない            </div>
-
-        </div>
-        <div id="important-text-684" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年03月15日 19:45<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        以下の不具合が発生しておりましたが、先程修正が完了いたしましたのでご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶定期要撃任務スケジュールの一部が正常に表示されていない。
-        </div>
-        <p class="bold">【発生期間】</p>
-        
-        <div class="list">
-            3/15（月）0:00 ～ 19:45 頃まで
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
