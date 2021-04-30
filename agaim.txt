@@ -33,6 +33,71 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-707" class="weighty-column">
+
+            2021/04/30 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-707" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年04月30日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶ギフトークン交換所に、兼志谷 シタラ専用のアナザーギアを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ギア】</p>
+                <div>
+                    ・「アンクーシャA」シリーズ<br>
+                    ・「マホーダラA」シリーズ<br>
+                    ・「ガネーシャA/T」シリーズ<br>
+                    ・「ガネーシャA/B」シリーズ
+                </div>
+            </div>
+            <div class="list red">
+                ※「Aギアシェル」の解析や「ギアオク」などでは入手できません。
+            </div>
+            <div class="list red">
+                ※上記アナザーギアのギアチューン時に、「GカルバチョートA/T」及び「GカルバチョートA/B」シリーズ専用の「特A級許可証」は使用できません。
+            </div>
+            <div class="list">
+                ▶ギフトークン交換所に、「ガネーシャA/T」及び「ガネーシャA/B」シリーズ専用の許可証を追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象許可証】</p>
+                <div>
+                    ・特注許可証/KSs上GN<br>
+                    ・特注許可証/KSs下GN
+                </div>
+            </div>
+            <div class="list red">
+                ※「ギアオク」では入手できません。
+            </div>
+            <div class="list red">
+                ※上記許可証を使用してギアチューンすると、メインマージンには★3のK.I.S.S.、サブマージンには★3の各種チューンスキルが確定で付与されます。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-706" class="weighty-column">
 
             2021/04/29 16:00                            
@@ -1473,61 +1538,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-686" class="weighty-column">
-
-            2021/03/18 14:00                            
-                <span class="bold">
-                                            (03/18 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-686" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年03月18日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <p class="list red">※19:00 追記</p>
-        <div class="list">
-            ▶蛙坂 来弥のホーム小物を変更しました。
-        </div>
-        <div class="list">
-            ▶激動編3章にて、クリア後の再プレイに対応していなかった一部のバトルへクスを、再プレイ可能にしました。
-        </div>
-        <div class="list">
-            ▶ファティマ・Bがアクセサリー「グリュプス」着用中、特定状況において眉毛の表示に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
