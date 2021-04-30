@@ -33,6 +33,50 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-708" class="weighty-column">
+
+            2021/04/30 23:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ミニゲーム「DEPTH SEARCHER」が起動できないことがある            </div>
+
+        </div>
+        <div id="important-text-708" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年04月30日 23:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶ミニゲーム「DEPTH SEARCHER」が起動できないことがある。
+            </div>
+            <div class="list red">
+                ※本現象は23:00頃より発生を確認しております。
+            </div>
+
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-707" class="weighty-column">
 
             2021/04/30 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1475,69 +1519,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-688" class="weighty-column">
-
-            2021/03/18 20:15                            
-                <span class="bold">
-                                            (03/23 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              リタ・HのSPスキル「Knヘクセパンツァー」に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-688" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年03月23日 14:40 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-
-        <div>
-            ■2021年03月18日 20:15<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶リタ・HのSPスキル「Knヘクセパンツァー」のフィニッシュムーブのうち、ミサイル攻撃が、リムルインバスの防護障壁（カウンターバリア）に反射されてしまう。
-            </div>
-            <p class="list red">
-                ※当該の攻撃は、リムルインバスの防護障壁（カウンターバリア）に反射されないのが、正しい挙動となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
