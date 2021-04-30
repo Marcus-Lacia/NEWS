@@ -35,7 +35,10 @@
         
         <div id="important-column-706" class="weighty-column">
 
-            2021/04/29 16:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/04/29 16:00                            
+                <span class="red bold">
+                                            (04/30 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +48,23 @@
         <div id="important-text-706" class="weighty-notice hide">
            
     <div>
+        
+        <div>
+            ■2021年04月30日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
         
         <div>
             ■2021年04月29日 16:00<br>
