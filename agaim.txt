@@ -33,6 +33,50 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-709" class="weighty-column">
+
+            2021/05/06 01:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              伊戸倉音緒のバースデーミッションが開放されている            </div>
+
+        </div>
+        <div id="important-text-709" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月06日 01:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                伊戸倉音緒のバースデーミッションが開放されている。
+            </div>
+            <div class="list red">
+                ※伊戸倉音緒の誕生日は6月6日が正しい日付となります。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。<br>
+            <br>
+            なお、既にミッションをクリアされているお客様に対する、対象アイテムの回収は予定しておりません。<br>
+            <br>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-708" class="weighty-column">
 
             2021/04/30 23:40                            
@@ -1490,42 +1534,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-689" class="weighty-column">
-
-            2021/03/19 14:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.40.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-689" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年03月19日 14:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.40.1のアプリにて、以下の調整を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.40.1の更新内容】</p>
-        
-        <div class="list">
-            ▶任務中の動作安定性改善を行いました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.40.1の配信に伴い、<span class="bold red">3/22（月）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
