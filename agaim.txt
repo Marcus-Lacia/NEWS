@@ -962,13 +962,13 @@
             ▶トレーニングモード「習熟訓練」を実装しました。
         </div>
         <div class="center show_only_Android">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1114">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1115">
         </div>
         <div class="center show_only_iOS">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1114">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1115">
         </div>
         <div class="center show_only_DMM">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1114">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1115">
         </div>
         <div class="list red">
             ※詳細は<a href="/news/show/id/416?returnUrl=back"><u><span class="bold">こちら</span></u></a>をご確認ください。
@@ -1064,7 +1064,7 @@
         
         <hr>
         <div class="bg_white news-box">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1114">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1115">
         </div>
         <div>
             通常、新たなショット動作を製作する際は、主に背面カメラ（通常のバトル操作と同じ）状態で検証を重ねるため、「王 紅花」用の特殊な爆発エフェクトがリロード動作のイメージに合ったエフェクトに見えてしまい、かつ多角度からのチェックが不十分だったため、誤設定のままリリースされてしまいました。
