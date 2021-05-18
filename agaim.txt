@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-713" class="weighty-column">
+
+            2021/05/18 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-713" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月18日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div>
+                <div class="list">
+                    ▶御茶ノ水 美里江の専用クロスギアに進化分岐を追加しました。
+                </div>
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1118">
+                <div class="list red">
+                    ※進化分岐ギアの特殊な動作について、<br>
+                    御茶ノ水 美里江【無辜】の詳細ページにて説明しております。
+                </div>
+                <a href="/news/show/id/426?returnUrl=back">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1118">
+                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+                </a>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-712" class="weighty-column">
 
             2021/05/18 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1622,73 +1667,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-692" class="weighty-column">
-
-            2021/03/25 12:00                            
-                <span class="bold">
-                                            (03/30 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              日向 リン専用ボトムスギアのギアスキルについて            </div>
-
-        </div>
-        <div id="important-text-692" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年03月30日 14:05 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer1.40.2アプリにて、対象ギアスキルのロックオン数を「最大6体」に修正いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年03月25日 12:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.34.0アプリ以降、日向 リン専用ボトムスギアの、ギアスキルの最大ロックオン数が減少している。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギアスキル】</p>
-                <div>
-                    ・ヒートプラズマボム<br>
-                    ・フレアプラズマボム
-                </div>
-            </div>
-            Ver.1.34.0アプリ以前は「最大6体」となっておりましたが、当該アプリにて実施した一部不具合の修正に伴い、ロックオン数が「最大2体」へと意図せず減少していたことを確認しております。<br>
-            <br>
-            本件につきまして、近日のアップデートにてロックオン数を「最大6体」に修正予定となります。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
