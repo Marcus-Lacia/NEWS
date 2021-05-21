@@ -33,6 +33,80 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-715" class="weighty-column">
+
+            2021/05/21 22:40                            
+                <span class="red bold">
+                                            (05/21 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              ゲーム内お知らせの一部画像に開発中のゲーム画面が掲載されていた件について            </div>
+
+        </div>
+        <div id="important-text-715" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月21日 22:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            既に対象のページにてご報告させていただいておりますが、ゲーム内お知らせの一部画像に、開発中のゲーム画面が誤って掲載されておりました、誠に申し訳ありません。
+        </div>
+        <div>
+            また、御茶ノ水 美里江【無辜】のSPスキル「バステリオンγ」の仕様につきまして、改めて補足説明をさせていただきます。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            
+            <div>
+                <span class="bold">■トップススキル</span><br>
+                トップスのアクティブスキルを使用すると、敵に向かってピジョンを展開し射撃攻撃を行います。<br>
+                SPスキル効果時間中の使用可能数は1回までとなります。
+            </div>
+            <div>
+                <span class="bold">■ボトムススキル</span><br>
+                敵の一部攻撃を打ち消す衝撃波を放ち、敵にダメージを与えます。<br>
+                SPスキル効果時間中の使用可能数は4回までとなります。
+            </div>
+            <div>
+                なお、どちらの特殊スキルも「御茶ノ水 美里江」の上限解放回数によって、増加する場合があります。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1127">
+        </div>
+        <div>
+            なお、本件についてのお詫びとして下記の補填を実施致しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    全てのお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 300
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    6/4（金） 23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-713" class="weighty-column">
 
             2021/05/18 15:00            
@@ -60,13 +134,13 @@
                 <div class="list">
                     ▶御茶ノ水 美里江の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1126">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1127">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     御茶ノ水 美里江【無辜】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/426?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1126">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1127">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1213,13 +1287,13 @@
             ▶トレーニングモード「習熟訓練」を実装しました。
         </div>
         <div class="center show_only_Android">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1126">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1127">
         </div>
         <div class="center show_only_iOS">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1126">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1127">
         </div>
         <div class="center show_only_DMM">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1126">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1127">
         </div>
         <div class="list red">
             ※詳細は<a href="/news/show/id/416?returnUrl=back"><u><span class="bold">こちら</span></u></a>をご確認ください。
@@ -1315,7 +1389,7 @@
         
         <hr>
         <div class="bg_white news-box">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1126">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1127">
         </div>
         <div>
             通常、新たなショット動作を製作する際は、主に背面カメラ（通常のバトル操作と同じ）状態で検証を重ねるため、「王 紅花」用の特殊な爆発エフェクトがリロード動作のイメージに合ったエフェクトに見えてしまい、かつ多角度からのチェックが不十分だったため、誤設定のままリリースされてしまいました。
@@ -1596,69 +1670,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-693" class="weighty-column">
-
-            2021/03/30 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.40.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-693" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年03月30日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.40.2のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.40.2の更新内容】</p>
-        
-        <div class="list">
-            ▶ミニゲーム「成子坂ホームランダービー」にて、ボールを打った直後に表示される飛距離が小数点1位まで表示されるよう調整しました。
-        </div>
-        <div class="list">
-            ▶ミニゲーム「成子坂ホームランダービー」にて、結果画面に表示される最大飛距離が、ボールを打った直後に表示された飛距離と異なることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ミニゲーム「成子坂ホームランダービー」にて、特定タイミングで「SKIP」を選択すると、効果音が鳴り止まなくなる不具合を修正しました。
-        </div>        
-        <div class="list show_only_DMM">
-            ▶特定操作を行うと、任務中にキーボードによる移動操作が行えなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶日向 リン専用ボトムスギアの、ギアスキルの最大ロックオン数が減少していた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶山野 薫子の絆エピソードEp.3～5にて、山野 薫子の前髪の見た目に違和感がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶モバイル広告の計測プラットフォームを更新しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.40.2の配信に伴い、<span class="bold red">3/31（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
