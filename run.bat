@@ -25,3 +25,4 @@ git commit -m "公告更新"
 git push -u origin main
 
 
+pause
