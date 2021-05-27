@@ -33,6 +33,110 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-717" class="weighty-column">
+
+            2021/05/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-717" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年05月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list show_only_Android">
+            ▶受取箱に受け取り期限または有効期限が近いアイテムがある際に、プッシュ通知でお知らせする機能を追加しました。
+        </div>
+        <p class="list show_only_Android">
+            ※対象アイテムが受取箱にある際に、毎朝9時～10時頃にプッシュ通知が配信されます。
+        </p>
+        <div class="list show_only_iOS">
+            ▶受取箱に受け取り期限または有効期限が近いアイテムがある際に、プッシュ通知でお知らせする機能を追加しました。
+        </div>
+        <p class="list show_only_iOS">
+            ※対象アイテムが受取箱にある際に、毎朝9時～10時頃にプッシュ通知が配信されます。
+        </p>
+        <div class="list">
+            ▶御茶ノ水 美里江がSPスキル「バステリオンγ」効果中にアクティブスキルを使用した際、不自然なポーズとなっていたため調整しました。
+        </div>
+        <div class="list">
+            ▶イベント「Quiz 星の流れとともに」のクイズミニゲーム中、出題される一部問題の答えが誤っていた不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【問題内容】</p>
+            <div>
+                同じ量の砂糖を<br>
+                水と熱湯に溶かした時<br>
+                どちらが早く溶ける？
+            </div>
+        </div>
+        <div class="list">
+            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                <span class="bold">ファティマ・B</span><br>
+                ・桃学の制服<br>
+                ・アールマティ
+            </div>
+            <div>
+                <span class="bold">シャーリー・Ｏ</span><br>
+                ・パンツスーツ<br>
+                ・ロデオコースト
+            </div>
+            <div>
+                <span class="bold">伊戸倉 音緒</span><br>
+                ・スカートスーツ
+            </div>
+            <div>
+                <span class="bold">サンティ・R</span><br>
+                ・ソブリンズガード<br>
+                ・RGRスーツ<br>
+                ・スタープロムナード<br>
+                ・サマーガーディアン
+            </div>
+            <div>
+                <span class="bold">大関 小結</span><br>
+                ・スカートスーツ<br>
+                ・ファルファーレ
+            </div>
+            <div>
+                <span class="bold">王 紅花</span><br>
+                ・パンツスーツ/紅龍苑
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-716" class="weighty-column">
 
             2021/05/26 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1615,82 +1719,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-697" class="weighty-column">
-
-            2021/04/08 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-697" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年04月08日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記アクトレス専用のアナザーギアを実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    <div>
-                        <span class="bold">バージニア・G</span><br>
-                        ・「PG417A」シリーズ<br>
-                        ・「ヴォルパーティンガー9A」シリーズ<br>
-                        ・「US-AG1A/T」シリーズ<br>
-                        ・「US-AG1A/B」シリーズ
-                        <p class="list red">
-                            ※「ヴォルパーティンガー9A」シリーズは<br>
-                            「拳銃」タイプのクロスギアとなります。
-                        </p>
-                	</div>
-                    <div>
-                        <span class="bold">四谷 ゆみ</span><br>
-                        ・「グリッツグルースA」シリーズ<br>
-                        ・「ダスククレインA」シリーズ<br>
-                        ・「グレイスクレインA/T」シリーズ<br>
-                        ・「グレイスクレインA/B」シリーズ
-                	</div>
-                </div>
-            </div>
-            <div class="list">
-                ▶ギアオクのWishで下記アクトレスが選択できるようになりました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象アクトレス】</p>
-                <div>
-                    ・バージニア・G<br>
-                    ・四谷 ゆみ
-                </div>
-            </div>
-            <div class="list">
-                ▶下記アクトレスに「アナザーギア体験エピソード」を追加しました。
-            </div>
-            <p class="list red">※各エピソードは対象アクトレスが加入している場合に、「キャラエピソード画面」から再生できます。</p>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象アクトレス】</p>
-                <div>
-                    ・バージニア【MOBIUS】<br>
-                    ・四谷 ゆみ【絢爛】
-                </div>
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
