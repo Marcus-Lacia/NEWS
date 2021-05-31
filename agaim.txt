@@ -33,6 +33,89 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-720" class="weighty-column">
+
+            2021/05/31 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宇佐元 杏奈のアナザートップスギアにて、特定チューンスキル付与時にトップススキルの使用回数が増加しない            </div>
+
+        </div>
+        <div id="important-text-720" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月31日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、宇佐元 杏奈のアナザートップスギアにて、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定のチューンスキルにより使用可能になる「イースターバニーR」が、パッシブスキル「リペアラー追加/T」による、使用回数の増加効果を受けない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-719" class="weighty-column">
+
+            2021/05/31 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              バージニア・Gのアナザーショットギアにて、特定チューンスキル付与時の効果が正しく反映されない            </div>
+
+        </div>
+        <div id="important-text-719" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月31日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、バージニア・Gのアナザーショットギアにて、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶チューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない。
+            </div>
+            <div class="list red">
+                ※「射撃強化状態」中は、溜め撃ちの弾数が「4」から「6」に増加するのが正しい挙動となります。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-718" class="weighty-column">
 
             2021/05/31 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1470,205 +1553,6 @@
             ※上記プライバシーポリシー以外の規約変更はございません。
         </p>
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-702" class="weighty-column">
-
-            2021/04/15 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-702" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年04月15日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「特殊宙域作戦 Op.フォーシシア」の難度VERYHARDに登場する一部大型ヴァイスの能力が、開発意図よりも低く設定されていた不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・ブレイズウィッチア<br>
-                ・エレクウィッチア<br>
-                ・グラヴィウィッチア
-            </div>
-        </div>
-        <p class="list red">
-            ※本修正に伴い、対象大型ヴァイスの一部挙動を変更しております。
-        </p>
-        <div class="list">
-            ▶バージニア・G専用の一部「許可証」や「Aギアシェル」の、説明文の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶宮南 ひかりが下記アクセサリーを着用時、前髪がアクセサリーにめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクセサリー】</p>
-            <div>
-                ・不織布マスク<br>
-                ・ピレータ<br>
-                ・B-013T
-            </div>
-        </div>
-        <div class="list">
-            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                <span class="bold">籠目 深沙希</span><br>
-                ・アリアドネー
-            </div>
-            <div>
-                <span class="bold">村尾 未羅</span><br>
-                ・桃学の制服<br>
-                ・スケアクロウ
-            </div>
-            <div>
-                <span class="bold">君影 唯</span><br>
-                ・カプリース
-            </div>
-            <div>
-                <span class="bold">須賀 乙莉</span><br>
-                ・桃学の制服
-            </div>
-            <div>
-                <span class="bold">二階堂 司</span><br>
-                ・パンツスーツ
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-699" class="weighty-column">
-
-            2021/04/12 14:05                            
-                <span class="bold">
-                                            (04/12 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.41.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-699" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年04月12日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.41.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.41.0の更新内容】</p>
-        
-        <div class="list">
-            ▶トレーニングモード「習熟訓練」を実装しました。
-        </div>
-        <div class="center show_only_Android">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1141">
-        </div>
-        <div class="center show_only_iOS">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1141">
-        </div>
-        <div class="center show_only_DMM">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1141">
-        </div>
-        <div class="list red">
-            ※詳細は<a href="/news/show/id/416?returnUrl=back"><u><span class="bold">こちら</span></u></a>をご確認ください。
-        </div>
-        <div class="list">
-            ▶アクセサリー「フェイスベール」に半透明表現を追加しました。
-        </div>
-        <div class="list red">
-            ※半透明表現はバトル中の一部状況では無効となります。
-        </div>
-        <div class="list">
-            ▶各種交換所で、ゴールドやアニマの交換数を指定する際、所持上限数を越えた数を指定できないよう調整しました。
-        </div>
-        <div class="list">
-            ▶侵蝕編3章で登場する一部の任務中背景を微調整しました。
-        </div>
-        <div class="list">
-            ▶一部エリアで「あきらめる」や「やり直す」を選んだ際に、画面が暗転している時間が長くなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gのアナザーショットギア使用中、特定状況にて開発意図と異なるエフェクトが表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶比良坂 夜露のアナザーショットギア使用中、特定状況にて開発意図と異なるエフェクトが表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部ショットギアにて、特定操作を行うと残弾数が正常に表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部ショットギアにて、特定状況で溜め撃ちを行うと残弾数が回復しないことがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【追加ギア】</p>
-            <div>
-                ・「ヤクモA」シリーズ<br>
-                ・「CホークANs」シリーズ<br>
-                ・「アルカーヌム」シリーズ
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        <s>なお、Ver.1.41.0の配信に伴い、<span class="bold red">4/13（火）14:00頃を目途に強制アップデートを実施</span>いたします。</s><br>
-    </div>
-    <div>
-        ※22:05 訂正<br>
-        不具合修正のため、<span class="bold red">強制アップデートの実施時刻を<br>
-        4/12（月）22:15 頃に変更させていただきます。</span><br>
-    </div>
-    <div>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
