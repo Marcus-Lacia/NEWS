@@ -33,6 +33,57 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-718" class="weighty-column">
+
+            2021/05/31 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-718" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月31日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶宇佐元 杏奈専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    ・「アレクサンドラA」シリーズ<br>
+                    ・「ブリッツクロスA」シリーズ<br>
+                    ・「シロウサギMk-IIA/T」シリーズ<br>
+                    ・「シロウサギMk-IIA/B」シリーズ
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで宇佐元 杏奈が選択できるようになりました。
+            </div>
+            <div class="list">
+                ▶宇佐元 杏奈【希求】に「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">
+                ※エピソードは宇佐元 杏奈【希求】が加入している場合に、「キャラエピソード画面」から再生できます。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-717" class="weighty-column">
 
             2021/05/27 14:00            
@@ -318,7 +369,7 @@
             <div>
                 なお、どちらの特殊スキルも「御茶ノ水 美里江」の上限解放回数によって、増加する場合があります。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1140">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1141">
         </div>
         <div>
             なお、本件についてのお詫びとして下記の補填を実施致しました。
@@ -376,13 +427,13 @@
                 <div class="list">
                     ▶御茶ノ水 美里江の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1140">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1141">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     御茶ノ水 美里江【無辜】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/426?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1140">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1141">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1550,13 +1601,13 @@
             ▶トレーニングモード「習熟訓練」を実装しました。
         </div>
         <div class="center show_only_Android">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1140">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1141">
         </div>
         <div class="center show_only_iOS">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1140">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_01.jpg?v=1141">
         </div>
         <div class="center show_only_DMM">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1140">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_02.jpg?v=1141">
         </div>
         <div class="list red">
             ※詳細は<a href="/news/show/id/416?returnUrl=back"><u><span class="bold">こちら</span></u></a>をご確認ください。
@@ -1622,105 +1673,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-698" class="weighty-column">
-
-            2021/04/08 22:10                            
-                <span class="bold">
-                                            (04/12 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              バージニア・Gのアナザーショットギア使用中、開発意図と異なるエフェクトが表示される            </div>
-
-        </div>
-        <div id="important-text-698" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年04月12日 14:05 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日より順次配信されておりますVer.1.41.0アプリにて、修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            本不具合は射撃後のリロードモーションを再生する際に、銃口から発するエフェクトの設定に誤りがあったのが発生原因となります。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210412/info_08.jpg?v=1140">
-        </div>
-        <div>
-            通常、新たなショット動作を製作する際は、主に背面カメラ（通常のバトル操作と同じ）状態で検証を重ねるため、「王 紅花」用の特殊な爆発エフェクトがリロード動作のイメージに合ったエフェクトに見えてしまい、かつ多角度からのチェックが不十分だったため、誤設定のままリリースされてしまいました。
-        </div>
-        <div>
-            バージニアや紅花ファンのお客様、並びに全てのお客様に不快な思いをさせてしまったこと深くお詫び申し上げます。
-        </div>
-        <div>
-            なお、今回、お客様にご迷惑をおかけしておりますお詫びとして、以下の補填対応を実施いたしましたので、併せてご報告申し上げます。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    4/12（月）13:59 までに<br>
-                    アカウントを作成しているお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 100
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    4/26（月）23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年04月08日 22:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、バージニア・Gのアナザーショットギアにて、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶チューンスキル「射撃形態変更VGs」が付与されている場合、特定状況にて開発意図と異なるエフェクトが表示される。
-            </div>
-            <p class="list red">
-                ※銃口からチャーハンのようなエフェクトが出てしまうのが不具合となります。
-            </p>
-            <p class="list red">
-                ※見た目上の不具合となり性能に影響はありません。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
