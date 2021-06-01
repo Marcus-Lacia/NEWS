@@ -35,8 +35,7 @@
         
         <div id="important-column-720" class="weighty-column">
 
-            2021/05/31 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/05/31 19:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               宇佐元 杏奈のアナザートップスギアにて、特定チューンスキル付与時にトップススキルの使用回数が増加しない            </div>
@@ -75,8 +74,7 @@
         
         <div id="important-column-719" class="weighty-column">
 
-            2021/05/31 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/05/31 19:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               バージニア・Gのアナザーショットギアにて、特定チューンスキル付与時の効果が正しく反映されない            </div>
