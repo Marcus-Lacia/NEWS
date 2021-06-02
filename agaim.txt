@@ -33,6 +33,109 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-721" class="weighty-column">
+
+            2021/06/02 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.42.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-721" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月02日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.42.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.42.1の更新内容】</p>
+        
+        <div class="list">
+            ▶バージニア・Gのアナザーショットギアにチューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない不具合を修正しました。
+        </div>
+        <div class="list show_only_DMM">
+            ▶特定の状況にて、一部キャラクターのエフェクトが正しく表示されないことがある不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.42.1の配信に伴い、<span class="bold red">6/3（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-719" class="weighty-column">
+
+            2021/05/31 19:45                            
+                <span class="red bold">
+                                            (06/02 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              バージニア・Gのアナザーショットギアにて、特定チューンスキル付与時の効果が正しく反映されない            </div>
+
+        </div>
+        <div id="important-text-719" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月02日 14:05 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日順次配信されましたVer1.42.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2021年05月31日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、バージニア・Gのアナザーショットギアにて、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶チューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない。
+            </div>
+            <div class="list red">
+                ※「射撃強化状態」中は、溜め撃ちの弾数が「4」から「6」に増加するのが正しい挙動となります。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-720" class="weighty-column">
 
             2021/05/31 19:45            
@@ -59,48 +162,6 @@
             
             <div class="list">
                 ▶特定のチューンスキルにより使用可能になる「イースターバニーR」が、パッシブスキル「リペアラー追加/T」による、使用回数の増加効果を受けない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-719" class="weighty-column">
-
-            2021/05/31 19:45            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              バージニア・Gのアナザーショットギアにて、特定チューンスキル付与時の効果が正しく反映されない            </div>
-
-        </div>
-        <div id="important-text-719" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年05月31日 19:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、バージニア・Gのアナザーショットギアにて、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶チューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない。
-            </div>
-            <div class="list red">
-                ※「射撃強化状態」中は、溜め撃ちの弾数が「4」から「6」に増加するのが正しい挙動となります。
             </div>
         </div>
         <div>
@@ -1501,59 +1562,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-694" class="weighty-column">
-
-            2021/04/02 16:00                            
-                <span class="bold">
-                                            (04/15 実施済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_announce.png" class="icn-category">
-              プライバシーポリシーの改定について            </div>
-
-        </div>
-        <div id="important-text-694" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年04月15日 16:00 追記<br>
-        事前の告知内容に基づき、プライバシーポリシーの改定を実施いたしましたので、ご報告申し上げます。
-    </div>
-        
-    
-    <hr class="red">
-
-    <div>
-        ■2021年04月02日 16:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        プライバシーポリシーの改定を2021年4月15日に予定しておりますので、以下のとおりお知らせいたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【プライバシーポリシー変更点】</p>
-        
-        <div class="list">
-            ▶「6. 情報の提供」の規定を改定。
-        </div>
-        
-        <p class="list red">※<span class="bold browser" data-url="https://colopl.co.jp/app/privacypolicy/alicegearaegis/ja_rev2021_04.html"><u>改定後のプライバシーポリシー</u></span>はこちらより確認できます。</p>
-    </div>
-    
-    <div>
-        プライバシーポリシー変更に伴い、改定実施後の初回起動時に、利用規約の確認画面が表示されます。<br>
-        お手数をおかけいたしますが、何卒、ご理解とご協力のほど、よろしくお願い申し上げます。<br>
-        <p class="list red">
-            ※上記プライバシーポリシー以外の規約変更はございません。
-        </p>
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
