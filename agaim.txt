@@ -35,8 +35,7 @@
         
         <div id="important-column-721" class="weighty-column">
 
-            2021/06/02 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/06/02 14:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.42.1 配信のお知らせ            </div>
@@ -76,7 +75,7 @@
         <div id="important-column-719" class="weighty-column">
 
             2021/05/31 19:45                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/02 修正済)
                                     </span>
             
