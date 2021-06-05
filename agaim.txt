@@ -35,8 +35,7 @@
         
         <div id="important-column-724" class="weighty-column">
 
-            2021/06/04 16:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/06/04 16:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ドレッサー画面の遷移演出が正しく再生されない            </div>
