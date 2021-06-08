@@ -111,7 +111,7 @@
                 神宮寺 真理【孤影】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/164?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1143">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1144">
                 <p class="center red">
                     ※バナーをタップすると詳細ページへジャンプします
                 </p>
@@ -200,7 +200,7 @@
             神宮寺 真理【孤影】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/164?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1143">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1144">
             <p class="center red">
                 ※バナーをタップすると詳細ページへジャンプします
             </p>
@@ -772,7 +772,7 @@
             <div>
                 なお、どちらの特殊スキルも「御茶ノ水 美里江」の上限解放回数によって、増加する場合があります。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1143">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1144">
         </div>
         <div>
             なお、本件についてのお詫びとして下記の補填を実施致しました。
@@ -830,13 +830,13 @@
                 <div class="list">
                     ▶御茶ノ水 美里江の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1143">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1144">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     御茶ノ水 美里江【無辜】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/426?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1143">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1144">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
