@@ -33,6 +33,46 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-727" class="weighty-column">
+
+            2021/06/10 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              メインストーリーの緊急メンテナンスについて            </div>
+
+        </div>
+        <div id="important-text-727" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月10日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            侵蝕編4章の強制移動モードですが、開発意図と異なるバージョンになっていることを確認したため、現在、メインストーリーの緊急メンテナンスを行っております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【メンテナンス期間】</p>
+            
+            <div class="list">
+                ・6/10（木）16:35 頃 ～ 終了未定
+            </div>
+            <div class="list red">
+                ※上記期間中でも「メインストーリー」以外のゲームプレイは可能です。
+            </div>
+        </div>
+        <div>
+            本件につきまして進展があり次第、改めてご報告いたしますので、対応完了まで今しばらくお時間をいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-725" class="weighty-column">
 
             2021/06/08 17:00                            
@@ -1431,70 +1471,6 @@
             </div>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-706" class="weighty-column">
-
-            2021/04/29 16:00                            
-                <span class="bold">
-                                            (04/30 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              依城 えりがコスチューム「コンパニオン/KB」を着用すると肌の色が変化する            </div>
-
-        </div>
-        <div id="important-text-706" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年04月30日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div class="list red">
-            ※14:10 追記<br>
-            アプリを再起動いただくことで修正が適用されます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年04月29日 16:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶依城 えりがコスチューム「コンパニオン/KB」を着用すると肌の色が変化する。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
