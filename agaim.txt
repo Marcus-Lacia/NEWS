@@ -33,6 +33,92 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-725" class="weighty-column">
+
+            2021/06/08 17:00                            
+                <span class="red bold">
+                                            (06/10 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宇佐元 杏奈をWish設定した際の、ギアオクの一部ラインナップに誤りがある            </div>
+
+        </div>
+        <div id="important-text-725" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月10日 15:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、修正完了前に、対象となる許可証を購入されたお客様への補填対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                6/8（火）17:00 までに<br>
+                ギアオクのウィークリーラインナップの<br>
+                「特A級/UAs下01（作業精度3）」を<br>
+                購入されたお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    特A級/UAs下01（作業精度5）× 1
+                </div>
+            </div>
+            <div>
+                <p class="bold">【受取期限】</p>
+                <div class="paragraph">
+                    9/7（火）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">  
+        
+        <div>
+            ■2021年06月08日 17:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶ギアオクのウィークリーラインナップにて、Wishに宇佐元 杏奈を選択した際に入荷される、一部許可証の作業精度が誤っている。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象許可証】</p>
+                <div>
+                    誤：特A級/UAs下01（作業精度3）<br>
+                    正：特A級/UAs下01（作業精度5）
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、修正完了前に、対象となる許可証を購入されたお客様への補填対応を検討しております。<br>
+            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-726" class="weighty-column">
 
             2021/06/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -109,54 +195,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-725" class="weighty-column">
-
-            2021/06/08 17:00                            
-                <span class="bold">
-                                            (06/08 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              宇佐元 杏奈をWish設定した際の、ギアオクの一部ラインナップに誤りがある            </div>
-
-        </div>
-        <div id="important-text-725" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月08日 17:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶ギアオクのウィークリーラインナップにて、Wishに宇佐元 杏奈を選択した際に入荷される、一部許可証の作業精度が誤っている。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象許可証】</p>
-                <div>
-                    誤：特A級/UAs下01（作業精度3）<br>
-                    正：特A級/UAs下01（作業精度5）
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、修正完了前に、対象となる許可証を購入されたお客様への補填対応を検討しております。<br>
-            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
         <div id="important-column-724" class="weighty-column">
 
@@ -236,7 +274,7 @@
                 神宮寺 真理【孤影】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/164?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1147">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1148">
                 <p class="center red">
                     ※バナーをタップすると詳細ページへジャンプします
                 </p>
@@ -325,7 +363,7 @@
             神宮寺 真理【孤影】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/164?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1147">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1148">
             <p class="center red">
                 ※バナーをタップすると詳細ページへジャンプします
             </p>
@@ -897,7 +935,7 @@
             <div>
                 なお、どちらの特殊スキルも「御茶ノ水 美里江」の上限解放回数によって、増加する場合があります。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1147">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1148">
         </div>
         <div>
             なお、本件についてのお詫びとして下記の補填を実施致しました。
@@ -955,13 +993,13 @@
                 <div class="list">
                     ▶御茶ノ水 美里江の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1147">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1148">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     御茶ノ水 美里江【無辜】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/426?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1147">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1148">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
