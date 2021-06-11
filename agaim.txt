@@ -35,7 +35,10 @@
         
         <div id="important-column-728" class="weighty-column">
 
-            2021/06/11 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/06/11 17:30                            
+                <span class="red bold">
+                                            (06/11 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
