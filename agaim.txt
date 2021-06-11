@@ -33,6 +33,50 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-728" class="weighty-column">
+
+            2021/06/11 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「新米隊長向け特別調査任務 No.2106」の報酬に、「ギアメダル」が設定されていない            </div>
+
+        </div>
+        <div id="important-text-728" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月11日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「新米隊長向け特別調査任務 No.2106」の、マップクリア報酬及びマップコンプリート報酬に「ギアメダル」が設定されていない。
+            </div>
+            <div>
+                本修正の完了後に、当該イベントを開始したお客様に関しては、正常な状態でプレイ可能となります。
+            </div>
+        </div>
+        <div>
+            なお、修正前に当該イベントを開始していたお客様に関しては、イベントをクリアしても、「ギアメダル」を獲得することができません。
+        </div>
+        <div>
+            そのため、対象のお客様には後日「ギアメダル」を補填予定となります。<br>
+            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-727" class="weighty-column">
 
             2021/06/10 17:30                            
@@ -1459,70 +1503,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-707" class="weighty-column">
-
-            2021/04/30 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-707" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年04月30日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶ギフトークン交換所に、兼志谷 シタラ専用のアナザーギアを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・「アンクーシャA」シリーズ<br>
-                    ・「マホーダラA」シリーズ<br>
-                    ・「ガネーシャA/T」シリーズ<br>
-                    ・「ガネーシャA/B」シリーズ
-                </div>
-            </div>
-            <div class="list red">
-                ※「Aギアシェル」の解析や「ギアオク」などでは入手できません。
-            </div>
-            <div class="list red">
-                ※上記アナザーギアのギアチューン時に、「GカルバチョートA/T」及び「GカルバチョートA/B」シリーズ専用の「特A級許可証」は使用できません。
-            </div>
-            <div class="list">
-                ▶ギフトークン交換所に、「ガネーシャA/T」及び「ガネーシャA/B」シリーズ専用の許可証を追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象許可証】</p>
-                <div>
-                    ・特注許可証/KSs上GN<br>
-                    ・特注許可証/KSs下GN
-                </div>
-            </div>
-            <div class="list red">
-                ※「ギアオク」では入手できません。
-            </div>
-            <div class="list red">
-                ※上記許可証を使用してギアチューンすると、メインマージンには★3のK.I.S.S.、サブマージンには★3の各種チューンスキルが確定で付与されます。
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
