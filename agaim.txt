@@ -200,10 +200,15 @@
                 </div>
             </div>
             <div>
-                <p class="bold">【受取期限】</p>
+                <s></s><p class="bold">【受取期限】</p>
+                <p class="bold">【配布期間】</p>
                 <div class="paragraph">
                     6/24（木）23:59 まで
                 </div>
+                <p class="list red">
+                    ※6/14（月）19:15 訂正<br>
+                    上記日付は正しくは「アイテムの配布期間」となりますので、表記を訂正しました。
+                </p>
             </div>
         </div>
         
