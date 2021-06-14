@@ -33,6 +33,74 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-729" class="weighty-column">
+
+            2021/06/14 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.42.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-729" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月14日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.42.2のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.42.2の更新内容】</p>
+        
+        <div class="list">
+            ▶侵蝕編4章が開発意図と異なるバージョンで公開されていた問題を修正しました。
+        </div>
+        <p class="list red">
+            ※侵蝕編4章は明日6/15（火）の再公開を予定しております。
+        </p>
+        <p class="list red">
+            ※詳細は公開時に改めて告知いたしますので、今しばらくお待ちください。
+        </p>
+        <div class="list">
+            ▶ボトムスギア「CEA140/B」を装備したアクトレスをサポーターとして呼び出した際、特定状況にて、アプリが強制終了することがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶任務中、特定タイミングで下落合 桃歌のSPスキル「戦いのプリパレーション」を発動すると、大型ヴァイスが出現しなくなることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶一部コスチューム及びアクセサリーの詳細画面に表示されている企業名を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象企業】</p>
+            <div>
+                調整前：ヤシマ工業<br>
+                調整後：ヤシマ重工
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.42.2の配信に伴い、<span class="bold red">6/15（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-728" class="weighty-column">
 
             2021/06/11 17:30                            
@@ -1446,64 +1514,6 @@
             <br>
             なお、既にミッションをクリアされているお客様に対する、対象アイテムの回収は予定しておりません。<br>
             <br>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-708" class="weighty-column">
-
-            2021/04/30 23:40                            
-                <span class="bold">
-                                            (05/01 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ミニゲーム「DEPTH SEARCHER」が起動できないことがある            </div>
-
-        </div>
-        <div id="important-text-708" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年05月01日 23:20 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            <br>
-            調査の結果、本不具合は4月30日に限り発生するものということが判明しており、現在は正常に起動できることも確認しております。<br>
-            <br>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-
-        
-        <hr class="red">
-     
-        <div>
-            ■2021年04月30日 23:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶ミニゲーム「DEPTH SEARCHER」が起動できないことがある。
-            </div>
-            <div class="list red">
-                ※本現象は23:00頃より発生を確認しております。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
