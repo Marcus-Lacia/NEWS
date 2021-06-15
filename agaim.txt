@@ -33,6 +33,84 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-728" class="weighty-column">
+
+            2021/06/11 17:30                            
+                <span class="red bold">
+                                            (06/15 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「新米隊長向け特別調査任務 No.2106」の報酬に、「ギアメダル」が設定されていない            </div>
+
+        </div>
+        <div id="important-text-728" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月15日 15:30 追記<br>
+            本不具合によって、報酬の「ギアメダル」を獲得できなかったお客様への補填対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                6/11（金）16:25 頃までに<br>
+                イベント「新米隊長向け特別調査任務<br>
+                No.2106」を開始したお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    ギアメダル × 120
+                </div>
+            </div>
+            <div>
+                <p class="bold">【受取期限】</p>
+                <div class="paragraph">
+                    9/12（日）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ございませんでした。
+        </div>
+        
+        
+        <hr class="red"> 
+        
+        <div>
+            ■2021年06月11日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「新米隊長向け特別調査任務 No.2106」の、マップクリア報酬及びマップコンプリート報酬に「ギアメダル」が設定されていない。
+            </div>
+            <div>
+                本修正の完了後に、当該イベントを開始したお客様に関しては、正常な状態でプレイ可能となります。
+            </div>
+        </div>
+        <div>
+            なお、修正前に当該イベントを開始していたお客様に関しては、イベントをクリアしても、「ギアメダル」を獲得することができません。
+        </div>
+        <div>
+            そのため、対象のお客様には後日「ギアメダル」を補填予定となります。<br>
+            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-730" class="weighty-column">
 
             2021/06/15 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -280,53 +358,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-728" class="weighty-column">
-
-            2021/06/11 17:30                            
-                <span class="bold">
-                                            (06/11 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「新米隊長向け特別調査任務 No.2106」の報酬に、「ギアメダル」が設定されていない            </div>
-
-        </div>
-        <div id="important-text-728" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月11日 17:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「新米隊長向け特別調査任務 No.2106」の、マップクリア報酬及びマップコンプリート報酬に「ギアメダル」が設定されていない。
-            </div>
-            <div>
-                本修正の完了後に、当該イベントを開始したお客様に関しては、正常な状態でプレイ可能となります。
-            </div>
-        </div>
-        <div>
-            なお、修正前に当該イベントを開始していたお客様に関しては、イベントをクリアしても、「ギアメダル」を獲得することができません。
-        </div>
-        <div>
-            そのため、対象のお客様には後日「ギアメダル」を補填予定となります。<br>
-            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
         <div id="important-column-725" class="weighty-column">
 
