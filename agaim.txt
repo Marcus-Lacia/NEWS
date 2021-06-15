@@ -33,6 +33,187 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-730" class="weighty-column">
+
+            2021/06/15 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-730" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月15日 15:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            メインストーリー侵蝕編4章にて、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶強制移動モード中の、各種挙動が開発意図と異なる問題を修正しました。
+            </div>
+            <div class="list">
+                ▶「討伐任務：4件目」にて、エリア2の作戦目標が「2分以内に敵を全滅」であるにも関わらず、特定の敵を倒すとクリアできてしまう問題を修正しました。
+            </div>
+            <div class="list">
+                ▶一部任務のシェルドロップ設定に誤りがある問題を修正しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象任務】</p>
+                <div>
+                    <span class="bold">討伐任務：3件目</span>
+                    <p>
+                        誤<br>
+                        ・マテリアルシェルGV/E<br>
+                        ・マテリアルシェルPo/E
+                    </p>
+                    <p>
+                        正<br>
+                        ・マテリアルシェルGV/F<br>
+                        ・マテリアルシェルPo/F
+                    </p>
+                </div>
+                <div>
+                    <span class="bold">討伐任務：5件目</span>
+                    <p>
+                        誤<br>
+                        ・マテリアルシェルGV/E<br>
+                        ・マテリアルシェルPo/E
+                    </p>
+                    <p>
+                        正<br>
+                        ・マテリアルシェルGV/H<br>
+                        ・マテリアルシェルRa/H
+                    </p>
+                </div>
+            </div>
+            <div class="list">
+                ▶一部シナリオ中に登場するキャラクターの顔アイコンが、開発意図と異なる表示となっていた問題を修正しました。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-727" class="weighty-column">
+
+            2021/06/10 17:30                            
+                <span class="red bold">
+                                            (06/15 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              メインストーリーの緊急メンテナンスについて            </div>
+
+        </div>
+        <div id="important-text-727" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月15日 15:10 追記<br>
+            本日15:00より、メインストーリー侵蝕編4章を再公開いたしましたので、ご報告いたします。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ございませんでした。
+        </div>
+        
+        
+        <hr class="red">  
+        
+        <div>
+            ■2021年06月10日 19:25 追記
+        </div>
+        <div>
+            本日18:06頃にメインストーリーの緊急メンテナンスを解除いたしましたので、ご報告いたします。
+        </div>
+        <div>
+            調査の結果、短時間での不具合修正が困難であることが判明いたしましたので、侵蝕編4章の公開は一時的に停止している状態となります。
+        </div>
+        <p class="list">
+            ※侵蝕編4章以外のメインストーリーはプレイ可能となります。
+        </p>
+        <div class="list">
+            ※不具合の修正にはアプリバージョンアップが必要となるため、修正作業及びプラットフォーム審査期間を加味し、侵蝕編4章の再公開は来週前半となる見込みです。
+        </div>
+        <div class="list">
+            ※再公開時に、当該任務のクリア状況リセットは行われません。
+        </div>
+        <div>
+            再公開日時につきましては、アプリ配信時に改めて告知させていただきますので、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            また、本不具合のお詫びとして下記補填を実施いたしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                全てのお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 300
+                </div>
+            </div>
+            <div>
+                <s></s><p class="bold">【受取期限】</p>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    6/24（木）23:59 まで
+                </div>
+                <p class="list red">
+                    ※6/14（月）19:15 訂正<br>
+                    上記日付は正しくは「アイテムの配布期間」となりますので、表記を訂正しました。
+                </p>
+            </div>
+        </div>
+        
+        <div>
+            不具合によりご迷惑をおかけいたしましたこと、深くお詫び申し上げます。
+        </div>
+        
+        
+        <hr class="red">  
+        
+        <div>
+            ■2021年06月10日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            侵蝕編4章の強制移動モードですが、開発意図と異なるバージョンになっていることを確認したため、現在、メインストーリーの緊急メンテナンスを行っております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【メンテナンス期間】</p>
+            
+            <div class="list">
+                ・6/10（木）16:35 頃 ～ 終了未定
+            </div>
+            <div class="list red">
+                ※上記期間中でも「メインストーリー」以外のゲームプレイは可能です。
+            </div>
+        </div>
+        <div>
+            本件につきまして進展があり次第、改めてご報告いたしますので、対応完了まで今しばらくお時間をいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-729" class="weighty-column">
 
             2021/06/14 14:00            
@@ -141,104 +322,6 @@
         <div>
             そのため、対象のお客様には後日「ギアメダル」を補填予定となります。<br>
             対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-727" class="weighty-column">
-
-            2021/06/10 17:30                            
-                <span class="bold">
-                                            (06/10 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              メインストーリーの緊急メンテナンスについて            </div>
-
-        </div>
-        <div id="important-text-727" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月10日 19:25 追記
-        </div>
-        <div>
-            本日18:06頃にメインストーリーの緊急メンテナンスを解除いたしましたので、ご報告いたします。
-        </div>
-        <div>
-            調査の結果、短時間での不具合修正が困難であることが判明いたしましたので、侵蝕編4章の公開は一時的に停止している状態となります。
-        </div>
-        <p class="list">
-            ※侵蝕編4章以外のメインストーリーはプレイ可能となります。
-        </p>
-        <div class="list">
-            ※不具合の修正にはアプリバージョンアップが必要となるため、修正作業及びプラットフォーム審査期間を加味し、侵蝕編4章の再公開は来週前半となる見込みです。
-        </div>
-        <div class="list">
-            ※再公開時に、当該任務のクリア状況リセットは行われません。
-        </div>
-        <div>
-            再公開日時につきましては、アプリ配信時に改めて告知させていただきますので、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            また、本不具合のお詫びとして下記補填を実施いたしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                全てのお客様
-            </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 300
-                </div>
-            </div>
-            <div>
-                <s></s><p class="bold">【受取期限】</p>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    6/24（木）23:59 まで
-                </div>
-                <p class="list red">
-                    ※6/14（月）19:15 訂正<br>
-                    上記日付は正しくは「アイテムの配布期間」となりますので、表記を訂正しました。
-                </p>
-            </div>
-        </div>
-        
-        <div>
-            不具合によりご迷惑をおかけいたしましたこと、深くお詫び申し上げます。
-        </div>
-        
-        
-        <hr class="red">  
-        
-        <div>
-            ■2021年06月10日 17:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            侵蝕編4章の強制移動モードですが、開発意図と異なるバージョンになっていることを確認したため、現在、メインストーリーの緊急メンテナンスを行っております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【メンテナンス期間】</p>
-            
-            <div class="list">
-                ・6/10（木）16:35 頃 ～ 終了未定
-            </div>
-            <div class="list red">
-                ※上記期間中でも「メインストーリー」以外のゲームプレイは可能です。
-            </div>
-        </div>
-        <div>
-            本件につきまして進展があり次第、改めてご報告いたしますので、対応完了まで今しばらくお時間をいただけますようお願い申し上げます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
@@ -485,7 +568,7 @@
                 神宮寺 真理【孤影】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/164?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1154">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1155">
                 <p class="center red">
                     ※バナーをタップすると詳細ページへジャンプします
                 </p>
@@ -574,7 +657,7 @@
             神宮寺 真理【孤影】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/164?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1154">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1155">
             <p class="center red">
                 ※バナーをタップすると詳細ページへジャンプします
             </p>
@@ -1146,7 +1229,7 @@
             <div>
                 なお、どちらの特殊スキルも「御茶ノ水 美里江」の上限解放回数によって、増加する場合があります。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1154">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1155">
         </div>
         <div>
             なお、本件についてのお詫びとして下記の補填を実施致しました。
@@ -1204,13 +1287,13 @@
                 <div class="list">
                     ▶御茶ノ水 美里江の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1154">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210518/bnr_l00_inf_305_18.jpg?v=1155">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     御茶ノ水 美里江【無辜】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/426?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1154">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_028_70/bnr_header.jpg?v=1155">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1457,73 +1540,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-709" class="weighty-column">
-
-            2021/05/06 01:45                            
-                <span class="bold">
-                                            (05/18 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              伊戸倉音緒のバースデーミッションが開放されている            </div>
-
-        </div>
-        <div id="important-text-709" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年05月18日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <p class="list red">
-            ※当該バースデーミッションは、本来の開催日となる6月6日に再度開放予定となります。
-        </p>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年05月06日 01:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                伊戸倉音緒のバースデーミッションが開放されている。
-            </div>
-            <div class="list red">
-                ※伊戸倉音緒の誕生日は6月6日が正しい日付となります。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。<br>
-            <br>
-            なお、既にミッションをクリアされているお客様に対する、対象アイテムの回収は予定しておりません。<br>
-            <br>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
