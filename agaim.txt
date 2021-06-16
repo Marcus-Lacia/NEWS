@@ -113,8 +113,7 @@
         
         <div id="important-column-730" class="weighty-column">
 
-            2021/06/15 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/06/15 15:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               アップデートのお知らせ            </div>
@@ -186,7 +185,7 @@
         <div id="important-column-727" class="weighty-column">
 
             2021/06/10 17:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/15 修正済)
                                     </span>
             
