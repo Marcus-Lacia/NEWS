@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-734" class="weighty-column">
+
+            2021/06/18 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              須賀 乙莉のSPスキル「オービタルスティング」発動中のトップススキルについて            </div>
+
+        </div>
+        <div id="important-text-734" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月18日 18:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、須賀 乙莉のSPスキル「オービタルスティング」発動中、トップススキルの性能が上書きされた際に、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶性能が上書きされたトップススキルの属性が、開発意図と異なっている。
+            </div>
+            <p class="list red">
+                ※正しい属性は「斬撃属性」となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-733" class="weighty-column">
 
             2021/06/17 19:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1409,80 +1452,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-715" class="weighty-column">
-
-            2021/05/21 22:40                            
-                <span class="bold">
-                                            (05/21 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              ゲーム内お知らせの一部画像に開発中のゲーム画面が掲載されていた件について            </div>
-
-        </div>
-        <div id="important-text-715" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年05月21日 22:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            既に対象のページにてご報告させていただいておりますが、ゲーム内お知らせの一部画像に、開発中のゲーム画面が誤って掲載されておりました、誠に申し訳ありません。
-        </div>
-        <div>
-            また、御茶ノ水 美里江【無辜】のSPスキル「バステリオンγ」の仕様につきまして、改めて補足説明をさせていただきます。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            
-            <div>
-                <span class="bold">■トップススキル</span><br>
-                トップスのアクティブスキルを使用すると、敵に向かってピジョンを展開し射撃攻撃を行います。<br>
-                SPスキル効果時間中の使用可能数は1回までとなります。
-            </div>
-            <div>
-                <span class="bold">■ボトムススキル</span><br>
-                敵の一部攻撃を打ち消す衝撃波を放ち、敵にダメージを与えます。<br>
-                SPスキル効果時間中の使用可能数は4回までとなります。
-            </div>
-            <div>
-                なお、どちらの特殊スキルも「御茶ノ水 美里江」の上限解放回数によって、増加する場合があります。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210521/bnr_m00_inf_305_21.jpg?v=1160">
-        </div>
-        <div>
-            なお、本件についてのお詫びとして下記の補填を実施致しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    全てのお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 300
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    6/4（金） 23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
