@@ -78,8 +78,7 @@
         
         <div id="important-column-733" class="weighty-column">
 
-            2021/06/17 19:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/06/17 19:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ホーム画面にて須賀 乙莉の特定部位をタップした際に、開発意図と異なるボイスが再生される            </div>
