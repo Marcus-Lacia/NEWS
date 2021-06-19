@@ -35,8 +35,7 @@
         
         <div id="important-column-734" class="weighty-column">
 
-            2021/06/18 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/06/18 18:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               須賀 乙莉のSPスキル「オービタルスティング」発動中のトップススキルについて            </div>
