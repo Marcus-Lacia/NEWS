@@ -1,9 +1,1469 @@
-<html lang="en">
-  <head>
-  
-  <title>Error 502 (Server Error)!!1</title>
-  
-  </head><body><a href="//www.google.com/"><span id="logo" aria-label="Google"></span></a>
-  <p><b>502.</b> <ins>That’s an error.</ins>
-  </p><p>The server encountered a temporary error and could not complete your request.</p><p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>
-</p></body></html>
+<html>
+
+<head>
+            
+
+
+    <title></title>    
+    
+    
+
+    
+        
+
+    
+        
+    
+    
+    
+    
+</head>
+
+<body>
+    
+
+
+<div id="mainScroll" class="wrapper">
+  <div class="scroller ">
+    <div class="contents-main">
+
+      <div class="weighty-title active">
+          <div class="pull-left"><img src="//i-cf.alice.colopl.jp/img/common/news_new/aegis_w.png"><span class="bold">重要なお知らせ一覧</span></div>
+      </div>
+
+      <div id="" class="weighty-list">
+        
+        <div id="important-column-734" class="weighty-column">
+
+            2021/06/18 18:15            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              須賀 乙莉のSPスキル「オービタルスティング」発動中のトップススキルについて            </div>
+
+        </div>
+        <div id="important-text-734" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月18日 18:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、須賀 乙莉のSPスキル「オービタルスティング」発動中、トップススキルの性能が上書きされた際に、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶性能が上書きされたトップススキルの属性が、開発意図と異なっている。
+            </div>
+            <p class="list red">
+                ※正しい属性は「斬撃属性」となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-733" class="weighty-column">
+
+            2021/06/17 19:10            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ホーム画面にて須賀 乙莉の特定部位をタップした際に、開発意図と異なるボイスが再生される            </div>
+
+        </div>
+        <div id="important-text-733" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月17日 19:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本日のアップデートより、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶ホーム画面にて須賀 乙莉の特定部位をタップした際に、開発意図と異なるボイスが再生される。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-732" class="weighty-column">
+
+            2021/06/17 15:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-732" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月17日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div>
+                <div class="list">
+                    ▶須賀 乙莉の専用ボトムスギアに進化分岐を追加しました。
+                </div>
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1163">
+                <div class="list red">
+                    ※進化分岐ギアの特殊な動作について、<br>
+                    須賀 乙莉【仰望】の詳細ページにて説明しております。
+                </div>
+                <a href="/news/show/id/436?returnUrl=back">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1163">
+                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+                </a>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-731" class="weighty-column">
+
+            2021/06/17 14:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-731" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月17日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶的場 アオイの専用ショットギアの性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3/ジャベリンMAs<br>
+                ・★3/ジャベリンMAsMk2<br>
+                ・★3/ジャベリンMAsMk3<br>
+                ・★4/イン・ザ・ブラック<br>
+                ・★4/イン・ザ・ブラックMk2<br>
+                ・★4/イン・ザ・ブラックMk3
+            </div>
+            <p class="list">
+                ・射撃攻撃（立ち、横移動、後移動）の、<br>
+                攻撃判定の持続時間を約33%増加。
+            </p>
+            <p class="list">
+                ・横移動射撃の攻撃力を約46%増加。
+            </p>
+            <p class="list">
+                ・横移動射撃のレーザーが発射されるまでの時間を約50%減少。
+            </p>
+            <p class="list">
+                ・後移動射撃のレーザーが発射されるまでの時間を約33%減少。
+            </p>
+        </div>
+        <div class="list">
+            ▶的場 アオイの専用トップスギアの性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3/ペレグリーネMAs/T<br>
+                ・★3/ペレグリーネMAsMk2/T<br>
+                ・★3/ペレグリーネMAsMk3/T<br>
+                ・★4/ジェイド/T<br>
+                ・★4/ジェイドMk2/T<br>
+                ・★4/ジェイドMk3/T
+            </div>
+            <p class="list">
+                ・ギアスキルのレーザーの誘導時間を約100%増加。
+            </p>
+        </div>
+        <div class="list">
+            ▶アクセサリーの装着部位に、新たに「卓上」を追加しました。
+        </div>
+        <p class="list">
+            ※追加に伴い、アクセサリー「ヒンヤリデコ」のアイコン及び装着部位を調整しました。
+        </p>
+        <div class="list">
+            ▶下記コスチューム着用時、体の特定部位が正しく表示されない問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                ・ツインデュオ/Ｂ（琴村 朱音）<br>
+                ・ツインデュオ/Ｗ（琴村 天音）
+            </div>
+        </div>
+        <div class="list">
+            ▶九炉鉄 悠都がコスチューム「芦原高校夏服」着用時、爪の色が正しく表示されない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶依城 えりの絆エピソードEp.3の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶ギア整備室にて、一部ショットギアの表示順が誤っている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-728" class="weighty-column">
+
+            2021/06/11 17:30                            
+                <span class="bold">
+                                            (06/15 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「新米隊長向け特別調査任務 No.2106」の報酬に、「ギアメダル」が設定されていない            </div>
+
+        </div>
+        <div id="important-text-728" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月15日 15:30 追記<br>
+            本不具合によって、報酬の「ギアメダル」を獲得できなかったお客様への補填対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                6/11（金）16:25 頃までに<br>
+                イベント「新米隊長向け特別調査任務<br>
+                No.2106」を開始したお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    ギアメダル × 120
+                </div>
+            </div>
+            <div>
+                <p class="bold">【受取期限】</p>
+                <div class="paragraph">
+                    9/12（日）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ございませんでした。
+        </div>
+        
+        
+        <hr class="red"> 
+        
+        <div>
+            ■2021年06月11日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「新米隊長向け特別調査任務 No.2106」の、マップクリア報酬及びマップコンプリート報酬に「ギアメダル」が設定されていない。
+            </div>
+            <div>
+                本修正の完了後に、当該イベントを開始したお客様に関しては、正常な状態でプレイ可能となります。
+            </div>
+        </div>
+        <div>
+            なお、修正前に当該イベントを開始していたお客様に関しては、イベントをクリアしても、「ギアメダル」を獲得することができません。
+        </div>
+        <div>
+            そのため、対象のお客様には後日「ギアメダル」を補填予定となります。<br>
+            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-730" class="weighty-column">
+
+            2021/06/15 15:10            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-730" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月15日 15:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            メインストーリー侵蝕編4章にて、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶強制移動モード中の、各種挙動が開発意図と異なる問題を修正しました。
+            </div>
+            <div class="list">
+                ▶「討伐任務：4件目」にて、エリア2の作戦目標が「2分以内に敵を全滅」であるにも関わらず、特定の敵を倒すとクリアできてしまう問題を修正しました。
+            </div>
+            <div class="list">
+                ▶一部任務のシェルドロップ設定に誤りがある問題を修正しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象任務】</p>
+                <div>
+                    <span class="bold">討伐任務：3件目</span>
+                    <p>
+                        誤<br>
+                        ・マテリアルシェルGV/E<br>
+                        ・マテリアルシェルPo/E
+                    </p>
+                    <p>
+                        正<br>
+                        ・マテリアルシェルGV/F<br>
+                        ・マテリアルシェルPo/F
+                    </p>
+                </div>
+                <div>
+                    <span class="bold">討伐任務：5件目</span>
+                    <p>
+                        誤<br>
+                        ・マテリアルシェルGV/E<br>
+                        ・マテリアルシェルPo/E
+                    </p>
+                    <p>
+                        正<br>
+                        ・マテリアルシェルGV/H<br>
+                        ・マテリアルシェルRa/H
+                    </p>
+                </div>
+            </div>
+            <div class="list">
+                ▶一部シナリオ中に登場するキャラクターの顔アイコンが、開発意図と異なる表示となっていた問題を修正しました。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-727" class="weighty-column">
+
+            2021/06/10 17:30                            
+                <span class="bold">
+                                            (06/15 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              メインストーリーの緊急メンテナンスについて            </div>
+
+        </div>
+        <div id="important-text-727" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月15日 15:10 追記<br>
+            本日15:00より、メインストーリー侵蝕編4章を再公開いたしましたので、ご報告いたします。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ございませんでした。
+        </div>
+        
+        
+        <hr class="red">  
+        
+        <div>
+            ■2021年06月10日 19:25 追記
+        </div>
+        <div>
+            本日18:06頃にメインストーリーの緊急メンテナンスを解除いたしましたので、ご報告いたします。
+        </div>
+        <div>
+            調査の結果、短時間での不具合修正が困難であることが判明いたしましたので、侵蝕編4章の公開は一時的に停止している状態となります。
+        </div>
+        <p class="list">
+            ※侵蝕編4章以外のメインストーリーはプレイ可能となります。
+        </p>
+        <div class="list">
+            ※不具合の修正にはアプリバージョンアップが必要となるため、修正作業及びプラットフォーム審査期間を加味し、侵蝕編4章の再公開は来週前半となる見込みです。
+        </div>
+        <div class="list">
+            ※再公開時に、当該任務のクリア状況リセットは行われません。
+        </div>
+        <div>
+            再公開日時につきましては、アプリ配信時に改めて告知させていただきますので、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            また、本不具合のお詫びとして下記補填を実施いたしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                全てのお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 300
+                </div>
+            </div>
+            <div>
+                <s></s><p class="bold">【受取期限】</p>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    6/24（木）23:59 まで
+                </div>
+                <p class="list red">
+                    ※6/14（月）19:15 訂正<br>
+                    上記日付は正しくは「アイテムの配布期間」となりますので、表記を訂正しました。
+                </p>
+            </div>
+        </div>
+        
+        <div>
+            不具合によりご迷惑をおかけいたしましたこと、深くお詫び申し上げます。
+        </div>
+        
+        
+        <hr class="red">  
+        
+        <div>
+            ■2021年06月10日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            侵蝕編4章の強制移動モードですが、開発意図と異なるバージョンになっていることを確認したため、現在、メインストーリーの緊急メンテナンスを行っております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【メンテナンス期間】</p>
+            
+            <div class="list">
+                ・6/10（木）16:35 頃 ～ 終了未定
+            </div>
+            <div class="list red">
+                ※上記期間中でも「メインストーリー」以外のゲームプレイは可能です。
+            </div>
+        </div>
+        <div>
+            本件につきまして進展があり次第、改めてご報告いたしますので、対応完了まで今しばらくお時間をいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-729" class="weighty-column">
+
+            2021/06/14 14:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.42.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-729" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月14日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.42.2のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.42.2の更新内容】</p>
+        
+        <div class="list">
+            ▶侵蝕編4章が開発意図と異なるバージョンで公開されていた問題を修正しました。
+        </div>
+        <p class="list red">
+            ※侵蝕編4章は明日6/15（火）の再公開を予定しております。
+        </p>
+        <p class="list red">
+            ※詳細は公開時に改めて告知いたしますので、今しばらくお待ちください。
+        </p>
+        <div class="list">
+            ▶ボトムスギア「CEA140/B」を装備したアクトレスをサポーターとして呼び出した際、特定状況にて、アプリが強制終了することがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶任務中、特定タイミングで下落合 桃歌のSPスキル「戦いのプリパレーション」を発動すると、大型ヴァイスが出現しなくなることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶一部コスチューム及びアクセサリーの詳細画面に表示されている企業名を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象企業】</p>
+            <div>
+                調整前：ヤシマ工業<br>
+                調整後：ヤシマ重工
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.42.2の配信に伴い、<span class="bold red">6/15（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-725" class="weighty-column">
+
+            2021/06/08 17:00                            
+                <span class="bold">
+                                            (06/10 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宇佐元 杏奈をWish設定した際の、ギアオクの一部ラインナップに誤りがある            </div>
+
+        </div>
+        <div id="important-text-725" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月10日 15:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、修正完了前に、対象となる許可証を購入されたお客様への補填対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                6/8（火）17:00 までに<br>
+                ギアオクのウィークリーラインナップの<br>
+                「特A級/UAs下01（作業精度3）」を<br>
+                購入されたお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    特A級/UAs下01（作業精度5）× 1
+                </div>
+            </div>
+            <div>
+                <p class="bold">【受取期限】</p>
+                <div class="paragraph">
+                    9/7（火）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">  
+        
+        <div>
+            ■2021年06月08日 17:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶ギアオクのウィークリーラインナップにて、Wishに宇佐元 杏奈を選択した際に入荷される、一部許可証の作業精度が誤っている。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象許可証】</p>
+                <div>
+                    誤：特A級/UAs下01（作業精度3）<br>
+                    正：特A級/UAs下01（作業精度5）
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、修正完了前に、対象となる許可証を購入されたお客様への補填対応を検討しております。<br>
+            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-726" class="weighty-column">
+
+            2021/06/10 14:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-726" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月10日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶相河 愛花のアクセサリー「かわいい麦わら帽子」をリニューアルしました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターがアクセサリー「作業用ヘルメット」着用時、アクセサリーに髪の一部がめり込んでしまう問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・相河 愛花<br>
+                ・下落合 桃歌<br>
+                ・蛙坂 来弥
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ショットギアの射撃攻撃3段目が、開発意図と異なり近接攻撃扱いとなっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・ベリルショットランチャー<br>
+                ・ベリルSランチャーMk2<br>
+                ・ベリルSランチャーMk3<br>
+                ・ベリルSランチャーMk4<br>
+                ・ベリルSランチャーMk5<br>
+                ・ベリルショットランチャーS<br>
+                ・ベリルショットランチャーR
+            </div>
+        </div>
+        <div class="list">
+            ▶金潟 すぐみのSPスキル「マグヌム・オプス」の、発動演出の効果音を調整しました。
+        </div>
+        <div class="list">
+            ▶任務中の一時停止画面にて、BGM「Listed Core Year」の曲名が誤っている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-724" class="weighty-column">
+
+            2021/06/04 16:30            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ドレッサー画面の遷移演出が正しく再生されない            </div>
+
+        </div>
+        <div id="important-text-724" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月04日 16:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.42.0アプリより、ホーム画面からドレッサー画面へ遷移する際の演出が正しく再生されない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-723" class="weighty-column">
+
+            2021/06/04 15:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-723" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月04日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶神宮寺 真理専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    ・「ストリクスA」シリーズ<br>
+                    ・「ナイトストーカーA」シリーズ<br>
+                    ・「グレイハーミットA/T」シリーズ<br>
+                    ・「グレイハーミットA/B」シリーズ
+                </div>
+            </div>
+            <div class="list red">
+                ※アナザーショットギアの特殊な動作について、<br>
+                神宮寺 真理【孤影】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/164?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1163">
+                <p class="center red">
+                    ※バナーをタップすると詳細ページへジャンプします
+                </p>
+            </a>
+            <div class="list">
+                ▶ギアオクのWishで神宮寺 真理が選択できるようになりました。
+            </div>
+            <div class="list">
+                ▶神宮寺 真理【孤影】に「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">
+                ※エピソードは神宮寺 真理【孤影】が加入している場合に、「キャラエピソード画面」から再生できます。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-722" class="weighty-column">
+
+            2021/06/04 14:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-722" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月04日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶神宮寺 真理専用の一部クロスギアをリニューアルしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★4/ナイトストーカーA1<br>
+                ・★4/ナイトストーカーA2
+            </div>
+            <p class="list">
+                ・ガード後、フリック操作により<br>
+                特殊ステップへ移行できるよう調整。
+            </p>
+            <p class="list">
+                ・ガード後、「ピジョン射出」を連続で行う際、<br>
+                3回目に「大型ピジョン」を射出するよう変更。
+            </p>
+            <p class="list red">
+                ※「大型ピジョン」は従来のピジョンと比べ、<br>
+                ダメージが約72%上昇しています。
+            </p>
+            <p class="list">
+                ・ガード後の「ピジョン射出」の操作方法を変更。<br>
+                <span>変更前：下フリック</span><br>
+                <span>変更後：タップ</span>
+            </p>
+            <p class="list">
+                ・ガード後の「追加攻撃」の操作方法を変更。<br>
+                <span>変更前：タップ</span><br>
+                <span>変更後：上フリック</span>
+            </p>
+            <p class="list">
+                ・近接攻撃2段目の攻撃力を約9%増加。
+            </p>
+            <p class="list">
+                ・近接攻撃3段目の攻撃力を約10%増加。
+            </p>
+            <p class="list">
+                ・「突進攻撃」の移動距離を約40%増加。
+            </p>
+        </div>
+        <div class="list red">
+            ※進化分岐ギアの特殊な動作について、<br>
+            神宮寺 真理【孤影】の詳細ページにて説明しております。
+        </div>
+        <a href="/news/show/id/164?returnUrl=back">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1163">
+            <p class="center red">
+                ※バナーをタップすると詳細ページへジャンプします
+            </p>
+        </a>
+        <div class="list">
+            ▶宇佐元 杏奈のアナザートップスギアにて、特定のチューンスキルにより使用可能になる「イースターバニーR」が、パッシブスキル「リペアラー追加/T」による、使用回数の増加効果を受けない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶春日丘 もえ専用ボトムスギアのギアスキルが、敵をロックオンしていない状態では発動できない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※対象ギアスキルは、敵をロックオンしていなくても発動できるのが正しい挙動となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・ハッピーコール<br>
+                ・チアフル・チア
+            </div>
+        </div>
+        <div class="list">
+            ▶一条 綾香の一部絆エピソードにて、ボイスが再生されない不具合を修正し、一部演出を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象エピソード】</p>
+            <div>
+                ・絆エピソード Ep.1<br>
+                ・絆エピソード Ep.2
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「Quiz 星の流れとともに」のクイズミニゲームにて、一部問題文の内容を、適切な表現となるよう修正しました。
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜修正前＞</p>
+            <ul>
+                <li>
+                    植物の発芽の条件で当てはまらないものはどれ？
+                </li>
+            </ul>
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜修正後＞</p>
+            <ul>
+                <li>
+                    植物の発芽の条件に必ずしも必要でないものはどれ？
+                </li>
+            </ul>
+        </div>
+        <div class="list">
+            ▶特定状況にて、ヘケトがキャラクターに重なるようにワープしてくることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定状況にて、ホーム画面でアクトレスの足が表示されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-721" class="weighty-column">
+
+            2021/06/02 14:05            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.42.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-721" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年06月02日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.42.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.42.1の更新内容】</p>
+        
+        <div class="list">
+            ▶バージニア・Gのアナザーショットギアにチューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない不具合を修正しました。
+        </div>
+        <div class="list show_only_DMM">
+            ▶特定の状況にて、一部キャラクターのエフェクトが正しく表示されないことがある不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.42.1の配信に伴い、<span class="bold red">6/3（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-719" class="weighty-column">
+
+            2021/05/31 19:45                            
+                <span class="bold">
+                                            (06/02 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              バージニア・Gのアナザーショットギアにて、特定チューンスキル付与時の効果が正しく反映されない            </div>
+
+        </div>
+        <div id="important-text-719" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月02日 14:05 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日順次配信されましたVer1.42.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2021年05月31日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、バージニア・Gのアナザーショットギアにて、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶チューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない。
+            </div>
+            <div class="list red">
+                ※「射撃強化状態」中は、溜め撃ちの弾数が「4」から「6」に増加するのが正しい挙動となります。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-720" class="weighty-column">
+
+            2021/05/31 19:45                            
+                <span class="bold">
+                                            (06/04 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宇佐元 杏奈のアナザートップスギアにて、特定チューンスキル付与時にトップススキルの使用回数が増加しない            </div>
+
+        </div>
+        <div id="important-text-720" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月04日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+
+        <div>
+            ■2021年05月31日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、宇佐元 杏奈のアナザートップスギアにて、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定のチューンスキルにより使用可能になる「イースターバニーR」が、パッシブスキル「リペアラー追加/T」による、使用回数の増加効果を受けない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-718" class="weighty-column">
+
+            2021/05/31 15:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-718" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年05月31日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶宇佐元 杏奈専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    ・「アレクサンドラA」シリーズ<br>
+                    ・「ブリッツクロスA」シリーズ<br>
+                    ・「シロウサギMk-IIA/T」シリーズ<br>
+                    ・「シロウサギMk-IIA/B」シリーズ
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで宇佐元 杏奈が選択できるようになりました。
+            </div>
+            <div class="list">
+                ▶宇佐元 杏奈【希求】に「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">
+                ※エピソードは宇佐元 杏奈【希求】が加入している場合に、「キャラエピソード画面」から再生できます。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-717" class="weighty-column">
+
+            2021/05/27 14:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-717" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年05月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list show_only_Android">
+            ▶受取箱に受け取り期限または有効期限が近いアイテムがある際に、プッシュ通知でお知らせする機能を追加しました。
+        </div>
+        <p class="list show_only_Android">
+            ※対象アイテムが受取箱にある際に、毎朝9時～10時頃にプッシュ通知が配信されます。
+        </p>
+        <div class="list show_only_iOS">
+            ▶受取箱に受け取り期限または有効期限が近いアイテムがある際に、プッシュ通知でお知らせする機能を追加しました。
+        </div>
+        <p class="list show_only_iOS">
+            ※対象アイテムが受取箱にある際に、毎朝9時～10時頃にプッシュ通知が配信されます。
+        </p>
+        <div class="list">
+            ▶御茶ノ水 美里江がSPスキル「バステリオンγ」効果中にアクティブスキルを使用した際、不自然なポーズとなっていたため調整しました。
+        </div>
+        <div class="list">
+            ▶イベント「Quiz 星の流れとともに」のクイズミニゲーム中、出題される一部問題の答えが誤っていた不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【問題内容】</p>
+            <div>
+                同じ量の砂糖を<br>
+                水と熱湯に溶かした時<br>
+                どちらが早く溶ける？
+            </div>
+        </div>
+        <div class="list">
+            ▶下記コスチューム着用時の、首周りの陰影表現を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                <span class="bold">ファティマ・B</span><br>
+                ・桃学の制服<br>
+                ・アールマティ
+            </div>
+            <div>
+                <span class="bold">シャーリー・Ｏ</span><br>
+                ・パンツスーツ<br>
+                ・ロデオコースト
+            </div>
+            <div>
+                <span class="bold">伊戸倉 音緒</span><br>
+                ・スカートスーツ
+            </div>
+            <div>
+                <span class="bold">サンティ・R</span><br>
+                ・ソブリンズガード<br>
+                ・RGRスーツ<br>
+                ・スタープロムナード<br>
+                ・サマーガーディアン
+            </div>
+            <div>
+                <span class="bold">大関 小結</span><br>
+                ・スカートスーツ<br>
+                ・ファルファーレ
+            </div>
+            <div>
+                <span class="bold">王 紅花</span><br>
+                ・パンツスーツ/紅龍苑
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-716" class="weighty-column">
+
+            2021/05/26 14:10            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.42.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-716" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年05月26日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.42.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.42.0の更新内容】</p>
+        
+        <div class="list">
+            ▶ギア進化画面にて、ギアを進化させた後もギアの選択状態を保持し続けるように変更しました。
+        </div>
+        <div class="list">
+            ▶ギア整備室のギア強化・進化画面を切り替える際に、ギアの選択状態を保持し続けるように変更しました。
+        </div>
+        <div class="list">
+            ▶マルチにて、任務中に他のプレイヤー名が正しく表示されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶作業精度が変動しない一部の許可証において、作業精度の数値が表示される問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの修正となり、ギアチューン時の挙動に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象許可証】</p>
+            <div>
+                ・特注許可証/KSs上GN<br>
+                ・特注許可証/KSs下GN
+            </div>
+        </div>
+        <div class="list">
+            ▶的場 アオイのSPスキル「ブルズアイ・シュート」を敵と密着状態で発動した場合、エフェクトの一部が見えにくくなることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶SPスキル「マグヌム・オプス」を装着した金潟 すぐみをサポーターとして呼び出した場合、「電撃照射」と「強襲攻撃」を行わない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶SPスキル「アルクバリスタ3-A」を装着した御茶ノ水 美里江をサポーターとして呼び出した場合、一部クロスギアの下フリック攻撃を最後まで行わない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・ウォープライヤT型<br>
+                ・ウアウプライヤ
+            </div>
+        </div>
+        <div class="list">
+            ▶一部のパッシブスキルやチューンスキルの「溜め撃ち時に発動する効果」が、発動条件を満たしていない状況で発動することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶小型ヴァイスを撃破した際、消滅前に一瞬だけ停止しているように見える不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ケプリの出現演出が、開発意図と異なる見た目になっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定マップに出現するヒュドラの一部レーザー攻撃が、開発意図と異なる挙動になっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶リコサアラゴギ特異型が設置する蜘蛛の巣が、実際の攻撃箇所と異なる位置に設置されることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ヘケトが爆弾を設置した際、特定タイミングで攻撃すると、爆弾の爆破ダメージが開発意図よりも高くなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶激動編7章内の一部任務にて、任務開始時にBGM名が表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.42.0の配信に伴い、<span class="bold red">5/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-714" class="weighty-column">
+
+            2021/05/25 15:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              資金決済法第13条に基づく表示の改定について            </div>
+
+        </div>
+        <div id="important-text-714" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年05月25日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        資金決済法改正に伴い、資金決済法第13条に基づく表示について、以下2項目を追記いたしました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【変更点】</p>
+        
+        <div class="list">
+            ▶「10.前払式支払手段の利用者の保護等に関する措置について」の規定を追記。
+        </div>
+        <div class="list">
+            ▶「11.利用者の意思に反して権限を有しない者の指図が行われたことにより発生した利用者の損失の補償その他の対応に関する方針」の規定を追記。
+        </div>
+        <p class="list red">
+            ※改定後の資金決済法第13条に基づく表示は<span class="bold"><a href="/tos/fund?returnUrl=back"><u>こちら</u></a></span>からご確認下さい。
+        </p>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+                  <div class="pager center">
+                      <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
+                    <div class="page-box box-radius">1/35</div>
+                      <a href="/news/importants?page=2&amp;returnUrl=/news/top">
+              <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
+            </a>
+                    </div>
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+</body>
+
+</html>
