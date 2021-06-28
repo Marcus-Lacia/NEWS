@@ -97,7 +97,10 @@
         
         <div id="important-column-735" class="weighty-column">
 
-            2021/06/28 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/06/28 14:05                            
+                <span class="red bold">
+                                            (06/28 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -134,8 +137,15 @@
             </div>
         </div>
         <div class="list">
-            ▶習熟訓練の敵が各種状態異常を受けないよう仕様を変更しました。
+            <s>▶習熟訓練の敵が各種状態異常を受けないよう仕様を変更しました。</s>
         </div>
+        <div class="list">
+            ▶習熟訓練に限り、敵が状態異常になった後に、再度状態異常になりにくくなる挙動を無効化しました。
+        </div>
+        <p class="list red">
+            ※18:30 訂正<br>
+            更新内容に誤りがあったため訂正しました。
+        </p>
         <div class="list">
             ▶リタ・Hのコスチューム「アンファング」の脚部一部デザインを微調整しました。
         </div>
