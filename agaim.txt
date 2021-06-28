@@ -33,6 +33,68 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-736" class="weighty-column">
+
+            2021/06/28 18:10                            
+                <span class="red bold">
+                                            (06/28 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定条件にてサポーター利用時のゴールドボーナスが正常に獲得できない            </div>
+
+        </div>
+        <div id="important-text-736" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年06月28日 18:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、17:30頃に修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.43.0アプリの特定条件下において、サポーター利用時のゴールドボーナスが正常に獲得できない。
+            </div>
+        </div>
+        <div>
+            また、今回の不具合にて、お客様にご迷惑をおかけしたお詫びとして、以下の補填対応を実施いたしましたので、併せてご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    6/28（月）17:30 までに<br>
+                    アカウントを作成しているお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    ゴールド × 10000
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    7/12（金）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-735" class="weighty-column">
 
             2021/06/28 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1483,107 +1545,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-716" class="weighty-column">
-
-            2021/05/26 14:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.42.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-716" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年05月26日 14:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.42.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.42.0の更新内容】</p>
-        
-        <div class="list">
-            ▶ギア進化画面にて、ギアを進化させた後もギアの選択状態を保持し続けるように変更しました。
-        </div>
-        <div class="list">
-            ▶ギア整備室のギア強化・進化画面を切り替える際に、ギアの選択状態を保持し続けるように変更しました。
-        </div>
-        <div class="list">
-            ▶マルチにて、任務中に他のプレイヤー名が正しく表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶作業精度が変動しない一部の許可証において、作業精度の数値が表示される問題を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの修正となり、ギアチューン時の挙動に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象許可証】</p>
-            <div>
-                ・特注許可証/KSs上GN<br>
-                ・特注許可証/KSs下GN
-            </div>
-        </div>
-        <div class="list">
-            ▶的場 アオイのSPスキル「ブルズアイ・シュート」を敵と密着状態で発動した場合、エフェクトの一部が見えにくくなることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶SPスキル「マグヌム・オプス」を装着した金潟 すぐみをサポーターとして呼び出した場合、「電撃照射」と「強襲攻撃」を行わない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶SPスキル「アルクバリスタ3-A」を装着した御茶ノ水 美里江をサポーターとして呼び出した場合、一部クロスギアの下フリック攻撃を最後まで行わない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・ウォープライヤT型<br>
-                ・ウアウプライヤ
-            </div>
-        </div>
-        <div class="list">
-            ▶一部のパッシブスキルやチューンスキルの「溜め撃ち時に発動する効果」が、発動条件を満たしていない状況で発動することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶小型ヴァイスを撃破した際、消滅前に一瞬だけ停止しているように見える不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ケプリの出現演出が、開発意図と異なる見た目になっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定マップに出現するヒュドラの一部レーザー攻撃が、開発意図と異なる挙動になっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶リコサアラゴギ特異型が設置する蜘蛛の巣が、実際の攻撃箇所と異なる位置に設置されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ヘケトが爆弾を設置した際、特定タイミングで攻撃すると、爆弾の爆破ダメージが開発意図よりも高くなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶激動編7章内の一部任務にて、任務開始時にBGM名が表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.42.0の配信に伴い、<span class="bold red">5/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
