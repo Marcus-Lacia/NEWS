@@ -140,7 +140,7 @@
         <div id="important-column-735" class="weighty-column">
 
             2021/06/28 14:05                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/28 更新)
                                     </span>
             
