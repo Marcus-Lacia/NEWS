@@ -78,7 +78,7 @@
         <div id="important-column-736" class="weighty-column">
 
             2021/06/28 18:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/28 補填済)
                                     </span>
             
