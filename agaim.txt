@@ -33,6 +33,76 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-738" class="weighty-column">
+
+            2021/07/05 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-738" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年07月05日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ドレッサー画面にて、下記キャラクターがコスチューム「桃蔭学園総合高校夏服」とアクセサリー「アクアストーム/W」を同時に着用した時のリアクションを調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・兼志谷 シタラ<br>
+                ・二子玉 舞<br>
+                ・バージニア・G<br>
+                ・ファティマ・B<br>
+                ・文島 明日翔<br>
+                ・村尾 未羅<br>
+                ・君影 唯<br>
+                ・須賀 乙莉
+            </div>
+        </div>
+        <div class="list">
+            ▶琴村 朱音のSPスキル「ハーモニー・ルージュ」中のステップ攻撃時に、わずかな無敵時間を追加しました。
+        </div>
+        <div class="list">
+            ▶琴村 天音のSPスキル「ハーモニー・セレスト」中のステップ攻撃時に、わずかな無敵時間を追加しました。
+        </div>
+        <div class="list">
+            ▶琴村 朱音のSPスキル「ハーモニー・ルージュ」にて、フィニッシュブローの発動演出中に開発意図と異なるエフェクトが明滅する不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.43.0アプリより、特定キャラクターのSPスキル挙動に意図しない変更が適用されている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-737" class="weighty-column">
 
             2021/06/29 14:00            
@@ -1445,56 +1515,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-718" class="weighty-column">
-
-            2021/05/31 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-718" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年05月31日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶宇佐元 杏奈専用のアナザーギアを実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    ・「アレクサンドラA」シリーズ<br>
-                    ・「ブリッツクロスA」シリーズ<br>
-                    ・「シロウサギMk-IIA/T」シリーズ<br>
-                    ・「シロウサギMk-IIA/B」シリーズ
-                </div>
-            </div>
-            <div class="list">
-                ▶ギアオクのWishで宇佐元 杏奈が選択できるようになりました。
-            </div>
-            <div class="list">
-                ▶宇佐元 杏奈【希求】に「アナザーギア体験エピソード」を追加しました。
-            </div>
-            <p class="list red">
-                ※エピソードは宇佐元 杏奈【希求】が加入している場合に、「キャラエピソード画面」から再生できます。
-            </p>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
