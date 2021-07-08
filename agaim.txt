@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-739" class="weighty-column">
+
+            2021/07/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-739" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年07月08日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-738" class="weighty-column">
 
             2021/07/05 14:00            
@@ -1446,66 +1488,6 @@
             </div>
             <div class="list red">
                 ※「射撃強化状態」中は、溜め撃ちの弾数が「4」から「6」に増加するのが正しい挙動となります。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-720" class="weighty-column">
-
-            2021/05/31 19:45                            
-                <span class="bold">
-                                            (06/04 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              宇佐元 杏奈のアナザートップスギアにて、特定チューンスキル付与時にトップススキルの使用回数が増加しない            </div>
-
-        </div>
-        <div id="important-text-720" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月04日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-
-        <div>
-            ■2021年05月31日 19:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、宇佐元 杏奈のアナザートップスギアにて、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定のチューンスキルにより使用可能になる「イースターバニーR」が、パッシブスキル「リペアラー追加/T」による、使用回数の増加効果を受けない。
             </div>
         </div>
         <div>
