@@ -564,13 +564,13 @@
                 <div class="list">
                     ▶須賀 乙莉の専用ボトムスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1173">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1174">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     須賀 乙莉【仰望】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/436?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1173">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1174">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1277,7 +1277,7 @@
                 神宮寺 真理【孤影】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/164?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1173">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1174">
                 <p class="center red">
                     ※バナーをタップすると詳細ページへジャンプします
                 </p>
@@ -1366,7 +1366,7 @@
             神宮寺 真理【孤影】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/164?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1173">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1174">
             <p class="center red">
                 ※バナーをタップすると詳細ページへジャンプします
             </p>
