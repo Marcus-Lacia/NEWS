@@ -33,6 +33,54 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-741" class="weighty-column">
+
+            2021/07/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-741" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年07月15日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶吾妻 楓がコスチューム「星条大学附属高校夏服」着用時、腰周りの見た目に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶吾妻 楓がコスチューム「星条大学附属高校夏服」着用時、ネクタイの結び目に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-740" class="weighty-column">
 
             2021/07/14 14:00            
@@ -1433,45 +1481,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-721" class="weighty-column">
-
-            2021/06/02 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.42.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-721" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年06月02日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.42.1のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.42.1の更新内容】</p>
-        
-        <div class="list">
-            ▶バージニア・Gのアナザーショットギアにチューンスキル「射撃形態変更VGs」が付与されている際に、「射撃強化状態」中の溜め撃ちの弾数が増加しない不具合を修正しました。
-        </div>
-        <div class="list show_only_DMM">
-            ▶特定の状況にて、一部キャラクターのエフェクトが正しく表示されないことがある不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.42.1の配信に伴い、<span class="bold red">6/3（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
