@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-742" class="weighty-column">
+
+            2021/07/15 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-742" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年07月15日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div>
+                <div class="list">
+                    ▶二階堂 司の専用ショットギアに進化分岐を追加しました。
+                </div>
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210715/bnr_l00_inf_307_15.jpg?v=1176">
+                <div class="list red">
+                    ※進化分岐ギアの特殊な動作について、<br>
+                    二階堂 司【芝蘭】の詳細ページにて説明しております。
+                </div>
+                <a href="/news/show/id/444?returnUrl=back">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_049_70/bnr_header.jpg?v=1176">
+                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+                </a>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-741" class="weighty-column">
 
             2021/07/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1344,149 +1389,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-722" class="weighty-column">
-
-            2021/06/04 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-722" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年06月04日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶神宮寺 真理専用の一部クロスギアをリニューアルしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/ナイトストーカーA1<br>
-                ・★4/ナイトストーカーA2
-            </div>
-            <p class="list">
-                ・ガード後、フリック操作により<br>
-                特殊ステップへ移行できるよう調整。
-            </p>
-            <p class="list">
-                ・ガード後、「ピジョン射出」を連続で行う際、<br>
-                3回目に「大型ピジョン」を射出するよう変更。
-            </p>
-            <p class="list red">
-                ※「大型ピジョン」は従来のピジョンと比べ、<br>
-                ダメージが約72%上昇しています。
-            </p>
-            <p class="list">
-                ・ガード後の「ピジョン射出」の操作方法を変更。<br>
-                <span>変更前：下フリック</span><br>
-                <span>変更後：タップ</span>
-            </p>
-            <p class="list">
-                ・ガード後の「追加攻撃」の操作方法を変更。<br>
-                <span>変更前：タップ</span><br>
-                <span>変更後：上フリック</span>
-            </p>
-            <p class="list">
-                ・近接攻撃2段目の攻撃力を約9%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃3段目の攻撃力を約10%増加。
-            </p>
-            <p class="list">
-                ・「突進攻撃」の移動距離を約40%増加。
-            </p>
-        </div>
-        <div class="list red">
-            ※進化分岐ギアの特殊な動作について、<br>
-            神宮寺 真理【孤影】の詳細ページにて説明しております。
-        </div>
-        <a href="/news/show/id/164?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1176">
-            <p class="center red">
-                ※バナーをタップすると詳細ページへジャンプします
-            </p>
-        </a>
-        <div class="list">
-            ▶宇佐元 杏奈のアナザートップスギアにて、特定のチューンスキルにより使用可能になる「イースターバニーR」が、パッシブスキル「リペアラー追加/T」による、使用回数の増加効果を受けない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶春日丘 もえ専用ボトムスギアのギアスキルが、敵をロックオンしていない状態では発動できない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※対象ギアスキルは、敵をロックオンしていなくても発動できるのが正しい挙動となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・ハッピーコール<br>
-                ・チアフル・チア
-            </div>
-        </div>
-        <div class="list">
-            ▶一条 綾香の一部絆エピソードにて、ボイスが再生されない不具合を修正し、一部演出を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象エピソード】</p>
-            <div>
-                ・絆エピソード Ep.1<br>
-                ・絆エピソード Ep.2
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「Quiz 星の流れとともに」のクイズミニゲームにて、一部問題文の内容を、適切な表現となるよう修正しました。
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜修正前＞</p>
-            <ul>
-                <li>
-                    植物の発芽の条件で当てはまらないものはどれ？
-                </li>
-            </ul>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜修正後＞</p>
-            <ul>
-                <li>
-                    植物の発芽の条件に必ずしも必要でないものはどれ？
-                </li>
-            </ul>
-        </div>
-        <div class="list">
-            ▶特定状況にて、ヘケトがキャラクターに重なるようにワープしてくることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定状況にて、ホーム画面でアクトレスの足が表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
