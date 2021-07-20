@@ -33,6 +33,64 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-744" class="weighty-column">
+
+            2021/07/20 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.44.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-744" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年07月20日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.44.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.44.0の更新内容】</p>
+        
+        <div class="list">
+            ▶一部画面に表示されるアクセサリー及びコスチュームアイコンに、着用対象キャラクター表示を追加しました。
+        </div>
+        <div class="list">
+            ▶イベント特設交換所の一覧画面にて、報酬の追加や獲得状況を示す表示を追加しました。
+        </div>
+        <p class="list red">
+            ※ギア交換所やギフトークン交換所などの一部交換所は対象外です。
+        </p>
+        <div class="list">
+            ▶各イベント特設交換所に報酬が追加された際に、対象の報酬に「NEW」が表示される機能を追加しました。
+        </div>
+        <p class="list red">
+            ※ギア交換所やギフトークン交換所などの一部交換所は対象外です。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.44.0の配信に伴い、<span class="bold red">7/21（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-742" class="weighty-column">
 
             2021/07/15 15:00            
@@ -1323,66 +1381,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-723" class="weighty-column">
-
-            2021/06/04 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-723" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月04日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶神宮寺 真理専用のアナザーギアを実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    ・「ストリクスA」シリーズ<br>
-                    ・「ナイトストーカーA」シリーズ<br>
-                    ・「グレイハーミットA/T」シリーズ<br>
-                    ・「グレイハーミットA/B」シリーズ
-                </div>
-            </div>
-            <div class="list red">
-                ※アナザーショットギアの特殊な動作について、<br>
-                神宮寺 真理【孤影】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/164?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_027_70/bnr_header.jpg?v=1181">
-                <p class="center red">
-                    ※バナーをタップすると詳細ページへジャンプします
-                </p>
-            </a>
-            <div class="list">
-                ▶ギアオクのWishで神宮寺 真理が選択できるようになりました。
-            </div>
-            <div class="list">
-                ▶神宮寺 真理【孤影】に「アナザーギア体験エピソード」を追加しました。
-            </div>
-            <p class="list red">
-                ※エピソードは神宮寺 真理【孤影】が加入している場合に、「キャラエピソード画面」から再生できます。
-            </p>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
