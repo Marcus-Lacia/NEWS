@@ -35,49 +35,58 @@
         
         <div id="important-column-746" class="weighty-column">
 
-            2021/07/21 02:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/07/21 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
             
             <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定環境にて定期要撃任務「要撃対象：ブレイズファルコン」をプレイ中、アプリが強制終了することがある            </div>
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
 
         </div>
         <div id="important-text-746" class="weighty-notice hide">
            
+<div>
+    
     <div>
-        <div>
-            ■2021年07月21日 02:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
+        ■2021年07月21日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
         
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定環境にて定期要撃任務「要撃対象：ブレイズファルコン」をプレイ中、アプリが強制終了することがある。
-            </div>
-            <p class="list red">
-                ※キャリアタートル撃破時に発生するケースが確認されております。
-            </p>
+        <div class="list">
+            ▶一部スカウト及びアクセサリーガチャ画面の、カメラワークやモーションを調整しました。
         </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
+        <div class="list">
+            ▶Ver.1.44.0アプリより、イベント「二階堂 司【芝蘭】トライアル任務」の任務「トライアル任務:アナザー司編」にて、専用チームでの出撃ができない不具合を修正しました。
         </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        <div class="list">
+            ▶各種データを追加しました。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
         </div>
-    </div>        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
         
         <div id="important-column-745" class="weighty-column">
 
-            2021/07/20 16:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/07/20 16:20                            
+                <span class="red bold">
+                                            (07/21 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -87,6 +96,23 @@
         <div id="important-text-745" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2021年07月21日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年07月20日 16:20<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
