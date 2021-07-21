@@ -314,13 +314,13 @@
                 <div class="list">
                     ▶二階堂 司の専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210715/bnr_l00_inf_307_15.jpg?v=1183">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210715/bnr_l00_inf_307_15.jpg?v=1184">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     二階堂 司【芝蘭】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/444?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_049_70/bnr_header.jpg?v=1183">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_049_70/bnr_header.jpg?v=1184">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -908,13 +908,13 @@
                 <div class="list">
                     ▶須賀 乙莉の専用ボトムスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1183">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1184">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     須賀 乙莉【仰望】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/436?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1183">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1184">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
