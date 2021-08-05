@@ -33,10 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-750" class="weighty-column">
+
+            2021/08/05 15:30                            
+                <span class="red bold">
+                                            (08/05 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ギア交換所とギフトークン交換所に「COMPLETE」と表示されることがある            </div>
+
+        </div>
+        <div id="important-text-750" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年08月05日 15:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント特設交換所の一覧画面にて、ギア交換所とギフトークン交換所に「COMPLETE」と表示されることがある。
+            </div>
+            <p class="list red">
+                ※「COMPLETE」の表示は、ギア交換所とギフトークン交換所には表示されないのが正しい挙動となります。
+            </p>
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-749" class="weighty-column">
 
-            2021/08/02 14:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/08/02 14:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.44.1 配信のお知らせ            </div>
@@ -664,13 +702,13 @@
                 <div class="list">
                     ▶二階堂 司の専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210715/bnr_l00_inf_307_15.jpg?v=1188">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210715/bnr_l00_inf_307_15.jpg?v=1189">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     二階堂 司【芝蘭】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/444?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_049_70/bnr_header.jpg?v=1188">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_049_70/bnr_header.jpg?v=1189">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1258,13 +1296,13 @@
                 <div class="list">
                     ▶須賀 乙莉の専用ボトムスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1188">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1189">
                 <div class="list red">
                     ※進化分岐ギアの特殊な動作について、<br>
                     須賀 乙莉【仰望】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/436?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1188">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1189">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1458,77 +1496,6 @@
             そのため、対象のお客様には後日「ギアメダル」を補填予定となります。<br>
             対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-730" class="weighty-column">
-
-            2021/06/15 15:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-730" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月15日 15:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            メインストーリー侵蝕編4章にて、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶強制移動モード中の、各種挙動が開発意図と異なる問題を修正しました。
-            </div>
-            <div class="list">
-                ▶「討伐任務：4件目」にて、エリア2の作戦目標が「2分以内に敵を全滅」であるにも関わらず、特定の敵を倒すとクリアできてしまう問題を修正しました。
-            </div>
-            <div class="list">
-                ▶一部任務のシェルドロップ設定に誤りがある問題を修正しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象任務】</p>
-                <div>
-                    <span class="bold">討伐任務：3件目</span>
-                    <p>
-                        誤<br>
-                        ・マテリアルシェルGV/E<br>
-                        ・マテリアルシェルPo/E
-                    </p>
-                    <p>
-                        正<br>
-                        ・マテリアルシェルGV/F<br>
-                        ・マテリアルシェルPo/F
-                    </p>
-                </div>
-                <div>
-                    <span class="bold">討伐任務：5件目</span>
-                    <p>
-                        誤<br>
-                        ・マテリアルシェルGV/E<br>
-                        ・マテリアルシェルPo/E
-                    </p>
-                    <p>
-                        正<br>
-                        ・マテリアルシェルGV/H<br>
-                        ・マテリアルシェルRa/H
-                    </p>
-                </div>
-            </div>
-            <div class="list">
-                ▶一部シナリオ中に登場するキャラクターの顔アイコンが、開発意図と異なる表示となっていた問題を修正しました。
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
