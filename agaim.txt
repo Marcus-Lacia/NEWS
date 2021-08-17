@@ -33,6 +33,42 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-752" class="weighty-column">
+
+            2021/08/17 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-752" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年08月17日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-751" class="weighty-column">
 
             2021/08/10 14:00            
@@ -1533,116 +1569,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-731" class="weighty-column">
-
-            2021/06/17 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-731" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年06月17日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶的場 アオイの専用ショットギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/ジャベリンMAs<br>
-                ・★3/ジャベリンMAsMk2<br>
-                ・★3/ジャベリンMAsMk3<br>
-                ・★4/イン・ザ・ブラック<br>
-                ・★4/イン・ザ・ブラックMk2<br>
-                ・★4/イン・ザ・ブラックMk3
-            </div>
-            <p class="list">
-                ・射撃攻撃（立ち、横移動、後移動）の、<br>
-                攻撃判定の持続時間を約33%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃の攻撃力を約46%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃のレーザーが発射されるまでの時間を約50%減少。
-            </p>
-            <p class="list">
-                ・後移動射撃のレーザーが発射されるまでの時間を約33%減少。
-            </p>
-        </div>
-        <div class="list">
-            ▶的場 アオイの専用トップスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/ペレグリーネMAs/T<br>
-                ・★3/ペレグリーネMAsMk2/T<br>
-                ・★3/ペレグリーネMAsMk3/T<br>
-                ・★4/ジェイド/T<br>
-                ・★4/ジェイドMk2/T<br>
-                ・★4/ジェイドMk3/T
-            </div>
-            <p class="list">
-                ・ギアスキルのレーザーの誘導時間を約100%増加。
-            </p>
-        </div>
-        <div class="list">
-            ▶アクセサリーの装着部位に、新たに「卓上」を追加しました。
-        </div>
-        <p class="list">
-            ※追加に伴い、アクセサリー「ヒンヤリデコ」のアイコン及び装着部位を調整しました。
-        </p>
-        <div class="list">
-            ▶下記コスチューム着用時、体の特定部位が正しく表示されない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                ・ツインデュオ/Ｂ（琴村 朱音）<br>
-                ・ツインデュオ/Ｗ（琴村 天音）
-            </div>
-        </div>
-        <div class="list">
-            ▶九炉鉄 悠都がコスチューム「芦原高校夏服」着用時、爪の色が正しく表示されない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶依城 えりの絆エピソードEp.3の、一部誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶ギア整備室にて、一部ショットギアの表示順が誤っている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
