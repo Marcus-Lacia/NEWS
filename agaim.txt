@@ -33,6 +33,57 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-753" class="weighty-column">
+
+            2021/08/18 16:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              コラボコスチュームガチャに発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-753" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年08月18日 16:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+        <div class="list">
+            ▶下記コスチュームガチャにて、コスチューム提供時に対応キャラクターを所有していない場合に、対応する★1キャラクターが提供されない。
+        </div>
+        <p class="list red">
+            ※コスチューム及びアクセサリーは、正しく提供されることを確認しております。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチュームガチャ】</p>
+            <div>
+                ・交差する空 コスチュームガチャ<br>
+                ・還りたい空 コスチュームガチャ<br>
+                ・還りたい空EX コスチュームガチャ
+            </div>
+        </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            また、本不具合によって★1キャラクターが提供されなかったお客様を対象に、後日補填対応を検討しております。<br>
+            対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-752" class="weighty-column">
 
             2021/08/17 14:00            
@@ -1520,50 +1571,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-732" class="weighty-column">
-
-            2021/06/17 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-732" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年06月17日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶須賀 乙莉の専用ボトムスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210617/bnr_l00_inf_306_17.jpg?v=1194">
-                <div class="list red">
-                    ※進化分岐ギアの特殊な動作について、<br>
-                    須賀 乙莉【仰望】の詳細ページにて説明しております。
-                </div>
-                <a href="/news/show/id/436?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_050_70/bnr_header.jpg?v=1194">
-                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-                </a>
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
