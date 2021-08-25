@@ -33,6 +33,134 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-756" class="weighty-column">
+
+            2021/08/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.45.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-756" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年08月25日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.45.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.45.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶初心者向けミッション「ガイドミッション」を追加しました。
+        </div>
+        <p class="list red">
+            ※「ガイドミッション」は全てのお客様がプレイし、報酬を受け取ることができます。
+        </p>
+        <p class="list red">
+            ※過去に条件達成済みのミッションはクリア扱いとなりますが、一部ミッションは再度条件を達成し直す必要があります。
+        </p>
+        <p class="list red">
+            ※「ガイドミッション」の進行状況はホーム画面のアイコンより確認できます。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_25.jpg?v=1195">
+        </div>
+        <div class="list">
+            ▶オプション＞バトル関連＞の「セミオート操作ON」 時に、画面外ロック切替ボタンが表示されるよう仕様を変更しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_26.jpg?v=1195">
+        </div>
+        <div class="list">
+            ▶オプション＞バトル関連の「セミオート時のターゲット自由変更機能」を廃止し、「画面内/外ロック切替ボタン表示」に変更しました。
+        </div>
+        <div class="list">
+            ▶坂本 美緒の魔眼発動中の表現を調整しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターの、メガネの表現を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・ペリーヌ・C<br>
+                ・依城 えり
+            </div>
+        </div>
+        <div class="list">
+            ▶ギアのロック/ロック解除ボタンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶ギア詳細画面より、ギアのロック/ロック解除ができる機能を追加しました。
+        </div>
+        <p class="list red">
+            ※一部画面では非対応の場合があります。
+        </p>
+        <div class="list">
+            ▶ギア合成とギア売却にて、ロックされたギアを選択した際に、ロック解除の確認画面を表示するよう調整しました。
+        </div>
+        <div class="list">
+            ▶へクス調査報酬の受取画面にて、アクセサリーやコスチュームのアイコンに、着用対象キャラクター表示を追加しました。
+        </div>
+        <div class="list">
+            ▶イベント「特殊宙域作戦 Op.ナスタチウム」の一部バトルへクスに出現するヴァイスワーカー系の敵が、出撃前画面に表示される種類と異なることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定タイミングでVWシールドに攻撃すると、攻撃が当たらないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶春日丘 もえのSPスキル「ストームグライド」の、演出終了間際のカメラワークを微調整しました。
+        </div>
+        <div class="list">
+            ▶特定ショットギアを装備した下記キャラクターをサポーターとして呼び出した際、ジャスト入力による攻撃を行わない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                <p class="bold">神宮寺 真理</p>
+                ・「ストリクスA」シリーズ<br>
+                <p class="list">※チューンスキル「射撃形態変更JMs」付与時のみ。</p>
+                
+                <p class="bold">二階堂 司</p>
+                ・グリーンキーパーLSW<br>
+                ・スティンプメーター
+            </div>
+        </div>
+        <div class="list">
+            ▶3D MODEL画面にて、特定操作を行うと進行不能になることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチにて、全てのプレイヤーが戦闘不能になった後、再びマルチ任務をプレイし特定操作を行うと、正常にバトルをプレイできなくなる場合がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.45.0の配信に伴い、<span class="bold red">8/26（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-755" class="weighty-column">
 
             2021/08/19 15:00            
@@ -1418,131 +1546,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-735" class="weighty-column">
-
-            2021/06/28 14:05                            
-                <span class="bold">
-                                            (06/28 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.43.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-735" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年06月28日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.43.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.43.0の更新内容】</p>
-        
-        <div class="list">
-            ▶習熟訓練に以下の機能を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【追加機能】</p>
-            <div>
-                ・新BGMを追加。<br>
-                <p class="list">
-                    ・一時停止画面からSPゲージをチャージできる機能を追加。
-                </p>
-                <p class="list">
-                    ・一時停止画面から敵の配置数を増やせる機能を追加。
-                </p>
-            </div>
-        </div>
-        <div class="list">
-            <s>▶習熟訓練の敵が各種状態異常を受けないよう仕様を変更しました。</s>
-        </div>
-        <div class="list">
-            ▶習熟訓練に限り、敵が状態異常になった後に、再度状態異常になりにくくなる挙動を無効化しました。
-        </div>
-        <p class="list red">
-            ※18:30 訂正<br>
-            更新内容に誤りがあったため訂正しました。
-        </p>
-        <div class="list">
-            ▶リタ・Hのコスチューム「アンファング」の脚部一部デザインを微調整しました。
-        </div>
-        <div class="list">
-            ▶アイテム一覧画面の「コスチューム」及び「アクセサリー」タブにフィルター機能を追加しました。
-        </div>
-        <div class="list">
-            ▶スカウト結果画面よりスカウト登場演出を再度再生する際に、画面下部にキャラクターアイコンが表示されないよう仕様を変更しました。
-        </div>
-        <div class="list">
-            ▶一部ヴァイスのレーザー攻撃エフェクトを変更しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの変更となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶ポストフィルター機能を有効にした際の表現を微調整しました。
-        </div>
-        <div class="list">
-            ▶ホーム画面にて須賀 乙莉の特定部位をタップした際に、開発意図と異なるボイスが再生される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶須賀 乙莉のSPスキル「オービタルスティング」発動中、性能が上書きされたトップススキルの属性が、開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶御茶ノ水 美里江のSPスキル「バステリオンγ」発動中、性能が上書きされたトップススキルによるピジョンのダメージが、特定状況で変動することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶チューンスキル「射撃形態変更VGs」が付与されたアナザーショットギアを装備したバージニア・Gが、SPスキル「プロミネンスブラスト」を発動すると、特定状況にて、溜め撃ちの最大ロックオン数が減少することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶「クロスギアの性能を上書きする特殊タイプのSPスキル」の効果時間中、近接攻撃中にアクティブスキルのクールタイムが回復しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ウェルウィッチアのダウンと外殻破壊が、同時に発生しないように調整しました。
-        </div>
-        <div class="list">
-            ▶ケプリの装甲部分に攻撃が当たりにくい不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ケプリの岩石を特定タイミングで破壊すると、爆発が2回発生することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ケプリの岩石を破壊したにも関わらず、当たり判定が数秒間残ってしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶チーム管理画面にて、チーム切り替え時に特定操作を行うと、キャラクターの配置をスワイプして移動できなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ホーム画面からドレッサー画面へ遷移する際の演出が正しく再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種交換所のフィルター画面にて、交換アイテムが存在しないキャラクターアイコンが表示されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.43.0の配信に伴い、<span class="bold red">6/29（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
