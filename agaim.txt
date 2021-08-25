@@ -35,7 +35,10 @@
         
         <div id="important-column-756" class="weighty-column">
 
-            2021/08/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/08/25 14:00                            
+                <span class="red bold">
+                                            (08/25 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -56,6 +59,12 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.45.0の更新内容】</p>
         
+        <p class="list red">
+            ※18:50 追記
+        </p>
+        <div class="list">
+            ▶イベント「ストライクウィッチーズコラボ 還りたい空」の、一部任務の背景を変更しました。
+        </div>
         <div class="list">
             ▶アプリアイコンのデザインを変更しました。
         </div>
