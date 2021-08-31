@@ -33,6 +33,56 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-760" class="weighty-column">
+
+            2021/08/31 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              服袋「ウェイトレスセレクト」及びアクセサリーガチャ「ホワイトブリム」の公開終了について            </div>
+
+        </div>
+        <div id="important-text-760" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年08月31日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            現在公開中の「ウェイトレスセレクト」及びアクセサリーガチャ「ホワイトブリム」につきまして、以下の日時に公開終了を予定しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【対象】</p>
+            ・服袋「ウェイトレスセレクト vol.1」<br>
+            ・服袋「ウェイトレスセレクト vol.2」<br>
+            ・服袋「ウェイトレスセレクト vol.3」<br>
+            ・服袋「ウェイトレスセレクト vol.4」<br>
+            ・アクセサリーガチャ「ホワイトブリム」
+            <div class="list red">
+        	    ※公開終了日時以降、新たに開催される「アクセチョイス」からは、「ホワイトブリム」が提供されなくなります。
+            </div>
+            <p class="bold">【公開終了日時】</p>
+            <div>
+        	    ・9/30（木）14:59
+            </div>
+            <div class="list red">
+                ※公開終了日時以降は各種「ウェイトレスセレクト」をご利用いただけなくなります。
+            </div>
+            <div class="list red">
+                ※すでに入手済みのコスチューム及びアクセサリーは引き続きご利用いただけます。
+            </div>
+            <div class="list red">
+                ※再配信につきましては「未定」となっております。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
+        </div>
+    </div>        </div>
+        
         <div id="important-column-753" class="weighty-column">
 
             2021/08/18 16:00                            
@@ -1520,75 +1570,6 @@
     <div class="bg_white news-box">
         <p class="bold">【データ更新内容】</p>
         
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-738" class="weighty-column">
-
-            2021/07/05 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-738" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年07月05日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ドレッサー画面にて、下記キャラクターがコスチューム「桃蔭学園総合高校夏服」とアクセサリー「アクアストーム/W」を同時に着用した時のリアクションを調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・兼志谷 シタラ<br>
-                ・二子玉 舞<br>
-                ・バージニア・G<br>
-                ・ファティマ・B<br>
-                ・文島 明日翔<br>
-                ・村尾 未羅<br>
-                ・君影 唯<br>
-                ・須賀 乙莉
-            </div>
-        </div>
-        <div class="list">
-            ▶琴村 朱音のSPスキル「ハーモニー・ルージュ」中のステップ攻撃時に、わずかな無敵時間を追加しました。
-        </div>
-        <div class="list">
-            ▶琴村 天音のSPスキル「ハーモニー・セレスト」中のステップ攻撃時に、わずかな無敵時間を追加しました。
-        </div>
-        <div class="list">
-            ▶琴村 朱音のSPスキル「ハーモニー・ルージュ」にて、フィニッシュブローの発動演出中に開発意図と異なるエフェクトが明滅する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.43.0アプリより、特定キャラクターのSPスキル挙動に意図しない変更が適用されている問題を修正しました。
-        </div>
         <div class="list">
             ▶各種データを追加しました。
         </div>
