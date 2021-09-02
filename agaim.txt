@@ -39,7 +39,7 @@
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「アイドル誕生！」のマルチ任務がプレイできない            </div>
+              イベント「【復刻】アイドル誕生！」のマルチ任務がプレイできない            </div>
 
         </div>
         <div id="important-text-761" class="weighty-notice hide">
@@ -58,7 +58,7 @@
             <p class="bold">【不具合内容】</p>
             
             <div class="list">
-                ▶イベント「アイドル誕生！」のマルチ任務が、開催期間中にも関わらずプレイできなくなっている。
+                ▶イベント「【復刻】アイドル誕生！」のマルチ任務が、開催期間中にも関わらずプレイできなくなっている。
             </div>
         </div>
         <div>
