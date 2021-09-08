@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-762" class="weighty-column">
+
+            2021/09/08 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              エーリカ・H専用ボトムスギア及びレプリカギアに発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-762" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月08日 18:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶8/10（火）に実施したギア性能の調整以降、エーリカ・H専用ボトムスギア及びレプリカギアの、ギアスキルの効果時間が約27%増加しておらず、極端に短い効果時間になっている。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-753" class="weighty-column">
 
             2021/08/18 16:00                            
@@ -1640,53 +1679,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-741" class="weighty-column">
-
-            2021/07/15 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-741" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年07月15日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶吾妻 楓がコスチューム「星条大学附属高校夏服」着用時、腰周りの見た目に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶吾妻 楓がコスチューム「星条大学附属高校夏服」着用時、ネクタイの結び目に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
