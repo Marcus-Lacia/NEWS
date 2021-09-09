@@ -333,7 +333,7 @@
         <div id="important-column-762" class="weighty-column">
 
             2021/09/08 18:15                            
-                <span class="red bold">
+                <span class="bold">
                                             (09/09 修正済)
                                     </span>
             
