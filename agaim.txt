@@ -36,7 +36,7 @@
         <div id="important-column-766" class="weighty-column">
 
             2021/09/10 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (09/10 補填済)
                                     </span>
             
@@ -113,7 +113,7 @@
         <div id="important-column-765" class="weighty-column">
 
             2021/09/09 16:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (09/10 修正済)
                                     </span>
             
