@@ -33,6 +33,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-767" class="weighty-column">
+
+            2021/09/13 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              一部クロスギアのカウンター待機中に被弾すると、カウンターが成功しても、調査任務中の完全回避ボーナスが失敗判定となる            </div>
+
+        </div>
+        <div id="important-text-767" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月13日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶一部クロスギアのカウンター待機中に被弾すると、カウンターが成功しても、調査任務中の完全回避ボーナスが失敗判定となる。
+            </div>
+            <p class="list red">
+                ※クロスギアのカウンターが成功した場合は、完全回避ボーナスが成功判定となるのが正しい挙動となります。
+            </p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ギア】</p>
+                <div>
+                    ・★3/八一式長槍CMs シリーズ<br>
+                    ・★4/カムリオトシ シリーズ<br>
+                    ・★4/トモエ<br>
+                    ・★3/メロコトン・MM R<br>
+                    ・★3/メロコトン・MM シリーズ<br>
+                    ・★4/神器メロコトン・MM シリーズ<br>
+                    ・★3/EM-TR/MARIE<br>
+                    ・★3/EM-T/MARIE シリーズ<br>
+                    ・★4/EM-T/MARIE シリーズ<br>
+                    ・★4/EM-TS/MARIE
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-766" class="weighty-column">
 
             2021/09/10 14:00                            
@@ -1795,96 +1852,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-747" class="weighty-column">
-
-            2021/07/21 02:00                            
-                <span class="bold">
-                                            (07/21 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定環境にて定期要撃任務「要撃対象：ブレイズファルコン」をプレイ中、アプリが強制終了することがある            </div>
-
-        </div>
-        <div id="important-text-747" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年07月21日 15:40 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            本件につきまして、先ほどのデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-            <p class="list">
-                ※「要撃対象：ブレイズファルコン」以外にも、キャリアタートルが出現する各種任務にて不具合が発生しておりましたが、本対応にて修正済みとなります。
-            </p>
-        </div>
-        <div>
-            また、データ更新の発生及び不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                7/21（水）15:35 までに<br>
-                アカウントを作成しているお客様
-            </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 100
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    8/4（水）23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">  
-        
-        <div>
-            ■2021年07月21日 02:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定環境にて定期要撃任務「要撃対象：ブレイズファルコン」をプレイ中、アプリが強制終了することがある。
-            </div>
-            <p class="list red">
-                ※キャリアタートル撃破時に発生するケースが確認されております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/36</div>
+                    <div class="page-box box-radius">1/37</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
