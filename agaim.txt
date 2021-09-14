@@ -35,8 +35,7 @@
         
         <div id="important-column-767" class="weighty-column">
 
-            2021/09/13 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/09/13 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部クロスギアのカウンター待機中に被弾すると、カウンターが成功しても、調査任務中の完全回避ボーナスが失敗判定となる            </div>
