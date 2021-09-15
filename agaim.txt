@@ -33,6 +33,55 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-768" class="weighty-column">
+
+            2021/09/15 14:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.45.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-768" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年09月15日 14:25<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.45.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.45.1の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶在賀 奈々のキャラエピソードEp3-3の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.45.1の配信に伴い、<span class="bold red">9/16（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-767" class="weighty-column">
 
             2021/09/13 15:00            
@@ -1539,311 +1588,6 @@
     <div>
         なお、Ver.1.44.1の配信に伴い、<span class="bold red">8/3（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-748" class="weighty-column">
-
-            2021/07/29 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-748" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年07月29日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶宮藤 芳佳とリネット・Bに関連する各種ギア性能の調整を実施しました。
-        </div>
-        <p class="list">
-            ※ゲルトルート・Bとエーリカ・Hについても後日実施予定です。
-        </p>
-        
-        <p class="list bold">
-            ※宮藤 芳佳 関連ギア
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【ショットギア】</p>
-            <div>
-                ・★1/九九式二号二型機関銃【D】
-            </div>
-            <p class="list">
-                ・立ち射撃の攻撃力を約10%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃の攻撃力を約28%増加。
-            </p>
-            <p class="list">
-                ・前、後移動射撃の攻撃力を約11%増加。
-            </p>
-            <p class="list">
-                ・前、横移動射撃の反動を約50%減少。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約36%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ショットギア】</p>
-            <div>
-                ・★3/九九式二号二型機関銃【N】<br>
-                ・★3/九九式二号二型機関銃
-            </div>
-            <p class="list">
-                ・立ち射撃の攻撃力を約10%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃の攻撃力を約28%増加。
-            </p>
-            <p class="list">
-                ・前、後移動射撃の攻撃力を約11%増加。
-            </p>
-            <p class="list">
-                ・前、横移動射撃の反動を約50%減少。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約46%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ショットギア】</p>
-            <div>
-                ・★4/九九式二号二型機関銃<br>
-                ・★4/九九式二号二型改機関銃
-            </div>
-            <p class="list">
-                ・立ち射撃の攻撃力を約10%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃の攻撃力を約28%増加。
-            </p>
-            <p class="list">
-                ・前、後移動射撃の攻撃力を約11%増加。
-            </p>
-            <p class="list">
-                ・前、横移動射撃の反動を約50%減少。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約49%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【クロスギア】</p>
-            <div>
-                ・★1/M712拳銃【D】<br>
-                ・★3/M712拳銃【N】<br>
-                ・★3/M712拳銃<br>
-                ・★4/M712拳銃<br>
-                ・★4/M712改拳銃
-            </div>
-            <p class="list">
-                ・近接攻撃1段目の攻撃力を約33%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★1/零式艦上戦闘脚二二型甲【D】<br>
-                ・★3/零式艦上戦闘脚二二型甲【N】
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約35%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルの効果時間を約23%減少。
-            </p>
-            <p class="list">
-                ・ギアスキルのクールタイムを約50%減少。
-            </p>
-            <p class="list">
-                ・ギアスキルの硬直時間を約40%減少。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★3/零式艦上戦闘脚二二型甲
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約35%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルの効果時間を約30%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルのクールタイムを約50%減少。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★4/零式艦上戦闘脚二二型甲
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約50%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルの効果時間を約30%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルのクールタイムを約50%減少。
-            </p>
-        </div>
-        
-        <p class="list bold">
-            ※リネット・B 関連ギア
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【ショットギア】</p>
-            <div>
-                ・★1/ボーイズ対装甲ライフル【D】<br>
-                ・★3/ボーイズ対装甲ライフル【N】<br>
-                ・★3/ボーイズ対装甲ライフル<br>
-                ・★4/ボーイズ対装甲ライフル<br>
-                ・★4/ボーイズ対装甲ライフル改
-            </div>
-            <p class="list">
-                ・立ち射撃の攻撃力を約10%増加。
-            </p>
-            <p class="list">
-                ・後移動射撃の攻撃力を約43%増加。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約83%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【クロスギア】</p>
-            <div>
-                ・★1/ウェブリー・リボルバー【D】<br>
-                ・★3/ウェブリー・リボルバー【N】<br>
-                ・★3/ウェブリー・リボルバー<br>
-                ・★4/ウェブリー・リボルバー<br>
-                ・★4/ウェブリー・リボルバー改
-            </div>
-            <p class="list">
-                ・近接攻撃1段目の攻撃力を約33%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★1/スピットファイアⅨ【D】<br>
-                ・★3/スピットファイアⅨ【N】<br>
-                ・★3/スピットファイアⅨ<br>
-                ・★4/スピットファイアⅨ
-            </div>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキルの効果時間を約22%減少。
-            </p>
-            <p class="list">
-                ・ギアスキルの硬直時間を約22%減少。
-            </p>
-            <p class="list">
-                ・ギアスキルのクールタイムを約33%増加。
-            </p>
-        </div>
-        
-        <div class="list">
-            ▶リネット・Bのボトムスギアのギアスキル発動中、効果時間を表すゲージが不自然な挙動になる問題を緩和しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの問題となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶リネット・BのSPスキル演出を微調整しました。
-        </div>
-        <div class="list">
-            ▶特定画面にて表示される、宮藤 芳佳のイラストを微調整しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターの、頬の色味を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・リネット・B<br>
-                ・ゲルトルート・B<br>
-                ・エーリカ・H
-            </div>
-        </div>
-        <div class="list">
-            ▶任務中、下記キャラクターが一部ショットギアを構えた際に、開発意図と異なる表情になる問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・宮藤 芳佳<br>
-                ・リネット・B<br>
-                ・ゲルトルート・B<br>
-                ・エーリカ・H
-            </div>
-        </div>
-        <div class="list">
-            ▶小芦 睦海の専用クロスギア「ブレイクストライク」の使用時に、開発意図と異なるエフェクトが表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶イベント「【復刻】蒼天のアルバトロス －シスターXの罠－」の一部任務にて、出現する敵のレベルが、表記された推奨レベルと異なっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
