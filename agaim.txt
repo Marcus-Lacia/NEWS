@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-770" class="weighty-column">
+
+            2021/09/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-770" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年09月16日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div>
+                <div class="list">
+                    ▶下落合 桃歌の専用トップスギアに進化分岐を追加しました。
+                </div>
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1210">
+                <div class="list red">
+                    ※派生進化専用ギアの特殊な動作について、<br>
+                    下落合 桃歌【明星】の詳細ページにて説明しております。
+                </div>
+                <a href="/news/show/id/170?returnUrl=back">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1210">
+                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+                </a>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-769" class="weighty-column">
 
             2021/09/16 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1584,45 +1629,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-750" class="weighty-column">
-
-            2021/08/05 15:30                            
-                <span class="bold">
-                                            (08/05 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ギア交換所とギフトークン交換所に「COMPLETE」と表示されることがある            </div>
-
-        </div>
-        <div id="important-text-750" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年08月05日 15:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント特設交換所の一覧画面にて、ギア交換所とギフトークン交換所に「COMPLETE」と表示されることがある。
-            </div>
-            <p class="list red">
-                ※「COMPLETE」の表示は、ギア交換所とギフトークン交換所には表示されないのが正しい挙動となります。
-            </p>
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
