@@ -33,6 +33,56 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-771" class="weighty-column">
+
+            2021/09/16 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              トップス、ボトムススキルの性能を上書きする、一部SPスキルに発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-771" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月16日 18:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶一部SPスキル効果中、特定タイミングでアクティブスキルを発動すると、ギアが表示されず開発意図と異なる見た目や性能となることがある。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象SPスキル】</p>
+                <div>
+                    ・ラフストック<br>
+                    ・メルクリウス<br>
+                    ・オービタルスティング<br>
+                    ・ロイヤル・パーティツ<br>
+                    ・バステリオンγ<br>
+                    ・knヘクセパンツァー
+                </div>
+            </div>
+        </div>
+        <div>
+            本不具合対応のため、SPスキルの効果終了直前に近接攻撃を行っている際は、SPスキルの効果で上書きされたアクティブスキルを発動できないよう修正を予定しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-770" class="weighty-column">
 
             2021/09/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1398,227 +1448,6 @@
         
         <div class="list">
             ▶各種データを追加しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-751" class="weighty-column">
-
-            2021/08/10 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-751" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年08月10日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ゲルトルート・Bとエーリカ・Hに関連する各種ギア性能の調整を実施しました。
-        </div>
-        <p class="list bold">
-            ※ゲルトルート・B 関連ギア
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【クロスギア】</p>
-            <div>
-                ・★1/MG42機関銃x2【D】<br>
-                ・★3/MG42機関銃x2【N】<br>
-                ・★3/MG42機関銃x2<br>
-                ・★4/MG42機関銃x2<br>
-                ・★4/MG42機関銃x2改
-            </div>
-            <p class="list">
-                ・近接攻撃1段目の攻撃力を約23%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃2段目の攻撃力を約19%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★1/Fw190D-6P【D】<br>
-                ・★3/Fw190D-6P【N】<br>
-                ・★3/Fw190D-6P
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約35%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★4/Fw190D-6P
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約50%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-        </div>
-        
-        <p class="list bold">
-            ※エーリカ・H 関連ギア
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【ショットギア】</p>
-            <div>
-                ・★1/MG42機関銃【D】<br>
-                ・★3/MG42機関銃【N】<br>
-                ・★3/MG42機関銃<br>
-                ・★4/MG42機関銃<br>
-                ・★4/MG42改機関銃
-            </div>
-            <p class="list">
-                ・立ち射撃の攻撃力を約8%増加。
-            </p>
-            <p class="list">
-                ・前、後移動射撃の攻撃力を約5%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃の攻撃力を約50%増加。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約102%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【クロスギア】</p>
-            <div>
-                ・★1/MP40短機関銃【D】<br>
-                ・★3/MP40短機関銃【N】<br>
-                ・★3/MP40短機関銃<br>
-                ・★4/MP40短機関銃<br>
-                ・★4/MP40改短機関銃
-            </div>
-            <p class="list">
-                ・近接攻撃1段目の攻撃力を約14%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃2段目の攻撃力を約18%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★1/Bf109G-6【D】<br>
-                ・★3/Bf109G-6【N】<br>
-                ・★3/Bf109G-6
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約35%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキルによる攻撃の一部が、<br>
-                複数の敵にヒットするように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルの効果時間を約27%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルのクールタイムを約30%減少。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【ボトムスギア】</p>
-            <div>
-                ・★4/Bf109G-6
-            </div>
-            <p class="list">
-                ・ギアスキル発動中、受けるダメージを<br>
-                約50%軽減する効果を追加。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時、<br>
-                移動方向を選択できるように変更。
-            </p>
-            <p class="list">
-                ・ギアスキルによる攻撃の一部が、<br>
-                複数の敵にヒットするように変更。
-            </p>
-            <p class="list">
-                ・ギアスキル発動時の無敵時間を約14%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルの効果時間を約27%増加。
-            </p>
-            <p class="list">
-                ・ギアスキルのクールタイムを約30%減少。
-            </p>
-        </div>
-        
-        <div class="list">
-            ▶琴村 朱音の専用クロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/ガントレットKAs<br>
-                ・★3/ガントレットKAsMk2<br>
-                ・★3/ガントレットKAsMk3<br>
-                ・★4/ミラードホーン<br>
-                ・★4/ミラードホーン改<br>
-                ・★4/カストル
-            </div>
-            <p class="list">
-                ・近接攻撃1段目の攻撃力を約17%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃2段目の攻撃力を約47%増加。
-            </p>
-        </div>
-        <div class="list">
-            ▶東雲 チヱのキャラエピソードEp.4-2の、一部誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
         </div>
     </div>
     <div>
