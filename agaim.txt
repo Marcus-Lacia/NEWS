@@ -35,8 +35,7 @@
         
         <div id="important-column-771" class="weighty-column">
 
-            2021/09/16 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/09/16 18:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               トップス、ボトムススキルの性能を上書きする、一部SPスキルに発生している不具合について            </div>
