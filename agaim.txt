@@ -109,13 +109,13 @@
                 <div class="list">
                     ▶下落合 桃歌の専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1213">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     下落合 桃歌【明星】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/170?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1212">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1213">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -470,17 +470,17 @@
                 <div class="list">
                     ▶藤野 やよいの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_09.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_09.jpg?v=1213">
                 <div class="list">
                     ▶藤野 やよいの専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_10.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_10.jpg?v=1213">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     藤野 やよい【無常】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/202?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_008_70/bnr_header.jpg?v=1212">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_008_70/bnr_header.jpg?v=1213">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -994,19 +994,19 @@
                 <div class="list">
                     ▶宮藤 芳佳の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_02.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_02.jpg?v=1213">
                 <div class="list">
                     ▶リネット・Bの専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_03.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_03.jpg?v=1213">
                 <div class="list">
                     ▶ゲルトルート・Bの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_04.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_04.jpg?v=1213">
                 <div class="list">
                     ▶エーリカ・Hの専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_05.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_05.jpg?v=1213">
                 
             </div>
         </div>
@@ -1230,13 +1230,13 @@
             ※「ガイドミッション」の進行状況はホーム画面のアイコンより確認できます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_25.jpg?v=1212">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_25.jpg?v=1213">
         </div>
         <div class="list">
             ▶オプション＞バトル関連＞の「セミオート操作ON」 時に、画面外ロック切替ボタンが表示されるよう仕様を変更しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_26.jpg?v=1212">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_26.jpg?v=1213">
         </div>
         <div class="list">
             ▶オプション＞バトル関連の「セミオート時のターゲット自由変更機能」を廃止し、「画面内/外ロック切替ボタン表示」に変更しました。
@@ -1346,11 +1346,11 @@
                 <div class="list">
                     ▶琴村 朱音の専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210819/bnr_l00_inf_308_19.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210819/bnr_l00_inf_308_19.jpg?v=1213">
                 <div class="list">
                     ▶琴村 天音の専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210819/bnr_l00_inf_308_20.jpg?v=1212">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210819/bnr_l00_inf_308_20.jpg?v=1213">
 
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
@@ -1362,11 +1362,11 @@
                 
                 <div>
                     <a href="/news/show/id/439?returnUrl=back">
-                        <img src="//i-cf.alice.colopl.jp/img/news/another/chr_033_70/bnr_header.jpg?v=1212">
+                        <img src="//i-cf.alice.colopl.jp/img/news/another/chr_033_70/bnr_header.jpg?v=1213">
                     </a>
                 </div>
                 <a href="/news/show/id/440?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_034_70/bnr_header.jpg?v=1212">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_034_70/bnr_header.jpg?v=1213">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
