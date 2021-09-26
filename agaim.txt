@@ -33,6 +33,46 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-772" class="weighty-column">
+
+            2021/09/26 12:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「企業案件任務β」中にSPスキルを変更すると発生する不具合について            </div>
+
+        </div>
+        <div id="important-text-772" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月26日 12:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「企業案件任務β」の部隊選択画面よりSPスキルを変更すると、編成画面で表示されるSPスキルと任務中のSPスキルが異なる場合がある。
+            </div>
+        </div>
+        <div>
+            なお、「企業案件任務β」以外の画面では、正常にSPスキルの変更が可能です。<br>
+            SPスキルを変更する際は、大変お手数ですが「企業案件任務β」以外の画面より行っていただくようお願い申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-771" class="weighty-column">
 
             2021/09/16 18:00            
@@ -1410,41 +1450,6 @@
         </div>
         <div class="list">
         	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-752" class="weighty-column">
-
-            2021/08/17 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-752" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年08月17日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
         </div>
     </div>
     <div>
