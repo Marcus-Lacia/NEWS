@@ -33,6 +33,46 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-773" class="weighty-column">
+
+            2021/09/27 12:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              「アナザーピックアップ 文島 明日翔【福音】」の開催期間について            </div>
+
+        </div>
+        <div id="important-text-773" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月27日 12:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在開催中の「アナザーピックアップ 文島 明日翔【福音】」について、お知らせ内の終了時刻表記が誤っていたことを確認しております。
+        </div>
+        <div>
+            ゲーム内スカウト一覧画面に表示されている期間が正しい開催期間となりますので、お知らせの時刻表記を以下の内容に訂正いたしました。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【訂正内容】</p>
+            
+            <div>
+                誤：9/28（火）14:59 まで<br>
+                正：9/27（月）14:59 まで
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-772" class="weighty-column">
 
             2021/09/26 12:00            
@@ -1415,50 +1455,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-754" class="weighty-column">
-
-            2021/08/19 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-754" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年08月19日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶特定操作を行うと、ホーム画面の廊下を通過するキャラクターの挙動が不自然になる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
