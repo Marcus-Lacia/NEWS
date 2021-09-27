@@ -35,8 +35,7 @@
         
         <div id="important-column-772" class="weighty-column">
 
-            2021/09/26 12:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/09/26 12:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「企業案件任務β」中にSPスキルを変更すると発生する不具合について            </div>
