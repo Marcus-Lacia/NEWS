@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-775" class="weighty-column">
+
+            2021/09/28 20:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              お気に入り設定したキャラクターが出撃後、お気に入り設定が解除されたような見た目になる            </div>
+
+        </div>
+        <div id="important-text-775" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月28日 20:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶お気に入り設定したキャラクターが出撃後、キャラクターアイコン上のハートマークが非表示となり、お気に入り設定が解除されたような見た目になる。
+            </div>
+            <div>
+                本不具合は表示上の問題となり、内部的にはお気に入り設定は適用されたままとなりますため、次回アプリ起動時に、正常な表示になることを確認しております。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-774" class="weighty-column">
 
             2021/09/28 15:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1408,143 +1450,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-756" class="weighty-column">
-
-            2021/08/25 14:00                            
-                <span class="bold">
-                                            (08/25 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.45.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-756" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年08月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.45.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.45.0の更新内容】</p>
-        
-        <p class="list red">
-            ※18:50 追記
-        </p>
-        <div class="list">
-            ▶イベント「ストライクウィッチーズコラボ 還りたい空」の、一部任務の背景を変更しました。
-        </div>
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶初心者向けミッション「ガイドミッション」を追加しました。
-        </div>
-        <p class="list red">
-            ※「ガイドミッション」は全てのお客様がプレイし、報酬を受け取ることができます。
-        </p>
-        <p class="list red">
-            ※過去に条件達成済みのミッションはクリア扱いとなりますが、一部ミッションは再度条件を達成し直す必要があります。
-        </p>
-        <p class="list red">
-            ※「ガイドミッション」の進行状況はホーム画面のアイコンより確認できます。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_25.jpg?v=1221">
-        </div>
-        <div class="list">
-            ▶オプション＞バトル関連＞の「セミオート操作ON」 時に、画面外ロック切替ボタンが表示されるよう仕様を変更しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210825/bnr_m00_inf_308_26.jpg?v=1221">
-        </div>
-        <div class="list">
-            ▶オプション＞バトル関連の「セミオート時のターゲット自由変更機能」を廃止し、「画面内/外ロック切替ボタン表示」に変更しました。
-        </div>
-        <div class="list">
-            ▶坂本 美緒の魔眼発動中の表現を調整しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターの、メガネの表現を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・ペリーヌ・C<br>
-                ・依城 えり
-            </div>
-        </div>
-        <div class="list">
-            ▶ギアのロック/ロック解除ボタンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶ギア詳細画面より、ギアのロック/ロック解除ができる機能を追加しました。
-        </div>
-        <p class="list red">
-            ※一部画面では非対応の場合があります。
-        </p>
-        <div class="list">
-            ▶ギア合成とギア売却にて、ロックされたギアを選択した際に、ロック解除の確認画面を表示するよう調整しました。
-        </div>
-        <div class="list">
-            ▶へクス調査報酬の受取画面にて、アクセサリーやコスチュームのアイコンに、着用対象キャラクター表示を追加しました。
-        </div>
-        <div class="list">
-            ▶イベント「特殊宙域作戦 Op.ナスタチウム」の一部バトルへクスに出現するヴァイスワーカー系の敵が、出撃前画面に表示される種類と異なることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定タイミングでVWシールドに攻撃すると、攻撃が当たらないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶春日丘 もえのSPスキル「ストームグライド」の、演出終了間際のカメラワークを微調整しました。
-        </div>
-        <div class="list">
-            ▶特定ショットギアを装備した下記キャラクターをサポーターとして呼び出した際、ジャスト入力による攻撃を行わない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                <p class="bold">神宮寺 真理</p>
-                ・「ストリクスA」シリーズ<br>
-                <p class="list">※チューンスキル「射撃形態変更JMs」付与時のみ。</p>
-                
-                <p class="bold">二階堂 司</p>
-                ・グリーンキーパーLSW<br>
-                ・スティンプメーター
-            </div>
-        </div>
-        <div class="list">
-            ▶3D MODEL画面にて、特定操作を行うと進行不能になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチにて、全てのプレイヤーが戦闘不能になった後、再びマルチ任務をプレイし特定操作を行うと、正常にバトルをプレイできなくなる場合がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.45.0の配信に伴い、<span class="bold red">8/26（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
