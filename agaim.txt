@@ -35,8 +35,7 @@
         
         <div id="important-column-773" class="weighty-column">
 
-            2021/09/27 12:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/09/27 12:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               「アナザーピックアップ 文島 明日翔【福音】」の開催期間について            </div>
