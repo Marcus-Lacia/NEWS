@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-776" class="weighty-column">
+
+            2021/09/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-776" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年09月29日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶シャーリー・Oの専用クロスギアの性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3/二一小剣SOs<br>
+                ・★3/二一小剣SOs甲<br>
+                ・★3/二一小剣SOs乙<br>
+                ・★4/アルデバラン<br>
+                ・★4/アルデバランGen.2<br>
+                ・★4/アルデバランGen.3
+            </div>
+            <p class="list">
+                ・近接攻撃1段目の攻撃力を約18%増加。
+            </p>
+            <p class="list">
+                ・近接攻撃2段目（1ヒット目）の<br>
+                攻撃力を約40%増加。
+            </p>
+            <p class="list">
+                ・近接攻撃2段目（2ヒット目）の<br>
+                攻撃力を約32%増加。
+            </p>
+        </div>
+        <div class="list">
+            ▶イベント「ダーティー・ザ・エンゼルス ～<ruby>中野白昼夢<rt>デイドリーム</rt></ruby>～」の、特定シナリオの一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶大関 小結のキャラエピソードEp4-3の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-775" class="weighty-column">
 
             2021/09/28 20:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1391,71 +1464,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-757" class="weighty-column">
-
-            2021/08/26 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-757" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年08月26日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ギア所持数を拡張した際の上限数を「1200」に増加しました。
-        </div>
-        <div class="list">
-            ▶「ストライクウィッチーズ」コラボギアアイコン各種の背景デザインを変更しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「AEGiS官給眼鏡/赤」及び「AEGiS官給眼鏡/青」の、フレームの一部に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記ボトムスギア装備時にボトムススキルを発動すると、一定時間、開発意図と異なるショットギアが表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、対象ギアの性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・零式艦上戦闘脚TR/E<br>
-                ・零式艦上戦闘脚TR/G<br>
-                ・零式艦上戦闘脚TR/H<br>
-                ・零式艦上戦闘脚TR/F
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
