@@ -108,8 +108,7 @@
         
         <div id="important-column-775" class="weighty-column">
 
-            2021/09/28 20:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/09/28 20:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               お気に入り設定したキャラクターが出撃後、お気に入り設定が解除されたような見た目になる            </div>
