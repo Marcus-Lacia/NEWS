@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-777" class="weighty-column">
+
+            2021/09/30 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              波佐見 利佳のSPスキル「リデンプション」による攻撃が、開発意図と異なり「エネルギー弾属性」となっている            </div>
+
+        </div>
+        <div id="important-text-777" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年09月30日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶波佐見 利佳のSPスキル「リデンプション」による攻撃が、開発意図と異なり「エネルギー弾属性」となっている。
+            </div>
+            <p class="list red">
+                ※正しい属性は「斬撃属性」となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-776" class="weighty-column">
 
             2021/09/29 14:00            
@@ -1407,58 +1449,6 @@
         
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-758" class="weighty-column">
-
-            2021/08/26 19:00                            
-                <span class="bold">
-                                            (08/26 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ガイドミッションに発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-758" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年08月26日 19:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            ガイドミッションにて、以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ①報酬受取にてスカウトポイントを獲得した際に、開発意図と異なる文言が表示される。
-            </div>
-            <p class="list red">
-                ※報酬のスカウトポイントは、正常に受け取れることを確認しております。
-            </p>
-            <div class="list">
-                ②特定状況でストーリースキップ機能を利用すると、一部のストーリー開放ミッションが達成不能となる場合がある。
-            </div>
-            <p class="list red">
-                ※ストーリースキップ機能を利用した場合でも当該ミッションは達成状態となるのが、正しい挙動となります。
-            </p>
-        </div>
-        <div>
-            本修正の完了後より、ストーリースキップ機能を利用されるお客様につきましては、正常な状態でプレイ可能となります。
-        </div>
-        <div>
-            また、既にミッションが達成不能となっているお客様につきましては、後日改めて修正対応を行いますので、今しばらくお待ちいただけますようお願い申し上げます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
         
