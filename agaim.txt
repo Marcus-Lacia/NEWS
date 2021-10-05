@@ -36,7 +36,7 @@
         <div id="important-column-775" class="weighty-column">
 
             2021/09/28 20:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (10/04 更新)
                                     </span>
             
