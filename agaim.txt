@@ -33,6 +33,106 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-779" class="weighty-column">
+
+            2021/10/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-779" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年10月06日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ホーム画面背景のベース3Dモデルを更新しました。
+        </div>
+        <div class="list">
+            ▶10月11日（月）14:59 まで開催中のログインボーナスに表示される、百科 文嘉のイラストを調整しました。
+        </div>
+        <div class="list">
+            ▶ギア進化確認画面にて、下記クロスギアの説明文が正しく表示されない場合がある問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3/扶桑刀<br>
+                ・★3/レイピア
+            </div>
+        </div>
+        <div class="list">
+            ▶ギア進化確認画面に表示される、下記ショットギアの説明文に一部誤りがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表記のみの不具合となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★4/MG42S機関銃<br>
+                ・★4/MG42S改機関銃
+            </div>
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜修正前＞</p>
+            <ul>
+                <li>
+                    全体的な調整と各種機能を変更したカスタムモデル<br>
+                    溜め撃ち時、敵弾誘導を無効化する風をまとい炸薬弾を発射する<br>
+                    <span class="red">（この進化でレベル上限は変化しません）</span>
+                </li>
+            </ul>
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜修正後＞</p>
+            <ul>
+                <li>
+                    全体的な調整と各種機能を変更したカスタムモデル<br>
+                    溜め撃ち時、敵弾誘導を無効化する風をまとい炸薬弾を発射する<br>
+                    <span class="red">レベル上限が引き上げられている</span>
+                </li>
+            </ul>
+        </div>
+        <div class="list">
+            ▶波佐見 利佳のSPスキル「リデンプション」による攻撃が、開発意図と異なり「エネルギー弾属性」となっている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※正しい属性は「斬撃属性」となります。
+        </p>
+        <div class="list">
+            ▶イベント「TOKYO UNDERSHARD」に登場する一部キャラクターの台詞中の呼称に誤りがあったため修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-775" class="weighty-column">
 
             2021/09/28 20:30                            
@@ -129,7 +229,11 @@
         
         <div id="important-column-777" class="weighty-column">
 
-            2021/09/30 15:00            
+            2021/09/30 15:00                            
+                <span class="bold">
+                                            (10/06 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               波佐見 利佳のSPスキル「リデンプション」による攻撃が、開発意図と異なり「エネルギー弾属性」となっている            </div>
@@ -138,6 +242,23 @@
         <div id="important-text-777" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2021年10月06日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年09月30日 15:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1401,55 +1522,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-759" class="weighty-column">
-
-            2021/09/02 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-759" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年09月02日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶宮藤 芳佳の専用クロスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_02.jpg?v=1228">
-                <div class="list">
-                    ▶リネット・Bの専用ショットギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_03.jpg?v=1228">
-                <div class="list">
-                    ▶ゲルトルート・Bの専用クロスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_04.jpg?v=1228">
-                <div class="list">
-                    ▶エーリカ・Hの専用ショットギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210902/bnr_l00_inf_309_05.jpg?v=1228">
-                
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
