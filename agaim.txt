@@ -210,13 +210,13 @@
                 <div class="list">
                     ▶シャーリー・Oの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1228">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1229">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     シャーリー【撃壌】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/463?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1228">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1229">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -390,7 +390,7 @@
             ※キャラクター詳細画面から「お気に入り」に設定しておくことで、フィルタ機能の対象として設定できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1228">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1229">
         </div>
         <div class="list">
             ▶キャラクター一覧画面のフィルタ機能に、「お気に入り」「お気に入り以外」の項目を追加しました。
@@ -669,13 +669,13 @@
                 <div class="list">
                     ▶下落合 桃歌の専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1228">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1229">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     下落合 桃歌【明星】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/170?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1228">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1229">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1030,17 +1030,17 @@
                 <div class="list">
                     ▶藤野 やよいの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_09.jpg?v=1228">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_09.jpg?v=1229">
                 <div class="list">
                     ▶藤野 やよいの専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_10.jpg?v=1228">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210909/bnr_l00_inf_309_10.jpg?v=1229">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     藤野 やよい【無常】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/202?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_008_70/bnr_header.jpg?v=1228">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_008_70/bnr_header.jpg?v=1229">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
