@@ -33,6 +33,70 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-783" class="weighty-column">
+
+            2021/10/14 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              新居目 安里の一部専用ギアの進化に必要な素材が、開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-783" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年10月14日 19:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶新居目 安里の一部専用ギアの進化に必要な素材が、開発意図と異なっている。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ギア】</p>
+                <div>
+                    <div class="list">
+                        ・キラーホエール<br>
+                        誤：VW・タスク × 20<br>
+                        正：GV・ネータ × 20
+                    </div>
+                    <div class="list">
+                        ・ナツレーン・キラーホエール<br>
+                        誤：VW・タスク × 30<br>
+                        正：GV・ネータ × 30
+                    </div>
+                    <div class="list">
+                        ・ディープアーケロン/T<br>
+                        誤：GV・ネータ × 20<br>
+                        正：VW・タスク × 20
+                    </div>
+                    <div class="list">
+                        ・アビサルアーケロン/T<br>
+                        誤：GV・ネータ × 30<br>
+                        正：VW・タスク × 30
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-782" class="weighty-column">
 
             2021/10/14 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1277,211 +1341,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-763" class="weighty-column">
-
-            2021/09/09 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-763" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年09月09日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶四谷 ゆみのコスチューム「プラチナライン」の3Dモデルをブラッシュアップしました。
-        </div>
-        <div class="list">
-            ▶ガイドミッションの一部表記を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                <span class="bold">調整前：</span><br>
-                専用ギアを○回進化する
-            </div>
-            <div>
-                <span class="bold">調整後：</span><br>
-                （専用ギアなど）いずれかのギアを○回進化する
-            </div>
-        </div>
-        <p class="list red">
-            ※表記のみの調整となり、達成条件に変更はございません。
-        </p>
-        <div class="list">
-            ▶一部画面に表示されているペリーヌ・クロステルマンの名称表示に、表記ゆれがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶一部任務に出現するウェルウィッチア・ボギーを特定状況で撃破すると、撃破後の特殊演出が正常に再生されないことがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶8/10（火）に実施したギア性能の調整以降、エーリカ・H専用ボトムスギア及びレプリカギアの、ギアスキルの効果時間が約27%増加しておらず、極端に短い効果時間になっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定状況にて、坂本 美緒のSPスキル演出中に、刀や鞘が正しく表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターが一部トップスギアを装備時、出撃演出及びSPスキル演出中の、トップスギアの表示位置に違和感がある問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・坂本 美緒<br>
-                ・ペリーヌ・C
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターが特定アクセサリーを着用した状態で出撃すると、耳と尻尾が2重で表示されることがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・坂本 美緒<br>
-                ・ペリーヌ・C
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターが水着コスチューム着用時、一部のエフェクトが正しく表示されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・宮藤 芳佳<br>
-                ・リネット・B<br>
-                ・ゲルトルート・B
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ショットギアのリロード動作中に、一瞬だけ、ギアが2重に表示されてしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/ボーイズ対装甲ライフル*<br>
-                ・★4/ボーイズ対装甲ライフル改*
-            </div>
-        </div>
-        <div class="list">
-            ▶下記クロスギアを装備中、近接攻撃3段目のキャラクターの体勢に違和感がある問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★1/MG42機関銃【D】x2<br>
-                ・★3/MG42機関銃【N】x2<br>
-                ・★3/MG42機関銃x2<br>
-                ・★4/MG42機関銃x2<br>
-                ・★4/MG42改機関銃x2<br>
-                ・★4/MG42S機関銃×2<br>
-                ・★4/MG42S改機関銃×2
-            </div>
-        </div>
-        <div class="list">
-            ▶下記クロスギアの近接攻撃3段目、及びジャスト入力成功時に発生する衝撃波の攻撃持続時間が、開発意図よりも短くなっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/MG42S機関銃×2<br>
-                ・★4/MG42S改機関銃×2
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ボトムスギアのギアスキル発動中、ショットギアが正しく表示されなくなる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★1/Bf109G-6【D】<br>
-                ・★3/Bf109G-6【N】<br>
-                ・★3/Bf109G-6<br>
-                ・★4/Bf109G-6
-            </div>
-        </div>
-        <div class="list">
-            ▶下記トップスギアのギアスキルによる攻撃が、開発意図と異なり「実弾属性」となっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正しい属性は「斬撃属性」となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/ドーベルマン章【N】<br>
-                ・★3/ドーベルマン章<br>
-                ・★4/ドーベルマン章
-            </div>
-        </div>
-        <div class="list">
-            ▶下記クロスギアを装備中、ガード中にステップが行えない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★1/レイピア【D】<br>
-                ・★3/レイピア【N】<br>
-                ・★3/レイピア<br>
-                ・★4/レイピア<br>
-                ・★4/レイピア改
-            </div>
-        </div>
-        <div class="list">
-            ▶下記クロスギアの近接攻撃2段目、3段目、ガード後の追加攻撃が、開発意図よりも敵に当てにくくなっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★1/レイピア【D】<br>
-                ・★3/レイピア【N】<br>
-                ・★3/レイピア<br>
-                ・★4/レイピア<br>
-                ・★4/レイピア改
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ボトムスギアの一部パーツが正常に表示されていない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★1/VG.39【D】<br>
-                ・★3/VG.39【N】<br>
-                ・★3/VG.39<br>
-                ・★4/VG.39
-            </div>
-        </div>
-        <div class="list">
-            ▶イベントギア「ツチノトイ/T」装備中、左手の見え方に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
