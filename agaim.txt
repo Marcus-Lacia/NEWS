@@ -35,8 +35,7 @@
         
         <div id="important-column-783" class="weighty-column">
 
-            2021/10/14 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/10/14 19:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               新居目 安里の一部専用ギアの進化に必要な素材が、開発意図と異なっている            </div>
