@@ -33,6 +33,77 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-786" class="weighty-column">
+
+            2021/10/21 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-786" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2021年10月21日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記アクトレス専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    <span class="bold">二子玉 舞</span><br>
+                    ・「フィオンサイユA」シリーズ<br>
+                    ・「オディール・ピケA」シリーズ<br>
+                    ・「オデットA/T」シリーズ<br>
+                    ・「オデットA/B」シリーズ
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで下記アクトレスが選択できるようになりました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象アクトレス】</p>
+                <div>
+                    ・二子玉 舞
+                </div>
+            </div>
+            <div class="list">
+                ▶下記アクトレスに「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">※各エピソードは対象アクトレスが加入している場合に、「キャラエピソード画面」から再生できます。</p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象アクトレス】</p>
+                <div>
+                    ・二子玉 舞【繊麗】
+                </div>
+            </div>
+            
+            <div class="list red">
+                ※アナザーショットギアの特殊な動作について、<br>
+                二子玉 舞【繊麗】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/132?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1250">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-785" class="weighty-column">
 
             2021/10/19 15:00            
@@ -251,17 +322,17 @@
                 <div class="list">
                     ▶新居目 安里の専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1249">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1250">
                 <div class="list">
                     ▶新居目 安里の専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1249">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1250">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     新居目 安里【紺碧】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/471?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1249">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1250">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -643,13 +714,13 @@
                 <div class="list">
                     ▶シャーリー・Oの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1249">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1250">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     シャーリー【撃壌】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/463?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1249">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1250">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -823,7 +894,7 @@
             ※キャラクター詳細画面から「お気に入り」に設定しておくことで、フィルタ機能の対象として設定できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1249">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1250">
         </div>
         <div class="list">
             ▶キャラクター一覧画面のフィルタ機能に、「お気に入り」「お気に入り以外」の項目を追加しました。
@@ -1102,13 +1173,13 @@
                 <div class="list">
                     ▶下落合 桃歌の専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1249">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1250">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     下落合 桃歌【明星】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/170?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1249">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1250">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1296,83 +1367,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-766" class="weighty-column">
-
-            2021/09/10 14:00                            
-                <span class="bold">
-                                            (09/10 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-766" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年09月10日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「【復刻】中野の夜の夢」内の一部Tipsが正常に表示されない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※当該Tipsは、「【復刻】中野の夜の夢」のイベント画面への遷移時に改めて表示されます。
-        </p>
-        <div class="list">
-            ▶下記キャラクターが被弾した際に、開発意図と異なるエフェクトが表示される不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・坂本 美緒<br>
-                ・ペリーヌ・C
-            </div>
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                9/10（金）14:00 までに<br>
-                アカウントを作成していたお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                9/24（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
