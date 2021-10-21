@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-788" class="weighty-column">
+
+            2021/10/21 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「緊急要撃任務」にて、一人で任務へ出撃すると「期間限定素材ポイント」が獲得できないことがある            </div>
+
+        </div>
+        <div id="important-text-788" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年10月21日 17:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「緊急要撃任務」にて、一人で任務へ出撃すると「期間限定素材ポイント」が獲得できないことがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-786" class="weighty-column">
 
             2021/10/21 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1291,86 +1330,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-767" class="weighty-column">
-
-            2021/09/13 15:00                            
-                <span class="bold">
-                                            (09/16 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              一部クロスギアのカウンター待機中に被弾すると、カウンターが成功しても、調査任務中の完全回避ボーナスが失敗判定となる            </div>
-
-        </div>
-        <div id="important-text-767" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年09月16日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年09月13日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶一部クロスギアのカウンター待機中に被弾すると、カウンターが成功しても、調査任務中の完全回避ボーナスが失敗判定となる。
-            </div>
-            <p class="list red">
-                ※クロスギアのカウンターが成功した場合は、完全回避ボーナスが成功判定となるのが正しい挙動となります。
-            </p>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・★3/八一式長槍CMs シリーズ<br>
-                    ・★4/カムリオトシ シリーズ<br>
-                    ・★4/トモエ<br>
-                    ・★3/メロコトン・MM R<br>
-                    ・★3/メロコトン・MM シリーズ<br>
-                    ・★4/神器メロコトン・MM シリーズ<br>
-                    ・★3/EM-TR/MARIE<br>
-                    ・★3/EM-T/MARIE シリーズ<br>
-                    ・★4/EM-T/MARIE シリーズ<br>
-                    ・★4/EM-TS/MARIE
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/37</div>
+                    <div class="page-box box-radius">1/38</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
