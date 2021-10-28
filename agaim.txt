@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-792" class="weighty-column">
+
+            2021/10/28 15:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              アクセサリーガチャ及びギフトークン交換所に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-792" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年10月28日 15:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶アクセサリーガチャ「BDキャップ」が利用できなくなっている。
+            </div>
+            <div class="list">
+                ▶ギフトークン交換所に、アクセサリー「リトルメリーA」が追加されていない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-791" class="weighty-column">
 
             2021/10/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1355,76 +1397,6 @@
         </div>
         <div>
             このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-771" class="weighty-column">
-
-            2021/09/16 18:00                            
-                <span class="bold">
-                                            (09/28 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              トップス、ボトムススキルの性能を上書きする、一部SPスキルに発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-771" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年09月28日 15:35 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer1.46.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年09月16日 18:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶一部SPスキル効果中、特定タイミングでアクティブスキルを発動すると、ギアが表示されず開発意図と異なる見た目や性能となることがある。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象SPスキル】</p>
-                <div>
-                    ・ラフストック<br>
-                    ・メルクリウス<br>
-                    ・オービタルスティング<br>
-                    ・ロイヤル・パーティツ<br>
-                    ・バステリオンγ<br>
-                    ・knヘクセパンツァー
-                </div>
-            </div>
-        </div>
-        <div>
-            本不具合対応のため、SPスキルの効果終了直前に近接攻撃を行っている際は、SPスキルの効果で上書きされたアクティブスキルを発動できないよう修正を予定しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
