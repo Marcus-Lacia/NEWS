@@ -33,6 +33,117 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-791" class="weighty-column">
+
+            2021/10/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-791" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年10月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶撮影ルームにて、大関 小結の一部台詞の脱字を修正しました。
+        </div>
+        <div class="list">
+            ▶撮影ルームにて、下記キャラクターの台詞が開発意図と異なっている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・藤野 やよい【無常】<br>
+                ・依城 えり【清廉】
+            </div>
+        </div>
+        <div class="list">
+            ▶スカウトで下記キャラクターが提供された場合、スカウト結果画面にて顔に「Lv.上限解放」のUI表示が被ることがある問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・九炉鉄 悠都<br>
+                ・的場 アオイ
+            </div>
+        </div>
+        <div class="list">
+            ▶州天頃 椎奈がアクセサリー「生贄の眼帯」着用時、眉毛の表示に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶州天頃 椎奈が下記クロスギア装備時、敵との距離が近い場合に、下フリックによるカウンター攻撃が当たらないことがある問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・無手<br>
+                ・無手・空
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターの、アクセサリー「メカアイパッチ」着用時の表示位置を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・四谷 ゆみ<br>
+                ・大関 小結<br>
+                ・籠目 深沙希<br>
+                ・紺堂 地衛理<br>
+                ・州天頃 椎奈<br>
+                ・仁紀藤 奏<br>
+                ・山野 薫子<br>
+                ・リタ・H<br>
+                ・新居目 安里<br>
+                ・波佐見 利佳
+            </div>
+        </div>
+        <div class="list">
+            ▶クロスギア「LSHB-002R DSW」に品質を付与しても、能力が正常に上昇しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イーグル及びレオが、特定状況でダウン状態になる条件を満たした場合に、開発意図と異なる挙動をとることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶グリフォンをダウン状態にさせると、2回連続でダウンしてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶グリフォンの合体演出に、短い無敵時間を追加しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-790" class="weighty-column">
 
             2021/10/25 14:35            
@@ -1315,50 +1426,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-770" class="weighty-column">
-
-            2021/09/16 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-770" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年09月16日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶下落合 桃歌の専用トップスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/210916/bnr_l00_inf_309_16.jpg?v=1262">
-                <div class="list red">
-                    ※派生進化専用ギアの特殊な動作について、<br>
-                    下落合 桃歌【明星】の詳細ページにて説明しております。
-                </div>
-                <a href="/news/show/id/170?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_016_70/bnr_header.jpg?v=1262">
-                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-                </a>
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
