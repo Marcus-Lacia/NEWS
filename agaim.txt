@@ -33,9 +33,87 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-793" class="weighty-column">
+
+            2021/10/28 21:40                            
+                <span class="red bold">
+                                            (10/28 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-793" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年10月28日 21:40<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶アクセサリーガチャ「BDキャップ」が利用できなくなっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ギフトークン交換所に、アクセサリー「リトルメリーA」が追加されていない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶アデライーデ・Bが下記SPスキル発動時、同じチームもしくはサポーターに特定キャラクターが設定されていると、アプリが強制終了することがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・シャープシュートFα<br>
+                ・シャープシュートFβ<br>
+                ・シャープシュートF
+            </div>
+        </div>
+    </div>
+    <div>
+        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                10/28（木）21:35 までに<br>
+                アカウントを作成していたお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                11/11（木）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-792" class="weighty-column">
 
-            2021/10/28 15:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/10/28 15:15                            
+                <span class="red bold">
+                                            (10/28 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +123,23 @@
         <div id="important-text-792" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2021年10月28日 21:40 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年10月28日 15:15<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1355,45 +1450,6 @@
                 誤：9/28（火）14:59 まで<br>
                 正：9/27（月）14:59 まで
             </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-772" class="weighty-column">
-
-            2021/09/26 12:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「企業案件任務β」中にSPスキルを変更すると発生する不具合について            </div>
-
-        </div>
-        <div id="important-text-772" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年09月26日 12:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「企業案件任務β」の部隊選択画面よりSPスキルを変更すると、編成画面で表示されるSPスキルと任務中のSPスキルが異なる場合がある。
-            </div>
-        </div>
-        <div>
-            なお、「企業案件任務β」以外の画面では、正常にSPスキルの変更が可能です。<br>
-            SPスキルを変更する際は、大変お手数ですが「企業案件任務β」以外の画面より行っていただくようお願い申し上げます。
         </div>
         <div>
             このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
