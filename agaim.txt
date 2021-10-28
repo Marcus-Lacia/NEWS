@@ -379,7 +379,7 @@
                 二子玉 舞【繊麗】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/132?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1262">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1263">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -607,17 +607,17 @@
                 <div class="list">
                     ▶新居目 安里の専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1262">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1263">
                 <div class="list">
                     ▶新居目 安里の専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1262">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1263">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     新居目 安里【紺碧】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/471?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1262">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1263">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -999,13 +999,13 @@
                 <div class="list">
                     ▶シャーリー・Oの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1262">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1263">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     シャーリー【撃壌】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/463?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1262">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1263">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1179,7 +1179,7 @@
             ※キャラクター詳細画面から「お気に入り」に設定しておくことで、フィルタ機能の対象として設定できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1262">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1263">
         </div>
         <div class="list">
             ▶キャラクター一覧画面のフィルタ機能に、「お気に入り」「お気に入り以外」の項目を追加しました。
