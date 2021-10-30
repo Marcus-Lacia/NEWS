@@ -35,8 +35,7 @@
         
         <div id="important-column-794" class="weighty-column">
 
-            2021/10/29 19:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/10/29 19:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               サポーターのアデライーデ・BがSPスキルを発動しない場合がある            </div>
