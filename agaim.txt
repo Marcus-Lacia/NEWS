@@ -33,9 +33,76 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-795" class="weighty-column">
+
+            2021/11/04 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-795" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年11月04日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶二子玉 舞が下記ショットギア装備時、敵と近い距離で溜め撃ちを行うと「短時間、敵の一部攻撃を打ち消す」効果を持つピジョンを射出しない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3/試作フィオンサイユA<br>
+                ・★3/試作フィオンサイユAMk2<br>
+                ・★3/試作フィオンサイユAMk3<br>
+                ・★4/フィオンサイユA
+            </div>
+        </div>
+        <div class="list">
+            ▶SPスキル「シグルドリーヴァ」を装着したアデライーデ・Bをサポーターとして選択すると、任務中にSPスキルを発動しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶撮影ルームにて、アデライーデ・Bの台詞が表示されず、ボイスも再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定端末にてアデライーデ・Bの絆エピソードEp.2を再生した場合、アデライーデ・Bの髪の毛が体にめり込んでしまうことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-794" class="weighty-column">
 
-            2021/10/29 19:30            
+            2021/10/29 19:30                            
+                <span class="bold">
+                                            (11/04 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               サポーターのアデライーデ・BがSPスキルを発動しない場合がある            </div>
@@ -44,6 +111,23 @@
         <div id="important-text-794" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2021年11月04日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年10月29日 19:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -556,7 +640,7 @@
                 二子玉 舞【繊麗】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/132?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1268">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1269">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -784,17 +868,17 @@
                 <div class="list">
                     ▶新居目 安里の専用ショットギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1268">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1269">
                 <div class="list">
                     ▶新居目 安里の専用トップスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1268">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1269">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     新居目 安里【紺碧】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/471?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1268">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1269">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1176,13 +1260,13 @@
                 <div class="list">
                     ▶シャーリー・Oの専用クロスギアに進化分岐を追加しました。
                 </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1268">
+                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1269">
                 <div class="list red">
                     ※派生進化専用ギアの特殊な動作について、<br>
                     シャーリー【撃壌】の詳細ページにて説明しております。
                 </div>
                 <a href="/news/show/id/463?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1268">
+                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1269">
                     <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
                 </a>
             </div>
@@ -1320,139 +1404,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-774" class="weighty-column">
-
-            2021/09/28 15:35            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.46.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-774" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年09月28日 15:35<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.46.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.46.0の更新内容】</p>
-        
-        <div class="list">
-            ▶キャラクターのお気に入り機能を追加しました。
-        </div>
-        <p class="list red">
-            ※キャラクター詳細画面から「お気に入り」に設定しておくことで、フィルタ機能の対象として設定できる機能です。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/210928/info_01.jpg?v=1268">
-        </div>
-        <div class="list">
-            ▶キャラクター一覧画面のフィルタ機能に、「お気に入り」「お気に入り以外」の項目を追加しました。
-        </div>
-        <div class="list">
-            ▶各種コラボキャラクターの履歴書画面デザインを変更しました。
-        </div>
-        <div class="list">
-            ▶「フレームアームズ・ガール」コラボキャラクターの履歴書画面における、誕生日の項目名を「起動日」に変更しました。
-        </div>
-        <div class="list">
-            ▶「メガミデバイス」コラボキャラクターの履歴書画面における、誕生日の項目名を「完成日」に変更しました。
-        </div>
-        <div class="list">
-            ▶「プロジェクト東京ドールズ」コラボキャラクターの履歴書画面における、誕生日の項目名を「ドール登録日」に変更し、日付情報を調整しました。
-        </div>
-        <div class="list">
-            ▶各種スカウト実行時、特定状況の演出を調整しました。
-        </div>
-        <p class="list red">
-            ※演出のみの調整となり、提供割合に変更はございません。
-        </p>
-        <p class="list red">
-            ※キャラクターが登場する際の台詞や演出に変更はございません。
-        </p>
-        <div class="list">
-            ▶ギア合成画面にて、ギア詳細画面を開いた際に、スクロール位置が初期状態にリセットされないよう調整しました。
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面で履歴書が表示されている際に、スワイプ操作が効かないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部大型ヴァイスの撃破演出が、開発意図と異なる見た目になっている問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・各種ケプリ<br>
-                ・各種ウェルウィッチア<br>
-                ・各種ネペンテス
-            </div>
-        </div>
-        <div class="list">
-            ▶マルチにて、大型ヴァイスの撃破と同時にキャラクターのHPが0になると、任務失敗にならずに次のエリアへ移行したのち、攻撃不能になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中、ギアスキルのクールタイム終了時に一時停止を行うと、スキルアイコンが違和感のある見た目になる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中、画面の特定部位をタップしても、攻撃入力を受け付けないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部SPスキル効果中、特定タイミングでアクティブスキルを発動すると、ギアが表示されず開発意図と異なる見た目や性能となることがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・ラフストック<br>
-                ・メルクリウス<br>
-                ・オービタルスティング<br>
-                ・ロイヤル・パーティツ<br>
-                ・バステリオンγ<br>
-                ・knヘクセパンツァー
-            </div>
-        </div>
-        <div class="list">
-            ▶二階堂 司がドレッサー画面に移動する際、視線の動きに違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリーガチャ利用時に「最終結果を見る」ボタンを連打すると、キャラクターのボイスが正しく再生されないことがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※演出のみの修正となり、提供アクセサリーに影響はございません。
-        </p>
-        <div class="list">
-            ▶キャラクター選択画面で特定操作を行うと、「はずす」アイコンの位置が移動することがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶キャラクター一覧画面にて「ファン増加」のソートを適用し、特定操作を行うとキャラクターの表示順が変わることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ギア選択画面で特定操作を行うと、選択中のギアとは別のギアアイコンが表示されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.46.0の配信に伴い、<span class="bold red">9/29（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
