@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-798" class="weighty-column">
+
+            2021/11/11 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              各種オベリスク本体の耐性表示が誤っている            </div>
+
+        </div>
+        <div id="important-text-798" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年11月11日 14:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶各種オベリスク本体の耐性に、「射撃攻撃」と「近接攻撃」のアイコンが誤って表示されている。
+            </div>
+            <p class="list red">
+                ※表示のみの不具合となり、ダメージ計算は正常に行われていることを確認しております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-797" class="weighty-column">
 
             2021/11/11 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -110,8 +152,12 @@
             ※本調整に伴い、一部ヴァイスの耐性に、今まで表示されていなかったアイコンが追加される場合があります。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_01.jpg?v=1273">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_03.jpg?v=1273">
         </div>
+        <p class="list red">
+            ※11/11 14:10 訂正<br>
+            表示内容が誤っている画像が掲載されていたため、画像を差し替えました。
+        </p>
         <p class="list red">
             ※弱点・耐性に、実弾とエネルギー弾の両方を含む場合は「射撃攻撃アイコン」、斬撃と打撃の両方を含む場合は「近接攻撃アイコン」が表示されます。
         </p>
@@ -1377,50 +1423,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-778" class="weighty-column">
-
-            2021/10/01 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-778" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年10月01日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶シャーリー・Oの専用クロスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211001/bnr_l00_inf_310_01.jpg?v=1273">
-                <div class="list red">
-                    ※派生進化専用ギアの特殊な動作について、<br>
-                    シャーリー【撃壌】の詳細ページにて説明しております。
-                </div>
-                <a href="/news/show/id/463?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_044_70/bnr_header.jpg?v=1273">
-                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-                </a>
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
