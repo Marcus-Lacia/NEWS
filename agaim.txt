@@ -35,8 +35,7 @@
         
         <div id="important-column-799" class="weighty-column">
 
-            2021/11/12 16:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/11/12 16:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               キャラクター設定画面のフィルタ設定が、特定操作を行うとリセットされてしまうことがある            </div>
