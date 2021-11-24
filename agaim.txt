@@ -33,6 +33,70 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-801" class="weighty-column">
+
+            2021/11/24 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.47.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-801" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年11月24日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.47.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.47.1の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶各種オベリスク本体の耐性に、「射撃攻撃」と「近接攻撃」のアイコンが誤って表示されている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種キャリアタートルの耐性が、開発意図と異なる表示になっている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、ダメージ計算は正常に行われていたことを確認しております。
+        </p>
+        <div class="list">
+            ▶キャラクター設定画面のフィルタ設定が、特定操作を行うとリセットされてしまうことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ギア選択画面のフィルタ設定が、特定操作を行うと正しく適用されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「牛と山羊と父と」の、特定シナリオの一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.47.1の配信に伴い、<span class="bold red">11/25（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-800" class="weighty-column">
 
             2021/11/22 14:55            
@@ -76,7 +140,11 @@
         
         <div id="important-column-799" class="weighty-column">
 
-            2021/11/12 16:30            
+            2021/11/12 16:30                            
+                <span class="bold">
+                                            (11/24 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               キャラクター設定画面のフィルタ設定が、特定操作を行うとリセットされてしまうことがある            </div>
@@ -85,6 +153,23 @@
         <div id="important-text-799" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2021年11月24日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日順次配信されましたVer1.47.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年11月12日 16:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -114,7 +199,11 @@
         
         <div id="important-column-798" class="weighty-column">
 
-            2021/11/11 14:10            
+            2021/11/11 14:10                            
+                <span class="bold">
+                                            (11/24 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               各種オベリスク本体の耐性表示が誤っている            </div>
@@ -123,6 +212,23 @@
         <div id="important-text-798" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2021年11月24日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日順次配信されましたVer1.47.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年11月11日 14:10<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1293,41 +1399,6 @@
         </div>
         <div class="list">
         	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-780" class="weighty-column">
-
-            2021/10/07 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-780" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年10月07日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
         </div>
     </div>
     <div>
