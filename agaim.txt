@@ -33,6 +33,57 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-803" class="weighty-column">
+
+            2021/11/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-803" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年11月25日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶小芦 睦海が、チューンスキル「発射形態変更KMs」が付与されたアナザートップスギアを装備中、特定状況でトップススキルの連続射撃攻撃が正しく行われないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶服袋セレクト「コンパニオン」各種の、背景に表示されている企業ロゴの色味を変更しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの変更となり、提供内容に変更はございません。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-802" class="weighty-column">
 
             2021/11/24 17:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -96,8 +147,7 @@
         
         <div id="important-column-801" class="weighty-column">
 
-            2021/11/24 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/11/24 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.47.1 配信のお知らせ            </div>
@@ -1275,54 +1325,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-782" class="weighty-column">
-
-            2021/10/14 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-782" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2021年10月14日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div>
-                <div class="list">
-                    ▶新居目 安里の専用ショットギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_15.jpg?v=1283">
-                <div class="list">
-                    ▶新居目 安里の専用トップスギアに進化分岐を追加しました。
-                </div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2021/211014/bnr_l00_inf_310_14.jpg?v=1283">
-                <div class="list red">
-                    ※派生進化専用ギアの特殊な動作について、<br>
-                    新居目 安里【紺碧】の詳細ページにて説明しております。
-                </div>
-                <a href="/news/show/id/471?returnUrl=back">
-                    <img src="//i-cf.alice.colopl.jp/img/news/another/chr_052_70/bnr_header.jpg?v=1283">
-                    <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-                </a>
-            </div>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
