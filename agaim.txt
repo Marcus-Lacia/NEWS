@@ -551,7 +551,7 @@
             ※本調整に伴い、一部ヴァイスの耐性に、今まで表示されていなかったアイコンが追加される場合があります。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_03.jpg?v=1289">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_03.jpg?v=1290">
         </div>
         <p class="list red">
             ※11/11 14:10 訂正<br>
@@ -561,7 +561,7 @@
             ※弱点・耐性に、実弾とエネルギー弾の両方を含む場合は「射撃攻撃アイコン」、斬撃と打撃の両方を含む場合は「近接攻撃アイコン」が表示されます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_02.jpg?v=1289">
+            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_02.jpg?v=1290">
         </div>
         <div class="list">
             ▶下記ヴァイスの当たり判定を調整し、攻撃を当てやすくしました。
@@ -1234,7 +1234,7 @@
                 二子玉 舞【繊麗】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/132?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1289">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1290">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
