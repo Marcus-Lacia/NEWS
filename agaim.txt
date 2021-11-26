@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-805" class="weighty-column">
+
+            2021/11/26 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              依城 えりのホーム小物が、開発意図と異なる位置に表示されている            </div>
+
+        </div>
+        <div id="important-text-805" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年11月26日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶依城 えりのホーム小物が、開発意図と異なる位置に表示されている。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-804" class="weighty-column">
 
             2021/11/25 18:00                            
@@ -1245,66 +1284,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-784" class="weighty-column">
-
-            2021/10/18 14:20            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.46.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-784" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年10月18日 14:20<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.46.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.46.1の更新内容】</p>
-        
-        <div class="list">
-            ▶新居目 安里のSPスキル「アムピトリーテー」の効果時間中、キャラクター移動時の効果音を追加しました。
-        </div>
-        <p class="list red">
-            ※効果音のみの追加となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶新居目 安里の一部専用ギアの進化に必要な素材が、開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶お気に入り設定したキャラクターが出撃後、キャラクターアイコン上のハートマークが非表示となり、お気に入り設定が解除されたような見た目になる不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※本不具合によって一時的にキャラクター一覧でも非表示になってしまう問題もあわせて修正しております。
-        </p>
-        <div class="list">
-            ▶アサルトエリア開始時の特定状況で射撃攻撃を行うと、一定時間行動不能になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.46.1の配信に伴い、<span class="bold red">10/19（火）15:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
