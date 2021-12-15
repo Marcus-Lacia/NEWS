@@ -33,6 +33,97 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-808" class="weighty-column">
+
+            2021/12/15 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.48.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-808" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年12月15日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.48.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.48.0の更新内容】</p>
+        
+        <div class="list">
+            ▶任務中のカメラモードに、一部エフェクトを非表示にできる機能を追加しました。
+        </div>
+        <div class="list">
+            ▶キャラエピソード及び絆エピソード一覧画面にて、エピソード開放条件が分かりやすくなるよう表記を調整しました。	
+        </div>
+        <div class="list">
+            ▶アプリアイコンとタイトル画面を更新しました。
+        </div>
+        <div class="list">
+            ▶各種アクセサリーガチャにて、特定状況で提供演出が正しく再生されないことがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※演出のみの修正となり、提供内容や提供確率に影響はございません。
+        </p>
+        <div class="list">
+            ▶Ver.1.47.0アプリ以降、下記ショットギアを装備した下落合 桃歌が、溜め撃ち攻撃中に特定ボトムススキルを発動した際の挙動が、意図せず変わってしまっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・シャン・ド・ランジュ<br>
+                ・ベゼ・ド・ランジュ
+            </div>
+        </div>
+        <div class="list">
+            ▶イベントギア「ホーリーキャロル」装備中、溜め撃ち以外の射撃攻撃でSPゲージが溜まらない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記ギアスキルのスキルアイコンが、開発意図と異なり実弾属性を表すアイコンになっている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※正しい属性は「エネルギー弾」となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・キャノンレイダー<br>
+                ・キャノンレイダーS<br>
+                ・キャノンレイダーR
+            </div>
+        </div>
+        <div class="list">
+            ▶オプションからBGM音量を変更しても、タイトル画面BGMの音量が変わらない不具合を修正しました。
+        </div>
+        <div class="list show_only_DMM">
+            ▶特定端末にて、画面上下に黒い帯が表示されることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.48.0の配信に伴い、<span class="bold red">12/16（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-807" class="weighty-column">
 
             2021/12/02 14:00            
@@ -1264,68 +1355,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-788" class="weighty-column">
-
-            2021/10/21 17:30                            
-                <span class="bold">
-                                            (10/21 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「緊急要撃任務」にて、一人で任務へ出撃すると「期間限定素材ポイント」が獲得できないことがある            </div>
-
-        </div>
-        <div id="important-text-788" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年10月21日 21:40 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年10月21日 17:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「緊急要撃任務」にて、一人で任務へ出撃すると「期間限定素材ポイント」が獲得できないことがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/38</div>
+                    <div class="page-box box-radius">1/39</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
