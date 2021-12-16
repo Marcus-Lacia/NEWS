@@ -213,8 +213,7 @@
         
         <div id="important-column-809" class="weighty-column">
 
-            2021/12/15 17:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/12/15 17:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.48.0アプリにて、アイテム一覧画面に開発中のダミーアイテムが表示される            </div>
