@@ -94,8 +94,7 @@
         
         <div id="important-column-812" class="weighty-column">
 
-            2021/12/16 16:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2021/12/16 16:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               藤野 やよいのSPスキル「テトラスプリッターH」に発生している不具合について            </div>
