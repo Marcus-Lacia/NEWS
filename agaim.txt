@@ -35,11 +35,14 @@
         
         <div id="important-column-813" class="weighty-column">
 
-            2021/12/16 22:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2021/12/16 22:45                            
+                <span class="red bold">
+                                            (12/16 補填済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              【不具合】（補填済み）任務出撃前の画面でエラーが発生することがある            </div>
+              任務出撃前の画面でエラーが発生することがある            </div>
 
         </div>
         <div id="important-text-813" class="weighty-notice hide">
