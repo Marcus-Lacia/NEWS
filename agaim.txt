@@ -144,7 +144,7 @@
         <div id="important-column-811" class="weighty-column">
 
             2021/12/16 16:35                            
-                <span class="red bold">
+                <span class="bold">
                                             (12/16 補填済)
                                     </span>
             
@@ -205,7 +205,7 @@
         <div id="important-column-810" class="weighty-column">
 
             2021/12/16 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (12/16 補填済)
                                     </span>
             
