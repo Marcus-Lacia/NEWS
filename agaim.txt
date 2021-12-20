@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-814" class="weighty-column">
+
+            2021/12/20 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、ショットギアの溜め撃ち攻撃の途中で砲撃が行えてしまう            </div>
+
+        </div>
+        <div id="important-text-814" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2021年12月20日 20:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、ショットギアの溜め撃ち攻撃の途中で砲撃が行えてしまう。
+            </div>
+            <p class="list red">
+                ※ショットギアの溜め撃ち攻撃中は、砲撃が行えないのが正しい挙動となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-813" class="weighty-column">
 
             2021/12/16 22:45                            
@@ -1208,68 +1250,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-794" class="weighty-column">
-
-            2021/10/29 19:30                            
-                <span class="bold">
-                                            (11/04 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              サポーターのアデライーデ・BがSPスキルを発動しない場合がある            </div>
-
-        </div>
-        <div id="important-text-794" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年11月04日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年10月29日 19:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶SPスキル「シグルドリーヴァ」を装着したアデライーデ・Bをサポーターとして選択すると、任務中にSPスキルを発動しない。
-            </div>
-            <p class="list red">
-                ※「シグルドリーヴァ」以外のSPスキルが装着されている場合は、正常に発動することを確認しております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
