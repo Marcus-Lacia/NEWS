@@ -33,6 +33,74 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-816" class="weighty-column">
+
+            2021/12/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-816" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2021年12月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶州天頃 椎奈がコスチューム「しゅうにゃたぁ」着用中、特定ポーズをとった際の左手の見え方に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶アデライーデ・Bがコスチューム「メリーパーティ」着用中、左脇の下の見え方に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶3D MODEL画面にて、下記キャラクターが特定ギア装備中に表示される一部のポーズが、正しく反映されない問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・藤野 やよい【ライブ】<br>
+                ・下落合 桃歌【ライブ】
+            </div>
+        </div>
+        <div class="list">
+            ▶波佐見 利佳の下記ギアスキルによるカウンター攻撃が、至近距離の敵に当たりにくい問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・カウンターシュート<br>
+                ・パニッシュメント
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-815" class="weighty-column">
 
             2021/12/22 14:05            
@@ -1174,112 +1242,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-796" class="weighty-column">
-
-            2021/11/10 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.47.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-796" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年11月10日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.47.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.47.0の更新内容】</p>
-        
-        <div class="list">
-            ▶ヴァイスの弱点・耐性表示を調整し、複数の一次属性（実弾、エネルギー弾、斬撃、打撃）が表示されるように変更しました。
-        </div>
-        <p class="list red">
-            ※本調整に伴い、一部ヴァイスの耐性に、今まで表示されていなかったアイコンが追加される場合があります。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_03.jpg?v=1311">
-        </div>
-        <p class="list red">
-            ※11/11 14:10 訂正<br>
-            表示内容が誤っている画像が掲載されていたため、画像を差し替えました。
-        </p>
-        <p class="list red">
-            ※弱点・耐性に、実弾とエネルギー弾の両方を含む場合は「射撃攻撃アイコン」、斬撃と打撃の両方を含む場合は「近接攻撃アイコン」が表示されます。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2021/211110/img_02.jpg?v=1311">
-        </div>
-        <div class="list">
-            ▶下記ヴァイスの当たり判定を調整し、攻撃を当てやすくしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・各種オクパド<br>
-                ・キエヌス
-            </div>
-        </div>
-        <div class="list">
-            ▶下記大型ヴァイスの、本体以外の部位に状態異常が付与されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・各種レントラー<br>
-                ・各種セルケト<br>
-                ・各種ヒュドラ<br>
-                ・各種オベリスク<br>
-                ・ガーデン<br>
-                ・ストリック
-            </div>
-        </div>
-        <div class="list">
-            ▶バンブラに特定の状態異常を付与すると、開発意図と異なる位置にダメージが表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶大型ヴァイスがダウンした際に表示されるゲージが、小さく表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中、一時停止画面から「やり直す」を選ぶと、以降の戦闘にてダメージや敵のHPゲージ等のUIの表示順が変わってしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中、特定状況でカメラモードを起動すると、カメラモードの視点のまま任務が続いてしまうことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中、操作キャラクターと大型ヴァイスのHPが同時に0になった場合、次のエリアへ移動後に進行不能となる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部マップにて、へクス選択時に表示される敵の情報に、弱点属性が表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ドレッサー画面でキャラクター変更を行う際にフィルタ機能が意図せず有効になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.47.0の配信に伴い、<span class="bold red">11/11（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
