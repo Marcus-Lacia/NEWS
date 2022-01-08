@@ -35,8 +35,7 @@
         
         <div id="important-column-817" class="weighty-column">
 
-            2022/01/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/01/07 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               トップスギア「ミズノエトラ/T」のギアスキルに、キャラクターパッシブスキルの「ギアスキル使用回数が上昇する」効果が正しく適用されない            </div>
