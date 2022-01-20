@@ -54,7 +54,7 @@
     
     <hr>
     <div class="bg_white news-box">
-        <p class="bold">【Ver.1.48.0の更新内容】</p>
+        <p class="bold">【Ver.1.49.0の更新内容】</p>
         
         <div class="list">
             ▶アプリアイコンのデザインを変更しました。
