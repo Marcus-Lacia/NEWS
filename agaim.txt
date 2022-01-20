@@ -33,6 +33,92 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-819" class="weighty-column">
+
+            2022/01/20 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.49.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-819" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年01月20日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.49.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.48.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶チーム管理画面のUIを一部調整し、新機能「エニグマ」へ遷移するボタンを追加しました。
+        </div>
+        <p class="list red">
+            ※「エニグマ」は後日のアップデートにて開放予定の機能となります。
+        </p>
+        <div class="list">
+            ▶スカウト一覧画面のUIを一部調整し、スカウトカードやアクセサリーチケット等の表示位置を変更しました。
+        </div>
+        <div class="list">
+            ▶「毎週4回無料 ヨンシャインスカウト」のスカウト画面にて、残りスカウト回数が4回の場合に、「あと4回」と表示されない問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの修正となり、提供内容や提供確率に影響はございません。
+        </p>
+        <div class="list">
+            ▶藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、ショットギアの溜め撃ち攻撃の途中で砲撃が行えてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶王 紅花が下記ショットギアを装備中、前移動射撃のSPゲージ獲得量が開発意図よりも低くなっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・太極衝鋒槍-1式<br>
+                ・太極衝鋒槍-2式
+            </div>
+        </div>
+        <div class="list">
+            ▶バーゼラルドのキャラエピソードEp.4-3の、一部誤字を修正しました。
+        </div>
+        <div class="list show_only_DMM">
+            ▶ゲームパッド利用時にデータ更新が行われた場合に、ゲームパッドが反応しなくなる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶「オプション」＞「実験的機能」に「SP演出中のカメラモード有効化」の項目を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.49.0の配信に伴い、<span class="bold red">1/21（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-818" class="weighty-column">
 
             2022/01/13 14:00            
@@ -296,7 +382,11 @@
         
         <div id="important-column-814" class="weighty-column">
 
-            2021/12/20 20:40            
+            2021/12/20 20:40                            
+                <span class="bold">
+                                            (01/20 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、ショットギアの溜め撃ち攻撃の途中で砲撃が行えてしまう            </div>
@@ -305,6 +395,23 @@
         <div id="important-text-814" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年01月20日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、本日順次配信されましたVer1.49.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2021年12月20日 20:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1216,65 +1323,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-799" class="weighty-column">
-
-            2021/11/12 16:30                            
-                <span class="bold">
-                                            (11/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              キャラクター設定画面のフィルタ設定が、特定操作を行うとリセットされてしまうことがある            </div>
-
-        </div>
-        <div id="important-text-799" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年11月24日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer1.47.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年11月12日 16:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶キャラクター設定画面のフィルタ設定が、特定操作を行うとリセットされてしまうことがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
