@@ -33,6 +33,113 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-820" class="weighty-column">
+
+            2022/01/21 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-820" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年01月21日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶新機能「エニグマ」を下記キャラクターに実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・比良坂 夜露<br>
+                ・吾妻 楓
+            </div>
+        </div>
+        <div class="list red">
+            ※「エニグマ」はキャラクターの強化やカスタマイズを行える機能です。<br>
+            詳細は「エニグマについて」のお知らせをご確認ください。
+        </div>
+        <div>
+            <a href="/news/show/id/500?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220121/bnr_s00_oth_401_21.jpg?v=1332">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        <div class="list">
+            ▶プレイヤーLv及びRankの上限数を400に増加しました。
+        </div>
+        <p class="list red">
+            ※上限数の増加に応じて、ゴールド、アニマ、フォロー上限数も増加しております。
+        </p>
+        <div class="list">
+            ▶ミッション（ノーマル）に、下記追加ミッションを実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ミッション】</p>
+            <div>
+                ・一定プレイヤーLv到達<br>
+                ・一定プレイヤーRank到達
+            </div>
+        </div>
+        <div class="list">
+            ▶一部画面のBGMを、4周年記念BGMに変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象画面】</p>
+            <div>
+            	・起動時のロード画面<br>
+            	・チーム管理画面<br>
+            	・任務選択画面<br>
+            	・バトルリザルト画面<br>
+            	（一部の特殊宙域を除く）
+            </div>
+        </div>
+        <p class="list red">
+            ※4周年期間終了時に従来のBGMへ切り替わります。
+        </p>
+        <div class="list">
+            ▶一部キャラクターがコスチューム「アニバドレス」を着用時、二の腕の見た目に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターの、ホーム画面での一部モーションを微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・比良坂 夜露<br>
+                ・吾妻 楓
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-819" class="weighty-column">
 
             2022/01/20 14:00            
@@ -1275,47 +1382,6 @@
     <div>
         なお、Ver.1.47.1の配信に伴い、<span class="bold red">11/25（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-800" class="weighty-column">
-
-            2021/11/22 14:55            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-800" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年11月22日 14:55<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
