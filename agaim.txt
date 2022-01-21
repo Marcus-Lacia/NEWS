@@ -33,6 +33,68 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-821" class="weighty-column">
+
+            2022/01/21 15:05                            
+                <span class="red bold">
+                                            (01/21 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              サーバー障害発生についてのご報告            </div>
+
+        </div>
+        <div id="important-text-821" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2022年01月21日 15:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        <br>
+        以下の期間、サーバー障害が発生し、ゲームプレイが正常に行えない期間がございました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【障害発生期間】</p>
+        <ul>
+            1/21（金）14:00頃 から<br>
+            1/21（金）14:25頃 の間<br>
+            <li class="list">
+                <span class="bold red">※現在、障害は復旧し、正常にゲームプレイができることを確認しております。</span><br>
+            </li>
+        </ul>
+        障害発生のお詫びとして以下の補填対応を実施いたしましたので、併せてご報告申し上げます。
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    1/21（金）14:30までに<br>
+                    アカウントを作成しているお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 40
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    2/4（金） 23:59 まで
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        この度は、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
+    </div>
+</div>        </div>
+        
         <div id="important-column-820" class="weighty-column">
 
             2022/01/21 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1325,69 +1387,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-801" class="weighty-column">
-
-            2021/11/24 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.47.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-801" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年11月24日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.47.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.47.1の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶各種オベリスク本体の耐性に、「射撃攻撃」と「近接攻撃」のアイコンが誤って表示されている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種キャリアタートルの耐性が、開発意図と異なる表示になっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、ダメージ計算は正常に行われていたことを確認しております。
-        </p>
-        <div class="list">
-            ▶キャラクター設定画面のフィルタ設定が、特定操作を行うとリセットされてしまうことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ギア選択画面のフィルタ設定が、特定操作を行うと正しく適用されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「牛と山羊と父と」の、特定シナリオの一部誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.47.1の配信に伴い、<span class="bold red">11/25（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
