@@ -33,6 +33,90 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-823" class="weighty-column">
+
+            2022/01/21 23:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              マスターレベル上昇時に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-823" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年01月21日 23:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶マスターレベル上昇時のステータス変動が開発意図と異なっており、任務中の近接攻撃力が、ステータス画面の表示よりも高くなっている。
+            </div>
+            <p class="list red">
+                ※ステータス画面には正しい数値が表示されていますが、実際に与えるダメージが開発意図よりも高い数値となっております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-822" class="weighty-column">
+
+            2022/01/21 23:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「属性攻撃力を上昇させる」効果のチューンスキルに発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-822" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年01月21日 23:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver1.49.0アプリより、「属性攻撃力を上昇させる」効果のチューンスキルが付与されたアナザーギアを装備中、ステータス画面の属性値が実際よりも低く表示される。
+            </div>
+            <p class="list red">
+                ※表示上の不具合となり、任務中のダメージ計算は正しく行われていることを確認しております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-821" class="weighty-column">
 
             2022/01/21 15:05                            
@@ -1277,116 +1361,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-803" class="weighty-column">
-
-            2021/11/25 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-803" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年11月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶小芦 睦海が、チューンスキル「発射形態変更KMs」が付与されたアナザートップスギアを装備中、特定状況でトップススキルの連続射撃攻撃が正しく行われないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶服袋セレクト「コンパニオン」各種の、背景に表示されている企業ロゴの色味を変更しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの変更となり、提供内容に変更はございません。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-802" class="weighty-column">
-
-            2021/11/24 17:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              「服袋セレクト」提供割合ページの一部表記の変更について            </div>
-
-        </div>
-        <div id="important-text-802" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年11月24日 17:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            明日11/25（木）から開催予定のイベントガチャ実装に伴い、現在公開中の各種「服袋セレクト」にて、提供割合ページの一部表記を下記の通りに変更いたしましたので、ご報告いたします。
-        </div>
-        <p class="list red">
-            ※表記のみの変更となり、提供割合や内容に変更はございません。
-        </p>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【対象服袋セレクト】</p>
-            <div class="sub-box bg_white">
-                ・BDナースvol.1～5<br>
-                ・コンパニオンvol.1～5<br>
-                ・体操着vol.1～5
-            </div>
-            
-            <p class="bold">【変更内容】</p>
-            <div class="list">
-                ▶一部説明文の「コスチューム」表記を「アイテム」に変更。
-            </div>
-            <div class="list">
-                ▶オマケキャラクターの提供に関する説明文を調整。
-            </div>
-            <div class="sub-box bg_skin">
-                <p class="bold">＜調整前＞</p>
-                <div>
-                    <div class="list">
-                        ◇本アプリの仕様上、提供されたコスチュームの着用には対応するキャラが必要になるため、対応キャラを所有していない場合、各コスチュームの提供時に★1キャラもオマケとして提供されます。
-                    </div>
-                </div>
-            </div>
-            <div class="sub-box bg_skin">
-                <p class="bold">＜調整後＞</p>
-                <div>
-                    <div class="list">
-                        ◇本アプリの仕様上、提供されたコスチューム<span class="red">・アクセサリー</span>の着用には対応するキャラが必要になるため、対応キャラを所有していない場合、各コスチューム<span class="red">・アクセサリー</span>の提供時に<span class="red">レアリティの最も低いキャラ</span>もオマケとして提供されます。
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
