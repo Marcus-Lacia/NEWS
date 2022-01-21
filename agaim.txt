@@ -134,7 +134,7 @@
         </div>
         <div>
             <a href="/news/show/id/500?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220121/bnr_s00_oth_401_21.jpg?v=1335">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220121/bnr_s00_oth_401_21.jpg?v=1336">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
