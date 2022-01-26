@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-827" class="weighty-column">
+
+            2022/01/26 19:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              マスターレベルが上昇したキャラクターが一部のギアを装備すると、HPの数値がステータス画面と任務中で異なる場合がある            </div>
+
+        </div>
+        <div id="important-text-827" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年01月26日 19:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶マスターレベルが上昇したキャラクターが「最大HPを上昇させる」パッシブスキル効果を保有するギアを装備すると、HPの数値がステータス画面と任務中で異なる場合がある。
+            </div>
+            <p class="list red">
+                ※ステータス画面に表示される数値が正しい数値となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-826" class="weighty-column">
 
             2022/01/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1338,79 +1380,6 @@
     <div>
         なお、Ver.1.48.0の配信に伴い、<span class="bold red">12/16（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-807" class="weighty-column">
-
-            2021/12/02 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-807" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年12月02日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶在賀 奈々がコスチューム「スターヴァーグ」着用時、右手親指の見た目に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶阿万音 鈴羽専用ショットギアの3Dモデル及びアイコンの一部が、開発意図と異なるデザインになっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターがコスチューム「メイニャン制服」着用時、キャラクターの動きに合わせて胸元のボタンが動いてしまう問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・百科 文嘉<br>
-                ・吾妻 楓<br>
-                ・二子玉 舞<br>
-                ・阿万音 鈴羽
-            </div>
-        </div>
-        <div class="list">
-            ▶撮影ルームの一部撮影ミッションにて、クリア条件スコアの表示に誤りがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※正しいクリア条件スコアは「3000点以上」となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象撮影ミッション】</p>
-            <div>
-                ・ハロウィン<br>
-                ・クリスマス<br>
-                ・謹賀新年
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
