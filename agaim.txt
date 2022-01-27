@@ -164,8 +164,7 @@
         
         <div id="important-column-827" class="weighty-column">
 
-            2022/01/26 19:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/01/26 19:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               マスターレベルが上昇したキャラクターが一部のギアを装備すると、HPの数値がステータス画面と任務中で異なる場合がある            </div>
