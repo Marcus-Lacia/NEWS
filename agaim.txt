@@ -33,6 +33,82 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-828" class="weighty-column">
+
+            2022/01/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-828" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年01月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶下記キャラクターに「エニグマ」を実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・藤野 やよい<br>
+                ・下落合 桃歌
+            </div>
+        </div>
+        <p class="list red">
+            ※対象キャラクターの「ファクターエリア」は、1/27（木）15:00 より開放されます。
+        </p>
+        <div class="list">
+            ▶調査任務のへクスクリア累積報酬にて、キャラクターのSギアシェルを選択するパターンが登場しやすくなるよう確率を調整しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220127/info_01.jpg?v=1340">
+        </div>
+        <div class="list">
+            ▶下記キャラクターのスキル詳細画面に表示されるSPスキルアイコンに、射撃攻撃・近接攻撃の表示を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・比良坂 夜露<br>
+                ・吾妻 楓<br>
+                ・藤野 やよい<br>
+                ・下落合 桃歌
+            </div>
+        </div>
+        <div class="list">
+            ▶アデライーデ・Bがアクセサリー「フラワークラウン」着用時の、頭とアクセサリーの隙間を調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-827" class="weighty-column">
 
             2022/01/26 19:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -77,8 +153,7 @@
         
         <div id="important-column-826" class="weighty-column">
 
-            2022/01/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/01/26 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.49.1 配信のお知らせ            </div>
@@ -1297,99 +1372,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-808" class="weighty-column">
-
-            2021/12/15 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.48.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-808" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年12月15日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.48.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.48.0の更新内容】</p>
-        
-        <div class="list">
-            ▶任務中のカメラモードに、一部エフェクトを非表示にできる機能を追加しました。
-        </div>
-        <div class="list">
-            ▶キャラエピソード及び絆エピソード一覧画面にて、エピソード開放条件が分かりやすくなるよう表記を調整しました。	
-        </div>
-        <div class="list">
-            ▶アプリアイコンとタイトル画面を更新しました。
-        </div>
-        <div class="list">
-            ▶各種アクセサリーガチャにて、特定状況で提供演出が正しく再生されないことがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※演出のみの修正となり、提供内容や提供確率に影響はございません。
-        </p>
-        <div class="list">
-            ▶Ver.1.47.0アプリ以降、下記ショットギアを装備した下落合 桃歌が、溜め撃ち攻撃中に特定ボトムススキルを発動した際の挙動が、意図せず変わってしまっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・シャン・ド・ランジュ<br>
-                ・ベゼ・ド・ランジュ
-            </div>
-        </div>
-        <div class="list">
-            ▶イベントギア「ホーリーキャロル」装備中、溜め撃ち以外の射撃攻撃でSPゲージが溜まらない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記ギアスキルのスキルアイコンが、開発意図と異なり実弾属性を表すアイコンになっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※正しい属性は「エネルギー弾」となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・キャノンレイダー<br>
-                ・キャノンレイダーS<br>
-                ・キャノンレイダーR
-            </div>
-        </div>
-        <div class="list">
-            ▶オプションからBGM音量を変更しても、タイトル画面BGMの音量が変わらない不具合を修正しました。
-        </div>
-        <div class="list show_only_DMM">
-            ▶特定端末にて、画面上下に黒い帯が表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.48.0の配信に伴い、<span class="bold red">12/16（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/39</div>
+                    <div class="page-box box-radius">1/40</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
