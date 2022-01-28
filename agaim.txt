@@ -35,8 +35,7 @@
         
         <div id="important-column-829" class="weighty-column">
 
-            2022/01/27 17:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/01/27 17:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               藤野 やよい、下落合 桃歌の特定パッシブスキルを外すと、一部スキルスロット以外に再装着できなくなる            </div>
