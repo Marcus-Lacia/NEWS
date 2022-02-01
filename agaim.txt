@@ -87,7 +87,7 @@
         <div id="important-column-831" class="weighty-column">
 
             2022/01/31 15:25                            
-                <span class="red bold">
+                <span class="bold">
                                             (01/31 修正済)
                                     </span>
             
