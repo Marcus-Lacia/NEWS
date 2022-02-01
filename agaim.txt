@@ -35,7 +35,10 @@
         
         <div id="important-column-832" class="weighty-column">
 
-            2022/01/31 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/01/31 18:30                            
+                <span class="red bold">
+                                            (02/01 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +48,23 @@
         <div id="important-text-832" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月01日 16:05 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        </div>
+        <div>
+            本件につきまして、修正対応が完了いたしましたのでご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年01月31日 18:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
