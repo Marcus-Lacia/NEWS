@@ -33,6 +33,94 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-834" class="weighty-column">
+
+            2022/02/02 18:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              スキル詳細画面にて、未開放のスキルスロットに元々装着されているパッシブスキルを、別スロットに付け替えることができてしまう            </div>
+
+        </div>
+        <div id="important-text-834" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年02月02日 18:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶スキル詳細画面にて、未開放のスキルスロットに元々装着されているパッシブスキルを、別スロットに付け替えることができてしまう。
+            </div>
+            <div>
+                なお、「得意ギアタグ」を持つパッシブスキルを別スロットに付け替えた場合、マスターレベルを上げてスロットを解放するまでは、当該パッシブスキルを元のスロットに戻せなくなる現象を確認しております。<br>
+                パッシブスキルを元のスロットに戻せなくなったキャラクターにつきましては、後日、正しい状態に戻す対応を予定しております。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-833" class="weighty-column">
+
+            2022/02/02 18:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「シングルアクセチョイス」を開いた時に、アクセチョイス筐体の一部が正しく表示されないことがある            </div>
+
+        </div>
+        <div id="important-text-833" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年02月02日 18:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶「シングルアクセチョイス」を開いた時に、アクセチョイス筐体の一部が正しく表示されないことがある。
+            </div>
+            <p class="list red">
+                ※表示のみの不具合となり、提供割合や内容に影響はございません。
+            </p>
+            <p class="list red">
+                ※アクセチョイス筐体のラインナップをスワイプすることで、正しく表示されることを確認しております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-832" class="weighty-column">
 
             2022/01/31 18:30                            
@@ -1270,130 +1358,6 @@
     <div>
         なお、Ver.1.48.1の配信に伴い、<span class="bold red">12/23（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-814" class="weighty-column">
-
-            2021/12/20 20:40                            
-                <span class="bold">
-                                            (01/20 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、ショットギアの溜め撃ち攻撃の途中で砲撃が行えてしまう            </div>
-
-        </div>
-        <div id="important-text-814" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年01月20日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer1.49.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2021年12月20日 20:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、ショットギアの溜め撃ち攻撃の途中で砲撃が行えてしまう。
-            </div>
-            <p class="list red">
-                ※ショットギアの溜め撃ち攻撃中は、砲撃が行えないのが正しい挙動となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-813" class="weighty-column">
-
-            2021/12/16 22:45                            
-                <span class="bold">
-                                            (12/16 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              任務出撃前の画面でエラーが発生することがある            </div>
-
-        </div>
-        <div id="important-text-813" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2021年12月16日 22:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、さきほど修正作業が完了いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶各種任務に出撃する際、特定のサポーターが選択可能な状態に限り、エラーが発生することがある。
-            </div>
-        </div>
-    <div>
-        また、不具合のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                12/16（木）22:45 までに<br>
-                アカウントを作成していたお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                12/30（木）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
     </div>
     
     <div>
