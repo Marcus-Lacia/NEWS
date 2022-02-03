@@ -77,8 +77,7 @@
         
         <div id="important-column-834" class="weighty-column">
 
-            2022/02/02 18:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/02 18:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               スキル詳細画面にて、未開放のスキルスロットに元々装着されているパッシブスキルを、別スロットに付け替えることができてしまう            </div>
@@ -120,8 +119,7 @@
         
         <div id="important-column-833" class="weighty-column">
 
-            2022/02/02 18:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/02 18:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「シングルアクセチョイス」を開いた時に、アクセチョイス筐体の一部が正しく表示されないことがある            </div>
