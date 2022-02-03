@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-835" class="weighty-column">
+
+            2022/02/03 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-835" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月03日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-834" class="weighty-column">
 
             2022/02/02 18:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1301,63 +1343,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-815" class="weighty-column">
-
-            2021/12/22 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.48.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-815" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2021年12月22日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.48.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.48.1の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.48.0アプリにアップデートすると、アイテム一覧画面に開発中のダミーアイテムが表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正式実装時の初期所持数については、0個を予定しております。本不具合によって表示されていた分の所持数については引き継がれませんので、予めご了承ください。
-        </p>
-        <div class="list">
-            ▶藤野 やよいがSPスキル「テトラスプリッターH」発動中に特定操作を行うと、一部トップスギアのフィニッシュ攻撃を複数回発動できてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶SPスキル「テトラスプリッターH」を装着した藤野 やよいをサポーターとして呼び出した場合、SPスキル発動中に砲撃やフィニッシュムーブを行わない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶「カラットショップ SOL ラプター」にて、コスチューム「ライトスーツ/R」の着用対象キャラクターが重複表示されている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.48.1の配信に伴い、<span class="bold red">12/23（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
