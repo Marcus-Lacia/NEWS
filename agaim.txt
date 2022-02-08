@@ -163,7 +163,7 @@
         <div id="important-column-836" class="weighty-column">
 
             2022/02/07 15:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (02/08 修正済)
                                     </span>
             
