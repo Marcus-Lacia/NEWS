@@ -33,9 +33,67 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-838" class="weighty-column">
+
+            2022/02/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-838" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月08日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ホーム画面のキャラクターのモーションが、開発意図と異なるモーションに変わっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶「おでかけモードβ1.15」の撮影ルームにて、本来撮影できないキャラクターが撮影ルームに入れてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・牧瀬 紅莉栖<br>
+                ・阿万音 鈴羽
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-837" class="weighty-column">
 
-            2022/02/07 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/02/07 16:10                            
+                <span class="red bold">
+                                            (02/08 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +103,23 @@
         <div id="important-text-837" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月08日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月07日 16:10<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -87,7 +162,10 @@
         
         <div id="important-column-836" class="weighty-column">
 
-            2022/02/07 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/02/07 15:10                            
+                <span class="red bold">
+                                            (02/08 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -97,6 +175,23 @@
         <div id="important-text-836" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月08日 14:00 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月07日 15:10<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1261,84 +1356,6 @@
     <div>
         なお、Ver.1.49.0の配信に伴い、<span class="bold red">1/21（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-818" class="weighty-column">
-
-            2022/01/13 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-818" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年01月13日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶トップスギア「ミズノエトラ/T」のギアスキルに、キャラクターパッシブスキルの「ギアスキル使用回数が上昇する」効果が正しく適用されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶大関 小結が下記クロスギアを装備中、特定状況にて下フリック派生による突進を行わないことがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・グラビトンコリダー凸<br>
-                ・エビス
-            </div>
-        </div>
-        <div class="list">
-            ▶ケルベロスがエリア外に出にくくなるよう挙動を調整しました。
-        </div>
-        <div class="list">
-            ▶ケルベロスの接触判定を調整し、キャラクターが接触した際にめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶一部任務に出現するケルベロスの、回転攻撃時に放たれる斬撃の射出方向が、アプリver1.48.0から意図せず変わっていた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部任務に出現するケルベロスの、回転攻撃時に放たれる斬撃の攻撃判定が、見た目よりも若干早く発生していた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定条件下において、グリフォンの状態異常エフェクトとダメージ表示が、開発意図と異なる位置に表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリーチケット詳細画面に表示されるアクセサリーチケットの画像が、開発意図と異なっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※アクセサリーの提供割合に変更はございません。
-        </p>
-        <div class="list">
-            ▶イベント「年末中野ジャンボドリーム ―チョリ～クリスマッス♪―」のシナリオ最終話の一部台詞表現を調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
