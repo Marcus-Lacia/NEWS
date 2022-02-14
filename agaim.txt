@@ -33,6 +33,60 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-842" class="weighty-column">
+
+            2022/02/14 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-842" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月14日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶下記キャラクターに「エニグマ」を実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・ファティマ・B
+            </div>
+        </div>
+        <div class="list">
+            ▶ファティマ・Bの専用ボトムスギアに進化分岐を追加しました。
+        </div>
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1360">
+        <div class="list red">
+            ※派生進化専用ギアの特殊な動作について、<br>
+            ファティマ【Miθra】の詳細ページにて説明しております。
+        </div>
+        <a href="/news/show/id/514?returnUrl=back">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1360">
+            <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+        </a>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-843" class="weighty-column">
 
             2022/02/14 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -877,7 +931,7 @@
             ▶調査任務のへクスクリア累積報酬にて、キャラクターのSギアシェルを選択するパターンが登場しやすくなるよう確率を調整しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220127/info_01.jpg?v=1359">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220127/info_01.jpg?v=1360">
         </div>
         <div class="list">
             ▶下記キャラクターのスキル詳細画面に表示されるSPスキルアイコンに、射撃攻撃・近接攻撃の表示を追加しました。
@@ -1023,7 +1077,7 @@
             ▶スキル詳細画面にて特定手順を行うと、「得意ギアタグ」を持つパッシブスキルを全て外した状態にできてしまう不具合を修正しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220126/info_01.jpg?v=1359">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220126/info_01.jpg?v=1360">
         </div>
         <p class="list red">
             ※「得意ギアタグ」のパッシブスキルを1つ以上装着した状態が、正しい仕様となります。
@@ -1171,68 +1225,6 @@
             <div class="list">
                 ▶Ver1.49.0アプリより、マルチ任務に出現するケプリと戦闘すると進行不能になることがある。
             </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-823" class="weighty-column">
-
-            2022/01/21 23:00                            
-                <span class="bold">
-                                            (01/26 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              マスターレベル上昇時に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-823" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年01月26日 14:00 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer.1.49.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年01月21日 23:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶マスターレベル上昇時のステータス変動が開発意図と異なっており、任務中の近接攻撃力が、ステータス画面の表示よりも高くなっている。
-            </div>
-            <p class="list red">
-                ※ステータス画面には正しい数値が表示されていますが、実際に与えるダメージが開発意図よりも高い数値となっております。
-            </p>
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
