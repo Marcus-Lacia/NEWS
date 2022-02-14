@@ -33,6 +33,61 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-841" class="weighty-column">
+
+            2022/02/14 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-841" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月14日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ファティマ・B専用ボトムスギアスキル「パー・ホルシード」のスキル終了時、移動の慣性がわずかに働くようにし、被弾しにくくなるよう微調整しました。
+        </div>
+        <div class="list">
+            ▶下記SPスキル発動中に装備するギアの、一部パーツの発光表現を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・ペインレスキャノンE<br>
+                ・テトラスプリッターH
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-840" class="weighty-column">
 
             2022/02/10 15:00            
@@ -1212,68 +1267,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-821" class="weighty-column">
-
-            2022/01/21 15:05                            
-                <span class="bold">
-                                            (01/21 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              サーバー障害発生についてのご報告            </div>
-
-        </div>
-        <div id="important-text-821" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2022年01月21日 15:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        <br>
-        以下の期間、サーバー障害が発生し、ゲームプレイが正常に行えない期間がございました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【障害発生期間】</p>
-        <ul>
-            1/21（金）14:00頃 から<br>
-            1/21（金）14:25頃 の間<br>
-            <li class="list">
-                <span class="bold red">※現在、障害は復旧し、正常にゲームプレイができることを確認しております。</span><br>
-            </li>
-        </ul>
-        障害発生のお詫びとして以下の補填対応を実施いたしましたので、併せてご報告申し上げます。
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    1/21（金）14:30までに<br>
-                    アカウントを作成しているお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 40
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    2/4（金） 23:59 まで
-                </div>
-            </div>
-        </div>
-    </div>
-    <div>
-        この度は、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
