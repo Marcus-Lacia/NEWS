@@ -129,8 +129,7 @@
         
         <div id="important-column-843" class="weighty-column">
 
-            2022/02/14 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/14 14:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況で萬場 盟華に「CUE-002」をプレゼントすると、リアクションが正しく行われないことがある            </div>
