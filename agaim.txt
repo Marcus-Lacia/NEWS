@@ -74,8 +74,7 @@
         
         <div id="important-column-844" class="weighty-column">
 
-            2022/02/14 20:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/14 20:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ファティマ・BのSPスキル「ワルフラーンアヴァタ」発動中の挙動について            </div>
