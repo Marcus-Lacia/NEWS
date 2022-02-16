@@ -99,8 +99,7 @@
         
         <div id="important-column-845" class="weighty-column">
 
-            2022/02/15 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/15 19:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「【復刻】タマちゃん探検隊 特設交換所」のアイテムを全て交換しても「COMPLETE」と表示されない場合がある            </div>
