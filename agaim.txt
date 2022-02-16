@@ -33,6 +33,70 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-846" class="weighty-column">
+
+            2022/02/16 14:10                            
+                <span class="red bold">
+                                            (02/16 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-846" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月16日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ファティマ・BのSPスキル「ワルフラーンアヴァタ」にて、キャラクター上限解放によるアクティブスキル使用回数の増加効果が、開発意図と異なっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定状況で萬場 盟華に「CUE-002」をプレゼントすると、リアクションが正しく行われないことがある不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        また、データ更新並びに不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                2/16（水）14:00 までに<br>
+                アカウントを作成していたお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 150
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                3/2（水）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-845" class="weighty-column">
 
             2022/02/15 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -74,7 +138,11 @@
         
         <div id="important-column-844" class="weighty-column">
 
-            2022/02/14 20:45            
+            2022/02/14 20:45                            
+                <span class="bold">
+                                            (02/16 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ファティマ・BのSPスキル「ワルフラーンアヴァタ」発動中の挙動について            </div>
@@ -83,6 +151,23 @@
         <div id="important-text-844" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月16日 14:10 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月14日 20:45<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -166,7 +251,11 @@
         
         <div id="important-column-843" class="weighty-column">
 
-            2022/02/14 14:30            
+            2022/02/14 14:30                            
+                <span class="bold">
+                                            (02/16 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況で萬場 盟華に「CUE-002」をプレゼントすると、リアクションが正しく行われないことがある            </div>
@@ -175,6 +264,23 @@
         <div id="important-text-843" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月16日 14:10 追記<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月14日 14:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1103,90 +1209,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-826" class="weighty-column">
-
-            2022/01/26 14:00                            
-                <span class="bold">
-                                            (02/04 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.49.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-826" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年01月26日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.49.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.49.1の更新内容】</p>
-        
-        <div class="list">
-            ▶マスターレベル上昇時のステータス変動が開発意図と異なっており、任務中の近接攻撃力が、ステータス画面の表示よりも高くなっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.49.0アプリより、「属性攻撃力を上昇させる」効果のチューンスキルが付与されたアナザーギアを装備中、ステータス画面の属性値が実際よりも低く表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶エニグマ画面にて、特定手順でパッシブスキルセルの詳細画面を開くと、別のパッシブスキルのタグが表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶エニグマ画面のマスターエレメント変換セルにて、クオリアが不足している状態で変換しようとするとエラーが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶スキル詳細画面にて、「アクティブスキルの使用回数を増やす」効果のパッシブスキルを装着しても、任務に出撃するまで回数表示が変動しない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示上の不具合となり、使用回数は正常に増加していたことを確認しております。
-        </p>
-        <div class="list">
-            ▶スキル詳細画面にて特定手順を行うと、「得意ギアタグ」を持つパッシブスキルを全て外した状態にできてしまう不具合を修正しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220126/info_01.jpg?v=1362">
-        </div>
-        <p class="list red">
-            ※「得意ギアタグ」のパッシブスキルを1つ以上装着した状態が、正しい仕様となります。
-        </p>
-        <p class="list red">
-            <s>※本不具合が発生しているキャラクターにつきましては、後日、正しい状態に戻す対応を予定しております。</s>
-        </p>
-        <p class="list red">
-            ※2/4（金）16:20 追記<br>
-            当該の不具合が発生していたキャラクターを、正しい状態に戻す対応が完了しました。<br>
-            本対応は、再度ログインいただくことで反映されます。
-        </p>
-        <div class="list">
-            ▶スキル詳細画面にて、スキルスロット解放条件を満たしているにもかかわらず、スロットが解放されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.49.1の配信に伴い、<span class="bold red">1/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
