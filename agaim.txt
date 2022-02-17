@@ -183,7 +183,7 @@
                 ▶上限解放による、アクティブスキル使用回数の増加効果が開発意図と異なっている。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1362">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1363">
             </div>
             <div>
                 本件について、本来の設定である「上限解放1回以上でアクティブスキルの使用回数が増加」する形への修正を予定しております。<br>
@@ -229,13 +229,13 @@
         <div class="list">
             ▶ファティマ・Bの専用ボトムスギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1362">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1363">
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
             ファティマ【Miθra】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/514?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1362">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1363">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
     </div>
@@ -1111,7 +1111,7 @@
             ▶調査任務のへクスクリア累積報酬にて、キャラクターのSギアシェルを選択するパターンが登場しやすくなるよう確率を調整しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220127/info_01.jpg?v=1362">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220127/info_01.jpg?v=1363">
         </div>
         <div class="list">
             ▶下記キャラクターのスキル詳細画面に表示されるSPスキルアイコンに、射撃攻撃・近接攻撃の表示を追加しました。
