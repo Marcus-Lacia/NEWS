@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-847" class="weighty-column">
+
+            2022/02/17 16:10                            
+                <span class="red bold">
+                                            (02/17 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              キャラクターを上限解放させると、エニグマの「ステータスアップセル」で上昇したステータスが、ステータス画面に反映されなくなる            </div>
+
+        </div>
+        <div id="important-text-847" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年02月17日 16:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶キャラクターを上限解放させると、エニグマの「ステータスアップセル」で上昇したステータスが、ステータス画面に反映されなくなる。
+            </div>
+            <p class="list red">
+                ※表示上の不具合となり、任務中のダメージ計算は正しく行われておりました。
+            </p>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-846" class="weighty-column">
 
             2022/02/16 14:10                            
@@ -99,7 +141,11 @@
         
         <div id="important-column-845" class="weighty-column">
 
-            2022/02/15 19:45            
+            2022/02/15 19:45                            
+                <span class="bold">
+                                            (02/17 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「【復刻】タマちゃん探検隊 特設交換所」のアイテムを全て交換しても「COMPLETE」と表示されない場合がある            </div>
@@ -108,6 +154,17 @@
         <div id="important-text-845" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月17日 16:10 追記<br>
+            本件につきまして、先ほど修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月15日 19:45<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1146,68 +1203,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-827" class="weighty-column">
-
-            2022/01/26 19:30                            
-                <span class="bold">
-                                            (01/31 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              マスターレベルが上昇したキャラクターが一部のギアを装備すると、HPの数値がステータス画面と任務中で異なる場合がある            </div>
-
-        </div>
-        <div id="important-text-827" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年01月31日 14:05 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        </div>
-        <div>
-            本件につきまして、本日順次配信されましたVer.1.50.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年01月26日 19:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶マスターレベルが上昇したキャラクターが「最大HPを上昇させる」パッシブスキル効果を保有するギアを装備すると、HPの数値がステータス画面と任務中で異なる場合がある。
-            </div>
-            <p class="list red">
-                ※ステータス画面に表示される数値が正しい数値となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
