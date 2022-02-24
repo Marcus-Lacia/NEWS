@@ -33,6 +33,76 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-848" class="weighty-column">
+
+            2022/02/24 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.50.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-848" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月24日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.50.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.50.1の更新内容】</p>
+        
+        <div class="list hide_DMM">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面のデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶スキル詳細画面にて、未開放のスキルスロットに元々装着されているパッシブスキルを、別スロットに付け替えることができてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶「シングルアクセチョイス」を開いた時に、リスト下部のアクセチョイス筐体が正しく表示されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチ任務をプレイ中、他のプレイヤーが接続不良等で抜けた状況でSPスキルを発動すると、エラーが発生することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「初心者がコミマのために鍛えたら強くなっちゃった件」のバトルリザルト画面にて、キャラクターがレベルアップした際のレベルが、実際よりも低く表示される不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、経験値は正常に獲得されております。
+        </p>
+        <div class="list">
+            ▶ファティマ・BのSPスキル「ワルフラーンアヴァタ」発動中の、一部射撃攻撃のエフェクトを調整しました。
+        </div>
+        <p class="list red">
+            ※エフェクトのみの調整となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.50.1の配信に伴い、<span class="bold red">2/25（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-847" class="weighty-column">
 
             2022/02/17 16:10                            
@@ -240,7 +310,7 @@
                 ▶上限解放による、アクティブスキル使用回数の増加効果が開発意図と異なっている。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1369">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1370">
             </div>
             <div>
                 本件について、本来の設定である「上限解放1回以上でアクティブスキルの使用回数が増加」する形への修正を予定しております。<br>
@@ -286,13 +356,13 @@
         <div class="list">
             ▶ファティマ・Bの専用ボトムスギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1369">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1370">
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
             ファティマ【Miθra】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/514?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1369">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1370">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
     </div>
@@ -711,7 +781,7 @@
 
             2022/02/02 18:05                            
                 <span class="bold">
-                                            (02/04 更新)
+                                            (02/24 修正済)
                                     </span>
             
             <div class="column-text">
@@ -722,6 +792,17 @@
         <div id="important-text-834" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月24日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.50.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月04日 16:20 追記<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
@@ -817,7 +898,11 @@
         
         <div id="important-column-833" class="weighty-column">
 
-            2022/02/02 18:05            
+            2022/02/02 18:05                            
+                <span class="bold">
+                                            (02/24 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「シングルアクセチョイス」を開いた時に、アクセチョイス筐体の一部が正しく表示されないことがある            </div>
@@ -826,6 +911,17 @@
         <div id="important-text-833" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年02月24日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.50.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月02日 18:05<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1129,84 +1225,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-828" class="weighty-column">
-
-            2022/01/27 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-828" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年01月27日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記キャラクターに「エニグマ」を実装しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・藤野 やよい<br>
-                ・下落合 桃歌
-            </div>
-        </div>
-        <p class="list red">
-            ※対象キャラクターの「ファクターエリア」は、1/27（木）15:00 より開放されます。
-        </p>
-        <div class="list">
-            ▶調査任務のへクスクリア累積報酬にて、キャラクターのSギアシェルを選択するパターンが登場しやすくなるよう確率を調整しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220127/info_01.jpg?v=1369">
-        </div>
-        <div class="list">
-            ▶下記キャラクターのスキル詳細画面に表示されるSPスキルアイコンに、射撃攻撃・近接攻撃の表示を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・比良坂 夜露<br>
-                ・吾妻 楓<br>
-                ・藤野 やよい<br>
-                ・下落合 桃歌
-            </div>
-        </div>
-        <div class="list">
-            ▶アデライーデ・Bがアクセサリー「フラワークラウン」着用時の、頭とアクセサリーの隙間を調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/40</div>
+                    <div class="page-box box-radius">1/41</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
