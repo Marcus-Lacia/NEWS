@@ -249,8 +249,7 @@
         
         <div id="important-column-849" class="weighty-column">
 
-            2022/02/24 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/24 18:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               各種バンブラのチャージ攻撃が正しく発動していない            </div>
