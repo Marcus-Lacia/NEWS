@@ -33,6 +33,165 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-850" class="weighty-column">
+
+            2022/02/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-850" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年02月25日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶一部画面の4周年記念BGMを、通常BGMに変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象画面】</p>
+            <div>
+                ・起動時のロード画面<br>
+                ・チーム管理画面<br>
+                ・任務選択画面<br>
+                ・バトルリザルト画面（一部の特殊宙域を除く）
+            </div>
+        </div>
+        <div class="list">
+            ▶パッシブスキル「大物狙い1」のタグを調整し、新たに「攻撃タグ」を追加しました。
+        </div>
+        <p class="list red">
+            ※スキル効果内容に変更はございません。
+        </p>
+        <div class="list">
+            ▶下記ボトムスギアの、一部パーツが正しく表示されていなかった問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・一〇式トライステラG/B<br>
+                ・一〇式トライステラH/B<br>
+                ・一〇式トライステラF/B
+            </div>
+        </div>
+        <div class="list">
+            ▶一部の「アクティブスキルの性能を上書きする特殊タイプのSPスキル」の、説明文中の表記揺れを修正しました。
+        </div>
+        <p class="list red">
+            ※スキル性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                誤：限界突破<br>
+                正：上限解放
+            </div>
+        </div>
+        <div class="list">
+            ▶兼志谷 シタラの下記パッシブスキルの、説明文中の表記揺れを修正しました。
+        </div>
+        <p class="list red">
+            ※スキル性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象スキル】</p>
+            <div>
+                ・BシューターUP1<br>
+                ・BアサルトUP1<br>
+                ・誘導ビームUP1<br>
+                <br>
+                誤：エリア開始時<br>
+                正：毎エリア開始時
+            </div>
+        </div>
+        <div class="list">
+            ▶パッシブスキル「熱気を帯びた闘志1」の、説明文中の誤表記を修正しました。
+        </div>
+        <p class="list red">
+            ※スキル性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                誤：
+                <div>
+                    特定の大型ヴァイス登場時、SPが10%チャージされ10m範囲の敵弾誘導性能を無効化する<br>
+                    <span class="red">10秒間</span>継続 この効果は条件を満たす限り再発動する
+                </div>
+                正：
+                <div>
+                    特定の大型ヴァイス登場時、SPが10%チャージされ10m範囲の敵弾誘導性能を無効化する<br>
+                    <span class="red">15秒間</span>継続 この効果は条件を満たす限り再発動する
+                </div>
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターのSPスキルのソート順を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・比良坂 夜露<br>
+                ・吾妻 楓<br>
+                ・藤野 やよい<br>
+                ・下落合 桃歌<br>
+                ・二階堂 司
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターのスキル詳細画面に表示されるSPスキルアイコンに、射撃攻撃・近接攻撃の表示を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・二子玉 舞<br>
+                ・バージニア・G
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターの、ホーム画面での一部モーションを微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・二子玉 舞<br>
+                ・バージニア・G
+            </div>
+        </div>
+        <div class="list">
+            ▶コスチューム「アニバジャケット」着用時、衣装の一部が体にめり込んでしまう不具合を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-849" class="weighty-column">
 
             2022/02/24 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1110,86 +1269,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-830" class="weighty-column">
-
-            2022/01/31 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.50.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-830" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年01月31日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.50.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.50.0の更新内容】</p>
-        
-        <div class="list">
-            ▶マスターレベルが上昇したキャラクターが「最大HPを上昇させる」パッシブスキル効果を保有するギアを装備すると、HPの数値がステータス画面と任務中で異なる場合がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶藤野 やよい、下落合 桃歌の特定パッシブスキルを外すと、一部スキルスロット以外に再装着できなくなる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                <span class="bold">藤野 やよい</span><br>
-                ・痛切な実感<br>
-                ・ある人の生のなかに<br>
-                ・ビートブレイカー<br>
-                <br>
-                <span class="bold">下落合 桃歌</span><br>
-                ・エアリーステップ<br>
-                ・セットリスト<br>
-                ・アイドルスピリット
-            </div>
-        </div>
-        <div class="list">
-            ▶特定状況でイベント「クオリア獲得任務」をクリアすると、初回クリア報酬分のクオリアがアイテム一覧画面に表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「藤野 やよい【無常】トライアル任務」の任務名称が、開発意図と異なる名称になっていた問題を修正しました。
-        </div>
-        <div class="list">
-            ▶二階堂 司が専用クロスギア装備中、一部の攻撃モーション時の首の角度が自然な印象になるよう微調整しました。
-        </div>
-        <div class="list">
-            ▶的場 アオイのSPスキル「ブルズアイ・シュート」の演出中、首の角度が自然な印象になるよう微調整しました。
-        </div>
-        <div class="list">
-            ▶サポーター選択画面の、「フォロー・フォロワー」と「マスターレベル」の表示位置を調整しました。
-        </div>
-        <div class="list">
-            ▶パッシブスキルを装着した際に画面上に表示される文言を微調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.50.0の配信に伴い、<span class="bold red">2/1（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
