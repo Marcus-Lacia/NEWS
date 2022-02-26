@@ -35,8 +35,7 @@
         
         <div id="important-column-852" class="weighty-column">
 
-            2022/02/25 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/25 19:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況でマルチに連続で出撃すると、進行不能になることがある            </div>
