@@ -33,6 +33,46 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-854" class="weighty-column">
+
+            2022/03/01 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.50.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-854" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年03月01日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.50.2のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.50.2の更新内容】</p>
+        
+        <div class="list">
+            ▶マルチ任務で作成されたルームから、一度他プレイヤーが退出した後、連続で2回以上出撃すると、進行不能になることがある不具合を修正しました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.50.2の配信に伴い、<span class="bold red">3/2（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-853" class="weighty-column">
 
             2022/02/28 19:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -74,7 +114,11 @@
         
         <div id="important-column-852" class="weighty-column">
 
-            2022/02/25 19:45            
+            2022/02/25 19:45                            
+                <span class="bold">
+                                            (03/01 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況でマルチに連続で出撃すると、進行不能になることがある            </div>
@@ -83,6 +127,17 @@
         <div id="important-text-852" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年03月01日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.50.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年02月25日 19:45<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1180,47 +1235,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-835" class="weighty-column">
-
-            2022/02/03 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-835" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年02月03日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
