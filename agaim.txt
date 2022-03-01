@@ -75,8 +75,7 @@
         
         <div id="important-column-853" class="weighty-column">
 
-            2022/02/28 19:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/02/28 19:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               バージニア・Gのエニグマで修得可能なパッシブスキル「角兎の目覚め1」が、発動対象外のクロスギアでも発動することがある            </div>
