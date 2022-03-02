@@ -33,6 +33,91 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-852" class="weighty-column">
+
+            2022/02/25 19:45                            
+                <span class="red bold">
+                                            (03/02 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定状況でマルチに連続で出撃すると、進行不能になることがある            </div>
+
+        </div>
+        <div id="important-text-852" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月02日 14:00 追記<br>
+            不具合発生のお詫びとして、下記の補填を配布いたしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    3/2（水）14:00 までに<br>
+                    アカウントを作成していたお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 100
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    3/16（水）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        
+        
+        <div>
+            ■2022年03月01日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.50.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2022年02月25日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶マルチ任務で作成されたルームから、一度他プレイヤーが退出した後、連続で2回以上出撃すると、進行不能になることがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-854" class="weighty-column">
 
             2022/03/01 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -102,59 +187,6 @@
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-852" class="weighty-column">
-
-            2022/02/25 19:45                            
-                <span class="bold">
-                                            (03/01 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定状況でマルチに連続で出撃すると、進行不能になることがある            </div>
-
-        </div>
-        <div id="important-text-852" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年03月01日 14:05 追記<br>
-            本件につきまして、本日順次配信されましたVer1.50.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年02月25日 19:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶マルチ任務で作成されたルームから、一度他プレイヤーが退出した後、連続で2回以上出撃すると、進行不能になることがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
