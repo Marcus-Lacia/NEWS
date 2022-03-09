@@ -35,8 +35,7 @@
         
         <div id="important-column-856" class="weighty-column">
 
-            2022/03/08 18:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/03/08 18:35            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況にて、一部パッシブスキルの「特定の大型ヴァイス登場時」に発動する効果が、大型ヴァイスの登場演出前に発動することがある            </div>
