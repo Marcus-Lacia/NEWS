@@ -33,6 +33,53 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-860" class="weighty-column">
+
+            2022/03/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              エニグマ画面にて、特定パッシブスキル修得時のクオリア必要数が「10」と表示される            </div>
+
+        </div>
+        <div id="important-text-860" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月16日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.51.0アプリより、エニグマ画面にて、特定パッシブスキル修得時のクオリア必要数が「10」と表示される。
+            </div>
+            <div>
+                本件は表示不具合となり、修得時に実際に消費されているクオリアの数は、正常な数になっていることを確認しております。<br>
+                <br>
+                対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
+            </div>
+            <div class="center">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1395">
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-859" class="weighty-column">
 
             2022/03/16 13:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1242,68 +1289,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-839" class="weighty-column">
-
-            2022/02/09 16:00                            
-                <span class="bold">
-                                            (02/10 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              装備中のギアを進化させると、エニグマの「ステータスアップセル」で上昇したステータスが、ステータス画面に反映されなくなる            </div>
-
-        </div>
-        <div id="important-text-839" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年02月10日 17:05 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            本件につきまして、先ほど修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年02月09日 16:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶装備中のギアを進化させると、エニグマの「ステータスアップセル」で上昇したステータスが、ステータス画面に反映されなくなる。
-            </div>
-            <p class="list red">
-                ※表示上の不具合となり、任務中のダメージ計算は正しく行われていることを確認しております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
