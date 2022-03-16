@@ -33,6 +33,109 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-859" class="weighty-column">
+
+            2022/03/16 13:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.51.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-859" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年03月16日 13:55<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.51.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.51.0の更新内容】</p>
+        
+        <div class="list">
+            ▶エニグマ画面の背景に、各エリアの範囲を表す表示を追加しました。
+        </div>
+        <div class="list">
+            ▶エニグマ画面に、スキル詳細画面へ遷移できるボタンを追加しました。
+        </div>
+        <div class="list">
+            ▶エニグマ画面でセルを選択した際に、選んだセルが画面中央に表示されるよう挙動を調整しました。
+        </div>
+        <div class="list">
+            ▶クオリアのアイテム詳細画面に、所持数の表示を追加しました。
+        </div>
+        <p class="list red">
+            ※アイテム詳細画面は、クオリアのアイテムアイコンをタップすると表示されます。
+        </p>
+        <div class="list">
+            ▶メニュー画面右上のプレイヤーID表示方法を変更し、デフォルト状態では非表示になるよう仕様を変更しました。
+        </div>
+        <p class="list red">
+            ※タップするとプレイヤーIDが表示されます。
+        </p>
+        <div class="list">
+            ▶各種リコサアラゴギの撃破演出を微調整しました。
+        </div>
+        <div class="list">
+            ▶一部のヴァイスがエリア外に出にくくなるよう調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ヴァイス】</p>
+            <div>
+                ・ミニサーペント<br>
+                ・ルイカ<br>
+                ・エルフラ<br>
+                ・タラクサ特異型
+            </div>
+        </div>
+        <div class="list">
+            ▶特定状況にて、一部パッシブスキルの「特定の大型ヴァイス登場時」に発動する効果が、大型ヴァイスの登場演出前に発動することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶キャラクターのレベルを上げることで解放されるパッシブスキルが、特定状況にて、解放可能レベルに満たない状態でもスキル詳細画面に表示されることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶スキル詳細画面にて、「アクティブスキル使用回数が上昇する」効果のパッシブスキルが未開放の状態でも、使用回数が上昇しているように表示されることがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、任務中の使用回数に影響がないことを確認しております。
+        </p>
+        <div class="list">
+            ▶スキル詳細画面にて、スキルスロットにパッシブスキルを装着した際に、一部のタグ情報が非表示になる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶サポーターに選択した御茶ノ水 美里江が、SPスキル「バステリオンγ」の効果時間中にアクティブスキルを使用しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶オプションにアカウント削除機能を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能で削除したアカウントは他の端末でも利用できなくなり、いかなる理由があってもデータ復旧は対応しかねますのでご注意ください。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.51.0の配信に伴い、<span class="bold red">3/17（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-857" class="weighty-column">
 
             2022/03/10 14:00            
@@ -107,7 +210,11 @@
         
         <div id="important-column-856" class="weighty-column">
 
-            2022/03/08 18:35            
+            2022/03/08 18:35                            
+                <span class="bold">
+                                            (3/16 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況にて、一部パッシブスキルの「特定の大型ヴァイス登場時」に発動する効果が、大型ヴァイスの登場演出前に発動することがある            </div>
@@ -116,6 +223,17 @@
         <div id="important-text-856" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年03月16日 13:55 追記<br>
+            本件につきまして、本日順次配信されましたVer1.51.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年03月08日 18:35<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1186,60 +1304,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-838" class="weighty-column">
-
-            2022/02/08 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-838" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年02月08日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ホーム画面のキャラクターのモーションが、開発意図と異なるモーションに変わっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶「おでかけモードβ1.15」の撮影ルームにて、本来撮影できないキャラクターが撮影ルームに入れてしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・牧瀬 紅莉栖<br>
-                ・阿万音 鈴羽
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
