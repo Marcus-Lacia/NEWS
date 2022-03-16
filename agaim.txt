@@ -212,7 +212,7 @@
 
             2022/03/08 18:35                            
                 <span class="bold">
-                                            (3/16 修正済)
+                                            (03/16 修正済)
                                     </span>
             
             <div class="column-text">
