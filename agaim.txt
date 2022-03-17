@@ -33,6 +33,84 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-861" class="weighty-column">
+
+            2022/03/17 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-861" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年03月17日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶蛙坂 来弥専用トップスギアの、ギアスキルの性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・舞玄幽導爆炎筒
+            </div>
+            <p class="list">
+                ・ミサイル1発あたりの攻撃力を約108%増加。
+            </p>
+            <p class="list">
+                ・ミサイルの爆発範囲を約50%拡大。
+            </p>
+            <p class="list">
+                ・両手剣の攻撃速度上昇の効果時間を5秒延長。
+            </p>
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・舞玄幽導爆炎筒・疾風
+            </div>
+            <p class="list">
+                ・ミサイルを2発増加。
+            </p>
+            <p class="list">
+                ・ミサイル1発あたりの攻撃力を約108%増加。
+            </p>
+            <p class="list">
+                ・ミサイルの爆発範囲を約50%拡大。
+            </p>
+            <p class="list">
+                ・両手剣の攻撃速度上昇の効果時間を5秒延長。
+            </p>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-860" class="weighty-column">
 
             2022/03/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1236,48 +1314,6 @@
         </div>
         <div class="list">
         	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-840" class="weighty-column">
-
-            2022/02/10 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-840" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年02月10日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記キャラクターに「エニグマ」を実装しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・兼志谷 シタラ<br>
-                ・須賀 乙莉
-            </div>
         </div>
     </div>
     <div>
