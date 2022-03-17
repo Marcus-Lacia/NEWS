@@ -113,8 +113,7 @@
         
         <div id="important-column-860" class="weighty-column">
 
-            2022/03/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/03/16 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               エニグマ画面にて、特定パッシブスキル修得時のクオリア必要数が「10」と表示される            </div>
@@ -144,7 +143,7 @@
                 対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1397">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1398">
             </div>
         </div>
         <div>
@@ -641,13 +640,13 @@
         <div class="list">
             ▶二子玉 舞の専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220225/bnr_l00_inf_402_25.jpg?v=1397">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220225/bnr_l00_inf_402_25.jpg?v=1398">
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
             二子玉 舞【繊麗】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/132?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1397">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1398">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
     </div>
@@ -1147,7 +1146,7 @@
                 ▶上限解放による、アクティブスキル使用回数の増加効果が開発意図と異なっている。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1397">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1398">
             </div>
             <div>
                 本件について、本来の設定である「上限解放1回以上でアクティブスキルの使用回数が増加」する形への修正を予定しております。<br>
@@ -1193,13 +1192,13 @@
         <div class="list">
             ▶ファティマ・Bの専用ボトムスギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1397">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1398">
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
             ファティマ【Miθra】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/514?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1397">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1398">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
     </div>
