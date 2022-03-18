@@ -136,8 +136,7 @@
         
         <div id="important-column-862" class="weighty-column">
 
-            2022/03/17 17:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/03/17 17:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               米良渕 花浪に「CUE-002」をプレゼントすると、床に埋まることがある            </div>
