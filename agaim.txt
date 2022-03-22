@@ -33,6 +33,87 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-864" class="weighty-column">
+
+            2022/03/22 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              成年年齢引き下げに伴う変更について            </div>
+
+        </div>
+        <div id="important-text-864" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年03月22日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            2022年4月1日（金）の成年年齢引き下げに伴い、4月6日（水）配信予定の最新版アプリより、年齢別の課金上限を以下の通りに変更いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【変更内容】</p>
+            
+            <div class="sub-box bg_white">
+                <p class="bold">【変更前】</p>
+                <div>
+                    <span class="bold">成年</span>
+                    <div class="list">
+                        ・20歳以上：上限なし
+                    </div>
+                    <span class="bold">未成年</span>
+                    <div class="list">
+                        ・16歳以上20歳未満：<br>
+                        1か月間につき10,000円（税抜）まで購入可能
+                    </div>
+                    <div class="list">
+                        ・13歳以上16歳未満：<br>
+                        1か月間につき4,500円（税抜）まで購入可能
+                    </div>
+                    <div class="list">
+                        ・13歳未満：購入不可
+                    </div>
+                </div>
+            </div>
+            
+            <div class="sub-box bg_white">
+                <p class="bold">【変更後】</p>
+                <div>
+                    <span class="bold">成年</span>
+                    <div class="list">
+                        ・<span class="red">18歳以上</span>：上限なし
+                    </div>
+                    <span class="bold">未成年</span>
+                    <div class="list">
+                        ・16歳以上<span class="red">18歳未満</span>：<br>
+                        1か月間につき10,000円（税抜）まで購入可能
+                    </div>
+                    <div class="list">
+                        ・13歳以上16歳未満：<br>
+                        1か月間につき4,500円（税抜）まで購入可能
+                    </div>
+                    <div class="list">
+                        ・13歳未満：購入不可
+                    </div>
+                </div>
+            </div>
+            <p class="list red">
+                ※年齢は毎月1日に更新されます。
+            </p>
+            <div>
+                上記変更に合わせて、ゲーム内各画面における成年年齢の記載箇所についても、表記を修正いたします。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-865" class="weighty-column">
 
             2022/03/22 12:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1232,66 +1313,6 @@
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-844" class="weighty-column">
-
-            2022/02/14 20:45                            
-                <span class="bold">
-                                            (02/16 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ファティマ・BのSPスキル「ワルフラーンアヴァタ」発動中の挙動について            </div>
-
-        </div>
-        <div id="important-text-844" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年02月16日 14:10 追記<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年02月14日 20:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、ファティマ・BのSPスキル「ワルフラーンアヴァタ」発動中の挙動について、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶上限解放による、アクティブスキル使用回数の増加効果が開発意図と異なっている。
-            </div>
-            <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/info_01.jpg?v=1400">
-            </div>
-            <div>
-                本件について、本来の設定である「上限解放1回以上でアクティブスキルの使用回数が増加」する形への修正を予定しております。<br>
-                修正が完了次第、追ってご案内いたしますので、少々お時間をいただけますと幸いです。
-            </div>
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
