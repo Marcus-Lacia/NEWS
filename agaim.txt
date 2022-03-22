@@ -33,6 +33,55 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-865" class="weighty-column">
+
+            2022/03/22 12:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              米良渕 花浪専用トップスギアスキルの一部が、開発意図と異なり「打撃属性」となっている            </div>
+
+        </div>
+        <div id="important-text-865" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月22日 12:50<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶米良渕 花浪専用トップスギアスキルの一部が、開発意図と異なり「打撃属性」となっている。
+            </div>
+            <p class="list red">
+                ※正しい属性は「実弾属性」となります。
+            </p>
+            <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・オートサーブ<br>
+                ・プロミネンスサーブ
+            </div>
+        </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-863" class="weighty-column">
 
             2022/03/18 15:00            
@@ -1248,59 +1297,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-842" class="weighty-column">
-
-            2022/02/14 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-842" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年02月14日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記キャラクターに「エニグマ」を実装しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・ファティマ・B
-            </div>
-        </div>
-        <div class="list">
-            ▶ファティマ・Bの専用ボトムスギアに進化分岐を追加しました。
-        </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220214/bnr_l00_inf_402_14.jpg?v=1400">
-        <div class="list red">
-            ※派生進化専用ギアの特殊な動作について、<br>
-            ファティマ【Miθra】の詳細ページにて説明しております。
-        </div>
-        <a href="/news/show/id/514?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_053_70/bnr_header.jpg?v=1400">
-            <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-        </a>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
