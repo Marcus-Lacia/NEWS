@@ -33,6 +33,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-866" class="weighty-column">
+
+            2022/03/22 18:00                            
+                <span class="red bold">
+                                            (03/22 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定パッシブスキルを★1～3キャラクターのスキルスロット2に装着すると、エラーが発生する            </div>
+
+        </div>
+        <div id="important-text-866" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月22日 18:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定パッシブスキルを★1～3キャラクターのスキルスロット2に装着すると、エラーが発生する。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象パッシブスキル】</p>
+                <div>
+                    ・アンブレイカブル（比良坂 夜露）<br>
+                    ・ハードショット（兼志谷 シタラ）<br>
+                    ・ラストガール（吾妻 楓）<br>
+                    ・アンブレイカブル（日向 リン）<br>
+                    ・プリマ・アクトレス（二子玉 舞）<br>
+                    ・ハードショット（バージニア・G）<br>
+                    ・アルドワヒシュト（ファティマ・B）<br>
+                    ・オートリペア（四谷 ゆみ）<br>
+                    ・アンサーソング（藤野 やよい）<br>
+                    ・セルフプロデュース（下落合 桃歌）<br>
+                    ・デッドマンズ・ハンド（シャーリー・O）<br>
+                    ・アトモスフィア（須賀 乙莉）<br>
+                    ・スプリットステップ（米良渕 花浪）
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-864" class="weighty-column">
 
             2022/03/22 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1265,59 +1322,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-845" class="weighty-column">
-
-            2022/02/15 19:45                            
-                <span class="bold">
-                                            (02/17 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「【復刻】タマちゃん探検隊 特設交換所」のアイテムを全て交換しても「COMPLETE」と表示されない場合がある            </div>
-
-        </div>
-        <div id="important-text-845" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年02月17日 16:10 追記<br>
-            本件につきまして、先ほど修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年02月15日 19:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定条件を満たした一部のお客様のみ、「【復刻】タマちゃん探検隊 特設交換所」のアイテムを全て交換しても、イベント特設交換所の一覧画面に「COMPLETE」と表示されない場合がある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
