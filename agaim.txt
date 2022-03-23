@@ -33,6 +33,88 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-867" class="weighty-column">
+
+            2022/03/23 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-867" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年03月23日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・蛙坂 来弥
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            <div class="list">
+                ▶下記キャラクター専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    <span class="bold">蛙坂 来弥</span><br>
+                    ・「蒼光円盤手裏剣・忍冬A」シリーズ<br>
+                    ・「霧燃A」シリーズ<br>
+                    ・「ジライヤA/T」シリーズ<br>
+                    ・「ジライヤA/B」シリーズ
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで下記キャラクターが選択できるようになりました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・蛙坂 来弥
+                </div>
+            </div>
+            <div class="list">
+                ▶下記キャラクターに「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">※各エピソードは対象キャラクターが加入している場合に、「キャラエピソード画面」から再生できます。</p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・蛙坂 来弥【残火】
+                </div>
+            </div>
+            
+            <div class="list red">
+                ※アナザーショットギアの特殊な動作について、<br>
+                蛙坂 来弥【残火】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/143?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1401">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-866" class="weighty-column">
 
             2022/03/22 18:00                            
@@ -92,8 +174,7 @@
         
         <div id="important-column-864" class="weighty-column">
 
-            2022/03/22 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/03/22 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               成年年齢引き下げに伴う変更について            </div>
@@ -296,7 +377,7 @@
                 対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1400">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1401">
             </div>
             <div>
                 <span class="red">※3/17（木）18:00 追記</span><br>
@@ -305,7 +386,7 @@
                 また、近日実装予定の「日向 リン」と「蛙坂 来弥」のエニグマでも、同様に不具合が発生することが発覚しておりますため、本来のクオリア必要数について事前にご案内させていただきます。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1400">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1401">
             </div>
         </div>
         <div>
@@ -917,13 +998,13 @@
         <div class="list">
             ▶二子玉 舞の専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220225/bnr_l00_inf_402_25.jpg?v=1400">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220225/bnr_l00_inf_402_25.jpg?v=1401">
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
             二子玉 舞【繊麗】の詳細ページにて説明しております。
         </div>
         <a href="/news/show/id/132?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1400">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_012_70/bnr_header.jpg?v=1401">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
     </div>
@@ -1257,70 +1338,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-846" class="weighty-column">
-
-            2022/02/16 14:10                            
-                <span class="bold">
-                                            (02/16 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-846" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年02月16日 14:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ファティマ・BのSPスキル「ワルフラーンアヴァタ」にて、キャラクター上限解放によるアクティブスキル使用回数の増加効果が、開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定状況で萬場 盟華に「CUE-002」をプレゼントすると、リアクションが正しく行われないことがある不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新並びに不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                2/16（水）14:00 までに<br>
-                アカウントを作成していたお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 150
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                3/2（水）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
