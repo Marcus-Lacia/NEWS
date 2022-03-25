@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-869" class="weighty-column">
+
+            2022/03/25 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「緊急要撃任務」で表示されるTipsの一部内容に誤りがある            </div>
+
+        </div>
+        <div id="important-text-869" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月25日 19:20<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「緊急要撃任務」で表示されるTipsに、「大型ヴァイスがランダムで出現」と誤った内容が記載されている。
+            </div>
+            <p class="list red">
+                ※現在開催中の「緊急要撃任務」では、大型ヴァイスの出現パターンは固定となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-868" class="weighty-column">
 
             2022/03/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1272,78 +1314,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-848" class="weighty-column">
-
-            2022/02/24 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.50.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-848" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年02月24日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.50.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.50.1の更新内容】</p>
-        
-        <div class="list hide_DMM">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面のデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶スキル詳細画面にて、未開放のスキルスロットに元々装着されているパッシブスキルを、別スロットに付け替えることができてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶「シングルアクセチョイス」を開いた時に、リスト下部のアクセチョイス筐体が正しく表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチ任務をプレイ中、他のプレイヤーが接続不良等で抜けた状況でSPスキルを発動すると、エラーが発生することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「初心者がコミマのために鍛えたら強くなっちゃった件」のバトルリザルト画面にて、キャラクターがレベルアップした際のレベルが、実際よりも低く表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、経験値は正常に獲得されております。
-        </p>
-        <div class="list">
-            ▶ファティマ・BのSPスキル「ワルフラーンアヴァタ」発動中の、一部射撃攻撃のエフェクトを調整しました。
-        </div>
-        <p class="list red">
-            ※エフェクトのみの調整となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.50.1の配信に伴い、<span class="bold red">2/25（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/41</div>
+                    <div class="page-box box-radius">1/42</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
