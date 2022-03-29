@@ -33,6 +33,60 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-853" class="weighty-column">
+
+            2022/02/28 19:40                            
+                <span class="red bold">
+                                            (03/29 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              バージニア・Gのエニグマで修得可能なパッシブスキル「角兎の目覚め1」が、発動対象外のクロスギアでも発動することがある            </div>
+
+        </div>
+        <div id="important-text-853" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月29日 13:55 追記<br>
+            本件につきまして、3月10日（木）に実施したアップデートにて修正対応を実施しておりましたが、ご報告が漏れておりました。<br>
+            現在は修正が完了しておりますので、改めてご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2022年02月28日 19:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶バージニア・Gのエニグマで修得可能なパッシブスキル「角兎の目覚め1」が、発動対象外のクロスギアでも発動することがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-870" class="weighty-column">
 
             2022/03/28 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1056,44 +1110,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-853" class="weighty-column">
-
-            2022/02/28 19:40            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              バージニア・Gのエニグマで修得可能なパッシブスキル「角兎の目覚め1」が、発動対象外のクロスギアでも発動することがある            </div>
-
-        </div>
-        <div id="important-text-853" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年02月28日 19:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶バージニア・Gのエニグマで修得可能なパッシブスキル「角兎の目覚め1」が、発動対象外のクロスギアでも発動することがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
         <div id="important-column-851" class="weighty-column">
 
