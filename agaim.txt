@@ -175,8 +175,7 @@
         
         <div id="important-column-870" class="weighty-column">
 
-            2022/03/28 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/03/28 17:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               蛙坂 来弥専用アナザーショットギアの溜め撃ち以外の攻撃で、SPゲージが上昇しない            </div>
