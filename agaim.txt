@@ -529,7 +529,7 @@
                 蛙坂 来弥【残火】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/143?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1409">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1410">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -827,7 +827,7 @@
                 対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1409">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1410">
             </div>
             <div>
                 <span class="red">※3/17（木）18:00 追記</span><br>
@@ -836,7 +836,7 @@
                 また、近日実装予定の「日向 リン」と「蛙坂 来弥」のエニグマでも、同様に不具合が発生することが発覚しておりますため、本来のクオリア必要数について事前にご案内させていただきます。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1409">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1410">
             </div>
         </div>
         <div>
