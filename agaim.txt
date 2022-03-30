@@ -33,6 +33,72 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-873" class="weighty-column">
+
+            2022/03/30 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-873" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年03月30日 15:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・東雲 チヱ<br>
+                    ・御蔵座 梓希
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        <div class="list">
+            ▶東雲 チヱの専用ショットギアに進化分岐を追加しました。
+        </div>
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_31.jpg?v=1413">
+
+        <div class="list">
+            ▶御蔵座 梓希の専用クロスギアに進化分岐を追加しました。
+        </div>
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_30.jpg?v=1413">
+
+        <div class="list red">
+            ※派生進化専用ギアの特殊な動作について、<br>
+            各アナザーキャラクターの詳細ページにて説明しております。
+        </div>
+        <div>
+            <a href="/news/show/id/529?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_045_70/bnr_header.jpg?v=1413">
+            </a>
+        </div>
+        <a href="/news/show/id/528?returnUrl=back">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_032_70/bnr_header.jpg?v=1413">
+            <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+        </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-872" class="weighty-column">
 
             2022/03/30 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -529,7 +595,7 @@
                 蛙坂 来弥【残火】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/143?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1412">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1413">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -827,7 +893,7 @@
                 対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1412">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1413">
             </div>
             <div>
                 <span class="red">※3/17（木）18:00 追記</span><br>
@@ -836,7 +902,7 @@
                 また、近日実装予定の「日向 リン」と「蛙坂 来弥」のエニグマでも、同様に不具合が発生することが発覚しておりますため、本来のクオリア必要数について事前にご案内させていただきます。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1412">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1413">
             </div>
         </div>
         <div>
@@ -1353,45 +1419,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-854" class="weighty-column">
-
-            2022/03/01 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.50.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-854" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年03月01日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.50.2のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.50.2の更新内容】</p>
-        
-        <div class="list">
-            ▶マルチ任務で作成されたルームから、一度他プレイヤーが退出した後、連続で2回以上出撃すると、進行不能になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.50.2の配信に伴い、<span class="bold red">3/2（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
