@@ -33,6 +33,67 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-875" class="weighty-column">
+
+            2022/03/31 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              各種エピソード報酬のリニューアルについて            </div>
+
+        </div>
+        <div id="important-text-875" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年03月31日 18:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            近日のアップデートにて、各種エピソードクリア報酬のリニューアルを予定しておりますので、ご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【変更内容】</p>
+            
+            <div class="sub-box bg_white">
+                <p class="bold">【アップデート日時】</p>
+                <div class="list">
+                    ・4/7（木）14:00予定
+                </div>
+                <p class="bold">【リニューアル内容】</p>
+                <div class="list">
+                    ・キャラエピソードクリア報酬の「スカウトポイント」を「ギアメダル」に変更。
+                </div>
+                <div class="list">
+                    ・絆エピソードクリア報酬の「スカウトポイント」を「解析でんち」に変更。
+                </div>
+            </div>
+
+            <div>
+                本リニューアルに伴い、アップデート日時時点の、各種エピソードクリア状況及び、加入キャラクターの状態に応じて、下記の補填対応を実施いたします。
+            </div>
+
+            <div class="center">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1417">
+            </div>
+            
+            <div class="list">
+                ※アップデート時に加入しているキャラクターの、本来獲得できるはずだったスカウトポイントについては、本補填対応にて入手可能です。
+            </div>
+            <div class="list">
+                ※キャラエピソードの未クリア分の補填対応につきましては、各レアリティ毎のキャラクター加入状態によって、配布量が変化いたします。
+            </div>
+            <div class="list">
+                ※絆エピソードの未クリア分の補填対応につきましては、いずれかのレアリティのキャラクターが加入していれば補填対象となります。
+            </div>
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-873" class="weighty-column">
 
             2022/03/30 15:10            
@@ -71,12 +132,12 @@
         <div class="list">
             ▶東雲 チヱの専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_31.jpg?v=1416">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_31.jpg?v=1417">
 
         <div class="list">
             ▶御蔵座 梓希の専用クロスギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_30.jpg?v=1416">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_30.jpg?v=1417">
 
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
@@ -84,11 +145,11 @@
         </div>
         <div>
             <a href="/news/show/id/529?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_045_70/bnr_header.jpg?v=1416">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_045_70/bnr_header.jpg?v=1417">
             </a>
         </div>
         <a href="/news/show/id/528?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_032_70/bnr_header.jpg?v=1416">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_032_70/bnr_header.jpg?v=1417">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
         </div>
@@ -593,7 +654,7 @@
                 蛙坂 来弥【残火】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/143?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1416">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1417">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -891,7 +952,7 @@
                 対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1416">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1417">
             </div>
             <div>
                 <span class="red">※3/17（木）18:00 追記</span><br>
@@ -900,7 +961,7 @@
                 また、近日実装予定の「日向 リン」と「蛙坂 来弥」のエニグマでも、同様に不具合が発生することが発覚しておりますため、本来のクオリア必要数について事前にご案内させていただきます。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1416">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1417">
             </div>
         </div>
         <div>
@@ -1332,91 +1393,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-852" class="weighty-column">
-
-            2022/02/25 19:45                            
-                <span class="bold">
-                                            (03/02 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定状況でマルチに連続で出撃すると、進行不能になることがある            </div>
-
-        </div>
-        <div id="important-text-852" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年03月02日 14:00 追記<br>
-            不具合発生のお詫びとして、下記の補填を配布いたしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    3/2（水）14:00 までに<br>
-                    アカウントを作成していたお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 100
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    3/16（水）23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        
-        
-        <div>
-            ■2022年03月01日 14:05 追記<br>
-            本件につきまして、本日順次配信されましたVer1.50.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年02月25日 19:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶マルチ任務で作成されたルームから、一度他プレイヤーが退出した後、連続で2回以上出撃すると、進行不能になることがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
