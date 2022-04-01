@@ -35,7 +35,10 @@
         
         <div id="important-column-875" class="weighty-column">
 
-            2022/03/31 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/03/31 18:15                            
+                <span class="red bold">
+                                            (04/01 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
@@ -45,6 +48,24 @@
         <div id="important-text-875" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年04月01日 17:00 追記<br>
+            本リニューアルに関する補足説明を、「アリスギアレターvol.21」に追記いたしました。
+        </div>
+        <div>
+            <a href="/news/show/id/531?returnUrl=back">
+            <div>
+                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1418">
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1418">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        
+        <hr class="red">
+        
+        
         <div>
             ■2022年03月31日 18:15<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
