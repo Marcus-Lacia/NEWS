@@ -33,6 +33,196 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-878" class="weighty-column">
+
+            2022/04/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-878" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年04月07日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種エピソード報酬のリニューアルを実施しました。
+        </div>
+        <p class="list red">
+            ※リニューアルに伴い、補填対応を実施しております。<br>
+            詳細は、「各種エピソード報酬のリニューアルについて」のお知らせをご確認ください。
+        </p>
+        <div class="list">
+            ▶東雲 チヱのSPスキル「東雲式複合重火砲・丁」の効果で上書きされたボトムススキルを発動すると、一定時間トップススキルを発動できなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶東雲 チヱ【流転】のパッシブスキル「戦場の業」の一部効果が、偶数エリアで発動せず、奇数エリアで発動している不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶二子玉 舞のエニグマで修得可能なパッシブスキル「吹き荒ぶ心F1」の「偶数エリア移動毎に冷撃攻撃力が上昇する」効果が、任務中に一度しか発動しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ホーム画面にて、アクセサリー「ポンポン/青」を着用したキャラクターが、専用のダンスモーションを途中でやめてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-875" class="weighty-column">
+
+            2022/03/31 18:15                            
+                <span class="red bold">
+                                            (04/07 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              各種エピソード報酬のリニューアルについて            </div>
+
+        </div>
+        <div id="important-text-875" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月07日 14:00 追記<br>
+            各種エピソード報酬のリニューアル及び、それに伴う補填対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【補填内容】</p>
+            <div>
+                補填内容は、アップデート時の各種エピソードクリア状況及び、加入キャラクターの状態に応じて変化いたします。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【キャラエピソードの補填】</p>
+                <p class="bold">クリア済みエピソード</p>
+                <div class="list">
+                    ・1エピソードにつきギアメダル × 2
+                </div>
+                <p class="bold">未クリアのエピソード</p>
+                <div class="list">
+                    ・1エピソードにつきスカウトポイント × 3
+                </div>
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【絆エピソードの補填】</p>
+                <p class="bold">クリア済みエピソード</p>
+                <div class="list">
+                    ・1エピソードにつき解析でんち × 10
+                </div>
+                <p class="bold">未クリアのエピソード</p>
+                <div class="list">
+                    ・1エピソードにつきスカウトポイント × 5
+                </div>
+            </div>
+            <div class="list">
+                ※補填アイテムは受取箱から受け取ることができます。<br>
+                なお、受取箱内の保存期限は無期限となります。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願い申し上げます。
+        </div>
+        
+        
+        <hr class="red">
+        
+        
+        <div>
+            ■2022年04月01日 17:00 追記<br>
+            本リニューアルに関する補足説明を、「アリスギアレターvol.21」に追記いたしました。
+        </div>
+        <div>
+            <a href="/news/show/id/531?returnUrl=back">
+            <div>
+                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1420">
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1420">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        
+        <hr class="red">
+        
+        
+        <div>
+            ■2022年03月31日 18:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            近日のアップデートにて、各種エピソードクリア報酬のリニューアルを予定しておりますので、ご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【変更内容】</p>
+            
+            <div class="sub-box bg_white">
+                <p class="bold">【アップデート日時】</p>
+                <div class="list">
+                    ・4/7（木）14:00予定
+                </div>
+                <p class="bold">【リニューアル内容】</p>
+                <div class="list">
+                    ・キャラエピソードクリア報酬の「スカウトポイント」を「ギアメダル」に変更。
+                </div>
+                <div class="list">
+                    ・絆エピソードクリア報酬の「スカウトポイント」を「解析でんち」に変更。
+                </div>
+            </div>
+
+            <div>
+                本リニューアルに伴い、アップデート日時時点の、各種エピソードクリア状況及び、加入キャラクターの状態に応じて、下記の補填対応を実施いたします。
+            </div>
+
+            <div class="center">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1420">
+            </div>
+            
+            <div class="list">
+                ※アップデート時に加入しているキャラクターの、本来獲得できるはずだったスカウトポイントについては、本補填対応にて入手可能です。
+            </div>
+            <div class="list">
+                ※キャラエピソードの未クリア分の補填対応につきましては、各レアリティ毎のキャラクター加入状態によって、配布量が変化いたします。
+            </div>
+            <div class="list">
+                ※絆エピソードの未クリア分の補填対応につきましては、いずれかのレアリティのキャラクターが加入していれば補填対象となります。
+            </div>
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-877" class="weighty-column">
 
             2022/04/06 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -221,88 +411,6 @@
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-875" class="weighty-column">
-
-            2022/03/31 18:15                            
-                <span class="bold">
-                                            (04/01 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              各種エピソード報酬のリニューアルについて            </div>
-
-        </div>
-        <div id="important-text-875" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年04月01日 17:00 追記<br>
-            本リニューアルに関する補足説明を、「アリスギアレターvol.21」に追記いたしました。
-        </div>
-        <div>
-            <a href="/news/show/id/531?returnUrl=back">
-            <div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1420">
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1420">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
-        
-        <hr class="red">
-        
-        
-        <div>
-            ■2022年03月31日 18:15<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            近日のアップデートにて、各種エピソードクリア報酬のリニューアルを予定しておりますので、ご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【変更内容】</p>
-            
-            <div class="sub-box bg_white">
-                <p class="bold">【アップデート日時】</p>
-                <div class="list">
-                    ・4/7（木）14:00予定
-                </div>
-                <p class="bold">【リニューアル内容】</p>
-                <div class="list">
-                    ・キャラエピソードクリア報酬の「スカウトポイント」を「ギアメダル」に変更。
-                </div>
-                <div class="list">
-                    ・絆エピソードクリア報酬の「スカウトポイント」を「解析でんち」に変更。
-                </div>
-            </div>
-
-            <div>
-                本リニューアルに伴い、アップデート日時時点の、各種エピソードクリア状況及び、加入キャラクターの状態に応じて、下記の補填対応を実施いたします。
-            </div>
-
-            <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1420">
-            </div>
-            
-            <div class="list">
-                ※アップデート時に加入しているキャラクターの、本来獲得できるはずだったスカウトポイントについては、本補填対応にて入手可能です。
-            </div>
-            <div class="list">
-                ※キャラエピソードの未クリア分の補填対応につきましては、各レアリティ毎のキャラクター加入状態によって、配布量が変化いたします。
-            </div>
-            <div class="list">
-                ※絆エピソードの未クリア分の補填対応につきましては、いずれかのレアリティのキャラクターが加入していれば補填対象となります。
-            </div>
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
@@ -1338,78 +1446,6 @@
     <div>
         なお、Ver.1.51.0の配信に伴い、<span class="bold red">3/17（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-857" class="weighty-column">
-
-            2022/03/10 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-857" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年03月10日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶3月11日（金）14:59 まで開催しているログインボーナスの、9日目のイラストを変更しました。
-        </div>
-        <div class="list">
-            ▶各種バンブラのチャージ攻撃が正しく発動せず、その後、各種攻撃行動も正常に行わなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターがアクセサリー「ネコミミテイル」着用中、アクセサリーのアニメーションが正常に再生されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・比良坂 夜露<br>
-                ・百科 文嘉
-            </div>
-        </div>
-        <div class="list">
-            ▶スカウト「ファクターダブルピックアップ 二子玉 舞【ライブ】/バージニア【ライブ】」画面にて特定ポーズをとった際、コスチュームがめり込む問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶萬場 盟華がコスチューム「アニバジャケット」着用中、特定ポーズをとるとコスチュームが肘にめり込む問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「立体型マスク/ピンク」の形状を微調整し、特定キャラクターが着用した際に、肌にめり込む問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gがコスチューム「トレーニングスタイル」着用中、手のひらの色味に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶アデライーデ・Bの各種★4専用ギアの詳細画面に、企業名が正しく表示されていない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
