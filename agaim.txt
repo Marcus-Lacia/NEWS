@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-881" class="weighty-column">
+
+            2022/04/07 18:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう            </div>
+
+        </div>
+        <div id="important-text-881" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月07日 18:50<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう。
+            </div>
+            <div class="center">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1421">
+            </div>
+        </div>
+        <div>
+            本件につきまして、正しいパッシブスキルへの修正を予定しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-879" class="weighty-column">
 
             2022/04/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1319,83 +1361,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-861" class="weighty-column">
-
-            2022/03/17 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-861" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年03月17日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶蛙坂 来弥専用トップスギアの、ギアスキルの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・舞玄幽導爆炎筒
-            </div>
-            <p class="list">
-                ・ミサイル1発あたりの攻撃力を約108%増加。
-            </p>
-            <p class="list">
-                ・ミサイルの爆発範囲を約50%拡大。
-            </p>
-            <p class="list">
-                ・両手剣の攻撃速度上昇の効果時間を5秒延長。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・舞玄幽導爆炎筒・疾風
-            </div>
-            <p class="list">
-                ・ミサイルを2発増加。
-            </p>
-            <p class="list">
-                ・ミサイル1発あたりの攻撃力を約108%増加。
-            </p>
-            <p class="list">
-                ・ミサイルの爆発範囲を約50%拡大。
-            </p>
-            <p class="list">
-                ・両手剣の攻撃速度上昇の効果時間を5秒延長。
-            </p>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
