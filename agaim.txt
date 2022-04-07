@@ -59,18 +59,18 @@
             <div class="list">
                 ▶星月 みきの専用ボトムスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_07.jpg?v=1420">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_07.jpg?v=1421">
     
             <div class="list">
                 ▶サドネの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_08.jpg?v=1420">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_08.jpg?v=1421">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/534?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_s00_inf_404_07.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_s00_inf_404_07.jpg?v=1421">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -210,9 +210,9 @@
         <div>
             <a href="/news/show/id/531?returnUrl=back">
             <div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1421">
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1420">
+            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1421">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -252,7 +252,7 @@
             </div>
 
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1421">
             </div>
             
             <div class="list">
@@ -501,12 +501,12 @@
         <div class="list">
             ▶東雲 チヱの専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_31.jpg?v=1420">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_31.jpg?v=1421">
 
         <div class="list">
             ▶御蔵座 梓希の専用クロスギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_30.jpg?v=1420">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_30.jpg?v=1421">
 
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
@@ -514,11 +514,11 @@
         </div>
         <div>
             <a href="/news/show/id/529?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_045_70/bnr_header.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_045_70/bnr_header.jpg?v=1421">
             </a>
         </div>
         <a href="/news/show/id/528?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_032_70/bnr_header.jpg?v=1420">
+            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_032_70/bnr_header.jpg?v=1421">
             <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
         </a>
         </div>
@@ -1023,7 +1023,7 @@
                 蛙坂 来弥【残火】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/143?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_029_70/bnr_header.jpg?v=1421">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1241,7 +1241,7 @@
                 対象パッシブスキルと本来のクオリア必要数につきましては、以下をご確認ください。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220316/info01.jpg?v=1421">
             </div>
             <div>
                 <span class="red">※3/17（木）18:00 追記</span><br>
@@ -1250,7 +1250,7 @@
                 また、近日実装予定の「日向 リン」と「蛙坂 来弥」のエニグマでも、同様に不具合が発生することが発覚しておりますため、本来のクオリア必要数について事前にご案内させていただきます。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1420">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220317/info01.jpg?v=1421">
             </div>
         </div>
         <div>
