@@ -33,6 +33,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-882" class="weighty-column">
+
+            2022/04/08 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              サドネの派生進化専用ショットギアの特殊射撃にて、SPゲージが上昇しない            </div>
+
+        </div>
+        <div id="important-text-882" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月08日 17:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶サドネの派生進化専用ショットギアの特殊射撃にて、SPゲージが上昇しない。
+            </div>
+            <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/神器カンパネルラ・DUAαV<br>
+                ・★4/神器カンパネルラ・DUAβV
+            </div>
+        </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-881" class="weighty-column">
 
             2022/04/07 18:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1295,62 +1341,6 @@
         </div>
         <div>
             本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-862" class="weighty-column">
-
-            2022/03/17 17:00                            
-                <span class="bold">
-                                            (03/29 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              米良渕 花浪に「CUE-002」をプレゼントすると、床に埋まることがある            </div>
-
-        </div>
-        <div id="important-text-862" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年03月29日 14:40 追記<br>
-            本件につきまして、本日順次配信されましたVer1.52.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <p class="list red">
-            ※「CUE-002」の使用期限は3/21（月）14:59 となり、現在はご利用いただけません。
-        </p>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年03月17日 17:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定状況で米良渕 花浪に「CUE-002」をプレゼントすると、リアクションが正しく行われず床に埋まることがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
