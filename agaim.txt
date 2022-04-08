@@ -77,8 +77,7 @@
         
         <div id="important-column-879" class="weighty-column">
 
-            2022/04/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/04/07 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               アップデートのお知らせ            </div>
