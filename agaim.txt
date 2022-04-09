@@ -35,8 +35,7 @@
         
         <div id="important-column-882" class="weighty-column">
 
-            2022/04/08 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/04/08 17:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               サドネの派生進化専用ショットギアの特殊射撃にて、SPゲージが上昇しない            </div>
