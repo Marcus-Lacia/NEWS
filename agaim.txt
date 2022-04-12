@@ -33,6 +33,56 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-881" class="weighty-column">
+
+            2022/04/07 18:50                            
+                <span class="red bold">
+                                            (04/12 更新)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう            </div>
+
+        </div>
+        <div id="important-text-881" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月07日 18:50<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう。
+            </div>
+            <div class="center">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1423">
+            </div>
+            <div>
+                <span class="red">※4/12（火）18:20 追記</span><br>
+                米良渕 花浪のエニグマ共通エリアでも、同様の不具合が発生していることを確認いたしました。<br>
+                こちらにつきましても、正しいパッシブスキルに修正予定となります。
+            </div>
+        </div>
+        <div>
+            本件につきまして、正しいパッシブスキルへの修正を予定しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-880" class="weighty-column">
 
             2022/04/11 15:00            
@@ -115,47 +165,6 @@
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-881" class="weighty-column">
-
-            2022/04/07 18:50            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう            </div>
-
-        </div>
-        <div id="important-text-881" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年04月07日 18:50<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう。
-            </div>
-            <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1423">
-            </div>
-        </div>
-        <div>
-            本件につきまして、正しいパッシブスキルへの修正を予定しております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
