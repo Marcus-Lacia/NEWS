@@ -35,8 +35,7 @@
         
         <div id="important-column-883" class="weighty-column">
 
-            2022/04/13 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/04/13 14:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               各種エピソード報酬リニューアルに伴う補填対応について            </div>
