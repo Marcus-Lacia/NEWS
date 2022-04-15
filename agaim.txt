@@ -33,6 +33,62 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-884" class="weighty-column">
+
+            2022/04/15 15:55                            
+                <span class="red bold">
+                                            (04/15 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない            </div>
+
+        </div>
+        <div id="important-text-884" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月15日 19:00 追記<br>
+            本件につきまして、先ほど修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <p class="list red">
+            ※本修正は、再度ログインしていただくことで反映されます。
+        </p>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2022年04月15日 15:55<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-885" class="weighty-column">
 
             2022/04/15 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -258,45 +314,6 @@
         <div>
             この度は、お客様にはご迷惑をおかけし、誠に申し訳ありませんでした。<br>
             対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-884" class="weighty-column">
-
-            2022/04/15 15:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない            </div>
-
-        </div>
-        <div id="important-text-884" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年04月15日 15:55<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
