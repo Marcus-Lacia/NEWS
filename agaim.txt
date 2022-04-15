@@ -33,20 +33,20 @@
 
       <div id="" class="weighty-list">
         
-        <div id="important-column-884" class="weighty-column">
+        <div id="important-column-885" class="weighty-column">
 
-            2022/04/15 15:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/04/15 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない            </div>
+              煌上 花音のパッシブスキル「私の力を見せてあげる」の一部効果の効果時間が、説明文と異なっている            </div>
 
         </div>
-        <div id="important-text-884" class="weighty-notice hide">
+        <div id="important-text-885" class="weighty-notice hide">
            
     <div>
         <div>
-            ■2022年04月15日 15:55<br>
+            ■2022年04月15日 18:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
         </div>
         <div>
@@ -58,11 +58,14 @@
             <p class="bold">【不具合内容】</p>
             
             <div class="list">
-                ▶イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない。
+                ▶煌上 花音のパッシブスキル「私の力を見せてあげる」の「奇数エリア移動毎にデュアルの立ち射撃の威力が上昇し、射程が5m延長する」効果の効果時間が、説明文と異なり「20秒」となっている。
             </div>
+            <p class="list red">
+                ※説明文に記載されている「30秒」が正しい効果時間となります。
+            </p>
         </div>
         <div>
-            本件につきまして、現在、原因の調査を行っております。
+            本件につきまして、現在、修正作業を行っております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
@@ -74,7 +77,11 @@
         
         <div id="important-column-883" class="weighty-column">
 
-            2022/04/13 14:30            
+            2022/04/13 14:30                            
+                <span class="red bold">
+                                            (04/15 更新)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               各種エピソード報酬リニューアルに伴う補填対応について            </div>
@@ -83,6 +90,20 @@
         <div id="important-text-883" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年04月15日 18:00 追記<br>
+            「不具合①」について修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            エピソード報酬リニューアル後、補填対象のお客様が4/15（金）18:00 以降に初めてログインする際は、「不具合①」の問題は解消された状態で、補填対応が実施されます。
+        </div>
+        <div>
+            なお、エピソード報酬リニューアル補填が既に実施されているお客様につきましては、不足分のスカウトポイントを後日配布いたしますので、今しばらくお待ちください。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年04月13日 14:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -237,6 +258,45 @@
         <div>
             この度は、お客様にはご迷惑をおかけし、誠に申し訳ありませんでした。<br>
             対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-884" class="weighty-column">
+
+            2022/04/15 15:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない            </div>
+
+        </div>
+        <div id="important-text-884" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月15日 15:55<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「学級日誌 今日の課題」にて、4/15（金）公開分の「なでなで」がプレイできない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
@@ -1377,63 +1437,6 @@
             </a>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-866" class="weighty-column">
-
-            2022/03/22 18:00                            
-                <span class="bold">
-                                            (03/22 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定パッシブスキルを★1～3キャラクターのスキルスロット2に装着すると、エラーが発生する            </div>
-
-        </div>
-        <div id="important-text-866" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年03月22日 18:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定パッシブスキルを★1～3キャラクターのスキルスロット2に装着すると、エラーが発生する。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象パッシブスキル】</p>
-                <div>
-                    ・アンブレイカブル（比良坂 夜露）<br>
-                    ・ハードショット（兼志谷 シタラ）<br>
-                    ・ラストガール（吾妻 楓）<br>
-                    ・アンブレイカブル（日向 リン）<br>
-                    ・プリマ・アクトレス（二子玉 舞）<br>
-                    ・ハードショット（バージニア・G）<br>
-                    ・アルドワヒシュト（ファティマ・B）<br>
-                    ・オートリペア（四谷 ゆみ）<br>
-                    ・アンサーソング（藤野 やよい）<br>
-                    ・セルフプロデュース（下落合 桃歌）<br>
-                    ・デッドマンズ・ハンド（シャーリー・O）<br>
-                    ・アトモスフィア（須賀 乙莉）<br>
-                    ・スプリットステップ（米良渕 花浪）
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
