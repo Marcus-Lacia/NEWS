@@ -91,8 +91,7 @@
         
         <div id="important-column-885" class="weighty-column">
 
-            2022/04/15 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/04/15 18:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               煌上 花音のパッシブスキル「私の力を見せてあげる」の一部効果の効果時間が、説明文と異なっている            </div>
@@ -134,7 +133,7 @@
         <div id="important-column-883" class="weighty-column">
 
             2022/04/13 14:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/15 更新)
                                     </span>
             
