@@ -33,6 +33,56 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-892" class="weighty-column">
+
+            2022/04/19 22:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定ボトムスギアを装備中、出撃時のロード画面にて進行不能となることがある            </div>
+
+        </div>
+        <div id="important-text-892" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月19日 22:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定ボトムスギアを装備中、出撃時のロード画面にて進行不能となることがある。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ギア】</p>
+                <div>
+                    ・「★4/フローラユニット+改/B」シリーズ<br>
+                    ・「★3/フローラユニット+/B」シリーズ<br>
+                    ・★3/フローラユニット+G/B
+                </div>
+            </div>
+            <div>
+                本不具合は、特定のトップスギアと同時に装備した際に発生することを確認しております。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-891" class="weighty-column">
 
             2022/04/19 20:50                            
@@ -1445,129 +1495,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-872" class="weighty-column">
-
-            2022/03/30 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-872" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年03月30日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶御蔵座 梓希の専用ショットギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/SファイアMAs<br>
-                ・★3/SファイアMAsMk2<br>
-                ・★3/SファイアMAsMk3<br>
-                ・★4/二曲輪<br>
-                ・★4/二曲輪改<br>
-                ・★4/風魔二曲輪
-            </div>
-            <p class="list">
-                ・立ち射撃1～2段目の攻撃力を約6%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃3段目（1、2発目）の<br>
-                攻撃力を約6%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃3段目（3発目）の<br>
-                攻撃力を約4%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃3段目（3発目）の<br>
-                爆発の攻撃力を約4%増加。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約27%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃1段目（1発目）の<br>
-                SPゲージ上昇量を約200%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃1段目（2～3発目）の<br>
-                SPゲージ上昇量を0に調整。
-            </p>
-            <p class="list">
-                ・立ち射撃2段目（1発目）の<br>
-                SPゲージ上昇量を約200%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃2段目（2～3発目）の<br>
-                SPゲージ上昇量を0に調整。
-            </p>
-            <p class="list">
-                ・立ち射撃3段目（1発目）の<br>
-                SPゲージ上昇量を約100%増加。
-            </p>
-            <p class="list">
-                ・立ち射撃3段目（2発目）の<br>
-                SPゲージ上昇量を0に調整。
-            </p>
-            <p class="list">
-                ・前移動射撃（1発目）の<br>
-                SPゲージ上昇量を約700%増加。
-            </p>
-            <p class="list">
-                ・前移動射撃（2～8発目）の<br>
-                SPゲージ上昇量を0に調整。
-            </p>
-        </div>
-        <div class="list">
-            ▶蛙坂 来弥専用アナザーショットギアの溜め撃ち以外の攻撃で、SPゲージが上昇しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「緊急要撃任務」で表示されるTipsの一部内容に誤りがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターがアクセサリー「トラミミテイル」着用中に、髪とアクセサリーが干渉しやすい問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・日向 リン<br>
-                ・州天頃 椎奈<br>
-                ・萬場 盟華<br>
-                ・春日丘 もえ
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
