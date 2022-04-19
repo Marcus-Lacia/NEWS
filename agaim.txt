@@ -33,6 +33,83 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-888" class="weighty-column">
+
+            2022/04/19 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-888" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年04月19日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.52.2アプリより、一部シナリオを再生するとエラーが発生する不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ログイン後にホーム画面で再生される、下記キャラクターの一部モーションを調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・常磐 くるみ<br>
+                ・煌上 花音<br>
+                ・国枝 詩穂
+            </div>
+        </div>
+        <div class="list">
+            ▶煌上 花音のパッシブスキル「私の力を見せてあげる」の「奇数エリア移動毎にデュアルの立ち射撃の威力が上昇し、射程が5m延長する」効果の効果時間が、説明文と異なり「20秒」となっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターのエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・東雲 チヱ<br>
+                ・御蔵座 梓希<br>
+                ・米良渕 花浪
+            </div>
+        </div>
+        <p class="list red">
+            ※なお、開発意図と異なるパッシブスキルを既に獲得しているキャラクターにつきましては、後日、正しい状態に戻す対応を予定しております。
+        </p>
+        
+        <div class="list">
+            ▶春日丘 もえの一部の信頼度称号に誤字がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-887" class="weighty-column">
 
             2022/04/18 20:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -232,7 +309,11 @@
         
         <div id="important-column-885" class="weighty-column">
 
-            2022/04/15 18:00            
+            2022/04/15 18:00                            
+                <span class="bold">
+                                            (04/19 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               煌上 花音のパッシブスキル「私の力を見せてあげる」の一部効果の効果時間が、説明文と異なっている            </div>
@@ -241,6 +322,17 @@
         <div id="important-text-885" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年04月19日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年04月15日 18:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1421,62 +1513,6 @@
                 ・★4/蒼光円盤手裏剣・忍冬A
             </div>
         </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-869" class="weighty-column">
-
-            2022/03/25 19:20                            
-                <span class="bold">
-                                            (03/30 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「緊急要撃任務」で表示されるTipsの一部内容に誤りがある            </div>
-
-        </div>
-        <div id="important-text-869" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年03月30日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年03月25日 19:20<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「緊急要撃任務」で表示されるTipsに、「大型ヴァイスがランダムで出現」と誤った内容が記載されている。
-            </div>
-            <p class="list red">
-                ※現在開催中の「緊急要撃任務」では、大型ヴァイスの出現パターンは固定となります。
-            </p>
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
