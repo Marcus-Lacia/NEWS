@@ -35,8 +35,7 @@
         
         <div id="important-column-892" class="weighty-column">
 
-            2022/04/19 22:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/04/19 22:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定ボトムスギアを装備中、出撃時のロード画面にて進行不能となることがある            </div>
