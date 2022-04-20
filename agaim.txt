@@ -351,7 +351,7 @@
         <div id="important-column-887" class="weighty-column">
 
             2022/04/18 20:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/19 補填済)
                                     </span>
             
