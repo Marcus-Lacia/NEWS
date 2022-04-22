@@ -33,9 +33,107 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-893" class="weighty-column">
+
+            2022/04/22 14:05                            
+                <span class="red bold">
+                                            (04/22 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-893" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年04月22日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶特定ボトムスギアを装備中、出撃時のロード画面にて進行不能となることがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・「★4/フローラユニット+改/B」シリーズ<br>
+                ・「★3/フローラユニット+/B」シリーズ<br>
+                ・★3/フローラユニット+G/B
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ギアスキルの「両手剣装備時の前後ステップ性能が上昇する」効果が、両手剣装備時に正しく発動しない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・♡月下美人<br>
+                ・月下美人
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「バトルガール ハイスクールコラボ アイランドゲーム編」の一部Tipsにて、ショットギア「カルドゥスR」の一次属性の表示が誤っている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※正しい一次属性は「エネルギー弾」となります。
+        </p>
+        <div class="list">
+            ▶イベント「バトルガール ハイスクールコラボ アイランドゲーム編」の、一部任務の背景を変更しました。
+        </div>
+        <div class="list">
+            ▶粒咲 あんこのキャラエピソードEp3-1の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                4/22（金）14:00 までに<br>
+                アカウントを作成していたお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                5/6（金）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-892" class="weighty-column">
 
-            2022/04/19 22:40            
+            2022/04/19 22:40                            
+                <span class="bold">
+                                            (04/22 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定ボトムスギアを装備中、出撃時のロード画面にて進行不能となることがある            </div>
@@ -44,6 +142,17 @@
         <div id="important-text-892" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年04月22日 14:05 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年04月19日 22:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1424,71 +1533,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-873" class="weighty-column">
-
-            2022/03/30 15:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-873" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年03月30日 15:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・東雲 チヱ<br>
-                    ・御蔵座 梓希
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        <div class="list">
-            ▶東雲 チヱの専用ショットギアに進化分岐を追加しました。
-        </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_31.jpg?v=1447">
-
-        <div class="list">
-            ▶御蔵座 梓希の専用クロスギアに進化分岐を追加しました。
-        </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/220330/bnr_l00_inf_403_30.jpg?v=1447">
-
-        <div class="list red">
-            ※派生進化専用ギアの特殊な動作について、<br>
-            各アナザーキャラクターの詳細ページにて説明しております。
-        </div>
-        <div>
-            <a href="/news/show/id/529?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_045_70/bnr_header.jpg?v=1447">
-            </a>
-        </div>
-        <a href="/news/show/id/528?returnUrl=back">
-            <img src="//i-cf.alice.colopl.jp/img/news/another/chr_032_70/bnr_header.jpg?v=1447">
-            <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-        </a>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
