@@ -1087,7 +1087,7 @@
                 ▶東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1451">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1452">
             </div>
             <div>
                 <span class="red">※4/12（火）18:20 追記</span><br>
@@ -1131,18 +1131,18 @@
             <div class="list">
                 ▶常磐 くるみの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_11.jpg?v=1451">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_11.jpg?v=1452">
     
             <div class="list">
                 ▶綿木 ミシェルの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_12.jpg?v=1451">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_12.jpg?v=1452">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/535?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_s00_inf_404_11.jpg?v=1451">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_s00_inf_404_11.jpg?v=1452">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1237,18 +1237,18 @@
             <div class="list">
                 ▶星月 みきの専用ボトムスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_07.jpg?v=1451">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_07.jpg?v=1452">
     
             <div class="list">
                 ▶サドネの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_08.jpg?v=1451">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_08.jpg?v=1452">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/534?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_s00_inf_404_07.jpg?v=1451">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_s00_inf_404_07.jpg?v=1452">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1387,9 +1387,9 @@
         <div>
             <a href="/news/show/id/531?returnUrl=back">
             <div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1451">
+                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1452">
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1451">
+            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1452">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1429,7 +1429,7 @@
             </div>
 
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1451">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1452">
             </div>
             
             <div class="list">
