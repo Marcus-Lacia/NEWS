@@ -33,10 +33,66 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-895" class="weighty-column">
+
+            2022/04/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-895" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年04月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶サドネのエニグマで修得可能なパッシブスキル「サイドシューター1」の説明文中の脱字を修正しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶粒咲 あんこのキャラエピソードEp4-1の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「バトルガール ハイスクールコラボ アイランドゲーム編」の、特定へクスで表示される台詞の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「アリス・ギア・アイギスCS 予約記念任務」の一部演出が、特定端末で見切れてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-894" class="weighty-column">
 
-            2022/04/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/04/27 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.52.3 配信のお知らせ            </div>
@@ -1450,98 +1506,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-864" class="weighty-column">
-
-            2022/03/22 15:00                            
-                <span class="bold">
-                                            (04/06 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              成年年齢引き下げに伴う変更について            </div>
-
-        </div>
-        <div id="important-text-864" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年04月06日 14:10 追記<br>
-            本日より、順次配信を開始をしておりますVer.1.52.1のアプリにて、下記の成年年齢引き下げに伴う変更対応を実施いたしましたので、ご報告申し上げます。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年03月22日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            2022年4月1日（金）の成年年齢引き下げに伴い、4月6日（水）配信予定の最新版アプリより、年齢別の課金上限を以下の通りに変更いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【変更内容】</p>
-            
-            <div class="sub-box bg_white">
-                <p class="bold">【変更前】</p>
-                <div>
-                    <span class="bold">成年</span>
-                    <div class="list">
-                        ・20歳以上：上限なし
-                    </div>
-                    <span class="bold">未成年</span>
-                    <div class="list">
-                        ・16歳以上20歳未満：<br>
-                        1か月間につき10,000円（税抜）まで購入可能
-                    </div>
-                    <div class="list">
-                        ・13歳以上16歳未満：<br>
-                        1か月間につき4,500円（税抜）まで購入可能
-                    </div>
-                    <div class="list">
-                        ・13歳未満：購入不可
-                    </div>
-                </div>
-            </div>
-            
-            <div class="sub-box bg_white">
-                <p class="bold">【変更後】</p>
-                <div>
-                    <span class="bold">成年</span>
-                    <div class="list">
-                        ・<span class="red">18歳以上</span>：上限なし
-                    </div>
-                    <span class="bold">未成年</span>
-                    <div class="list">
-                        ・16歳以上<span class="red">18歳未満</span>：<br>
-                        1か月間につき10,000円（税抜）まで購入可能
-                    </div>
-                    <div class="list">
-                        ・13歳以上16歳未満：<br>
-                        1か月間につき4,500円（税抜）まで購入可能
-                    </div>
-                    <div class="list">
-                        ・13歳未満：購入不可
-                    </div>
-                </div>
-            </div>
-            <p class="list red">
-                ※年齢は毎月1日に更新されます。
-            </p>
-            <div>
-                上記変更に合わせて、ゲーム内各画面における成年年齢の記載箇所についても、表記を修正いたします。
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
