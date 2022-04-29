@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-896" class="weighty-column">
+
+            2022/04/29 16:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              アイテム一覧画面のクオリア所持数が正常に表示されないことがある            </div>
+
+        </div>
+        <div id="important-text-896" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年04月29日 16:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「GWエニグマ実装記念 クオリア獲得任務」の初回クリア報酬でクオリアを獲得すると、アイテム一覧画面のクオリア所持数が実際よりも多く表示されることがある。
+            </div>
+            <p class="list red">
+                ※表示上の不具合となり、実際の所持数は正しく計算されております。
+            </p>
+            <div>
+                なお、本不具合が発生した場合は、対象となるキャラクターのクオリアを獲得したり、エニグマ画面を開いたりするなどで解消されることを確認しております。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-895" class="weighty-column">
 
             2022/04/28 14:00            
@@ -1445,66 +1490,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-877" class="weighty-column">
-
-            2022/04/06 14:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.52.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-877" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年04月06日 14:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.52.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.52.1の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶成年年齢引き下げに伴い、年齢別の課金上限を変更しました。
-        </div>
-        <p class="list red">
-            ※変更内容の詳細は、「成年年齢引き下げに伴う変更について」のお知らせをご確認ください。
-        </p>
-        <div class="list">
-            ▶イベント「【復刻】魔法織姫 リリアーナ」のマップにて、東雲 チヱの一部台詞が、開発意図と異なるへクスで再生される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶スキル詳細画面にて、ニーナ・KのSPスキル「スネグーラチカ」のSPスキルアイコンに、「射撃攻撃」のアイコンが誤って表示されている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.52.1の配信に伴い、<span class="bold red">4/7（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
