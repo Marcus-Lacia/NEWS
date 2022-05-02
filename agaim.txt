@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-899" class="weighty-column">
+
+            2022/05/02 12:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              文島 明日翔のパッシブスキル「インスティンクト」を外すと、一部スキルスロット以外に再装着できなくなる            </div>
+
+        </div>
+        <div id="important-text-899" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年05月02日 12:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶文島 明日翔のパッシブスキル「インスティンクト」を外すと、一部スキルスロット以外に再装着できなくなる。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-896" class="weighty-column">
 
             2022/04/29 16:00            
@@ -1360,135 +1399,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-875" class="weighty-column">
-
-            2022/03/31 18:15                            
-                <span class="bold">
-                                            (04/07 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              各種エピソード報酬のリニューアルについて            </div>
-
-        </div>
-        <div id="important-text-875" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年04月07日 14:00 追記<br>
-            各種エピソード報酬のリニューアル及び、それに伴う補填対応を実施いたしましたので、ご報告申し上げます。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【補填内容】</p>
-            <div>
-                補填内容は、アップデート時の各種エピソードクリア状況及び、加入キャラクターの状態に応じて変化いたします。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【キャラエピソードの補填】</p>
-                <p class="bold">クリア済みエピソード</p>
-                <div class="list">
-                    ・1エピソードにつきギアメダル × 2
-                </div>
-                <p class="bold">未クリアのエピソード</p>
-                <div class="list">
-                    ・1エピソードにつきスカウトポイント × 3
-                </div>
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【絆エピソードの補填】</p>
-                <p class="bold">クリア済みエピソード</p>
-                <div class="list">
-                    ・1エピソードにつき解析でんち × 10
-                </div>
-                <p class="bold">未クリアのエピソード</p>
-                <div class="list">
-                    ・1エピソードにつきスカウトポイント × 5
-                </div>
-            </div>
-            <div class="list">
-                ※補填アイテムは受取箱から受け取ることができます。<br>
-                なお、受取箱内の保存期限は無期限となります。
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願い申し上げます。
-        </div>
-        
-        
-        <hr class="red">
-        
-        
-        <div>
-            ■2022年04月01日 17:00 追記<br>
-            本リニューアルに関する補足説明を、「アリスギアレターvol.21」に追記いたしました。
-        </div>
-        <div>
-            <a href="/news/show/id/531?returnUrl=back">
-            <div>
-                <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_08.jpg?v=1455">
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2019/191108/bnr_s00_oth_111_09.png?v=1455">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
-        
-        <hr class="red">
-        
-        
-        <div>
-            ■2022年03月31日 18:15<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            近日のアップデートにて、各種エピソードクリア報酬のリニューアルを予定しておりますので、ご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【変更内容】</p>
-            
-            <div class="sub-box bg_white">
-                <p class="bold">【アップデート日時】</p>
-                <div class="list">
-                    ・4/7（木）14:00予定
-                </div>
-                <p class="bold">【リニューアル内容】</p>
-                <div class="list">
-                    ・キャラエピソードクリア報酬の「スカウトポイント」を「ギアメダル」に変更。
-                </div>
-                <div class="list">
-                    ・絆エピソードクリア報酬の「スカウトポイント」を「解析でんち」に変更。
-                </div>
-            </div>
-
-            <div>
-                本リニューアルに伴い、アップデート日時時点の、各種エピソードクリア状況及び、加入キャラクターの状態に応じて、下記の補填対応を実施いたします。
-            </div>
-
-            <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220331/info_01.jpg?v=1455">
-            </div>
-            
-            <div class="list">
-                ※アップデート時に加入しているキャラクターの、本来獲得できるはずだったスカウトポイントについては、本補填対応にて入手可能です。
-            </div>
-            <div class="list">
-                ※キャラエピソードの未クリア分の補填対応につきましては、各レアリティ毎のキャラクター加入状態によって、配布量が変化いたします。
-            </div>
-            <div class="list">
-                ※絆エピソードの未クリア分の補填対応につきましては、いずれかのレアリティのキャラクターが加入していれば補填対象となります。
-            </div>
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
