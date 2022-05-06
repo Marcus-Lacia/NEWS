@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-898" class="weighty-column">
+
+            2022/05/06 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-898" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年05月06日 17:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶文島 明日翔のパッシブスキル「インスティンクト」を外すと、一部スキルスロット以外に再装着できなくなる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-897" class="weighty-column">
 
             2022/05/02 15:00            
@@ -79,7 +124,11 @@
         
         <div id="important-column-899" class="weighty-column">
 
-            2022/05/02 12:30            
+            2022/05/02 12:30                            
+                <span class="bold">
+                                            (05/06 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               文島 明日翔のパッシブスキル「インスティンクト」を外すと、一部スキルスロット以外に再装着できなくなる            </div>
@@ -88,6 +137,17 @@
         <div id="important-text-899" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年05月06日 17:30 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年05月02日 12:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1332,52 +1392,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-879" class="weighty-column">
-
-            2022/04/07 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-879" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年04月07日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶星月 みきの専用ボトムスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_07.jpg?v=1458">
-    
-            <div class="list">
-                ▶サドネの専用ショットギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_l00_inf_404_08.jpg?v=1458">
-    
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/534?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220407/bnr_s00_inf_404_07.jpg?v=1458">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
