@@ -1322,13 +1322,7 @@
             </div>
             <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_12.jpg?v=1459">
     
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/535?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_s00_inf_404_11.jpg?v=1459">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
+            
         </div>
         
         <div>
