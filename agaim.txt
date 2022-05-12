@@ -1499,7 +1499,7 @@
                 ▶東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1459">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1460">
             </div>
             <div>
                 <span class="red">※4/12（火）18:20 追記</span><br>
@@ -1543,12 +1543,12 @@
             <div class="list">
                 ▶常磐 くるみの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_11.jpg?v=1459">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_11.jpg?v=1460">
     
             <div class="list">
                 ▶綿木 ミシェルの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_12.jpg?v=1459">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220411/bnr_l00_inf_404_12.jpg?v=1460">
     
             
         </div>
