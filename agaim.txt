@@ -33,6 +33,61 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-902" class="weighty-column">
+
+            2022/05/13 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-902" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年05月13日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・千島 美幸
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            <div class="list">
+                ▶千島 美幸の専用クロスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1463">
+    
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、<br>
+                千島 美幸【幸魂】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/547?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1463">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-901" class="weighty-column">
 
             2022/05/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1492,76 +1547,6 @@
         <div>
             この度は、お客様にはご迷惑をおかけし、誠に申し訳ありませんでした。<br>
             対応完了まで今しばらくお待ちいただけますようお願い申し上げます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-881" class="weighty-column">
-
-            2022/04/07 18:50                            
-                <span class="bold">
-                                            (04/19 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう            </div>
-
-        </div>
-        <div id="important-text-881" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年04月19日 14:15 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            なお、開発意図と異なるパッシブスキルを既に獲得していたキャラクターにつきましても、正しい状態に戻す対応が完了しております。
-        </div>
-        <p class="list red">
-            ※当該パッシブスキルを装着していたスキルスロットは、空きスロットに変更されます。
-        </p>
-        <p class="list red">
-            ※本対応は、再度ログインしていただくことで反映されます。
-        </p>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年04月07日 18:50<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶東雲 チヱと御蔵座 梓希のエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう。
-            </div>
-            <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220406/info_01.jpg?v=1462">
-            </div>
-            <div>
-                <span class="red">※4/12（火）18:20 追記</span><br>
-                米良渕 花浪のエニグマ共通エリアでも、同様の不具合が発生していることを確認いたしました。<br>
-                こちらにつきましても、正しいパッシブスキルに修正予定となります。
-            </div>
-        </div>
-        <div>
-            本件につきまして、正しいパッシブスキルへの修正を予定しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
