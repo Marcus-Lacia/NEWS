@@ -120,14 +120,14 @@
             <div class="list">
                 ▶千島 美幸の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1466">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1467">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 千島 美幸【幸魂】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/547?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1466">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1467">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
