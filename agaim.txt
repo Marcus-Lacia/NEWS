@@ -35,8 +35,7 @@
         
         <div id="important-column-903" class="weighty-column">
 
-            2022/05/18 11:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/05/18 11:35            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               綿木 ミシェルのパッシブスキル「きゅんきゅんハート1」の効果が、説明文に記載されていない条件でも発動する            </div>
