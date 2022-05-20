@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-904" class="weighty-column">
+
+            2022/05/20 22:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「特殊宙域作戦 Opジギタリス」のバトルリザルト画面にて、開発意図と異なるBGMが再生されている            </div>
+
+        </div>
+        <div id="important-text-904" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年05月20日 22:55<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「特殊宙域作戦 Opジギタリス」のバトルリザルト画面にて、開発意図と異なるBGMが再生されている。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-903" class="weighty-column">
 
             2022/05/18 11:35            
@@ -1346,62 +1385,6 @@
         </div>
         <div>
             本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-885" class="weighty-column">
-
-            2022/04/15 18:00                            
-                <span class="bold">
-                                            (04/19 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              煌上 花音のパッシブスキル「私の力を見せてあげる」の一部効果の効果時間が、説明文と異なっている            </div>
-
-        </div>
-        <div id="important-text-885" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年04月19日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年04月15日 18:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶煌上 花音のパッシブスキル「私の力を見せてあげる」の「奇数エリア移動毎にデュアルの立ち射撃の威力が上昇し、射程が5m延長する」効果の効果時間が、説明文と異なり「20秒」となっている。
-            </div>
-            <p class="list red">
-                ※説明文に記載されている「30秒」が正しい効果時間となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
