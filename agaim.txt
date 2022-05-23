@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-906" class="weighty-column">
+
+            2022/05/23 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              5/21（土）のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-906" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年05月23日 18:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        5/21（土）18:15 に実施した不具合修正にて、今後のアップデートにて対応予定だった調整/修正内容の一部が含まれていたことを確認いたしましたので、改めてご報告申し上げます。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【更新内容】</p>
+        
+        <div class="list">
+            ▶日向 リン専用ショットギアの3Dモデルをブラッシュアップしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・「サーメートランチャー」シリーズ<br>
+                ・「サーメートランチャーA」シリーズ
+            </div>
+        </div>
+        <div class="list">
+            ▶メインストーリー侵蝕編6章シナリオ「440」の演出中に表記されている、部隊（チーム）コードの誤字を修正しました。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-905" class="weighty-column">
 
             2022/05/21 18:15                            
@@ -1321,97 +1364,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-886" class="weighty-column">
-
-            2022/04/18 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.52.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-886" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年04月18日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.52.2のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.52.2の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶キャリアタートルの「ネーブルユニット」の当たり判定が、見た目と比べて極端に大きい判定になっていた問題を修正しました。
-        </div>
-        <div class="list">
-            ▶特定任務に出現するキャリアタートルの一部射撃が、開発意図と異なる弾道で発射されていた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定任務に出現するキャリアタートルが、出現直後に後退して間合いをとる動作を行わない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定任務に出現するキャリアタートルが、足が破壊されている状態でも、特定行動中に再度破壊エフェクトが表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶サドネの派生進化専用ショットギアの特殊射撃にて、SPゲージが上昇しない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★4/神器カンパネルラ・DUAαV<br>
-                ・★4/神器カンパネルラ・DUAβV
-            </div>
-        </div>
-        <div class="list">
-            ▶星月 みきの派生進化専用ボトムスにて、ギアスキルのチャージ状態中に攻撃を受けると、一定時間操作不能になることがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ボトムスギア】</p>
-            <div>
-                ・★4/フローラユニット改αV/B<br>
-                ・★4/フローラユニット改βV/B
-            </div>
-        </div>
-        <div class="list">
-            ▶下記パッシブスキルの「奇数エリア移動毎にSPゲージがチャージされる」効果の発動後、一定時間内に次の奇数エリアへ移動すると、効果が再発動しないことがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                ・レディ・ゴージャス<br>
-                ・ファーストアタック<br>
-                ・アンバーグリス
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「【復刻】バトルガール ハイスクールコラボ 成子坂編」の一部シナリオにて、LOG画面でセリフが正常に表示されない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.52.2の配信に伴い、<span class="bold red">4/19（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
