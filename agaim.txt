@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-908" class="weighty-column">
+
+            2022/05/31 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-908" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年05月31日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・神宮寺 真理
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-907" class="weighty-column">
 
             2022/05/26 14:00                            
@@ -355,14 +397,14 @@
             <div class="list">
                 ▶千島 美幸の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1476">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1477">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 千島 美幸【幸魂】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/547?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1476">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1477">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1271,91 +1313,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-888" class="weighty-column">
-
-            2022/04/19 14:00                            
-                <span class="bold">
-                                            (04/19 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-888" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年04月19日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.52.2アプリより、一部シナリオを再生するとエラーが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ログイン後にホーム画面で再生される、下記キャラクターの一部モーションを調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・常磐 くるみ<br>
-                ・煌上 花音<br>
-                ・国枝 詩穂
-            </div>
-        </div>
-        <div class="list">
-            ▶煌上 花音のパッシブスキル「私の力を見せてあげる」の「奇数エリア移動毎にデュアルの立ち射撃の威力が上昇し、射程が5m延長する」効果の効果時間が、説明文と異なり「20秒」となっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターのエニグマ共通エリアにて、開発意図と異なるパッシブスキルが獲得できてしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・東雲 チヱ<br>
-                ・御蔵座 梓希<br>
-                ・米良渕 花浪
-            </div>
-        </div>
-        
-        <p class="list red">
-            <s>※なお、開発意図と異なるパッシブスキルを既に獲得しているキャラクターにつきましては、後日、正しい状態に戻す対応を予定しております。</s>
-        </p>
-        <p class="list red">
-            ※4/19（火）14:15 追記<br>
-            当該の不具合が発生していたキャラクターを、正しい状態に戻す対応が完了しました。<br>
-            本対応は、再度ログインしていただくことで反映されます。
-        </p>
-        <div class="list">
-            ▶春日丘 もえの一部の信頼度称号に誤字がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
