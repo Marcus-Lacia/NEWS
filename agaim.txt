@@ -35,7 +35,10 @@
         
         <div id="important-column-910" class="weighty-column">
 
-            2022/06/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/06/06 14:00                            
+                <span class="red bold">
+                                            (06/06 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -56,6 +59,10 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.54.0の更新内容】</p>
         
+        <p class="list red">※19:35 追記</p>
+        <div class="list">
+            ▶一部デュアル系ショットギアの溜め撃ちを行った際に、特定条件で各種移動射撃を行うと、開発意図と異なる挙動となる不具合を修正しました。
+        </div>
         <div class="list">
             ▶イベント一覧画面にて、一部イベントをフォルダにまとめて表示する機能を追加しました。
         </div>
