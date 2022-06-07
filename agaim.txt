@@ -33,6 +33,64 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-912" class="weighty-column">
+
+            2022/06/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-912" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年06月07日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶下記キャラクターのコスチューム「郷湾育英高校夏服」の3Dモデルをブラッシュアップしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・日向 リン<br>
+                ・蛙坂 来弥
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「【復刻】リンちゃん探検隊・洞窟編」の、一部シナリオのナレーション表現を調整しました。
+        </div>
+        <div class="list">
+            ▶九炉鉄 悠都がコスチューム「ブラックスミス」着用中、ドレッサー画面で特定ポーズをとった際に、コスチュームがめり込む問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-911" class="weighty-column">
 
             2022/06/07 11:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1357,100 +1415,6 @@
     <div>
         なお、Ver.1.52.3の配信に伴い、<span class="bold red">4/28（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-893" class="weighty-column">
-
-            2022/04/22 14:05                            
-                <span class="bold">
-                                            (04/22 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-893" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年04月22日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶特定ボトムスギアを装備中、出撃時のロード画面にて進行不能となることがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・「★4/フローラユニット+改/B」シリーズ<br>
-                ・「★3/フローラユニット+/B」シリーズ<br>
-                ・★3/フローラユニット+G/B
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ギアスキルの「両手剣装備時の前後ステップ性能が上昇する」効果が、両手剣装備時に正しく発動しない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・♡月下美人<br>
-                ・月下美人
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「バトルガール ハイスクールコラボ アイランドゲーム編」の一部Tipsにて、ショットギア「カルドゥスR」の一次属性の表示が誤っている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※正しい一次属性は「エネルギー弾」となります。
-        </p>
-        <div class="list">
-            ▶イベント「バトルガール ハイスクールコラボ アイランドゲーム編」の、一部任務の背景を変更しました。
-        </div>
-        <div class="list">
-            ▶粒咲 あんこのキャラエピソードEp3-1の、一部誤字を修正しました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                4/22（金）14:00 までに<br>
-                アカウントを作成していたお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                5/6（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
     </div>
     
     <div>
