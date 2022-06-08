@@ -196,8 +196,7 @@
         
         <div id="important-column-911" class="weighty-column">
 
-            2022/06/07 11:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/06/07 11:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               各種シナリオ中、キャラクターの表情変化が開発意図と異なる場合がある            </div>
