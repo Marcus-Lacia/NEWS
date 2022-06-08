@@ -96,8 +96,7 @@
         
         <div id="important-column-913" class="weighty-column">
 
-            2022/06/07 15:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/06/07 15:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               九炉鉄 悠都のSPスキル「玄天一流」発動中のトップススキルについて            </div>
