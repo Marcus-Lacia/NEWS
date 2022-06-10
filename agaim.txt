@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-915" class="weighty-column">
+
+            2022/06/10 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-915" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年06月10日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・宇佐元 杏奈
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-914" class="weighty-column">
 
             2022/06/07 19:30                            
@@ -942,14 +984,14 @@
             <div class="list">
                 ▶千島 美幸の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1484">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220513/bnr_l00_inf_405_13.jpg?v=1485">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 千島 美幸【幸魂】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/547?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1484">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_036_70/bnr_header.jpg?v=1485">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1353,65 +1395,6 @@
         </div>
         <div>
             本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-896" class="weighty-column">
-
-            2022/04/29 16:00                            
-                <span class="bold">
-                                            (05/12 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              アイテム一覧画面のクオリア所持数が正常に表示されないことがある            </div>
-
-        </div>
-        <div id="important-text-896" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年05月12日 14:05 追記<br>
-            本件につきまして、本日順次配信されましたVer1.53.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年04月29日 16:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「GWエニグマ実装記念 クオリア獲得任務」の初回クリア報酬でクオリアを獲得すると、アイテム一覧画面のクオリア所持数が実際よりも多く表示されることがある。
-            </div>
-            <p class="list red">
-                ※表示上の不具合となり、実際の所持数は正しく計算されております。
-            </p>
-            <div>
-                なお、本不具合が発生した場合は、対象となるキャラクターのクオリアを獲得したり、エニグマ画面を開いたりするなどで解消されることを確認しております。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
