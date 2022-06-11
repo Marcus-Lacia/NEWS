@@ -35,8 +35,7 @@
         
         <div id="important-column-918" class="weighty-column">
 
-            2022/06/10 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/06/10 20:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定操作を行うと、ドレッサー画面で本来再生されないモーションが再生される            </div>
