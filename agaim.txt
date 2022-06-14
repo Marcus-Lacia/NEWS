@@ -33,9 +33,89 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-919" class="weighty-column">
+
+            2022/06/14 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.54.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-919" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年06月14日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.54.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.54.1の更新内容】</p>
+        
+        <div class="list">
+            ▶藤野 やよいのSPスキル「テトラスプリッターH」発動中のUI表示を微調整しました。
+        </div>
+        <p class="list red">
+            ※表示のみの変更となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶九炉鉄 悠都のSPスキル「玄天一流」発動中、性能が上書きされたトップススキル発動時に展開された刃の数よりも、ロックオン表示が多く表示されている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※正しいロックオン数は、展開される刃の数と同じ「10」となります。
+        </p>
+        <div class="list">
+            ▶九炉鉄 悠都のSPスキル「玄天一流」発動中、性能が上書きされたトップススキルによるロックオン表示が、攻撃後も表示され続けてしまう不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶東雲 チヱのSPスキル「東雲式複合重火砲・丁」の、フィニッシュムーブ演出中の効果音が正しく再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチにて、特定タイミングでルームから退出した際に、残りのプレイヤーのロードが終わらないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.54.0アプリより、各種シナリオ中、キャラクターの表情変化が生じた際に開発意図と異なるアニメーションが表示される場合がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定操作を行うと、ドレッサー画面で本来再生されないモーションが再生される問題を修正しました。
+        </div>
+        <div class="list">
+            ▶6/7（火）15:00 より切り替わったホーム画面にて、一部キャラクターのモーションが正常に再生されていなかった問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.54.1の配信に伴い、<span class="bold red">6/15（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-918" class="weighty-column">
 
-            2022/06/10 20:40            
+            2022/06/10 20:40                            
+                <span class="bold">
+                                            (06/14 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定操作を行うと、ドレッサー画面で本来再生されないモーションが再生される            </div>
@@ -44,6 +124,17 @@
         <div id="important-text-918" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年06月14日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.54.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年06月10日 20:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -289,7 +380,11 @@
         
         <div id="important-column-913" class="weighty-column">
 
-            2022/06/07 15:40            
+            2022/06/07 15:40                            
+                <span class="bold">
+                                            (06/14 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               九炉鉄 悠都のSPスキル「玄天一流」発動中のトップススキルについて            </div>
@@ -298,6 +393,17 @@
         <div id="important-text-913" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年06月14日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.54.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年06月07日 15:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -387,7 +493,11 @@
         
         <div id="important-column-911" class="weighty-column">
 
-            2022/06/07 11:00            
+            2022/06/07 11:00                            
+                <span class="bold">
+                                            (06/14 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               各種シナリオ中、キャラクターの表情変化が開発意図と異なる場合がある            </div>
@@ -396,6 +506,17 @@
         <div id="important-text-911" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年06月14日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.54.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年06月07日 11:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1195,218 +1316,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-900" class="weighty-column">
-
-            2022/05/12 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.53.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-900" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年05月12日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.53.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.53.0の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶一部パッシブスキルの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                機操骨【侵】1
-            </div>
-            <p class="list">
-                ・ダメージ耐性の効果時間を約87%増加。
-            </p>
-            <p class="list">
-                ・ダメージ耐性の耐性値を約100%増加。
-            </p>
-            <p class="list">
-                ・ダメージ耐性の効果が、条件を満たした場合に再発動するよう変更。
-            </p>
-            <p class="list">
-                ・説明文の一部表現を調整。
-            </p>
-            
-            <div>
-                月夜骨【華】1
-            </div>
-            <p class="list">
-                ・SPの上昇値を約100%増加。
-            </p>
-        </div>
-        <div class="list">
-            ▶パッシブスキル「高揚感1」の名称を変更しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                変更前：高揚感1<br>
-                変更後：高揚感【突銃】1
-            </div>
-        </div>
-        <div class="list">
-            ▶パッシブスキル「痛みの拒絶1」の説明文に、ダメージ耐性に関する説明が2重に表記されている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜修正前＞</p>
-            <ul>
-                <li>
-                    HPが30%以下になると、高速移動のブースト消費量が半減、ダメージへの耐性を得る 15秒間継続 <span class="red">耐性効果が上昇</span> この効果は出撃毎で1回しか発動しない
-                </li>
-            </ul>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜修正後＞</p>
-            <ul>
-                <li>
-                    HPが30%以下になると、高速移動のブースト消費量が半減、ダメージへの耐性を得る 15秒間継続 この効果は出撃毎で1回しか発動しない
-                </li>
-            </ul>
-        </div>
-        <div class="list">
-            ▶パッシブスキル「防衛機制1」の、説明文の誤字を修正しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜修正前＞</p>
-            <ul>
-                <li>
-                    HPが40%以下になると、最大HPの20%を回復し、高速移動のブースト消費を半減、ダメージへの耐性を付与する 15秒間継続 この効果は出撃毎で1回しか発動しない
-                </li>
-            </ul>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜修正後＞</p>
-            <ul>
-                <li>
-                    HPが<span class="red">50%</span>以下になると、最大HPの20%を回復し、高速移動のブースト消費を半減、ダメージへの耐性を付与する 15秒間継続 この効果は出撃毎で1回しか発動しない
-                </li>
-            </ul>
-        </div>
-        <div class="list">
-            ▶パッシブスキル「PホルシードUP1」の、説明文の一部表現を調整しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの調整となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶一部画面のアイテム個数選択時のUIを変更し、利便性を向上させました。
-        </div>
-        <div class="list show_only_DMM">
-            ▶オプションに、任務中にマウスカーソルがウィンドウ外に出ることを抑制する機能を追加しました。
-        </div>
-        <div class="list">
-            ▶イベント「GWエニグマ実装記念 クオリア獲得任務」の初回クリア報酬でクオリアを獲得すると、アイテム一覧画面のクオリア所持数が実際よりも多く表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.52.0アプリより、冷撃属性の爆風の攻撃範囲が、見た目より広くなっていた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ストリック特異型が爪で攻撃している時にサイドパーツをロックオンしていると、サイドパーツが開発意図と異なる挙動を行う不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※本修正に伴い、当該攻撃中はサイドパーツをロックオンできないよう挙動を変更しております。
-        </p>
-        <div class="list">
-            ▶ウェルウィッチア属性特異型の本体の接触判定を調整し、キャラクターが接触した際に大きくめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶下記パッシブスキル発動中のエフェクトが、開発意図と異なる状況で表示されることがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                ・フロートシールドJ1<br>
-                ・フロートシールドS1
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ボトムスギアのギアスキル発動時、特定タイミングで攻撃を受けると、一定時間操作不能になることがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/フローラユニット改αV/B<br>
-                ・★4/フローラユニット改βV/B
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ショットギア装備中に溜め撃ちを行うと、以後、射撃中に左右フリックで行う特殊射撃のマルチロックオンが無効になる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/神器カンパネルラ・DUAαV<br>
-                ・★4/神器カンパネルラ・DUAβV
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ボトムスギアの一部パーツが正しく表示されていない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/バスターチキン/B<br>
-                ・★4/バスターチキンG/B<br>
-                ・★4/バスターチキンシェイディ/B
-            </div>
-        </div>
-        <div class="list show_only_DMM">
-            ▶射撃攻撃中に特定操作を行うと、本来キャンセルできないタイミングで攻撃をキャンセルできてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶エニグマ画面の「変換セル」を利用すると、2回目以降のクオリア必要数に「-」と表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、マスターエレメント変換時のクオリアは正常な数が消費されていたことを確認しております。
-        </p>
-        <div class="list">
-            ▶ミニゲーム「ピッピとピッピでGOGOGO！」にて、ゴールフラッグ根本付近のゴール判定が、見た目よりも広い問題を修正しました。
-        </div>
-        <div class="list">
-            ▶メインストーリー侵蝕編6章の一部任務に出現する、特定大型ヴァイスの出現演出を微調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.53.0の配信に伴い、<span class="bold red">5/13（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
