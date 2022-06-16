@@ -33,6 +33,87 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-922" class="weighty-column">
+
+            2022/06/16 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-922" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年06月16日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ミッション（ノーマル）に、下記追加ミッションを実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ミッション】</p>
+            <div>
+                ・キャラエピソード初回クリア数<br>
+                ・絆エピソード初回クリア数
+            </div>
+        </div>
+        <p class="list red">
+            ※ミッション実装前の初回クリア数もカウントされております。
+        </p>
+        <div class="list">
+            ▶各種キャラエピソードの再生条件からキャラクターLvによる制限を廃止しました。
+        </div>
+        <div class="list">
+            ▶アクセサリー「シャルトリュー」を着用したキャラクターが特定モーションをとった際に、揺れ方に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶一部キャラクターのルームランナー利用モーションが正常にループ再生されない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記SPスキルをファクターキャラクターに装着して発動すると、開発意図と異なるボイスが再生される問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・アグレッシブパイル<br>
+                ・プロミネンスブラスト<br>
+                ・エンヴィーコリジョン
+            </div>
+        </div>
+        <div class="list">
+            ▶サンティ・Rの特定部位をタップすると、床に埋まることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶6/7（火）15:00 より切り替わったホーム画面にて、机が不適切な場所に設置されている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-921" class="weighty-column">
 
             2022/06/14 21:30                            
@@ -1262,70 +1343,6 @@
         </div>
         <div>
             本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-903" class="weighty-column">
-
-            2022/05/18 11:35                            
-                <span class="bold">
-                                            (05/26 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              綿木 ミシェルのパッシブスキル「きゅんきゅんハート1」の効果が、説明文に記載されていない条件でも発動する            </div>
-
-        </div>
-        <div id="important-text-903" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年05月26日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年05月18日 11:35<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶綿木 ミシェルのパッシブスキル「きゅんきゅんハート1」の効果が、下記ショットギアの立ち射撃3段目を行った時にも発動する。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ショットギア】</p>
-                <div>
-                    ・★4/神器メロコトン<br>
-                    ・★4/神器メロコトンα<br>
-                    ・★4/神器メロコトンβ
-                </div>
-            </div>
-            <p class="list red">
-                ※「きゅんきゅんハート1」の効果は、専用クロスギア（拳銃）神器メロコトン・MM系列を装備中の特定行動時にのみ発動するのが正しい挙動となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
