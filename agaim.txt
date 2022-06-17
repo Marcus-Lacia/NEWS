@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-923" class="weighty-column">
+
+            2022/06/17 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.54.1アプリより、日向 リンのSPスキル「デバステイターH」発動時、爆風及び爆風ダメージが発生しない            </div>
+
+        </div>
+        <div id="important-text-923" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年06月17日 14:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.54.1アプリより、日向 リンのSPスキル「デバステイターH」発動時、爆風及び爆風ダメージが発生しない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-922" class="weighty-column">
 
             2022/06/16 14:00            
@@ -1297,59 +1336,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-904" class="weighty-column">
-
-            2022/05/20 22:55                            
-                <span class="bold">
-                                            (05/21 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「特殊宙域作戦 Opジギタリス」のバトルリザルト画面にて、開発意図と異なるBGMが再生されている            </div>
-
-        </div>
-        <div id="important-text-904" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年05月21日 18:15 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年05月20日 22:55<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「特殊宙域作戦 Opジギタリス」のバトルリザルト画面にて、開発意図と異なるBGMが再生されている。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
