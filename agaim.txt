@@ -246,8 +246,7 @@
         
         <div id="important-column-923" class="weighty-column">
 
-            2022/06/17 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/06/17 14:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.54.1アプリより、日向 リンのSPスキル「デバステイターH」発動時、爆風及び爆風ダメージが発生しない            </div>
