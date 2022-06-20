@@ -33,6 +33,58 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-925" class="weighty-column">
+
+            2022/06/20 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              リタ・Hのエニグマに発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-925" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年06月20日 14:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶一部エリアのステータスアップセル解放時、本来上昇するはずのパラメータが正常に上昇しておらず、開発意図と異なるパラメータが上昇している。
+            </div>
+            <div class="sub-box bg_white">
+                <p>＜ノーマル★4エリア＞</p>
+                <div>
+                    正：射撃攻撃のATKと属性値<br>
+                    誤：近接攻撃のATKと属性値
+                </div>
+                <p>＜アナザー★4エリア＞</p>
+                <div>
+                    正：近接攻撃と射撃攻撃の属性値<br>
+                    誤：近接攻撃と射撃攻撃のATK
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。<br>
+            なお、対象セルを解放しているお客様につきましては、不具合修正時に正しいパラメータ上昇値を適用させていただきます。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-883" class="weighty-column">
 
             2022/04/13 14:30                            
@@ -1279,67 +1331,6 @@
         <div class="list">
             ▶メインストーリー侵蝕編5章シナリオ「440」の演出中に表記されている、部隊（チーム）コードの誤字を修正しました。
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-905" class="weighty-column">
-
-            2022/05/21 18:15                            
-                <span class="bold">
-                                            (05/21 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-905" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年05月21日 18:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「特殊宙域作戦 Opジギタリス」のバトルリザルト画面にて、開発意図と異なるBGMが再生されている不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                5/21（土）18:15 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                6/4（土）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
     </div>
     
     <div>
