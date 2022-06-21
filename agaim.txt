@@ -78,8 +78,7 @@
         
         <div id="important-column-925" class="weighty-column">
 
-            2022/06/20 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/06/20 14:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               リタ・Hのエニグマに発生している不具合について            </div>
