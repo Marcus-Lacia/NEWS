@@ -33,6 +33,44 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-927" class="weighty-column">
+
+            2022/06/27 12:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              特定商取引法改正に伴う変更について            </div>
+
+        </div>
+        <div id="important-text-927" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年06月27日 12:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            特定商取引法の改正に伴い、6月28日（火）ごろ配信予定の最新版アプリより、以下の変更を実施予定です。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【変更内容】</p>
+            
+            <div class="list">
+                ▶カラットでアイテムやサービスを購入する際の確認画面に、法律で求められる表記を追加。
+            </div>
+            <p class="list red">
+                ※本変更に伴い、「特定商取引法に基づく表記」の内容も改定いたします。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-928" class="weighty-column">
 
             2022/06/24 15:00            
@@ -1271,47 +1309,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-909" class="weighty-column">
-
-            2022/06/03 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-909" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年06月03日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・小鳥遊 怜
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
