@@ -35,8 +35,7 @@
         
         <div id="important-column-927" class="weighty-column">
 
-            2022/06/27 12:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/06/27 12:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               特定商取引法改正に伴う変更について            </div>
