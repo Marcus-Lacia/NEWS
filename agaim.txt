@@ -33,9 +33,90 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-930" class="weighty-column">
+
+            2022/06/28 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.54.3 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-930" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年06月28日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.54.3のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.54.3の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶特定商取引法改正に伴う変更を実施しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.54.1アプリより、日向 リンのSPスキル「デバステイターH」発動時、爆風及び爆風ダメージが発生しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ショットギア「カルドゥスR」装備時、残弾数5の状態から溜め撃ちを撃ちきると、その後リロードが行われない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記ショットギアの溜め撃ち時、実際に発射される弾の数よりも、ロックオン表示が多く表示されている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・MG42S機関銃<br>
+                ・MG42S改機関銃
+            </div>
+        </div>
+        <div class="list">
+            ▶ギアスキル「ブルーミング・シスル」発動時、実際に発射される弾の数よりも、ロックオン表示が多く表示されている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ドレッサー画面にて、特定状況でコスチュームを変更すると、キャラクターが床に埋まることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶バージニア・GのキャラエピソードEp.1の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶王 紅花のキャラエピソードEp.3-3の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.54.3の配信に伴い、<span class="bold red">6/29（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-927" class="weighty-column">
 
-            2022/06/27 12:10            
+            2022/06/27 12:10                            
+                <span class="red bold">
+                                            (06/28 更新)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               特定商取引法改正に伴う変更について            </div>
@@ -44,6 +125,14 @@
         <div id="important-text-927" class="weighty-notice hide">
            
     <div>
+        
+        <div>
+            ■2022年06月28日 14:05 追記<br>
+            本日より、順次配信を開始をしておりますVer.1.54.3アプリにて、特定商取引法改正に伴う変更対応を実施いたしましたので、ご報告申し上げます。
+        </div>
+        
+        
+        <hr class="red">
         
         <div>
             ■2022年06月27日 12:10<br>
@@ -458,7 +547,11 @@
         
         <div id="important-column-923" class="weighty-column">
 
-            2022/06/17 14:30            
+            2022/06/17 14:30                            
+                <span class="bold">
+                                            (06/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.54.1アプリより、日向 リンのSPスキル「デバステイターH」発動時、爆風及び爆風ダメージが発生しない            </div>
@@ -467,6 +560,17 @@
         <div id="important-text-923" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年06月28日 14:05 追記<br>
+            本件につきまして、本日順次配信されましたVer1.54.3アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年06月17日 14:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1200,114 +1304,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-910" class="weighty-column">
-
-            2022/06/06 14:00                            
-                <span class="bold">
-                                            (06/06 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.54.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-910" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年06月06日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.54.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.54.0の更新内容】</p>
-        
-        <p class="list red">※19:35 追記</p>
-        <div class="list">
-            ▶一部デュアル系ショットギアの溜め撃ちを行った際に、特定条件で各種移動射撃を行うと、開発意図と異なる挙動となる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント一覧画面にて、一部イベントをフォルダにまとめて表示する機能を追加しました。
-        </div>
-        <div class="list">
-            ▶キャラ詳細画面とスキル詳細画面に表示される、ギアスキルの能力上昇値を4桁まで表示されるよう調整しました。
-        </div>
-        <div class="list">
-            ▶アイテム一覧画面に、未加入キャラクターの所持クオリアも表示されるよう仕様を変更しました。
-        </div>
-        <div class="list">
-            ▶オベリスクのサブコア破壊後、一時的にどの部位にもロックオンできなくなる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶オベリスクがコアを格納するタイミングで特定部位を破壊すると、壊れた見た目にならない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶オベリスク特異型がコアを格納するタイミングでサブコアを破壊すると、サブコアがロックオン可能な状態が継続してしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ガーデンのシールドスプラウトの一部が、一度しか攻撃を行わない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種大型ヴァイスのチャージ攻撃を発動直前に阻止すると、その後、チャージ攻撃が正しく発動しなくなる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部デュアル系ショットギアの溜め撃ちを行い続けると、溜め撃ち発射時のボイスが再生されなくなる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記ボトムスギアのギアスキル発動時、追加タップの入力中にターゲットが撃破されると、ギアスキルが不発となって一定時間操作不能になる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/フローラユニット改αV/B<br>
-                ・★4/フローラユニット改βV/B
-            </div>
-        </div>
-        <div class="list">
-            ▶琴村 天音のSPスキル「ハーモニー・セレスト」の発動時に装備したギアが、フィニッシュムーブ使用後も表示され続けてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶日向 リンのSPスキル「ドレッドノートH」のフィニッシュムーブ演出中、バズーカが正しく表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶蛙坂 来弥【ネクスト】が特定ギアを装備中、3D MODEL画面で開発意図と異なるポーズをとってしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部高スペック端末にて、ギアスキル「フレイエフェクト」などの一部攻撃が、正しく敵に当たらないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶オプション＞バトル関連の「バトルボタンのマルチタップサポート」がONの場合、特定操作を行うと、SPスキル発動演出が開発意図と異なる挙動になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶メインストーリー侵蝕編のアサルトエリアにて、操作キャラクターがエリアの手前側にいると、出現するヴァイスが開発意図と異なる挙動をとることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中のカメラモードを利用し、キャラクターを本来移動できない方向へ移動できてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.54.0の配信に伴い、<span class="bold red">6/7（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
