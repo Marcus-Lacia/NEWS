@@ -33,6 +33,68 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-931" class="weighty-column">
+
+            2022/06/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-931" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年06月29日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶かすみとマリー・ローズの専用トップスギア・ボトムスギアの一部デザインを微調整しました。
+        </div>
+        <div class="list">
+            ▶かすみのキャラエピソードEp.4-3の初回クリア報酬に、アクセサリー「かすみのリボン/青」を追加しました。
+        </div>
+        <p class="list red">
+            ※既に当該エピソードをクリア済みのお客様には、後日、受取箱へ追加アクセサリーの配布を予定しております。
+        </p>
+        
+        <div class="list">
+            ▶ミニゲーム「ぴょんぴょんゲーム」に、コラボフォトフレームを表示させる機能を追加しました。
+        </div>
+        <div class="list">
+            ▶リタ・Hのエニグマの、一部エリアのステータスアップセル解放時、本来上昇するはずのパラメータが正常に上昇していない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※対象セルを既に解放しているお客様につきましては、後日、正しいパラメータ上昇値の適用を予定しております。
+        </p>
+        
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-930" class="weighty-column">
 
             2022/06/28 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1252,62 +1314,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-911" class="weighty-column">
-
-            2022/06/07 11:00                            
-                <span class="bold">
-                                            (06/14 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              各種シナリオ中、キャラクターの表情変化が開発意図と異なる場合がある            </div>
-
-        </div>
-        <div id="important-text-911" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年06月14日 14:05 追記<br>
-            本件につきまして、本日順次配信されましたVer1.54.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年06月07日 11:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.54.0アプリより、各種シナリオ中、キャラクターの表情変化が生じた際に開発意図と異なるアニメーションが表示される場合がある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/44</div>
+                    <div class="page-box box-radius">1/45</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
