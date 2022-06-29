@@ -35,7 +35,10 @@
         
         <div id="important-column-931" class="weighty-column">
 
-            2022/06/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/06/29 14:00                            
+                <span class="red bold">
+                                            (06/29 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -73,9 +76,13 @@
             ▶リタ・Hのエニグマの、一部エリアのステータスアップセル解放時、本来上昇するはずのパラメータが正常に上昇していない不具合を修正しました。
         </div>
         <p class="list red">
-            ※対象セルを既に解放しているお客様につきましては、後日、正しいパラメータ上昇値の適用を予定しております。
+            <s>※対象セルを既に解放しているお客様につきましては、後日、正しいパラメータ上昇値の適用を予定しております。</s>
         </p>
-        
+        <p class="list red">
+            ※14:15 追記<br>
+            正しいパラメータ上昇値の適用が完了しました。<br>
+            本対応は、再度ログインいただくことで反映されます。
+        </p>
         <div class="list">
             ▶各種データを追加しました。
         </div>
@@ -346,7 +353,11 @@
         
         <div id="important-column-925" class="weighty-column">
 
-            2022/06/20 14:05            
+            2022/06/20 14:05                            
+                <span class="bold">
+                                            (06/29 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               リタ・Hのエニグマに発生している不具合について            </div>
@@ -355,6 +366,20 @@
         <div id="important-text-925" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年06月29日 14:15 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <p class="list red">
+            ※正しいパラメータ上昇値を適用する対応も実施しております。
+        </p>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年06月20日 14:05<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
