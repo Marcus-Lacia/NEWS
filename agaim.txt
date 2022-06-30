@@ -58,18 +58,18 @@
             <div class="list">
                 ▶かすみの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1508">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1509">
     
             <div class="list">
                 ▶マリー・ローズの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1508">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1509">
             
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/563?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_s00_inf_406_29.jpg?v=1508">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_s00_inf_406_29.jpg?v=1509">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
