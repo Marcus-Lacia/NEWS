@@ -33,6 +33,50 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-932" class="weighty-column">
+
+            2022/07/05 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-932" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年07月05日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・かすみ<br>
+                    ・マリー・ローズ<br>
+                    ・女天狗
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-929" class="weighty-column">
 
             2022/06/29 15:00            
@@ -58,18 +102,18 @@
             <div class="list">
                 ▶かすみの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1513">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1514">
     
             <div class="list">
                 ▶マリー・ローズの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1513">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1514">
             
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/563?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_s00_inf_406_29.jpg?v=1513">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_s00_inf_406_29.jpg?v=1514">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1273,62 +1317,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-913" class="weighty-column">
-
-            2022/06/07 15:40                            
-                <span class="bold">
-                                            (06/14 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              九炉鉄 悠都のSPスキル「玄天一流」発動中のトップススキルについて            </div>
-
-        </div>
-        <div id="important-text-913" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年06月14日 14:05 追記<br>
-            本件につきまして、本日順次配信されましたVer1.54.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年06月07日 15:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶九炉鉄 悠都のSPスキル「玄天一流」発動中、性能が上書きされたトップススキル発動時に展開された刃の数よりも、ロックオン表示が多く表示されている。
-            </div>
-            <p class="list red">
-                ※正しいロックオン数は、展開される刃の数と同じ「10」となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
