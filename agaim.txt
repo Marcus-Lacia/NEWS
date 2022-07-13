@@ -33,6 +33,74 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-934" class="weighty-column">
+
+            2022/07/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-934" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年07月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶コスチュームやアクセサリーを入手した際に、対応する★1（コラボキャラの場合は★3）の無償キャラが自動的に加入するよう仕様を変更しました。
+        </div>
+        <div class="list">
+            ▶下記パッシブスキルに、「奇数エリア開始時に10秒間、SP獲得量が増加する」効果を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象パッシブスキル】</p>
+            <div>
+                ・突銃・迅速思考1<br>
+                ・双銃・迅速思考1<br>
+                ・狙撃・迅速思考1
+            </div>
+        </div>
+        <div class="list">
+            ▶ショットギア「ミスティックシューター」シリーズの装備中、特定攻撃時の「射程外」の表示が、実際の射程と異なる位置で表示される不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶「DOAXVV」コラボ仕様のホーム画面にて、特定の時間帯に、アクセサリー「ホワイトクロス」の一部が光って見える問題を修正しました。
+        </div>
+        <div class="list">
+            ▶女天狗がドレッサー画面へ移動する際のモーションを調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-933" class="weighty-column">
 
             2022/07/11 14:00            
@@ -1290,47 +1358,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-915" class="weighty-column">
-
-            2022/06/10 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-915" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年06月10日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・宇佐元 杏奈
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
