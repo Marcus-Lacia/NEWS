@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-939" class="weighty-column">
+
+            2022/07/19 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              村尾 未羅のSPスキル「メタトロニオス」に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-939" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年07月19日 20:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶村尾 未羅のSPスキル「メタトロニオス」のシールド展開中、シールドゲージ0を超過するダメージを受けた時の計算が正しく行われず、ダメージ量が開発意図よりも上昇もしくは低下する場合がある。
+            </div>
+            <p class="list red">
+                ※シールドゲージ0を超過するダメージが発生した場合は、超過した分のダメージを受けるのが正しい仕様となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-936" class="weighty-column">
 
             2022/07/13 14:30                            
@@ -1316,59 +1358,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-918" class="weighty-column">
-
-            2022/06/10 20:40                            
-                <span class="bold">
-                                            (06/14 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定操作を行うと、ドレッサー画面で本来再生されないモーションが再生される            </div>
-
-        </div>
-        <div id="important-text-918" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年06月14日 14:05 追記<br>
-            本件につきまして、本日順次配信されましたVer1.54.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年06月10日 20:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定操作を行うと、ドレッサー画面で本来再生されないモーションが再生される。
-            </div>
-        </div>
-        <div>
-            本不具合につきまして調査を行った結果、キャラクターが非表示になってしまったり、表示が崩れてしまうケースなど、影響範囲が多岐にわたることが判明いたしましたので、近日配信のアプリにて修正予定となります。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
