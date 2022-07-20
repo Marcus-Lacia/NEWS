@@ -35,8 +35,7 @@
         
         <div id="important-column-939" class="weighty-column">
 
-            2022/07/19 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/07/19 20:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               村尾 未羅のSPスキル「メタトロニオス」に発生している不具合について            </div>
