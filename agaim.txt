@@ -33,6 +33,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-940" class="weighty-column">
+
+            2022/07/22 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-940" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年07月22日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶リムルインバス属性特異型各種の特定部位が、意図せず表示されていない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶相河 愛花がコスチューム「ホワイトメリー」を着用中、カメラの角度によって、コスチュームの一部が不自然に光って見えてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ギアスキル「ドゥームズデイ」の名称の誤字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                ・修正前：ドゥームスデイ<br>
+                ・修正後：ドゥームズデイ
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-939" class="weighty-column">
 
             2022/07/19 20:40            
@@ -1282,81 +1339,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-919" class="weighty-column">
-
-            2022/06/14 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.54.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-919" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年06月14日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.54.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.54.1の更新内容】</p>
-        
-        <div class="list">
-            ▶藤野 やよいのSPスキル「テトラスプリッターH」発動中のUI表示を微調整しました。
-        </div>
-        <p class="list red">
-            ※表示のみの変更となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶九炉鉄 悠都のSPスキル「玄天一流」発動中、性能が上書きされたトップススキル発動時に展開された刃の数よりも、ロックオン表示が多く表示されている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正しいロックオン数は、展開される刃の数と同じ「10」となります。
-        </p>
-        <div class="list">
-            ▶九炉鉄 悠都のSPスキル「玄天一流」発動中、性能が上書きされたトップススキルによるロックオン表示が、攻撃後も表示され続けてしまう不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶東雲 チヱのSPスキル「東雲式複合重火砲・丁」の、フィニッシュムーブ演出中の効果音が正しく再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチにて、特定タイミングでルームから退出した際に、残りのプレイヤーのロードが終わらないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.54.0アプリより、各種シナリオ中、キャラクターの表情変化が生じた際に開発意図と異なるアニメーションが表示される場合がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定操作を行うと、ドレッサー画面で本来再生されないモーションが再生される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶6/7（火）15:00 より切り替わったホーム画面にて、一部キャラクターのモーションが正常に再生されていなかった問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.54.1の配信に伴い、<span class="bold red">6/15（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
