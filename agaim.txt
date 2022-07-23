@@ -36,7 +36,7 @@
         <div id="important-column-941" class="weighty-column">
 
             2022/07/22 19:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (07/22 修正済)
                                     </span>
             
