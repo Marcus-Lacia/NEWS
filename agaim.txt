@@ -35,8 +35,7 @@
         
         <div id="important-column-945" class="weighty-column">
 
-            2022/07/29 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/07/29 19:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.54.0アプリより、特定条件を満たした際に、一部SPスキルの効果が正常に終了しないことがある            </div>
