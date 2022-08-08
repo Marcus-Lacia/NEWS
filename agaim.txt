@@ -33,6 +33,74 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-947" class="weighty-column">
+
+            2022/08/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.55.3 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-947" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年08月08日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.55.3のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.55.3の更新内容】</p>
+        
+        <div class="list">
+            ▶下記アクセサリーを着用時、ホーム画面及びドレッサー画面で表示される名前を変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクセサリー】</p>
+            <div>
+                ・メリスママスク<br>
+                ・メストマスク<br>
+                ・アリアマスク<br>
+                ・フェイクマスク
+            </div>
+        </div>
+        <div class="list">
+            ▶一部の大型ヴァイスが召喚するユニットを撃破した際にカメラモードを利用すると、爆発時のダメージが複数回発生してしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ユニット】</p>
+            <div>
+                ・シールドスプラウト<br>
+                ・コ・モス
+            </div>
+        </div>
+        <div class="list">
+            ▶藤野 やよいが信頼度に関わらず、頬染め状態になることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.55.3の配信に伴い、<span class="bold red">8/9（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-946" class="weighty-column">
 
             2022/08/02 14:00            
@@ -1069,48 +1137,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-924" class="weighty-column">
-
-            2022/06/20 14:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.54.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-924" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年06月20日 14:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.54.2のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.54.2の更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.54.2の配信に伴い、<span class="bold red">6/21（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
