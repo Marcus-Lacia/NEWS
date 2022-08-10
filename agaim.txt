@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-950" class="weighty-column">
+
+            2022/08/10 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-950" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年08月10日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・君影 唯
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-949" class="weighty-column">
 
             2022/08/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -80,8 +122,7 @@
         
         <div id="important-column-948" class="weighty-column">
 
-            2022/08/09 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/08/09 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               アップデートのお知らせ            </div>
@@ -693,14 +734,14 @@
             <div class="list">
                 ▶村尾 未羅の専用ボトムスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220713/bnr_l00_inf_407_13.jpg?v=1559">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220713/bnr_l00_inf_407_13.jpg?v=1560">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 村尾 未羅【至純】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/568?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_024_70/bnr_header.jpg?v=1559">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_024_70/bnr_header.jpg?v=1560">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -925,12 +966,12 @@
             <div class="list">
                 ▶かすみの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1559">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1560">
     
             <div class="list">
                 ▶マリー・ローズの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1559">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1560">
             
             
         </div>
@@ -1087,55 +1128,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-927" class="weighty-column">
-
-            2022/06/27 12:10                            
-                <span class="bold">
-                                            (06/28 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              特定商取引法改正に伴う変更について            </div>
-
-        </div>
-        <div id="important-text-927" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年06月28日 14:05 追記<br>
-            本日より、順次配信を開始をしておりますVer.1.54.3アプリにて、特定商取引法改正に伴う変更対応を実施いたしましたので、ご報告申し上げます。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年06月27日 12:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            特定商取引法の改正に伴い、6月28日（火）ごろ配信予定の最新版アプリより、以下の変更を実施予定です。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【変更内容】</p>
-            
-            <div class="list">
-                ▶カラットでアイテムやサービスを購入する際の確認画面に、法律で求められる表記を追加。
-            </div>
-            <p class="list red">
-                ※本変更に伴い、「特定商取引法に基づく表記」の内容も改定いたします。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
