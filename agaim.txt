@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-951" class="weighty-column">
+
+            2022/08/10 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              受取箱内の「コス交換券」の受け取り期限の表記が「アイテム有効期限」と表示されている            </div>
+
+        </div>
+        <div id="important-text-951" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年08月10日 16:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶受取箱内の「コス交換券」の受け取り期限の表記が「アイテム有効期限」と表示されている。
+            </div>
+            <p class="list">
+                ※ファッションミッションビンゴで配布される、コス交換券の受け取り期限は、8/31（水）23:59までとなります。
+            </p>
+            <p class="list">
+                ※受取箱から受け取った後に、コス交換券が期限によって消滅することはありません。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-950" class="weighty-column">
 
             2022/08/10 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1046,82 +1091,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-930" class="weighty-column">
-
-            2022/06/28 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.54.3 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-930" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年06月28日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.54.3のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.54.3の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶特定商取引法改正に伴う変更を実施しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.54.1アプリより、日向 リンのSPスキル「デバステイターH」発動時、爆風及び爆風ダメージが発生しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ショットギア「カルドゥスR」装備時、残弾数5の状態から溜め撃ちを撃ちきると、その後リロードが行われない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記ショットギアの溜め撃ち時、実際に発射される弾の数よりも、ロックオン表示が多く表示されている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・MG42S機関銃<br>
-                ・MG42S改機関銃
-            </div>
-        </div>
-        <div class="list">
-            ▶ギアスキル「ブルーミング・シスル」発動時、実際に発射される弾の数よりも、ロックオン表示が多く表示されている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ドレッサー画面にて、特定状況でコスチュームを変更すると、キャラクターが床に埋まることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶バージニア・GのキャラエピソードEp.1の、一部誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶王 紅花のキャラエピソードEp.3-3の、一部誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.54.3の配信に伴い、<span class="bold red">6/29（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
