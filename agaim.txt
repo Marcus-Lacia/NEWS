@@ -106,8 +106,7 @@
         
         <div id="important-column-951" class="weighty-column">
 
-            2022/08/10 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/08/10 16:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               受取箱内の「コス交換券」の受け取り期限の表記が「アイテム有効期限」と表示されている            </div>
