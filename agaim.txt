@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-953" class="weighty-column">
+
+            2022/08/24 21:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              「スタートダッシュスカウト」のリニューアルについて            </div>
+
+        </div>
+        <div id="important-text-953" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年08月24日 21:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        アカウント作成時から7日間限定で利用可能な「スタートダッシュスカウト」につきまして、以下のリニューアルを予定しておりますのでご案内いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【8/30（火）15:00 実施内容】</p>
+        
+        <div class="list">
+            ▶「スタートダッシュスカウト」利用時の消費カラット数を、以下に変更いたします。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                変更前：カラット380個<br>
+                変更後：<span class="red">カラット100個</span>
+            </div>
+        </div>
+        <div>
+            本リニューアルの記念としまして、<span class="red">8/30（火）15:00 以降にログインした時から7日間限定で、全てのお客様が「スタートダッシュスカウト」を1回限定でご利用いただけます。</span>
+        </div>
+        <p class="list">
+            ※過去に「スタートダッシュスカウト」を利用済みのお客様も、再度ご利用いただけます。
+        </p>
+        <div>
+            なお、「8/30（火）14:59 までにゲームを開始しており、アカウント作成から7日経過していない」お客様に限り、8/30（火）15:00 以降でも、「カラット数変更前のスタートダッシュスカウト」を引き続きご利用いただけます。
+        </div>
+        <p class="list red">
+            ※対象のお客様は「変更前」と「変更後」の2つの「スタートダッシュスカウト」が利用できる状態となりますので、ご利用の際は、消費カラット数をよくご確認ください。
+        </p>
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【9/7（水）15:00 実施内容】</p>
+        
+        <div class="list">
+            ▶新たに「スタートダッシュセレクトスカウト」を実装いたします。
+        </div>
+        <div>
+            「スタートダッシュセレクトスカウト」は、獲得したいノーマル★4キャラクターを選択できる、アカウント作成時から7日間限定で利用可能なスカウトです。<br>
+            本スカウトにつきましても、実装記念として、<span class="red">9/7（水）15:00 以降にログインした時から7日間限定で、全てのお客様がご利用いただけます。</span>
+        </div>
+
+        <p class="list red">
+            ※「カラット380個」で、1回限定でご利用いただけます。
+        </p>
+        <p class="list red">
+            ※9/7（水）の実装時点では、下記は提供キャラクターに含まれません。<br>
+            ・米良渕 花浪<br>
+            ・尾長 晶乃
+        </p>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-952" class="weighty-column">
 
             2022/08/10 21:30                            
@@ -847,14 +920,14 @@
             <div class="list">
                 ▶村尾 未羅の専用ボトムスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220713/bnr_l00_inf_407_13.jpg?v=1571">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220713/bnr_l00_inf_407_13.jpg?v=1572">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 村尾 未羅【至純】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/568?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_024_70/bnr_header.jpg?v=1571">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_024_70/bnr_header.jpg?v=1572">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1047,46 +1120,6 @@
             <p class="list red">
                 ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
             </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-929" class="weighty-column">
-
-            2022/06/29 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-929" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年06月29日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶かすみの専用ショットギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_29.jpg?v=1571">
-    
-            <div class="list">
-                ▶マリー・ローズの専用トップスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220629/bnr_l00_inf_406_30.jpg?v=1571">
-            
-            
         </div>
         
         <div>
