@@ -33,6 +33,59 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-959" class="weighty-column">
+
+            2022/08/29 19:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.56.0アプリにて、イベント「大ヒット御礼 ハーモナイザー オブリガーダ ～メイキング・オブ・メリスマ～」の一部任務が正しく開放されない            </div>
+
+        </div>
+        <div id="important-text-959" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年08月29日 19:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.56.0アプリにて、イベント「大ヒット御礼 ハーモナイザー オブリガーダ ～メイキング・オブ・メリスマ～」のシナリオ「Chap.4 永遠のカルテット」を初回クリア時に、以下の任務が正しく開放されない。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象任務】</p>
+                <div>
+                    ・チャレンジ任務：メスト編<br>
+                    ・チャレンジ任務：アリア編<br>
+                    ・チャレンジ任務：フェイク編<br>
+                    ・特別周回任務：NORMAL<br>
+                    ・特別周回任務：HARD<br>
+                    ・特別周回任務：V-HARD
+                </div>
+            </div>
+            <p class="list red">
+                ※Ver.1.56.0アプリへのアップデート前に、対象任務を開放しているお客様への影響はありません。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-956" class="weighty-column">
 
             2022/08/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1055,60 +1108,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-935" class="weighty-column">
-
-            2022/07/13 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-935" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年07月13日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・村尾 未羅
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-            <div class="list">
-                ▶村尾 未羅の専用ボトムスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220713/bnr_l00_inf_407_13.jpg?v=1577">
-    
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、<br>
-                村尾 未羅【至純】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/568?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_024_70/bnr_header.jpg?v=1577">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
