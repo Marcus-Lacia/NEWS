@@ -33,6 +33,77 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-956" class="weighty-column">
+
+            2022/08/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.56.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-956" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年08月29日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.56.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.56.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶「オプション」＞「実験的機能」に「横画面モード」の項目を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
+        </p>
+        <div class="list">
+            ▶Ver.1.54.0アプリより、特定条件を満たした際に、一部SPスキルの効果が正常に終了しないことがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・ラフストック<br>
+                ・玄天一流<br>
+                ・東雲式複合重火砲・丁<br>
+                ・破邪調伏の槌<br>
+                ・アムピトリーテー
+            </div>
+        </div>
+        <div class="list">
+            ▶「溜め撃ちでジャスト入力アクションを行う」ショットギアの溜め状態中に、実際の射程と異なる位置で「射程外」と表示されることがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、性能に変更はありません。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.56.0の配信に伴い、<span class="bold red">8/30（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-955" class="weighty-column">
 
             2022/08/26 15:00            
@@ -561,7 +632,11 @@
         
         <div id="important-column-945" class="weighty-column">
 
-            2022/07/29 19:45            
+            2022/07/29 19:45                            
+                <span class="bold">
+                                            (08/29 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.54.0アプリより、特定条件を満たした際に、一部SPスキルの効果が正常に終了しないことがある            </div>
@@ -570,6 +645,17 @@
         <div id="important-text-945" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年08月29日 14:00 追記<br>
+            本件につきまして、本日順次配信されましたVer1.56.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年07月29日 19:45<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1027,73 +1113,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-934" class="weighty-column">
-
-            2022/07/13 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-934" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年07月13日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶コスチュームやアクセサリーを入手した際に、対応する★1（コラボキャラの場合は★3）の無償キャラが自動的に加入するよう仕様を変更しました。
-        </div>
-        <div class="list">
-            ▶下記パッシブスキルに、「奇数エリア開始時に10秒間、SP獲得量が増加する」効果を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                ・突銃・迅速思考1<br>
-                ・双銃・迅速思考1<br>
-                ・狙撃・迅速思考1
-            </div>
-        </div>
-        <div class="list">
-            ▶ショットギア「ミスティックシューター」シリーズの装備中、特定攻撃時の「射程外」の表示が、実際の射程と異なる位置で表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶「DOAXVV」コラボ仕様のホーム画面にて、特定の時間帯に、アクセサリー「ホワイトクロス」の一部が光って見える問題を修正しました。
-        </div>
-        <div class="list">
-            ▶女天狗がドレッサー画面へ移動する際のモーションを調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
