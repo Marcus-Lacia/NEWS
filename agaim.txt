@@ -170,8 +170,7 @@
         
         <div id="important-column-960" class="weighty-column">
 
-            2022/08/30 16:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/08/30 16:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               撮影ルームに発生している不具合について            </div>
