@@ -260,7 +260,7 @@
         <div id="important-column-959" class="weighty-column">
 
             2022/08/29 19:40                            
-                <span class="red bold">
+                <span class="bold">
                                             (08/30 補填済)
                                     </span>
             
