@@ -85,7 +85,7 @@
         <div id="important-column-963" class="weighty-column">
 
             2022/08/31 17:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (08/31 補填済)
                                     </span>
             
@@ -153,7 +153,7 @@
         <div id="important-column-960" class="weighty-column">
 
             2022/08/30 16:15                            
-                <span class="red bold">
+                <span class="bold">
                                             (08/31 修正済)
                                     </span>
             
