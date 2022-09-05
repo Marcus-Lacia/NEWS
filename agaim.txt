@@ -61,7 +61,7 @@
         <div class="list">
             ・10月下旬予定
         </div>
-        <p class="bold">【対象のAndroid端末】</p>
+        <p class="bold">【対象の端末】</p>
         <div>
             ・iPhone 4S<br>
             ・iPhone 5<br>
