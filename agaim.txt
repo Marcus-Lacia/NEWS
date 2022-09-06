@@ -35,7 +35,10 @@
         
         <div id="important-column-965" class="weighty-column">
 
-            2022/09/05 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/09/05 18:00                            
+                <span class="red bold">
+                                            (09/06 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
@@ -69,9 +72,13 @@
             ・iPad 2<br>
             ・iPad（第3世代）<br>
             ・iPad（第4世代）<br>
-            ・iPad mini<br>
+            ・iPad mini<span class="red">（第1世代）</span><br>
             ・iPod touch（第5世代）
         </div>
+        <p class="list red">
+            ※9/6（火）12:20 追記<br>
+            対象となる「iPad mini」の詳細を追記しました。
+        </p>
         <div>
             10月下旬に予定しておりますアプリアップデート後より、対象端末ではゲームが起動できなくなります。
         </div>
