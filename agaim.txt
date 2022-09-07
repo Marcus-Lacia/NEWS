@@ -33,6 +33,57 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-968" class="weighty-column">
+
+            2022/09/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              服袋「体操着セレクト」の公開終了について            </div>
+
+        </div>
+        <div id="important-text-968" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年09月07日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            現在公開中の「体操着セレクト」につきまして、以下の日時に公開終了を予定しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【対象】</p>
+            <div>
+                ・服袋「体操着セレクト vol.1」<br>
+                ・服袋「体操着セレクト vol.2」<br>
+                ・服袋「体操着セレクト vol.3」<br>
+                ・服袋「体操着セレクト vol.4」<br>
+                ・服袋「体操着セレクト vol.5」<br>
+                ・服袋「体操着セレクト vol.6」<br>
+                ・服袋「体操着セレクト vol.7」
+            </div>
+            <p class="bold">【公開終了日時】</p>
+            <div>
+        	    ・10/7（金）14:59
+            </div>
+            <div class="list red">
+                ※公開終了日時以降は各種「体操着セレクト」をご利用いただけなくなります。
+            </div>
+            <div class="list red">
+                ※すでに入手済みのコスチュームは引き続きご利用いただけます。
+            </div>
+            <div class="list red">
+                ※再配信につきましては「未定」となっております。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
+        </div>
+    </div>        </div>
+        
         <div id="important-column-967" class="weighty-column">
 
             2022/09/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1178,48 +1229,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-948" class="weighty-column">
-
-            2022/08/09 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-948" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年08月09日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・萬場 盟華<br>
-                    ・ミア・V
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
