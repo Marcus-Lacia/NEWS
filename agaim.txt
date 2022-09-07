@@ -84,7 +84,7 @@
         <div id="important-column-965" class="weighty-column">
 
             2022/09/05 18:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (09/06 更新)
                                     </span>
             
