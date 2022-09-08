@@ -35,8 +35,7 @@
         
         <div id="important-column-968" class="weighty-column">
 
-            2022/09/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/09/07 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               服袋「体操着セレクト」の公開終了について            </div>
