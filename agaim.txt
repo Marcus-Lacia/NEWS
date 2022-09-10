@@ -35,8 +35,7 @@
         
         <div id="important-column-969" class="weighty-column">
 
-            2022/09/09 19:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/09/09 19:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部ギアスキルの「属性耐性ダウン効果」が、ギアを★4に進化した際に効果量が低下する            </div>
