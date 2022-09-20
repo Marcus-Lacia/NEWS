@@ -33,6 +33,70 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-973" class="weighty-column">
+
+            2022/09/20 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.57.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-973" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年09月20日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.57.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.57.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶コスチューム選択画面から、一部の未所持コスチュームの入手先へ遷移できる機能を追加しました。
+        </div>
+        <p class="list">
+            ※Ver.1.57.0アプリではカラットショップで販売中のコスチュームのみが対象となります。
+        </p>
+        <div class="list">
+            ▶村尾 未羅がコスチューム「メストスーツ」を着用中、コスチュームの一部がボトムスギアと干渉することがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶二子玉 舞の一部エピソードが正常に再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶キャラ一覧画面にて特定手順でキャラソートを行うと、再度キャラ一覧画面へ遷移した際に進行不能となる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶コ・モス撃破後に特定操作を行うと、時間経過による復活が行われなくなる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.57.0の配信に伴い、<span class="bold red">9/21（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-972" class="weighty-column">
 
             2022/09/17 15:00            
@@ -1143,78 +1207,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-953" class="weighty-column">
-
-            2022/08/24 21:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              「スタートダッシュスカウト」のリニューアルについて            </div>
-
-        </div>
-        <div id="important-text-953" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年08月24日 21:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        アカウント作成時から7日間限定で利用可能な「スタートダッシュスカウト」につきまして、以下のリニューアルを予定しておりますのでご案内いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【8/30（火）15:00 実施内容】</p>
-        
-        <div class="list">
-            ▶「スタートダッシュスカウト」利用時の消費カラット数を、以下に変更いたします。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                変更前：カラット380個<br>
-                変更後：<span class="red">カラット100個</span>
-            </div>
-        </div>
-        <div>
-            本リニューアルの記念としまして、<span class="red">8/30（火）15:00 以降にログインした時から7日間限定で、全てのお客様が「スタートダッシュスカウト」を1回限定でご利用いただけます。</span>
-        </div>
-        <p class="list">
-            ※過去に「スタートダッシュスカウト」を利用済みのお客様も、再度ご利用いただけます。
-        </p>
-        <div>
-            なお、「8/30（火）14:59 までにゲームを開始しており、アカウント作成から7日経過していない」お客様に限り、8/30（火）15:00 以降でも、「カラット数変更前のスタートダッシュスカウト」を引き続きご利用いただけます。
-        </div>
-        <p class="list red">
-            ※対象のお客様は「変更前」と「変更後」の2つの「スタートダッシュスカウト」が利用できる状態となりますので、ご利用の際は、消費カラット数をよくご確認ください。
-        </p>
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【9/7（水）15:00 実施内容】</p>
-        
-        <div class="list">
-            ▶新たに「スタートダッシュセレクトスカウト」を実装いたします。
-        </div>
-        <div>
-            「スタートダッシュセレクトスカウト」は、獲得したいノーマル★4キャラクターを選択できる、アカウント作成時から7日間限定で利用可能なスカウトです。<br>
-            本スカウトにつきましても、実装記念として、<span class="red">9/7（水）15:00 以降にログインした時から7日間限定で、全てのお客様がご利用いただけます。</span>
-        </div>
-
-        <p class="list red">
-            ※「カラット380個」で、1回限定でご利用いただけます。
-        </p>
-        <p class="list red">
-            ※9/7（水）の実装時点では、下記は提供キャラクターに含まれません。<br>
-            ・米良渕 花浪<br>
-            ・尾長 晶乃
-        </p>
     </div>
     
     <div>
