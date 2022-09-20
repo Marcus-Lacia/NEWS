@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-974" class="weighty-column">
+
+            2022/09/20 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.57.0アプリより、特定アイテムを所持していると、アイテム一覧画面で通信タイムアウトが発生する            </div>
+
+        </div>
+        <div id="important-text-974" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年09月20日 18:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.57.0アプリより、特定アイテムを所持していると、アイテム一覧画面で通信タイムアウトが発生する。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-973" class="weighty-column">
 
             2022/09/20 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -219,14 +258,14 @@
             <div class="list">
                 ▶相河 愛花の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1589">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1590">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 相河 愛花【仁愛】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/125?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1589">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1590">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1163,56 +1202,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-954" class="weighty-column">
-
-            2022/08/26 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-954" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年08月26日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶君影 唯のSPスキル「アウレア・アストレア」のフィニッシュムーブを特定状況で発動すると、演出の一部が正常に表示されないことがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に影響はありません。
-        </p>
-        <div class="list">
-            ▶ホーム画面で「琴村 天音」または「琴村 天音【玄天】」をタップしてカメラワークを切り替えた時に、台詞が正常に再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
