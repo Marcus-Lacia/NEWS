@@ -33,6 +33,61 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-976" class="weighty-column">
+
+            2022/09/21 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-976" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年09月21日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・伊戸倉 音緒
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            <div class="list">
+                ▶伊戸倉 音緒の専用トップスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220921/bnr_l00_inf_409_21.jpg?v=1592">
+    
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、<br>
+                伊戸倉 音緒【破手】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/586?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_055_70/bnr_header.jpg?v=1592">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-975" class="weighty-column">
 
             2022/09/21 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -349,14 +404,14 @@
             <div class="list">
                 ▶相河 愛花の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1591">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1592">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 相河 愛花【仁愛】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/125?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1591">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1592">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1190,76 +1245,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-956" class="weighty-column">
-
-            2022/08/29 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.56.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-956" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年08月29日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.56.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.56.0の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶「オプション」＞「実験的機能」に「横画面モード」の項目を追加しました。
-        </div>
-        <p class="list red">
-            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
-        </p>
-        <div class="list">
-            ▶Ver.1.54.0アプリより、特定条件を満たした際に、一部SPスキルの効果が正常に終了しないことがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・ラフストック<br>
-                ・玄天一流<br>
-                ・東雲式複合重火砲・丁<br>
-                ・破邪調伏の槌<br>
-                ・アムピトリーテー
-            </div>
-        </div>
-        <div class="list">
-            ▶「溜め撃ちでジャスト入力アクションを行う」ショットギアの溜め状態中に、実際の射程と異なる位置で「射程外」と表示されることがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの不具合となり、性能に変更はありません。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.56.0の配信に伴い、<span class="bold red">8/30（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
