@@ -33,6 +33,54 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-977" class="weighty-column">
+
+            2022/09/21 16:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ショットギア「フラワーヴァースA」シリーズにチューンスキル「射撃形態変更AA」を付与すると、一部射撃攻撃のSPゲージ上昇量が低くなる            </div>
+
+        </div>
+        <div id="important-text-977" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年09月21日 16:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶ショットギア「フラワーヴァースA」シリーズにチューンスキル「射撃形態変更AA」を付与すると、一部射撃攻撃のSPゲージ上昇量が低くなる。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ギア】</p>
+                <div>
+                    ・試作フラワーヴァーズA<br>
+                    ・試作フラワーヴァーズAMk2<br>
+                    ・試作フラワーヴァーズAMk3<br>
+                    ・フラワーヴァーズA
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-976" class="weighty-column">
 
             2022/09/21 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1196,61 +1244,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-957" class="weighty-column">
-
-            2022/08/30 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-957" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年08月30日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.56.0アプリにて、イベント「大ヒット御礼 ハーモナイザー オブリガーダ ～メイキング・オブ・メリスマ～」のシナリオ「Chap.4 永遠のカルテット」を初回クリア時に、以下の任務が正しく開放されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象任務】</p>
-            <div>
-                ・チャレンジ任務：メスト編<br>
-                ・チャレンジ任務：アリア編<br>
-                ・チャレンジ任務：フェイク編<br>
-                ・特別周回任務：NORMAL<br>
-                ・特別周回任務：HARD<br>
-                ・特別周回任務：V-HARD
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
