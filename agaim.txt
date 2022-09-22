@@ -74,8 +74,7 @@
         
         <div id="important-column-977" class="weighty-column">
 
-            2022/09/21 16:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/09/21 16:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ショットギア「フラワーヴァースA」シリーズにチューンスキル「射撃形態変更AA」を付与すると、一部射撃攻撃のSPゲージ上昇量が低くなる            </div>
