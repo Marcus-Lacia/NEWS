@@ -35,8 +35,7 @@
         
         <div id="important-column-978" class="weighty-column">
 
-            2022/09/21 19:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/09/21 19:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.57.0アプリより、伊戸倉 音緒のSPスキル「NEOエクスペリエンス」発動時のサウンドが再生されない            </div>
