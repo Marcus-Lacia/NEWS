@@ -155,14 +155,14 @@
             <div class="list">
                 ▶伊戸倉 音緒の専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220921/bnr_l00_inf_409_21.jpg?v=1592">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220921/bnr_l00_inf_409_21.jpg?v=1593">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 伊戸倉 音緒【破手】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/586?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_055_70/bnr_header.jpg?v=1592">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_055_70/bnr_header.jpg?v=1593">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -487,14 +487,14 @@
             <div class="list">
                 ▶相河 愛花の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1592">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1593">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 相河 愛花【仁愛】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/125?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1592">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1593">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
