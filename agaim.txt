@@ -135,8 +135,7 @@
         
         <div id="important-column-980" class="weighty-column">
 
-            2022/09/29 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/09/29 17:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               カラット販売価格と数量の改定について            </div>
