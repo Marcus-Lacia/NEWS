@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-987" class="weighty-column">
+
+            2022/10/06 20:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると発生する不具合について            </div>
+
+        </div>
+        <div id="important-text-987" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年10月06日 20:35<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると、画面の表示が崩れたり、画面遷移の際にアプリが強制終了することがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-980" class="weighty-column">
 
             2022/09/29 17:30                            
@@ -1148,69 +1187,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-964" class="weighty-column">
-
-            2022/09/01 16:40                            
-                <span class="bold">
-                                            (09/07 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベントギア「★3/帝国軍魔導具R」シリーズが、開発意図と異なり「電撃属性ギアを対象とするパッシブスキル」の影響を受けてしまう            </div>
-
-        </div>
-        <div id="important-text-964" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年09月7日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年09月01日 16:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶下記イベントギアが、開発意図と異なり「電撃属性ギアを対象とするパッシブスキル」の影響を受けてしまう。
-            </div>
-            <p class="list red">
-                ※「焼夷属性ギアを対象とするパッシブスキル」の影響を受けるのが、正しい挙動となります。
-            </p>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・★3/帝国軍魔導具R/T<br>
-                    ・★3/帝国軍魔導具R/B
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
