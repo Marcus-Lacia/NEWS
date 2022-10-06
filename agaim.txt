@@ -129,8 +129,7 @@
         
         <div id="important-column-984" class="weighty-column">
 
-            2022/10/05 10:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/10/05 10:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.58.0 配信のお知らせ            </div>
