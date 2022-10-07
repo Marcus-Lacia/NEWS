@@ -33,6 +33,54 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-988" class="weighty-column">
+
+            2022/10/07 20:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定キャラクターがコスチューム「チアガール/成子坂」着用中、一部の陰影表現が不自然な見た目になる            </div>
+
+        </div>
+        <div id="important-text-988" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年10月07日 20:35<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定キャラクターがコスチューム「チアガール/成子坂」着用中、一部の陰影表現が不自然な見た目になる。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・ファティマ・B<br>
+                    ・サンティ・R<br>
+                    ・ニーナ・K<br>
+                    ・ミア・V
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-985" class="weighty-column">
 
             2022/10/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1121,76 +1169,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
         </div>
     </div>        </div>
-        
-        <div id="important-column-967" class="weighty-column">
-
-            2022/09/07 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-967" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年09月07日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶撮影ルームにて一部撮影ミッションを行うと、通信タイムアウトが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記イベントギアが、開発意図と異なり「電撃属性ギアを対象とするパッシブスキル」の影響を受けてしまう不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※「焼夷属性ギアを対象とするパッシブスキル」の影響を受けるのが、正しい挙動となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/帝国軍魔導具R/T<br>
-                ・★3/帝国軍魔導具R/B
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ショットギアのアイコンが、実際のショットギアと異なる見た目になっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・「帝国軍魔導半自動小銃T」シリーズ<br>
-                ・「帝国軍魔導半自動小銃V」シリーズ
-            </div>
-        </div>
-        <div class="list">
-            ▶兼志谷 シタラがコスチューム「帝国軍一種礼装」を着用中、任務中及び3D MODEL画面にて、手や足の表示に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
