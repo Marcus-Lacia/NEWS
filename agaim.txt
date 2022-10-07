@@ -33,6 +33,69 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-985" class="weighty-column">
+
+            2022/10/07 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-985" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年10月07日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・AIT Ti2<br>
+                    ・AIT【イア・レトナ】<br>
+                    ・イブリー・ハッド
+                </div>
+            </div>
+            <p class="list red">
+                ※「AIT Ti2」と「AIT【イア・レトナ】」のエニグマは、共通の内容となります。
+            </p>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            
+            <div class="list">
+                ▶AITの専用ショットギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221007/bnr_l00_inf_410_07.jpg?v=1601">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221007/bnr_l00_inf_410_08.jpg?v=1601">
+            <div class="list">
+                ※各派生進化専用ギアは、「AIT Ti2」と「AIT【イア・レトナ】」のどちらにも装備させることができます。
+            </div>
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/593?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/221007/bnr_s00_inf_410_07.jpg?v=1601">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-986" class="weighty-column">
 
             2022/10/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -183,7 +246,7 @@
             
             <p class="bold">【改定内容】</p>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1600">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1601">
             <p class="list">
                 ※黄色部分が変更点となります。
             </p>
@@ -201,7 +264,7 @@
                     カラット販売価格にずれが生じた場合、実際にお支払いいただくのは<span class="bold red">App Store側で表示される販売価格</span>となりますので、カラットご購入の際は購入画面をよくご確認いただきますようお願い申し上げます。
                 </div>
                 
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1600">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1601">
                 <div>
                     本現象については、後日データ更新を実施し、正しい価格設定を適用いたします。
                 </div>
@@ -222,7 +285,7 @@
                 </p>
                 
                 
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1600">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1601">
                 <div>
                     なお、表示価格と購入金額のずれが、課金上限を設定されているお客様及び「使いすぎストッパー」を設定されているお客様に発生した場合、「月のご購入金額」カウントはアプリ内に表示された販売価格にてカウントされます、予めご了承ください。
                 </div>
@@ -262,7 +325,7 @@
         <p class="list">
             ※クオリアが不足している際は、解放可能な所までのセルを解放します。
         </p>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/221004/bnr_l00_inf_410_04.jpg?v=1600">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/221004/bnr_l00_inf_410_04.jpg?v=1601">
         <div class="list">
             ▶Ver.1.57.0アプリより、伊戸倉 音緒のSPスキル「NEOエクスペリエンス」発動時のサウンドが再生されない不具合を修正しました。
         </div>
@@ -395,7 +458,7 @@
                 </div>
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/info_01.jpg?v=1600">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/info_01.jpg?v=1601">
             </div>
         </div>
         <div>
@@ -590,14 +653,14 @@
             <div class="list">
                 ▶伊戸倉 音緒の専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220921/bnr_l00_inf_409_21.jpg?v=1600">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220921/bnr_l00_inf_409_21.jpg?v=1601">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 伊戸倉 音緒【破手】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/586?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_055_70/bnr_header.jpg?v=1600">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_055_70/bnr_header.jpg?v=1601">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -922,14 +985,14 @@
             <div class="list">
                 ▶相河 愛花の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1600">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1601">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 相河 愛花【仁愛】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/125?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1600">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1601">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1128,68 +1191,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-966" class="weighty-column">
-
-            2022/09/06 15:20                            
-                <span class="bold">
-                                            (09/07 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              撮影ルームにて一部撮影ミッションを行うと、通信タイムアウトが発生する            </div>
-
-        </div>
-        <div id="important-text-966" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年09月7日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年09月06日 15:20<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶撮影ルームにて一部撮影ミッションを行うと、通信タイムアウトが発生する。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ミッション】</p>
-                <div>
-                    ・PUCK UPアクトレス/難<br>
-                    ・月刊アクトレス/難<br>
-                    ・ある部屋からの脱出/難<br>
-                    ・ハロウィン/難
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
