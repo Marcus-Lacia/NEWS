@@ -33,9 +33,66 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-986" class="weighty-column">
+
+            2022/10/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-986" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年10月07日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶AIT専用ギア各種の、3Dモデルの一部陰影表現をブラッシュアップしました。
+        </div>
+        <div class="list">
+            ▶尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると、画面の表示が崩れたり、画面遷移の際にアプリが強制終了することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶蛙坂 来弥がアクセサリー「作業用ヘルメット」を着用している時の、ポニーテールの位置を微調整しました。
+        </div>
+        <div class="list">
+            ▶米良渕 花浪のキャラエピソードEp3-2の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-987" class="weighty-column">
 
-            2022/10/06 20:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/10/06 20:35                            
+                <span class="red bold">
+                                            (10/07 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +102,17 @@
         <div id="important-text-987" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年10月07日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年10月06日 20:35<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1122,71 +1190,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-965" class="weighty-column">
-
-            2022/09/05 18:00                            
-                <span class="bold">
-                                            (09/06 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              一部iOS端末の非対応化について            </div>
-
-        </div>
-        <div id="important-text-965" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年09月05日 18:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        新機能の実装や機能拡張など、今後も安定したサービスを継続して提供していくために、一部のiOS端末が非対応となりますので、以下の通りご案内させていただきます。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【アップデート時期】</p>
-        
-        <div class="list">
-            ・10月下旬予定
-        </div>
-        <p class="bold">【対象の端末】</p>
-        <div>
-            ・iPhone 4S<br>
-            ・iPhone 5<br>
-            ・iPhone 5c<br>
-            ・iPad 2<br>
-            ・iPad（第3世代）<br>
-            ・iPad（第4世代）<br>
-            ・iPad mini<span class="red">（第1世代）</span><br>
-            ・iPod touch（第5世代）
-        </div>
-        <p class="list red">
-            ※9/6（火）12:20 追記<br>
-            対象となる「iPad mini」の詳細を追記しました。
-        </p>
-        <div>
-            10月下旬に予定しておりますアプリアップデート後より、対象端末ではゲームが起動できなくなります。
-        </div>
-        <div>
-            なお、メニュー＞オプション＞アカウント設定 より引き継ぎ設定を行うことで、他の端末から端末から同じセーブデータをご利用できます。
-            <p class="list">
-                ※引き継ぎ設定の手順につきましては、<a href="/help/show/id/12?returnUrl=back" class="bold navy"><u>ヘルプページ</u></a>をご確認ください。
-            </p>
-        </div>
-    </div>
-    <div>
-        お客様にはご不便をおかけいたしますが、何卒、ご理解ならびにご協力をお願い申し上げます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
