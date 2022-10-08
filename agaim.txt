@@ -35,8 +35,7 @@
         
         <div id="important-column-988" class="weighty-column">
 
-            2022/10/07 20:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/10/07 20:35            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定キャラクターがコスチューム「チアガール/成子坂」着用中、一部の陰影表現が不自然な見た目になる            </div>
