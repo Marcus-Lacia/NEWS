@@ -33,6 +33,77 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-986" class="weighty-column">
+
+            2022/10/07 14:00                            
+                <span class="red bold">
+                                            (10/12 更新)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-986" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年10月07日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <p class="list red">
+            ※10/12（水）14:30 追記<br>
+            本データ更新にて、以下の不具合も修正されていることを確認しております。
+        </p>
+        <div class="list">
+            ▶ミッションビンゴの「ケルベロス種を5体撃破する（一部特殊任務を除く）」のカウントが、「AEGiS 戦闘教練」に出現する「ケルベロス/TTG」の撃破時にも進行してしまう不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※「AEGiS 戦闘教練」に出現する大型ヴァイスを撃破しても、ミッションビンゴのカウントが進行しないのが正しい挙動となりますので、ご了承ください。
+        </p>
+        
+        
+        <hr class="red">
+        
+        <div class="list">
+            ▶AIT専用ギア各種の、3Dモデルの一部陰影表現をブラッシュアップしました。
+        </div>
+        <div class="list">
+            ▶尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると、画面の表示が崩れたり、画面遷移の際にアプリが強制終了することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶蛙坂 来弥がアクセサリー「作業用ヘルメット」を着用している時の、ポニーテールの位置を微調整しました。
+        </div>
+        <div class="list">
+            ▶米良渕 花浪のキャラエピソードEp3-2の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-990" class="weighty-column">
 
             2022/10/11 17:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -374,59 +445,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-986" class="weighty-column">
-
-            2022/10/07 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-986" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年10月07日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶AIT専用ギア各種の、3Dモデルの一部陰影表現をブラッシュアップしました。
-        </div>
-        <div class="list">
-            ▶尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると、画面の表示が崩れたり、画面遷移の際にアプリが強制終了することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶蛙坂 来弥がアクセサリー「作業用ヘルメット」を着用している時の、ポニーテールの位置を微調整しました。
-        </div>
-        <div class="list">
-            ▶米良渕 花浪のキャラエピソードEp3-2の、一部誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
         <div id="important-column-987" class="weighty-column">
 
