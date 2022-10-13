@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-991" class="weighty-column">
+
+            2022/10/13 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-991" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年10月13日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・金潟 すぐみ<br>
+                    ・新居目 安里
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-986" class="weighty-column">
 
             2022/10/07 14:00                            
@@ -1139,63 +1182,6 @@
             <p class="list red">
                 ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
             </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-970" class="weighty-column">
-
-            2022/09/13 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-970" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年09月13日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・小芦 睦海
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-            <p class="list red">
-                ※「相河 愛花」と「一条 綾香」のエニグマに関しても、近日実装を予定しております。
-            </p>
-            <div class="list">
-                ▶相河 愛花の専用クロスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220913/bnr_l00_inf_409_13.jpg?v=1604">
-    
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、<br>
-                相河 愛花【仁愛】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/125?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_009_70/bnr_header.jpg?v=1604">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
         </div>
         
         <div>
