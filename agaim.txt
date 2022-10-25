@@ -35,8 +35,7 @@
         
         <div id="important-column-997" class="weighty-column">
 
-            2022/10/24 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/10/24 20:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イブリー・ハッドのエニグマで修得可能なパッシブスキル「五感覚醒【近接】1」の一部効果が正しく適用されない            </div>
