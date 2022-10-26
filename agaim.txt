@@ -33,6 +33,209 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-998" class="weighty-column">
+
+            2022/10/26 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.59.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-998" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年10月26日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.59.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.59.0の更新内容】</p>
+        
+        <div class="hide_DMM">
+            <div class="list">
+                ▶「オプション」＞「実験的機能」に「ゲームパッド対応」の項目を追加しました。
+            </div>
+            <p class="list red">
+                ※一部のBluetooth対応ゲームパッドを端末にペアリングすることでご利用いただけます。
+            </p>
+            <p class="list red">
+                ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
+            </p>
+        </div>
+        <div class="list">
+            ▶「カラットショップ ハロウィンコス」にて、コスチューム選択中のキャラクターのモーションやカメラワークを調整しました。
+        </div>
+        <div class="list">
+            ▶「解析でんちクエスト V-HARD」の、敵の出現位置を微調整しました。
+        </div>
+        <p class="list red">
+            ※任務を遊びやすくするための調整となり、難度に変更はございません。
+        </p>
+        <div class="list">
+            ▶クロスギア「FSHB-001 DSW」シリーズを装備中、特定の状況で、近接攻撃2段目の踏み込み動作が正しく行われないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記クロスギア装備中に特定の攻撃を行うと、クロスギアの表示位置がずれることがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・「ブラストストライク」シリーズ<br>
+                ・「ブレイクストライク」シリーズ<br>
+                ・「ブレイクハンマーA」シリーズ
+            </div>
+        </div>
+        <div class="list">
+            ▶一部SPスキル演出のエフェクトが、正しく表示されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・ヨモツヘグイ<br>
+                ・アンナズリポート<br>
+                ・サテライトピジョン
+            </div>
+        </div>
+        <div class="list">
+            ▶イブリー・ハッドのSPスキル「F.N.クレイモア」のフィニッシュブロー演出中、演出意図と異なる位置にピジョンが表示されることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ストリック特異型が特定のレーザー攻撃を行う際に、予測線が表示されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶オベリスクのサブコアを破壊していないにも関わらず、特定の状況で、本体をロックオンできてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ガーデンのシールドスプラウト（蕾型）が、ロックオンしていない状態でも反撃を行ってくる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「ダライアスバーストCSコア 導きの銀翼 EXTRA」にて、特定のデンジャーへクスで再生される楽曲タイトルの誤字を修正しました。
+        </div>
+        <div class="show_only_iOS">
+            <div class="list ">
+                ▶一部iOS端末の非対応化を行いました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象端末】</p>
+                <div>
+                    ・iPhone 4S<br>
+                    ・iPhone 5<br>
+                    ・iPhone 5c<br>
+                    ・iPad 2<br>
+                    ・iPad（第3世代）<br>
+                    ・iPad（第4世代）<br>
+                    ・iPad mini（第1世代）<br>
+                    ・iPod touch（第5世代）
+                </div>
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.59.0の配信に伴い、<span class="bold red">10/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-965" class="weighty-column">
+
+            2022/09/05 18:00                            
+                <span class="red bold">
+                                            (10/26 実施済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              一部iOS端末の非対応化について            </div>
+
+        </div>
+        <div id="important-text-965" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年10月26日 14:05 追記<br>
+        対象iOS端末の非対応化を、本日より順次配信されているVer.1.59.0アプリより実施いたしました。
+    </div>
+    <div>
+        本アプリのアップデート後より、対象端末ではゲームが起動できなくなりますのでご注意ください。
+    </div>
+    <p class="list red">
+        ※10/27（木）14:00頃を目途に強制アップデートを実施いたします。
+    </p>
+    
+    
+    <hr class="red">
+    
+    <div>
+        ■2022年09月05日 18:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        新機能の実装や機能拡張など、今後も安定したサービスを継続して提供していくために、一部のiOS端末が非対応となりますので、以下の通りご案内させていただきます。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【アップデート時期】</p>
+        
+        <div class="list">
+            ・10月下旬予定
+        </div>
+        <p class="bold">【対象の端末】</p>
+        <div>
+            ・iPhone 4S<br>
+            ・iPhone 5<br>
+            ・iPhone 5c<br>
+            ・iPad 2<br>
+            ・iPad（第3世代）<br>
+            ・iPad（第4世代）<br>
+            ・iPad mini<span class="red">（第1世代）</span><br>
+            ・iPod touch（第5世代）
+        </div>
+        <p class="list red">
+            ※9/6（火）12:20 追記<br>
+            対象となる「iPad mini」の詳細を追記しました。
+        </p>
+        <div>
+            10月下旬に予定しておりますアプリアップデート後より、対象端末ではゲームが起動できなくなります。
+        </div>
+        <div>
+            なお、メニュー＞オプション＞アカウント設定 より引き継ぎ設定を行うことで、他の端末から端末から同じセーブデータをご利用できます。
+            <p class="list">
+                ※引き継ぎ設定の手順につきましては、<a href="/help/show/id/12?returnUrl=back" class="bold navy"><u>ヘルプページ</u></a>をご確認ください。
+            </p>
+        </div>
+    </div>
+    <div>
+        お客様にはご不便をおかけいたしますが、何卒、ご理解ならびにご協力をお願い申し上げます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-997" class="weighty-column">
 
             2022/10/24 20:00            
@@ -1087,121 +1290,6 @@
             </p>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-978" class="weighty-column">
-
-            2022/09/21 19:10                            
-                <span class="bold">
-                                            (10/05 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.57.0アプリより、伊戸倉 音緒のSPスキル「NEOエクスペリエンス」発動時のサウンドが再生されない            </div>
-
-        </div>
-        <div id="important-text-978" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年10月05日 10:40 追記<br>
-            本件につきまして、順次配信されましたVer1.58.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年09月21日 19:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.57.0アプリより、伊戸倉 音緒のSPスキル「NEOエクスペリエンス」発動時のサウンドが再生されない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-977" class="weighty-column">
-
-            2022/09/21 16:00                            
-                <span class="bold">
-                                            (10/18 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ショットギア「フラワーヴァースA」シリーズにチューンスキル「射撃形態変更AA」を付与すると、一部射撃攻撃のSPゲージ上昇量が低くなる            </div>
-
-        </div>
-        <div id="important-text-977" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年10月18日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年09月21日 16:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶ショットギア「フラワーヴァースA」シリーズにチューンスキル「射撃形態変更AA」を付与すると、一部射撃攻撃のSPゲージ上昇量が低くなる。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・試作フラワーヴァーズA<br>
-                    ・試作フラワーヴァーズAMk2<br>
-                    ・試作フラワーヴァーズAMk3<br>
-                    ・フラワーヴァーズA
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
