@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-999" class="weighty-column">
+
+            2022/10/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-999" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年10月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶イブリー・ハッドのエニグマで修得可能なパッシブスキル「五感覚醒【近接】1」の、「ダメージへの耐性を得る」効果が正しく適用されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1001" class="weighty-column">
 
             2022/10/27 13:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -277,7 +322,11 @@
         
         <div id="important-column-997" class="weighty-column">
 
-            2022/10/24 20:00            
+            2022/10/24 20:00                            
+                <span class="bold">
+                                            (10/27 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イブリー・ハッドのエニグマで修得可能なパッシブスキル「五感覚醒【近接】1」の一部効果が正しく適用されない            </div>
@@ -286,6 +335,17 @@
         <div id="important-text-997" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年10月27日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年10月24日 20:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1228,63 +1288,6 @@
             </p>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-981" class="weighty-column">
-
-            2022/09/29 21:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              定期要撃任務をクリアしても、「ミッションビンゴ」のマルチ任務クリアとしてカウントされない            </div>
-
-        </div>
-        <div id="important-text-981" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年09月29日 21:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶定期要撃任務をクリアしても、「ミッションビンゴ」のマルチ任務クリアとしてカウントされない。
-            </div>
-            <div>
-                なお、曜日毎のマルチ任務に関しては正しくカウントされることを確認しております。<br>
-                ミッションビンゴをご利用の際は、カウント対象となる任務をプレイしていただけますようお願い申し上げます。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【カウント対象任務】</p>
-                <div>
-                    ・「SUNDAY」各種任務<br>
-                    ・「MONDAY」各種任務<br>
-                    ・「TUESDAY」各種任務<br>
-                    ・「WEDNESDAY」各種任務<br>
-                    ・「THURSDAY」各種任務<br>
-                    ・「FRIDAY」各種任務<br>
-                    ・「SATURDAY」各種任務
-                </div>
-            </div>
-            <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/info_01.jpg?v=1612">
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
