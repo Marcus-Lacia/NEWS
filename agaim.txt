@@ -137,8 +137,7 @@
         
         <div id="important-column-1001" class="weighty-column">
 
-            2022/10/27 13:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/10/27 13:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.59.0アプリより、ドレッサー画面でミア・Vの特定部位をタップした際のリアクションが、開発意図と異なるモーションになっている            </div>
