@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1003" class="weighty-column">
+
+            2022/11/02 19:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              天狐 天のSPスキル「祭朱砲筒【大輪】」発動中のトップススキルについて            </div>
+
+        </div>
+        <div id="important-text-1003" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年11月02日 19:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、天狐 天のSPスキル「祭朱砲筒【大輪】」発動中、トップススキルの性能が上書きされた際に、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶画面内に敵が存在しない状態でトップススキルボタンを押すと、スキルが正常に発動せず、一定時間操作不能になる。
+            </div>
+            <p class="list red">
+                ※当該SPスキル発動中のトップススキルボタンは、画面内に敵が存在しない状態では押せないのが正しい挙動となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-990" class="weighty-column">
 
             2022/10/11 17:45                            
@@ -1248,59 +1290,6 @@
             </a>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-987" class="weighty-column">
-
-            2022/10/06 20:35                            
-                <span class="bold">
-                                            (10/07 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると発生する不具合について            </div>
-
-        </div>
-        <div id="important-text-987" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年10月07日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年10月06日 20:35<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶尾長 晶乃がコスチューム「AEGiS第2種夏服」着用時にホーム画面へ配置すると、画面の表示が崩れたり、画面遷移の際にアプリが強制終了することがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
