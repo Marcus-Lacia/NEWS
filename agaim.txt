@@ -35,8 +35,7 @@
         
         <div id="important-column-1003" class="weighty-column">
 
-            2022/11/02 19:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/11/02 19:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               天狐 天のSPスキル「祭朱砲筒【大輪】」発動中のトップススキルについて            </div>
