@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1008" class="weighty-column">
+
+            2022/11/10 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1008" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年11月10日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶ミア・Vの専用ショットギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221110/bnr_l00_inf_411_10.jpg?v=1626">
+    
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、<br>
+                ミア【恭敬】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/599?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_035_70/bnr_header.jpg?v=1626">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1007" class="weighty-column">
 
             2022/11/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -409,14 +452,14 @@
             <div class="list">
                 ▶天狐 天の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/221027/bnr_l00_inf_410_27.jpg?v=1624">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221027/bnr_l00_inf_410_27.jpg?v=1626">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 天狐 天【御侠】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/596?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_043_70/bnr_header.jpg?v=1624">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_043_70/bnr_header.jpg?v=1626">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1171,98 +1214,6 @@
         	▶その他、軽微な不具合を修正しました。
         </div>
     </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-989" class="weighty-column">
-
-            2022/10/11 14:35                            
-                <span class="bold">
-                                            (10/11 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-989" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年10月11日 14:35<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の変更を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶Apple社の価格設定の変更を確認したため、iOS版のカラット販売価格及び数量を改定しました。
-        </div>
-        
-        
-        <div class="show_only_iOS">
-            <p class="bold">【iOS版に関するご注意】</p>
-            <div>
-                Apple社の販売価格設定の変更が反映されてから、本データ更新実施前までにカラットをご購入いただいている場合、アプリ内の表示価格と、実際にお支払いいただいた金額にずれが生じていた可能性がございます。
-            </div>
-            <div>
-                上記現象が発生したお客様につきましては「Apple社から送信される領収書メールのスクリーンショット」を専用のお問い合わせ窓口宛にお送りいただくことで、購入した商品に応じて、追加のカラットを後日お送りさせていただきます。
-            </div>
-            
-            <div class="bold">
-                <div class="mailto" data-address="alice_tier@colopl.jp" data-subject="アリス・ギア・アイギス iOS版価格改定に関するお問い合わせ" data-body="">
-                    ・iOS版価格改定専用 お問い合わせ窓口はコチラ
-                </div>
-            </div>
-            <p class="list">
-                ※タップするとメールアプリが起動します。
-            </p>
-            <p class="list">
-                ※件名は変更せずに送信してください。
-            </p>
-            
-            
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1624">
-            <div>
-                なお、表示価格と購入金額のずれが、課金上限を設定されているお客様及び「使いすぎストッパー」を設定されているお客様に発生した場合、「月のご購入金額」カウントはアプリ内に表示された販売価格にてカウントされます、予めご了承ください。
-            </div>
-        </div>
-    </div>
-    
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                10/11（火）14:30 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                10/25（火）23:59 まで
-            </div>
-        </div>
-    </div>
-    
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
