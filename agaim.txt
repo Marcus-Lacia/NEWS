@@ -33,6 +33,66 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1007" class="weighty-column">
+
+            2022/11/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1007" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年11月10日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+            <div class="list">
+                ▶ヘルプ＞誕生日リストにキャラクターを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・11/11 尾長 晶乃
+                </div>
+            </div>
+        <div class="list">
+            ▶天狐 天のコスチューム「ヨミヤ」の、一部装飾の色味を微調整しました。
+        </div>
+        <div class="list">
+            ▶天狐 天のSPスキル「祭朱砲筒【大輪】」発動中、画面内に敵が存在しない状態でトップススキルボタンを押すと、スキルが正常に発動せず、一定時間操作不能になる不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※当該SPスキル発動中のトップススキルボタンは、画面内に敵が存在しない状態では押せないのが正しい挙動となります。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1005" class="weighty-column">
 
             2022/11/09 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -149,7 +209,11 @@
         
         <div id="important-column-1003" class="weighty-column">
 
-            2022/11/02 19:40            
+            2022/11/02 19:40                            
+                <span class="bold">
+                                            (11/10 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               天狐 天のSPスキル「祭朱砲筒【大輪】」発動中のトップススキルについて            </div>
@@ -158,6 +222,17 @@
         <div id="important-text-1003" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年11月10日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年11月02日 19:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1196,108 +1271,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-980" class="weighty-column">
-
-            2022/09/29 17:30                            
-                <span class="bold">
-                                            (10/11 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              カラット販売価格と数量の改定について            </div>
-
-        </div>
-        <div id="important-text-980" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年10月11日 14:35 追記<br>
-            Apple社の価格設定の変更を確認したため、本日14:30 にデータ更新を実施し、iOS版のカラット販売価格及び数量の改定をいたしましたので、ご報告申し上げます。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年10月05日 15:00 追記<br>
-            本日15:00 に、Android/PC版のカラット販売価格及び数量の改定をいたしましたので、ご報告申し上げます。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年09月29日 17:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            Apple社による販売価格設定の変更に伴い、iOS/Android/PC版それぞれのカラット販売価格及び数量を、以下の通り改定いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【改定日時】</p>
-            
-            <div class="list">
-                ・Android/PC版：10/5（水）15:00 （日本時間）
-            </div>
-            <p class="list red">
-                ※iOS版は、Apple社の販売価格設定が変更され次第、適宜反映されます。
-            </p>
-            
-            <p class="bold">【改定内容】</p>
-            
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1623">
-            <p class="list">
-                ※黄色部分が変更点となります。
-            </p>
-            <p class="list">
-                ※おまけのカラットとアイテムは無償アイテムとなります。
-            </p>
-            
-            
-            <div class="show_only_iOS">
-                <p class="bold">【iOS版に関するご注意】</p>
-                <div>
-                    Apple社の販売価格設定の変更が反映されると、一時的にアプリ内とApp Store側のカラット販売価格の表示にずれが生じる場合がございます。
-                </div>
-                <div>
-                    カラット販売価格にずれが生じた場合、実際にお支払いいただくのは<span class="bold red">App Store側で表示される販売価格</span>となりますので、カラットご購入の際は購入画面をよくご確認いただきますようお願い申し上げます。
-                </div>
-                
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1623">
-                <div>
-                    本現象については、後日データ更新を実施し、正しい価格設定を適用いたします。
-                </div>
-                <div>
-                    なお、データ更新の実施前にアプリ内の表示価格と、実際にお支払いいただいた金額にずれが発生したお客様につきましては「Apple社から送信される領収書メールのスクリーンショット」を専用のお問い合わせ窓口宛にお送りいただくことで、購入した商品に応じて、追加のカラットを後日お送りさせていただきます。
-                </div>
-                
-                <div class="bold">
-                    <div class="mailto" data-address="alice_tier@colopl.jp" data-subject="アリス・ギア・アイギス iOS版価格改定に関するお問い合わせ" data-body="">
-                        ・iOS版価格改定専用 お問い合わせ窓口はコチラ
-                    </div>
-                </div>
-                <p class="list">
-                    ※タップするとメールアプリが起動します。
-                </p>
-                <p class="list">
-                    ※件名は変更せずに送信してください。
-                </p>
-                
-                
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1623">
-                <div>
-                    なお、表示価格と購入金額のずれが、課金上限を設定されているお客様及び「使いすぎストッパー」を設定されているお客様に発生した場合、「月のご購入金額」カウントはアプリ内に表示された販売価格にてカウントされます、予めご了承ください。
-                </div>
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
