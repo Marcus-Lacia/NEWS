@@ -397,7 +397,11 @@
         
         <div id="important-column-1001" class="weighty-column">
 
-            2022/10/27 13:20            
+            2022/10/27 13:20                            
+                <span class="bold">
+                                            (11/10 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.59.0アプリより、ドレッサー画面でミア・Vの特定部位をタップした際のリアクションが、開発意図と異なるモーションになっている            </div>
@@ -406,6 +410,17 @@
         <div id="important-text-1001" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年11月10日 11:20 追記<br>
+            本件につきまして、順次配信されましたVer1.59.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年10月27日 13:20<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
