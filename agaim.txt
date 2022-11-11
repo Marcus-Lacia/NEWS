@@ -33,9 +33,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1010" class="weighty-column">
+
+            2022/11/11 11:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.59.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1010" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年11月11日 11:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.59.2のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.59.2の更新内容】</p>
+        
+        <div class="list">
+            ▶イベント「ミアと魔法のお菓子」にて、特定状況で「料理作成」を押すと、エラーが発生することがある不具合を修正しました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.59.2の配信に伴い、<span class="bold red">11/11（金）19:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1009" class="weighty-column">
 
-            2022/11/10 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2022/11/10 18:00                            
+                <span class="red bold">
+                                            (11/11 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +88,17 @@
         <div id="important-text-1009" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年11月11日 11:05 追記<br>
+            本件につきまして、順次配信されましたVer1.59.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年11月10日 18:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1144,48 +1198,6 @@
                     各プレゼントが既に受取箱へ送られている場合、受取期限は、10/24（月）14:59 から変更されませんのでご注意ください。
                 </p>
             </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-991" class="weighty-column">
-
-            2022/10/13 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-991" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年10月13日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・金潟 すぐみ<br>
-                    ・新居目 安里
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
         </div>
         
         <div>
