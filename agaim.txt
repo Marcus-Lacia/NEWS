@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1011" class="weighty-column">
+
+            2022/11/14 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1011" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年11月14日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・ニーナ・K<br>
+                    ・王 紅花
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1010" class="weighty-column">
 
             2022/11/11 11:05            
@@ -153,14 +196,14 @@
             <div class="list">
                 ▶ミア・Vの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/221110/bnr_l00_inf_411_10.jpg?v=1627">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221110/bnr_l00_inf_411_10.jpg?v=1628">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 ミア【恭敬】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/599?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_035_70/bnr_header.jpg?v=1627">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_035_70/bnr_header.jpg?v=1628">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -544,14 +587,14 @@
             <div class="list">
                 ▶天狐 天の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/221027/bnr_l00_inf_410_27.jpg?v=1627">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221027/bnr_l00_inf_410_27.jpg?v=1628">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 天狐 天【御侠】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/596?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_043_70/bnr_header.jpg?v=1627">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_043_70/bnr_header.jpg?v=1628">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1144,63 +1187,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-992" class="weighty-column">
-
-            2022/10/17 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              「ダライアスバーストCSコア」コラボイベントの期間延長について            </div>
-
-        </div>
-        <div id="important-text-992" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年10月17日 14:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            現在開催中の「ダライアスバーストCSコア」コラボイベントについて、ご好評につき、開催期間を下記の通りに延長いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【期間】</p>
-            
-            <div>
-                変更前：10/24（月）14:59 まで<br>
-                <span class="bold">変更後：10/31（月）14:59 まで</span>
-            </div>
-            <p class="bold">【延長対象】</p>
-            <div>
-                <span class="bold">■イベント</span><br>
-                <p class="list">・コラボイベント「導きの銀翼 EXTRA」</p>
-                <p class="list">・撮影ルーム コラボ背景&amp;フォトフレーム</p>
-                <p class="list red">
-                    ※イベント特設交換所の開催は、<br>11/7（月）14:59 までとなります。
-                </p>
-            </div>
-            <div>
-                <span class="bold">■スカウト</span><br>
-                <p class="list">・シングルピックアップ「イブリー・ハッド」</p>
-                <p class="list">・ダブルピックアップ「AIT Ti2＆AIT【イア・レトナ】」</p>
-            </div>
-            <div>
-                <span class="bold">■キャンペーン</span><br>
-                <p class="list">・コラボ記念★3キャラプレゼント「AIT Ti2&amp;イブリー・ハッド」</p>
-                <p class="list">・コラボキャラ用ハロウィンアクセプレゼント</p>
-                <p class="list">・「ダライアスコラボ復刻開催！ PVRTキャンペーン」ゲーム内プレゼント</p>
-                <p class="list red">
-                    ※各キャンペーンのプレゼントについて<br>
-                    各プレゼントが既に受取箱へ送られている場合、受取期限は、10/24（月）14:59 から変更されませんのでご注意ください。
-                </p>
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
