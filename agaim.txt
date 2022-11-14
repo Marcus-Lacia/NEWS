@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1012" class="weighty-column">
+
+            2022/11/14 17:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「王 紅花【紅蓮】トライアル任務」にて食材が入手できない            </div>
+
+        </div>
+        <div id="important-text-1012" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年11月14日 17:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「王 紅花【紅蓮】トライアル任務」にて食材が入手できない。
+            </div>
+            <p class="list red">
+                ※「食材」は、イベント「ミアと魔法のお菓子」の開催期間中に任務をクリアすることで入手可能なアイテムです。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1011" class="weighty-column">
 
             2022/11/14 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1078,115 +1120,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-993" class="weighty-column">
-
-            2022/10/18 14:00                            
-                <span class="bold">
-                                            (11/01 追記)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-993" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年10月18日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ドレッサー画面でコスチューム「生贄の聖衣」を着用した時、及びキャラクターをタップした時の新規モーションを追加しました。
-        </div>
-        <p class="list red">
-            ※特定アクセサリーと組み合わせて着用すると、新規モーションが再生されない場合があります。
-        </p>
-        <div class="list">
-            ▶ショットギア「フラワーヴァースA」シリーズにチューンスキル「射撃形態変更AA」を付与すると、一部射撃攻撃のSPゲージ上昇量が低くなる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・試作フラワーヴァーズA<br>
-                ・試作フラワーヴァーズAMk2<br>
-                ・試作フラワーヴァーズAMk3<br>
-                ・フラワーヴァーズA
-            </div>
-        </div>
-        <div class="list">
-            ▶特定キャラクターがコスチューム「チアガール/成子坂」着用中、一部の陰影表現が不自然な見た目になる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・ファティマ・B<br>
-                ・サンティ・R<br>
-                ・ニーナ・K<br>
-                ・ミア・V
-            </div>
-        </div>
-        <div class="list">
-            ▶10/7（金）15:00 のエニグマ実装以降、AIT【イア・レトナ】のスキルスロット9のパッシブスキル「冷撃弾倉追加/T」が、「焼夷弾倉追加/T」に変化している不具合を修正しました。
-        </div>
-        <p class="list red">
-            <s>※本修正以降に新規加入したAIT【イア・レトナ】は、正しいパッシブスキルが適用されます。<br>
-            既に加入済みのAIT【イア・レトナ】につきましては、後日、正しいパッシブスキルに戻す対応を予定しております。</s>
-        </p>
-        <p class="list red">
-            ※11/1（火）18:55 追記<br>
-            既に済みのAIT【イア・レトナ】のパッシブスキルを、正しい状態に戻す対応が完了しました。<br>
-            本対応は、再度ログインしていただくことで反映されます。
-        </p>
-        <div class="list">
-            ▶AIT Ti2がパッシブスキル「ADDブラスト2S1」を装着した状態で、ギアスキル「FIXEDニア2S」を発動すると、パッシブスキルによる追加射撃の色が開発意図と異なっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶イベント「ダライアスバーストCSコア 導きの銀翼 EXTRA」にて、特定のデンジャーへクスで流れる楽曲タイトルの誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.58.0アプリより、メインストーリーの特定シナリオに登場するキャラクターのモーションが、開発意図と異なる動きに変わっていた不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象シナリオ】</p>
-            <div>
-                ・躍進編 64<br>
-                ・躍進編 65<br>
-                ・躍進編 69<br>
-                ・躍進編 142<br>
-                ・陰謀編 187
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
