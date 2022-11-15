@@ -35,8 +35,7 @@
         
         <div id="important-column-1012" class="weighty-column">
 
-            2022/11/14 17:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/11/14 17:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「王 紅花【紅蓮】トライアル任務」にて食材が入手できない            </div>
