@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1013" class="weighty-column">
+
+            2022/11/15 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              王 紅花のSPスキル「絶招【疾歩双焔掌】」に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1013" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年11月15日 19:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶王 紅花のSPスキル「絶招【疾歩双焔掌】」で放つ火球が、リムルインバスの防護障壁（カウンターバリア）に反射されてしまう。
+            </div>
+            <p class="list red">
+                ※火球はリムルインバスの防護障壁（カウンターバリア）に反射されないのが、正しい挙動となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1012" class="weighty-column">
 
             2022/11/14 17:40            
@@ -1066,47 +1108,6 @@
                 <p class="bold">【対象キャラクター】</p>
                 <div>
                     ・州天頃 椎奈
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-994" class="weighty-column">
-
-            2022/10/19 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-994" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年10月19日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・仁紀藤 奏
                 </div>
             </div>
             <p class="list red">
