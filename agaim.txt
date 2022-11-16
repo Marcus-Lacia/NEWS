@@ -35,8 +35,7 @@
         
         <div id="important-column-1013" class="weighty-column">
 
-            2022/11/15 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/11/15 19:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               王 紅花のSPスキル「絶招【疾歩双焔掌】」に発生している不具合について            </div>
