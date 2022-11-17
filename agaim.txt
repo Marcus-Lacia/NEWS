@@ -33,6 +33,60 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1014" class="weighty-column">
+
+            2022/11/17 15:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1014" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年11月17日 15:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶イベント「ミアと魔法のお菓子」にて大関 小結が料理担当者になったとき、頭に三角巾を着用するよう調整しました。
+        </div>
+        <div class="list">
+            ▶イベント「ミアと魔法のお菓子」にて獲得できる贈り物アイテムが、アイテム一覧画面にて開発意図と異なる並び順になっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「王 紅花【紅蓮】トライアル任務」にて食材が入手できない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種任務の報酬一覧画面にて、食材の名称や説明文が正しく表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1013" class="weighty-column">
 
             2022/11/15 19:15            
@@ -76,7 +130,11 @@
         
         <div id="important-column-1012" class="weighty-column">
 
-            2022/11/14 17:40            
+            2022/11/14 17:40                            
+                <span class="bold">
+                                            (11/17 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「王 紅花【紅蓮】トライアル任務」にて食材が入手できない            </div>
@@ -85,6 +143,17 @@
         <div id="important-text-1012" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年11月17日 15:05 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年11月14日 17:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1078,50 +1147,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-995" class="weighty-column">
-
-            2022/10/20 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-995" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年10月20日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・州天頃 椎奈
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/48</div>
+                    <div class="page-box box-radius">1/49</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
