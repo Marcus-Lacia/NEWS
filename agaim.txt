@@ -33,6 +33,53 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1010" class="weighty-column">
+
+            2022/11/11 11:05                            
+                <span class="red bold">
+                                            (11/18 更新)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.59.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1010" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年11月11日 11:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.59.2のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.59.2の更新内容】</p>
+        
+        <div class="list">
+            ▶イベント「ミアと魔法のお菓子」にて、特定状況で「料理作成」を押すと、エラーが発生することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ※11/18（金）20:40 追記<br>
+            Ver.1.59.2アプリへのアップデート後も本現象が発生する場合は、料理選択画面から別の料理を選び直すことで不具合が修正されますので、お試しくださいますようお願い申し上げます。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.59.2の配信に伴い、<span class="bold red">11/11（金）19:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1014" class="weighty-column">
 
             2022/11/17 15:05            
@@ -224,45 +271,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1010" class="weighty-column">
-
-            2022/11/11 11:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.59.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1010" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年11月11日 11:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.59.2のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.59.2の更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「ミアと魔法のお菓子」にて、特定状況で「料理作成」を押すと、エラーが発生することがある不具合を修正しました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.59.2の配信に伴い、<span class="bold red">11/11（金）19:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
         <div id="important-column-1009" class="weighty-column">
 
