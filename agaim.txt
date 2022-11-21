@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1015" class="weighty-column">
+
+            2022/11/21 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1015" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2022年11月21日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・アデライーデ・B
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1010" class="weighty-column">
 
             2022/11/11 11:05                            
@@ -353,14 +395,14 @@
             <div class="list">
                 ▶ミア・Vの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/221110/bnr_l00_inf_411_10.jpg?v=1635">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221110/bnr_l00_inf_411_10.jpg?v=1636">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 ミア【恭敬】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/599?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_035_70/bnr_header.jpg?v=1635">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_035_70/bnr_header.jpg?v=1636">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -744,14 +786,14 @@
             <div class="list">
                 ▶天狐 天の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/221027/bnr_l00_inf_410_27.jpg?v=1635">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/221027/bnr_l00_inf_410_27.jpg?v=1636">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 天狐 天【御侠】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/596?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_043_70/bnr_header.jpg?v=1635">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_043_70/bnr_header.jpg?v=1636">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1108,47 +1150,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-996" class="weighty-column">
-
-            2022/10/21 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-996" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2022年10月21日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・紺堂 地衛理
-                </div>
-            </div>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
