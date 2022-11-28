@@ -33,6 +33,108 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1016" class="weighty-column">
+
+            2022/11/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.60.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1016" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年11月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.60.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.60.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶習熟訓練に、攻撃のダメージやヒット数を表示する機能を追加しました。
+        </div>
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/221128/info_01.jpg?v=1636">
+        <div class="list">
+            ▶撮影ルームの撮影ミッション選択画面に、ミッションの終了日時とフレームデザインを表示する機能を追加しました。
+        </div>
+        <div class="list">
+            ▶撮影ルームの背景選択画面に、背景デザインが表示されるよう調整しました。
+        </div>
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶コラボキャラクターのエニグマ「スキルセル」解放時、エリアにあわせたコスチュームで解放演出が再生されるよう調整しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.59.1アプリより、ケプリの行動パターンが、開発意図と異なる挙動に変化している不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種ストリックが、特定行動中に大きくエリア外へ出てしまうことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶ストリック特異型が爪攻撃を行う前に、左サイドパーツを破壊していると、右サイドパーツによる攻撃が正しく行われない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ロサガリカが特定状況でダウン状態になると、ダウンから回復した後のレーザー攻撃が、開発意図と異なる向きに放たれることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶王 紅花のSPスキル「絶招【疾歩双焔掌】」で放つ火球が、リムルインバスの防護障壁（カウンターバリア）に反射されてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶新居目 安里のSPスキル「アムピトリーテー」発動中、特定の状況でフィニッシュブローを行うと、演出中にクロスギアが表示され続けてしまう問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶下記の東雲 チヱ専用ショットギア使用時、チャージ状態中にステップ攻撃を2回行うと、チャージ段階がリセットされてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★4/HH改修二二型<br>
+                ・★4/HH改修三二型
+            </div>
+        </div>
+        <div class="list">
+            ▶星月 みきのエニグマで修得可能なパッシブスキル「FスプリットUP1」の、名称の誤字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                修正前：FスピリットUP1<br>
+                修正後：<span class="red">FスプリットUP1</span>
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.60.0の配信に伴い、<span class="bold red">11/29（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1015" class="weighty-column">
 
             2022/11/21 15:00            
@@ -176,7 +278,11 @@
         
         <div id="important-column-1013" class="weighty-column">
 
-            2022/11/15 19:15            
+            2022/11/15 19:15                            
+                <span class="bold">
+                                            (11/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               王 紅花のSPスキル「絶招【疾歩双焔掌】」に発生している不具合について            </div>
@@ -185,6 +291,17 @@
         <div id="important-text-1013" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2022年11月28日 14:00 追記<br>
+            本件につきまして、本日順次配信されましたVer1.60.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2022年11月15日 19:15<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1100,59 +1217,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-997" class="weighty-column">
-
-            2022/10/24 20:00                            
-                <span class="bold">
-                                            (10/27 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イブリー・ハッドのエニグマで修得可能なパッシブスキル「五感覚醒【近接】1」の一部効果が正しく適用されない            </div>
-
-        </div>
-        <div id="important-text-997" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年10月27日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年10月24日 20:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イブリー・ハッドのエニグマで修得可能なパッシブスキル「五感覚醒【近接】1」の、「ダメージへの耐性を得る」効果が正しく適用されない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
