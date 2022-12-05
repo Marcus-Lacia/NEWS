@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1022" class="weighty-column">
+
+            2022/12/05 21:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              藤野 やよい【ライブ】をホーム画面に配置中、「藤野 極」の誕生日をお祝いする台詞が正しく再生されない            </div>
+
+        </div>
+        <div id="important-text-1022" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2022年12月05日 21:20<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶藤野 やよい【ライブ】をホーム画面に配置中、「藤野 極」の誕生日をお祝いする台詞が正しく再生されない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1020" class="weighty-column">
 
             2022/12/02 17:05                            
@@ -1143,57 +1182,6 @@
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1002" class="weighty-column">
-
-            2022/10/28 18:40                            
-                <span class="bold">
-                                            (10/28 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「メモリアルスカウト」お知らせの一部表記に誤りがある            </div>
-
-        </div>
-        <div id="important-text-1002" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年10月28日 18:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶累計ログイン日数が「100日」以上になった際に表示される、「メモリアルスカウト」お知らせの一部表記に誤りがある。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    誤：100日ログイン特典 1週間限定<br>
-                    正：100日ログイン特典 <span class="red">2週間限定</span>
-                </div>
-            </div>
-            <p class="list red">
-                ※「メモリアルスカウト」は累計ログイン日数が「100日」以上になった際に、2週間限定でご利用いただけるスカウトとなります。
-            </p>
-            <p class="list red">
-                ※一部画像内のみの誤表記となり、メモリアルスカウトは正しい期間で開催されていることを確認しております。
-            </p>
-        </div>
-        <div>
-            このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
