@@ -35,8 +35,7 @@
         
         <div id="important-column-1022" class="weighty-column">
 
-            2022/12/05 21:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/12/05 21:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               藤野 やよい【ライブ】をホーム画面に配置中、「藤野 極」の誕生日をお祝いする台詞が正しく再生されない            </div>
