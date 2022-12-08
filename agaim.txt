@@ -33,10 +33,69 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1024" class="weighty-column">
+
+            2022/12/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1024" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年12月08日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.60.0アプリより、メインストーリー「侵蝕編4章」の「討伐任務1件目」の任務開始演出が、開発意図と異なる演出に変わっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「ダーティペアコラボ 銀河の相棒に栄光あれッ! 〜可憐な乙女と隊長が大活躍！！～」の特定へクスにて、キャラクターと台詞の組み合わせが合っていない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「ダーティペアコラボ 銀河の相棒に栄光あれッ! 〜可憐な乙女と隊長が大活躍！！～」の特定レアへクスに出現する敵に、ファルコンが設定されている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※当該へクスには、大型ヴァイスは出現しないのが開発意図通りの設定となります。
+        </p>
+        <div class="list">
+            ▶イベント「ミアと魔法のお菓子」のEp.5の特定シーンにて、ミアの口パクが台詞の途中で止まってしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶金潟 すぐみがコスチューム「ラブリーエンゼルR」着用時、特定ポーズをとった際にコスチュームの一部が不自然にゆがむことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1023" class="weighty-column">
 
-            2022/12/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/12/07 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.60.1 配信のお知らせ            </div>
@@ -1113,62 +1172,6 @@
             </p>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1003" class="weighty-column">
-
-            2022/11/02 19:40                            
-                <span class="bold">
-                                            (11/10 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              天狐 天のSPスキル「祭朱砲筒【大輪】」発動中のトップススキルについて            </div>
-
-        </div>
-        <div id="important-text-1003" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2022年11月10日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2022年11月02日 19:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、天狐 天のSPスキル「祭朱砲筒【大輪】」発動中、トップススキルの性能が上書きされた際に、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶画面内に敵が存在しない状態でトップススキルボタンを押すと、スキルが正常に発動せず、一定時間操作不能になる。
-            </div>
-            <p class="list red">
-                ※当該SPスキル発動中のトップススキルボタンは、画面内に敵が存在しない状態では押せないのが正しい挙動となります。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
