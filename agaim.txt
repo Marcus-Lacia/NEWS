@@ -35,8 +35,7 @@
         
         <div id="important-column-1025" class="weighty-column">
 
-            2022/12/12 17:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/12/12 17:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ユリのボトムスギアスキルの一次属性が、開発意図と異なり「斬撃属性」となっている            </div>
