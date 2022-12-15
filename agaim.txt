@@ -33,10 +33,99 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1027" class="weighty-column">
+
+            2022/12/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1027" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2022年12月15日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ヘルプ＞誕生日リストにファクター「州天頃 椎奈」がお祝いするキャラクターを追記しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・4/4：州天頃 舜<br>
+                ・4/12：アデライーデ・B<br>
+                ・7/1：仁紀藤 奏<br>
+                ・9/17：紺堂 地衛理
+            </div>
+        </div>
+        <div class="list">
+            ▶ヘルプ＞誕生日リストにファクター「仁紀藤 奏」がお祝いするキャラクターを追記しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・4/12：アデライーデ・B<br>
+                ・8/26：州天頃 椎奈<br>
+                ・9/17：紺堂 地衛理<br>
+                ・9/27：小鳥遊 怜<br>
+                ・11/2：一条 綾香<br>
+                ・11/11：尾長 晶乃<br>
+                ・11/22：百科 文嘉
+            </div>
+        </div>
+        <div class="list">
+            ▶下記クロスギアの近接攻撃3段目に発生するレーザーの攻撃判定を下方向に拡大し、一部の敵に当たりにくい問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3/ブラスターR<br>
+                ・★3/ブラスター<br>
+                ・★4/ブラスター<br>
+                ・★4/ブラスターS
+            </div>
+        </div>
+        <div class="list">
+            ▶黒部 四水（NPC）の3Dモデルを微調整しました。
+        </div>
+        <div class="list">
+            ▶大関 小結がコスチューム「フィッシュマーシュ伸」とアクセサリー「サンタキャップ」を同時に着用すると、エラーが発生する不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶兼志谷 シタラがコスチューム「ラブリーエンゼルR」を着用すると、おへそが消えてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1026" class="weighty-column">
 
-            2022/12/14 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2022/12/14 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.61.0 配信のお知らせ            </div>
@@ -1177,65 +1266,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1007" class="weighty-column">
-
-            2022/11/10 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1007" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年11月10日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-            <div class="list">
-                ▶ヘルプ＞誕生日リストにキャラクターを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・11/11 尾長 晶乃
-                </div>
-            </div>
-        <div class="list">
-            ▶天狐 天のコスチューム「ヨミヤ」の、一部装飾の色味を微調整しました。
-        </div>
-        <div class="list">
-            ▶天狐 天のSPスキル「祭朱砲筒【大輪】」発動中、画面内に敵が存在しない状態でトップススキルボタンを押すと、スキルが正常に発動せず、一定時間操作不能になる不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※当該SPスキル発動中のトップススキルボタンは、画面内に敵が存在しない状態では押せないのが正しい挙動となります。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
