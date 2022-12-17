@@ -36,7 +36,7 @@
         <div id="important-column-1028" class="weighty-column">
 
             2022/12/16 16:05                            
-                <span class="red bold">
+                <span class="bold">
                                             (12/16 補填済)
                                     </span>
             
