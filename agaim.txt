@@ -633,7 +633,7 @@
             
             <p class="bold">【改定内容】</p>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1653">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1654">
             <p class="list">
                 ※黄色部分が変更点となります。
             </p>
@@ -651,7 +651,7 @@
                     カラット販売価格にずれが生じた場合、実際にお支払いいただくのは<span class="bold red">App Store側で表示される販売価格</span>となりますので、カラットご購入の際は購入画面をよくご確認いただきますようお願い申し上げます。
                 </div>
                 
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1653">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1654">
                 <div>
                     本現象については、後日データ更新を実施し、正しい価格設定を適用いたします。
                 </div>
@@ -672,7 +672,7 @@
                 </p>
                 
                 
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1653">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1654">
                 <div>
                     なお、表示価格と購入金額のずれが、課金上限を設定されているお客様及び「使いすぎストッパー」を設定されているお客様に発生した場合、「月のご購入金額」カウントはアプリ内に表示された販売価格にてカウントされます、予めご了承ください。
                 </div>
@@ -919,7 +919,7 @@
         <div class="list">
             ▶習熟訓練に、攻撃のダメージやヒット数を表示する機能を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/221128/info_01.jpg?v=1653">
+        <img src="//i-cf.alice.colopl.jp/img/news/2022/221128/info_01.jpg?v=1654">
         <div class="list">
             ▶撮影ルームの撮影ミッション選択画面に、ミッションの終了日時とフレームデザインを表示する機能を追加しました。
         </div>
