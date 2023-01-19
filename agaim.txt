@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1033" class="weighty-column">
+
+            2023/01/19 18:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.62.0アプリより、メインストーリー「侵蝕編7章」の「討伐任務:17件目」をプレイするとエラーが発生する            </div>
+
+        </div>
+        <div id="important-text-1033" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年01月19日 18:50<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.62.0アプリより、メインストーリー「侵蝕編7章」の「討伐任務:17件目」をプレイするとエラーが発生する。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1032" class="weighty-column">
 
             2023/01/19 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1339,59 +1378,6 @@
     <div>
         なお、Ver.1.59.2の配信に伴い、<span class="bold red">11/11（金）19:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1014" class="weighty-column">
-
-            2022/11/17 15:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1014" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年11月17日 15:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「ミアと魔法のお菓子」にて大関 小結が料理担当者になったとき、頭に三角巾を着用するよう調整しました。
-        </div>
-        <div class="list">
-            ▶イベント「ミアと魔法のお菓子」にて獲得できる贈り物アイテムが、アイテム一覧画面にて開発意図と異なる並び順になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「王 紅花【紅蓮】トライアル任務」にて食材が入手できない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種任務の報酬一覧画面にて、食材の名称や説明文が正しく表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
