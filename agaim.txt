@@ -33,6 +33,69 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1036" class="weighty-column">
+
+            2023/01/22 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1036" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年01月22日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ヘルプ＞誕生日リストに下記キャラクターを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・巽 竜子<br>
+                ・鳳 加純
+            </div>
+        </div>
+        <div class="list">
+            ▶特定のヴァイスが使用する一部攻撃に対して、各種スキルの「打ち消し効果」が有効/無効が混在している問題を修正しました。
+        </div>
+        <p class="bold">【対象となる攻撃】</p>
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230122/info_02.jpg?v=1680">
+        <p class="list">
+            ※上記攻撃に対して「打ち消し効果」は無効となるのが正常な挙動となります。
+        </p>
+        <div class="list">
+            ▶イベント「難攻不落！ 風雲マッスル・キャッスルパーク」シナリオ4話内の一部で、州天頃 椎奈の表情に違和感がある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1035" class="weighty-column">
 
             2023/01/21 14:00            
@@ -1300,107 +1363,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1016" class="weighty-column">
-
-            2022/11/28 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.60.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1016" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年11月28日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.60.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.60.0の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶習熟訓練に、攻撃のダメージやヒット数を表示する機能を追加しました。
-        </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2022/221128/info_01.jpg?v=1680">
-        <div class="list">
-            ▶撮影ルームの撮影ミッション選択画面に、ミッションの終了日時とフレームデザインを表示する機能を追加しました。
-        </div>
-        <div class="list">
-            ▶撮影ルームの背景選択画面に、背景デザインが表示されるよう調整しました。
-        </div>
-        <div class="list">
-            ▶蛙坂 来弥のホーム小物を変更しました。
-        </div>
-        <div class="list">
-            ▶コラボキャラクターのエニグマ「スキルセル」解放時、エリアにあわせたコスチュームで解放演出が再生されるよう調整しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.59.1アプリより、ケプリの行動パターンが、開発意図と異なる挙動に変化している不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種ストリックが、特定行動中に大きくエリア外へ出てしまうことがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶ストリック特異型が爪攻撃を行う前に、左サイドパーツを破壊していると、右サイドパーツによる攻撃が正しく行われない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ロサガリカが特定状況でダウン状態になると、ダウンから回復した後のレーザー攻撃が、開発意図と異なる向きに放たれることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶王 紅花のSPスキル「絶招【疾歩双焔掌】」で放つ火球が、リムルインバスの防護障壁（カウンターバリア）に反射されてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶新居目 安里のSPスキル「アムピトリーテー」発動中、特定の状況でフィニッシュブローを行うと、演出中にクロスギアが表示され続けてしまう問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶下記の東雲 チヱ専用ショットギア使用時、チャージ状態中にステップ攻撃を2回行うと、チャージ段階がリセットされてしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/HH改修二二型<br>
-                ・★4/HH改修三二型
-            </div>
-        </div>
-        <div class="list">
-            ▶星月 みきのエニグマで修得可能なパッシブスキル「FスプリットUP1」の、名称の誤字を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                修正前：FスピリットUP1<br>
-                修正後：<span class="red">FスプリットUP1</span>
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.60.0の配信に伴い、<span class="bold red">11/29（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
