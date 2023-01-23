@@ -35,8 +35,7 @@
         
         <div id="important-column-1038" class="weighty-column">
 
-            2023/01/22 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/01/22 18:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               鳳 加純、及び巽 竜子に発生している不具合について            </div>
