@@ -158,7 +158,7 @@
             ▶特定のヴァイスが使用する一部攻撃に対して、各種スキルの「打ち消し効果」が有効/無効が混在している問題を修正しました。
         </div>
         <p class="bold">【対象となる攻撃】</p>
-        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230122/info_02.jpg?v=1683">
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230122/info_02.jpg?v=1684">
         <p class="list">
             ※上記攻撃に対して「打ち消し効果」は無効となるのが正常な挙動となります。
         </p>
@@ -1234,7 +1234,7 @@
             
             <p class="bold">【改定内容】</p>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1683">
+            <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_29.jpg?v=1684">
             <p class="list">
                 ※黄色部分が変更点となります。
             </p>
@@ -1252,7 +1252,7 @@
                     カラット販売価格にずれが生じた場合、実際にお支払いいただくのは<span class="bold red">App Store側で表示される販売価格</span>となりますので、カラットご購入の際は購入画面をよくご確認いただきますようお願い申し上げます。
                 </div>
                 
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1683">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_30.jpg?v=1684">
                 <div>
                     本現象については、後日データ更新を実施し、正しい価格設定を適用いたします。
                 </div>
@@ -1273,7 +1273,7 @@
                 </p>
                 
                 
-                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1683">
+                <img src="//i-cf.alice.colopl.jp/img/news/2022/220929/bnr_l00_inf_409_31.jpg?v=1684">
                 <div>
                     なお、表示価格と購入金額のずれが、課金上限を設定されているお客様及び「使いすぎストッパー」を設定されているお客様に発生した場合、「月のご購入金額」カウントはアプリ内に表示された販売価格にてカウントされます、予めご了承ください。
                 </div>
