@@ -33,6 +33,88 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1039" class="weighty-column">
+
+            2023/01/24 16:00                            
+                <span class="red bold">
+                                            (01/24 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1039" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年01月24日 16:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶巽 竜子が特定ギアを装備すると、3D MODEL画面にて、腕部の表示が崩れる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「百家聡鳴 ～こだわりの先に～」の、各エピソードバナーの背景が正しく表示されていない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「百家聡鳴 ～こだわりの先に～」の、エピソード1話内の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶百科 文嘉のコスチューム「アニバドレスV」説明文の脱字を修正しました。
+        </div>
+        <div class="list">
+            ▶琴村 朱音、及び琴村 天音がコスチューム「ユニフォーム/S9」着用時、特定のカメラアングルになった際「ACCESS DENIED」が表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶コスチューム「ゾディアックバニー」着用時、小指が違和感のある見た目になる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶1/22（日）15:00 より切り替わったホーム画面にて、深夜帯（0:00 ～ 5:59）はアクトレスが餅つきをお休みするようにしました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                1/24（火）16:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                2/7（火）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1038" class="weighty-column">
 
             2023/01/22 18:15            
@@ -1337,67 +1419,6 @@
         </div>
         <div class="list">
         	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1019" class="weighty-column">
-
-            2022/11/30 17:00                            
-                <span class="bold">
-                                            (11/30 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1019" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年11月30日 17:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ケイまたはユリと特定キャラクターをホーム画面に配置すると、特定操作時に通信タイムアウトが発生することがある不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                11/30（水）17:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                12/14（水）23:59 まで
-            </div>
         </div>
     </div>
     <div>
