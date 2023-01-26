@@ -33,11 +33,80 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1040" class="weighty-column">
+
+            2023/01/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.62.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1040" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年01月26日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.62.2のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.62.2の更新内容】</p>
+        
+        <div class="list">
+            ▶鳳 加純がSPスキル「フェニックスブレイズ」を装着した状態で特定ギアを装備すると、ギアスキルが正常に発動しないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶エリア終了直前に巽 竜子のSPスキル「アウトレイジ」を使用すると、次のエリア及びリザルト画面へ進行しないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶巽 竜子のSPスキル「アウトレイジ」の1段目を特定距離で当てた際に、開発意図よりも低いダメージ量となる場合がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶鳳 加純のパッシブスキル「ドミネーション」の説明文に、余分な文字が含まれている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※文章のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">修正前：</span>
+                <div>
+                    1.バトル開始時にSPを40%チャージする<br>
+                    2.最大HPが40%以下のとき、近接攻撃力が15%上昇する HPの回復で効果消滅 「2」効果は条件をみたす限り再発動する
+                </div>
+                <span class="bold">修正後：</span>
+                <div>
+                    1.バトル開始時にSPを40%チャージする<br>
+                    2.HPが40%以下のとき、近接攻撃力が15%上昇する HPの回復で効果消滅 「2」効果は条件をみたす限り再発動する
+                </div>
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「百家聡鳴 ～こだわりの先に～」の任務「ミニマリスト」に出現する、ポイゾネルモスの撃破演出が正常に再生されない問題を修正しました。
+        </div>
+        <div class="list">
+        	▶「シングルアクセチョイス」利用時の説明文が、バナーと重なって表示される不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.62.2の配信に伴い、<span class="bold red">1/27（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1038" class="weighty-column">
 
             2023/01/22 18:15                            
                 <span class="bold">
-                                            (01/24 更新)
+                                            (01/26 修正済)
                                     </span>
             
             <div class="column-text">
@@ -48,6 +117,17 @@
         <div id="important-text-1038" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年01月26日 14:00 追記<br>
+            ①～④の不具合につきまして、順次配信されましたVer1.62.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年01月24日 19:35 追記<br>
             調査の結果、以下の不具合についても確認しております。
@@ -1393,69 +1473,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1021" class="weighty-column">
-
-            2022/12/02 14:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1021" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年12月02日 14:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ユリのレプリカトップスギア及びボトムスギアを装備時、任務中のスキルアイコンに「焼夷属性」のアイコンが表示されている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正しい属性は「冷撃属性」となります。
-        </p>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶下記アクセサリーのコスト値が、アイコン上の数値よりも高くなっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※対象アクセサリーのコストは「2」が正しい数値となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクセサリー】</p>
-            <div>
-                ・ケイのイヤリング<br>
-                ・ユリのイヤリング
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
