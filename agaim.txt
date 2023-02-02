@@ -33,6 +33,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1043" class="weighty-column">
+
+            2023/02/02 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「復刻イベント交換所 ダイヤネス」に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1043" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年02月02日 16:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶「復刻イベント交換所 ダイヤネス」にて、「復刻アイテムセット23」選択時に表示されるキャラクターが、本来着用できない誤ったアクセサリーを着用している。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・二子玉 舞<br>
+                    誤：クリスのゴーグル<br>
+                    正：ラブリュスの髪飾り<br>
+                    <br>
+                    ・バージニア・グリンベレー<br>
+                    誤：ラブリュスの髪飾り<br>
+                    正：クリスのゴーグル
+                </div>
+            </div>
+            <p class="list red">
+                ※見た目のみの不具合となり、交換時は正しいアクセサリーが受け取れることを確認しております。
+            </p>
+            <p class="list red">
+                ※交換アイテムの一覧は画面右上の「i」ボタンから確認できます。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1042" class="weighty-column">
 
             2023/02/01 15:00            
@@ -1371,48 +1428,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1023" class="weighty-column">
-
-            2022/12/07 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.60.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1023" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年12月07日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.60.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.60.1の更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.60.1の配信に伴い、<span class="bold red">12/8（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
