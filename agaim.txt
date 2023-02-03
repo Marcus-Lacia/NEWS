@@ -35,8 +35,7 @@
         
         <div id="important-column-1043" class="weighty-column">
 
-            2023/02/02 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/02/02 16:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「復刻イベント交換所 ダイヤネス」に発生している不具合について            </div>
