@@ -33,9 +33,107 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1044" class="weighty-column">
+
+            2023/02/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.63.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1044" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年02月08日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.63.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.63.0の更新内容】</p>
+        
+        <div class="list">
+            ▶PC版のみ「オプション」＞「実験的機能」に「マルチ切断での自動戦闘継続（ホスト時のみ）」の項目を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能をONにして、マルチ任務にホストとして参加すると、ゲストの接続が切断された時に、切断されたプレイヤーのアクトレスが自律的に戦闘を継続するようになります。
+        </p>
+        <p class="list red">
+            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
+        </p>
+        <div class="list">
+            ▶「復刻イベント交換所 ダイヤネス」にて、「復刻アイテムセット23」選択時に表示されるキャラクターが、本来着用できない誤ったアクセサリーを着用している不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・二子玉 舞<br>
+                誤：クリスのゴーグル<br>
+                正：ラブリュスの髪飾り<br>
+                <br>
+                ・バージニア・グリンベレー<br>
+                誤：ラブリュスの髪飾り<br>
+                正：クリスのゴーグル
+            </div>
+        </div>
+        <div class="list">
+            ▶ヴェスピナエのチャージ攻撃（遠距離版）を阻止したとき、特定の状況で、ダウン復帰時の挙動が変化してしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶鳳 加純のSPスキル「フェニックスブレイズ」発動時に特定操作を行うと、SPスキルが連続で発動することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶鳳 加純のエニグマで修得可能なパッシブスキル「恐れ知らずの闘志1」の、「HPが50%以上のとき、秒間、最大HPの1％のダメージを受け続ける」効果のダメージ表示が正しく表示されない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶鳳 加純がホーム画面に配置されている時、特定状況で台詞が2連続で再生されることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶鳳 加純の絆エピソードEp.3の、一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶巽 竜子の絆エピソードEp.1のダンス演出を調整しました。
+        </div>
+        <div class="list">
+            ▶SOL ラプターがアクセサリー「ホワイトクロス」着用中、特定画面にてアクセサリーが白く光って見えることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ボイスアーカイブにて、ボイスが再生されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.63.0の配信に伴い、<span class="bold red">2/9（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1043" class="weighty-column">
 
-            2023/02/02 16:10            
+            2023/02/02 16:10                            
+                <span class="bold">
+                                            (02/08 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「復刻イベント交換所 ダイヤネス」に発生している不具合について            </div>
@@ -44,6 +142,17 @@
         <div id="important-text-1043" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年02月08日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.63.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年02月02日 16:10<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1374,65 +1483,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1024" class="weighty-column">
-
-            2022/12/08 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1024" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年12月08日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.60.0アプリより、メインストーリー「侵蝕編4章」の「討伐任務1件目」の任務開始演出が、開発意図と異なる演出に変わっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「ダーティペアコラボ 銀河の相棒に栄光あれッ! 〜可憐な乙女と隊長が大活躍！！～」の特定へクスにて、キャラクターと台詞の組み合わせが合っていない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「ダーティペアコラボ 銀河の相棒に栄光あれッ! 〜可憐な乙女と隊長が大活躍！！～」の特定レアへクスに出現する敵に、ファルコンが設定されている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※当該へクスには、大型ヴァイスは出現しないのが開発意図通りの設定となります。
-        </p>
-        <div class="list">
-            ▶イベント「ミアと魔法のお菓子」のEp.5の特定シーンにて、ミアの口パクが台詞の途中で止まってしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶金潟 すぐみがコスチューム「ラブリーエンゼルR」着用時、特定ポーズをとった際にコスチュームの一部が不自然にゆがむことがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
