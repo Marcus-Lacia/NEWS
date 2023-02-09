@@ -33,6 +33,71 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1046" class="weighty-column">
+
+            2023/02/09 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1046" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年02月09日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶1/22（日）のアップデートより、ドレッサー画面で特定アクセサリーとコスチュームをあわせて着用した際のモーションが、正常に再生されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクセサリー&amp;コスチューム】</p>
+            <div>
+                <p class="list">
+                    ・「アクアストーム/W」と<br>
+                    「桃蔭学園総合高校夏服」
+                </p>
+                <p class="list">
+                    ・「アクアストーム/B」と<br>
+                    「芦原高校夏服」
+                </p>
+                <p class="list">
+                    ・各種「スクイズボトル」と<br>
+                    「郷湾育英高校夏服」
+                </p>
+            </div>
+        </div>
+        <div class="list">
+            ▶1/22（日）15:00 より切り替わったホーム画面にて、屋外であるにも関わらず、空調設備の作動音が聞こえる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1045" class="weighty-column">
 
             2023/02/08 22:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1342,115 +1407,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1026" class="weighty-column">
-
-            2022/12/14 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.61.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1026" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年12月14日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.61.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.61.0の更新内容】</p>
-        
-        <div class="list hide_iOS">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶習熟訓練に、タキプリ/TTGが一定間隔で攻撃を行う機能を追加しました。
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面にランダムで表示される履歴書に、下記キャラクターを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・小芦 睦海<br>
-                ・二子玉 舞<br>
-                ・バージニア・G
-            </div>
-        </div>
-        <div class="list">
-            ▶仁紀藤 奏の専用クロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/ペネトレイトコーン<br>
-                ・★4/ペネトレイトコーンR<br>
-                ・★4/ペネトレイトコーンRZ
-            </div>
-            <p class="list">
-                ・近接攻撃1～3段目の合計移動距離を約16%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃1～2段目の攻撃力を約100%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃3段目の攻撃力を約53%減少。
-            </p>
-        </div>
-        <div class="list">
-            ▶ユリのボトムスギアスキルの一次属性が、開発意図と異なり「斬撃属性」となっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正しい属性は「実弾属性」となります。
-        </p>
-        <div class="list">
-            ▶固定チームでの出撃となる一部任務にて、出撃前の画面と出撃中のHP表示が異なる場合がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種リコサアラゴギが「蜘蛛の巣を展開する弾」を放出したとき、蜘蛛の巣が展開される前に弾に当たると、ダメージを受けるにも関わらず被弾扱いにならない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種リコサアラゴギの特定行動中に攻撃を当てると、不自然な挙動をとることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種リコサアラゴギの接触判定を調整し、キャラクターが接触した際に大きくめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶ストリック特異型が展開する棘の色が、開発意図と異なる色になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種ストリックが放つレーザーが、攻撃終了時の一瞬だけ色が変わってしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver1.59.0アプリより、Ti2のエニグマ画面にてアナザーエリアを表す背景が表示されなくなっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶撮影ルームにて、スタンプカードから撮影ミッション一覧画面を開くと、撮影ミッションを選択してもフォトフレームのサムネイルが変化しない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.61.0の配信に伴い、<span class="bold red">12/15（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
