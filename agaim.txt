@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1048" class="weighty-column">
+
+            2023/02/09 21:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宮南 ひかりが特定アクセサリーを着用すると、ドレッサー画面でのリアクションが正しく行われなくなることがある            </div>
+
+        </div>
+        <div id="important-text-1048" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年02月09日 21:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶宮南 ひかりが特定アクセサリーを着用すると、ドレッサー画面でのリアクションが正しく行われなくなることがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1047" class="weighty-column">
 
             2023/02/09 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1294,79 +1333,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1028" class="weighty-column">
-
-            2022/12/16 16:05                            
-                <span class="bold">
-                                            (12/16 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1028" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年12月16日 16:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶アクセサリー「ポンポン/橙」を着用中、ポンポンの揺れ方が不自然な問題を修正しました。
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面に表示される、バージニア・グリンベレーの履歴書の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶州天頃 椎奈【ブレイブ】、及び仁紀藤 奏【ブレイブ】に特定のSPスキルを装着すると、SPスキル発動時のボイスが再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶撮影スタンプカード報酬としてスカウトポイントを獲得した際に表示される演出内で、スカウトポイントの入手先を表す表記が「その他」になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「難攻不落！ 風雲マッスル・キャッスルパーク」シナリオ2話の演出を微調整しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                12/16（金）16:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                12/30（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
