@@ -86,8 +86,7 @@
         
         <div id="important-column-1048" class="weighty-column">
 
-            2023/02/09 21:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/02/09 21:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               宮南 ひかりが特定アクセサリーを着用すると、ドレッサー画面でのリアクションが正しく行われなくなることがある            </div>
