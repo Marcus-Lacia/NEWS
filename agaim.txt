@@ -33,6 +33,43 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1051" class="weighty-column">
+
+            2023/02/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.63.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1051" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年02月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.63.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.63.1の更新内容】</p>
+        
+        <div class="list">
+            ▶一部端末にて、任務中のカメラモードで内部解像度を調整すると、端末のスペックに関わらずフィルタ設定が無効になってしまう不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.63.1の配信に伴い、<span class="bold red">2/14（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1049" class="weighty-column">
 
             2023/02/10 16:20            
@@ -229,7 +266,11 @@
         
         <div id="important-column-1045" class="weighty-column">
 
-            2023/02/08 22:05            
+            2023/02/08 22:05                            
+                <span class="bold">
+                                            (02/13 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.63.0アプリより、任務中のカメラモードに発生している不具合について            </div>
@@ -238,6 +279,17 @@
         <div id="important-text-1045" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年02月13日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.63.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年02月08日 22:05<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1168,153 +1220,6 @@
         
         <div class="list">
             ▶イベント「C101記念任務」のエピソードに登場する、州天頃 舜のボイスを調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1030" class="weighty-column">
-
-            2022/12/28 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1030" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2022年12月28日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶SOL ラプターの各種ギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/MDライフルR<br>
-                ・★3/MDライフル-パチ組<br>
-                ・★3/MDライフル-接着<br>
-                ・★3/MDライフル-塗装<br>
-                ・★4/MDライフル<br>
-                ・★4/MDライフル-SG<br>
-                ・★4/MDライフル-UG
-            </div>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約40%増加。
-            </p>
-            <p class="list">
-                ・溜め撃ちのSPゲージ上昇量を約40%増加。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★3/ビームガンブレードR<br>
-                ・★3/ビームガンブレード-パチ組<br>
-                ・★3/ビームガンブレード-接着<br>
-                ・★3/ビームガンブレード-塗装<br>
-                ・★4/ビームガンブレード<br>
-                ・★4/ビームガンブレード-SG<br>
-                ・★4/ビームガンブレード-UG
-            </div>
-            <p class="list">
-                ・近接攻撃1段目の攻撃力を約41%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃2段目の攻撃力を約24%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃3段目の攻撃力を約35%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃1～3段目の<br>
-                SPゲージ上昇量を約14%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃1段目で与える気絶値を約40%増加。
-            </p>
-        </div>
-        <div class="list">
-            ▶SOL ラプター【ストライク】のクロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★3/ビームガンブレード改-パチ組<br>
-                ・★3/ビームガンブレード改-接着<br>
-                ・★3/ビームガンブレード改-塗装<br>
-                ・★4/ビームガンブレード改<br>
-                ・★4/ビームガンブレード改-SG<br>
-                ・★4/ビームガンブレード改-UG
-            </div>
-            <p class="list">
-                ・近接攻撃3段目の斬撃の攻撃力を約50%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃3段目の衝撃波の攻撃力を約53%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃1～3段目の<br>
-                SPゲージ上昇量を約18%増加。
-            </p>
-        </div>
-        <div class="list">
-            ▶SOL ラプター【ストライク】のクロスギアの、カウンター攻撃2段目の爆発が、開発意図と異なり「エネルギー弾属性」となっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※正しい一次属性は「斬撃属性」となります。
-        </p>
-        <div class="list">
-            ▶ファティマ・ベトロラムが特定ギアを装備していると、SPスキル「ワルフラーンアヴァタ」発動中に上書きされたトップススキルが、正しく発動しないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶御茶ノ水 美里江がコスチューム「ゆうしゃのふく」と特定アクセサリーを合わせて着用すると、開発意図と異なる見た目になることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶紺堂 地衛理が専用クロスギア装備中、ターンをキャンセルして近接攻撃を行う動作が、敵との距離が極端に近い場合でないと行えない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶州天頃 椎奈【ブレイブ】が特定ギアを装備していると、3D MODEL画面で開発意図と異なるポーズをとってしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶仁紀藤 奏【ブレイブ】がホーム画面に配置されているとき、水曜日限定の特定リアクションのボイスが正しく再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「ポンポン/橙」を特定のコスチュームと合わせて着用すると、キャラクターの足がコスチュームを貫通することがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶ミニゲーム「KAWARAクラッシャー」の任務バナーを、専用デザインのものに変更しました。
-        </div>
-        <div class="list">
-            ▶イベント「難攻不落！ 風雲マッスル・キャッスルパーク」シナリオ4話の一部演出が、特定端末で正しく再生されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「【復刻】ようこそ聖アマルテア女学院へ」の、イベント一覧画面でのバナー表示を整理しました。
         </div>
         <div class="list">
             ▶各種データを追加しました。
