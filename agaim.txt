@@ -33,9 +33,75 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1050" class="weighty-column">
+
+            2023/02/14 14:00                            
+                <span class="red bold">
+                                            (02/14 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              信頼度上昇アイテムが一度に1000個以上使用できる不具合について            </div>
+
+        </div>
+        <div id="important-text-1050" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年02月14日 14:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、本日2/14（火）14:00 時点で修正が完了しておりますので、ご報告申し上げます。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶信頼度上昇アイテムを一度に1000個以上使用できてしまうにも関わらず、表示上の使用数は「999個」と表示される。
+            </div>
+        </div>
+        <div>
+            表示上は999個でカウントがストップしているにも関わらず、個数増加ボタンの判定が無効になっておらず、内部的に1000以上の個数指定ができてしまっていたのが、本不具合の原因となります。
+        </div>
+        <div>
+            また、1000以上の信頼度アイテムを一度に使用した場合でも、アイテムが消費された分の信頼度が正常に上昇していたことを確認しておりますので、<span class="bold">アイテム効果が反映されずに消費されていたといったことはございませんでした。</span>
+        </div>
+        <div>
+            なお、一度に1000以上の信頼度アイテムを使用したお客様につきましては、超過消費した分の信頼度アイテムの返却及び、信頼度の減少対応を後日、対応を希望されるお客様を対象に実施させていただく予定です。<br>
+            対応を希望されるお客様につきましては、大変お手数ですが下記よりお問い合わせください。
+        </div>
+        <div class="bold">
+            <div class="mailto" data-address="alice@colopl.jp" data-subject="アリス・ギア・アイギス 信頼度上昇アイテムに関するお問い合わせ" data-body="">
+                ・お問い合わせ窓口はコチラ
+            </div>
+        </div>
+        <p class="list">
+            ※タップするとメールアプリが起動します。
+        </p>
+        <p class="list">
+            ※件名は変更せずに送信してください。
+        </p>
+        
+        <div>
+            このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1051" class="weighty-column">
 
-            2023/02/13 14:00            
+            2023/02/13 14:00                            
+                <span class="bold">
+                                            (02/14 補填済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.63.1 配信のお知らせ            </div>
@@ -44,6 +110,36 @@
         <div id="important-text-1051" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2023年02月14日 14:00 追記<br>
+        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                2/14（火）14:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 100
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                2/28（火）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
     
     <div>
         ■2023年02月13日 14:00<br>
@@ -1188,50 +1284,6 @@
     <div>
         なお、Ver.1.62.0の配信に伴い、<span class="bold red">1/20（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1031" class="weighty-column">
-
-            2023/01/12 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1031" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年01月12日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶イベント「C101記念任務」のエピソードに登場する、州天頃 舜のボイスを調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
