@@ -325,14 +325,14 @@
             <div class="list">
                 ▶宮南 ひかりの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230209/bnr_l00_inf_502_09.jpg?v=1716">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230209/bnr_l00_inf_502_09.jpg?v=1717">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 宮南 ひかり【爛漫】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/630?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_041_70/bnr_header.jpg?v=1716">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_041_70/bnr_header.jpg?v=1717">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1052,7 +1052,7 @@
             ▶特定のヴァイスが使用する一部攻撃に対して、各種スキルの「打ち消し効果」が有効/無効が混在している問題を修正しました。
         </div>
         <p class="bold">【対象となる攻撃】</p>
-        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230122/info_02.jpg?v=1716">
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230122/info_02.jpg?v=1717">
         <p class="list">
             ※上記攻撃に対して「打ち消し効果」は無効となるのが正常な挙動となります。
         </p>
