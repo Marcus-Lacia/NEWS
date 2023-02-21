@@ -35,7 +35,10 @@
         
         <div id="important-column-1053" class="weighty-column">
 
-            2023/02/21 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/02/21 14:00                            
+                <span class="red bold">
+                                            (02/21 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -104,15 +107,22 @@
                 ・ビターコートMk2/B
             </div>
         </div>
-        <div class="list">
-            ▶イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                誤：調味料<br>
-                正：加工チョコ
+        <s>
+            <div class="list">
+                ▶イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている不具合を修正しました。
             </div>
-        </div>
+            <div class="sub-box bg_white">
+                <div>
+                    誤：調味料<br>
+                    正：加工チョコ
+                </div>
+            </div>
+        </s>
+        <p class="list red">
+            ※2/21（火）14:35 追記<br>
+            本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。<br>
+            度々ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけますと幸いです。
+        </p>
         <div class="list">
             ▶イベント「チョコレート・オブ・ザ・デッド」にて、料理作成時に特定操作を行うと、宮南 ひかりが開発意図と異なる表情になることがある問題を修正しました。
         </div>
@@ -139,8 +149,8 @@
         <div id="important-column-1052" class="weighty-column">
 
             2023/02/14 20:00                            
-                <span class="bold">
-                                            (02/21 修正済)
+                <span class="red bold">
+                                            (02/21 更新)
                                     </span>
             
             <div class="column-text">
@@ -151,6 +161,17 @@
         <div id="important-text-1052" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年02月21日 14:35 追記<br>
+            本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。
+        </div>
+        <div>
+            度々ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけますと幸いです。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年02月21日 14:00 追記<br>
             本件につきまして、順次配信されましたVer1.63.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
