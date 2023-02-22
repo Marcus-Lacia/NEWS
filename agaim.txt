@@ -33,50 +33,11 @@
 
       <div id="" class="weighty-list">
         
-        <div id="important-column-1054" class="weighty-column">
-
-            2023/02/21 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある            </div>
-
-        </div>
-        <div id="important-text-1054" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年02月21日 18:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
         <div id="important-column-1053" class="weighty-column">
 
             2023/02/21 14:00                            
                 <span class="red bold">
-                                            (02/21 更新)
+                                            (02/22 更新)
                                     </span>
             
             <div class="column-text">
@@ -89,7 +50,7 @@
 <div>
     
     <div>
-        ■2023年02月21日 14:00<br>
+        ■2023年02月21日 14:05<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
         順次配信が開始されました、Ver.1.63.2のアプリにて、以下の追加、調整、修正を行いました。
     </div>
@@ -146,21 +107,26 @@
                 ・ビターコートMk2/B
             </div>
         </div>
-        <s>
-            <div class="list">
-                ▶イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている不具合を修正しました。
+        <div class="list">
+            ▶イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：調味料<br>
+                正：加工チョコ
             </div>
-            <div class="sub-box bg_white">
-                <div>
-                    誤：調味料<br>
-                    正：加工チョコ
-                </div>
-            </div>
-        </s>
+        </div>
         <p class="list red">
-            ※2/21（火）14:35 追記<br>
-            本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。<br>
-            度々ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけますと幸いです。
+            <s>
+                ※2/21（火）14:35 追記<br>
+                本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。<br>
+                度々ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけますと幸いです。
+            </s>
+        </p>
+        <p class="list red">
+            ※2/22（水）14:05 追記<br>
+            本件につきまして、修正が正しく反映されていることを改めて確認いたしましたので、ご報告申し上げます。<br>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
         </p>
         <div class="list">
             ▶イベント「チョコレート・オブ・ザ・デッド」にて、料理作成時に特定操作を行うと、宮南 ひかりが開発意図と異なる表情になることがある問題を修正しました。
@@ -189,7 +155,7 @@
 
             2023/02/14 20:00                            
                 <span class="red bold">
-                                            (02/21 更新)
+                                            (02/22 修正済)
                                     </span>
             
             <div class="column-text">
@@ -200,6 +166,17 @@
         <div id="important-text-1052" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年02月22日 14:05 追記<br>
+            本件につきまして、修正が正しく反映されていることを改めて確認いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年02月21日 14:35 追記<br>
             本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。
@@ -249,6 +226,45 @@
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-1054" class="weighty-column">
+
+            2023/02/21 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある            </div>
+
+        </div>
+        <div id="important-text-1054" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年02月21日 18:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
