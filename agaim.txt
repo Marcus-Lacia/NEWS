@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1058" class="weighty-column">
+
+            2023/02/24 16:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              コスチューム「NVマーチャント」に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1058" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年02月24日 16:35<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、コスチューム「NVマーチャント」に以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ①特定のカメラアングルになった際「ACCESS DENIED」が表示される。
+            </div>
+            <p class="list red">
+                ※当該コスチューム着用中「ACCESS DENIED」は表示されないのが仕様となります。
+            </p>
+            <div class="list">
+                ②一条 綾香が着用中、腰のあたりに丸い影のような模様が表示される。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1057" class="weighty-column">
 
             2023/02/24 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1270,88 +1315,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1039" class="weighty-column">
-
-            2023/01/24 16:00                            
-                <span class="bold">
-                                            (01/24 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1039" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年01月24日 16:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶巽 竜子が特定ギアを装備すると、3D MODEL画面にて、腕部の表示が崩れる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「百家聡鳴 ～こだわりの先に～」の、各エピソードバナーの背景が正しく表示されていない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「百家聡鳴 ～こだわりの先に～」の、エピソード1話内の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶百科 文嘉のコスチューム「アニバドレスV」説明文の脱字を修正しました。
-        </div>
-        <div class="list">
-            ▶琴村 朱音、及び琴村 天音がコスチューム「ユニフォーム/S9」着用時、特定のカメラアングルになった際「ACCESS DENIED」が表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶コスチューム「ゾディアックバニー」着用時、小指が違和感のある見た目になる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶1/22（日）15:00 より切り替わったホーム画面にて、深夜帯（0:00 ～ 5:59）はアクトレスが餅つきをお休みするようにしました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                1/24（火）16:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                2/7（火）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
