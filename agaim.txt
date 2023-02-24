@@ -33,6 +33,96 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1055" class="weighty-column">
+
+            2023/02/24 11:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.63.3 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1055" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年02月24日 11:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.63.3のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.63.3の更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.63.3の配信に伴い、<span class="bold red">2/24（金）17:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1054" class="weighty-column">
+
+            2023/02/21 18:00                            
+                <span class="red bold">
+                                            (02/24 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある            </div>
+
+        </div>
+        <div id="important-text-1054" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年02月24日 11:00 追記<br>
+            本件につきまして、順次配信されましたVer1.63.3アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2023年02月21日 18:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1053" class="weighty-column">
 
             2023/02/21 14:00                            
@@ -226,44 +316,6 @@
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1054" class="weighty-column">
-
-            2023/02/21 18:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある            </div>
-
-        </div>
-        <div id="important-text-1054" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年02月21日 18:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
@@ -1301,85 +1353,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1035" class="weighty-column">
-
-            2023/01/21 14:00                            
-                <span class="bold">
-                                            (01/22 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.62.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1035" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年01月22日 14:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                1/22（日）14:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                2/5（日）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年01月21日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.62.1のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.62.1の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.62.0アプリより、一部SPスキルやギアスキルのフィニッシュ攻撃後に、スキルが正常に終了しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.62.0アプリより、カウンター効果を持つSPスキルが正常に発動しない不具合を修正しました。
-        </div>
-        <div class="list">
-        	▶Ver.1.62.0アプリより、メインストーリー「侵蝕編7章」の「討伐任務:17件目」をプレイするとエラーが発生する不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.62.1の配信に伴い、<span class="bold red">1/22（日）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/50</div>
+                    <div class="page-box box-radius">1/51</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
