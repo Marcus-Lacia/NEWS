@@ -35,8 +35,7 @@
         
         <div id="important-column-1059" class="weighty-column">
 
-            2023/02/24 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/02/24 20:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               2/24（金）14:00 のアップデートより、イベント「～5周年記念イベント～ 開幕！ 5周年！」の会話へクスの内容が正しく表示されない            </div>
