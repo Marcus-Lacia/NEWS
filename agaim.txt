@@ -294,7 +294,7 @@
         <div id="important-column-1054" class="weighty-column">
 
             2023/02/21 18:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (02/24 修正済)
                                     </span>
             
