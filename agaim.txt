@@ -320,14 +320,14 @@
             <div class="list">
                 ▶一条 綾香の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230224/bnr_l00_inf_502_24.jpg?v=1727">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230224/bnr_l00_inf_502_24.jpg?v=1728">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 一条 綾香【英俊】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/126?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_010_70/bnr_header.jpg?v=1727">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_010_70/bnr_header.jpg?v=1728">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -927,14 +927,14 @@
             <div class="list">
                 ▶宮南 ひかりの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230209/bnr_l00_inf_502_09.jpg?v=1727">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230209/bnr_l00_inf_502_09.jpg?v=1728">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 宮南 ひかり【爛漫】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/630?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_041_70/bnr_header.jpg?v=1727">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_041_70/bnr_header.jpg?v=1728">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
