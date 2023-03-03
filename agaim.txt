@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1063" class="weighty-column">
+
+            2023/03/03 21:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない            </div>
+
+        </div>
+        <div id="important-text-1063" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月03日 21:50<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1062" class="weighty-column">
 
             2023/03/03 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1300,77 +1339,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1043" class="weighty-column">
-
-            2023/02/02 16:10                            
-                <span class="bold">
-                                            (02/08 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「復刻イベント交換所 ダイヤネス」に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-1043" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年02月08日 14:00 追記<br>
-            本件につきまして、順次配信されましたVer1.63.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年02月02日 16:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶「復刻イベント交換所 ダイヤネス」にて、「復刻アイテムセット23」選択時に表示されるキャラクターが、本来着用できない誤ったアクセサリーを着用している。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・二子玉 舞<br>
-                    誤：クリスのゴーグル<br>
-                    正：ラブリュスの髪飾り<br>
-                    <br>
-                    ・バージニア・グリンベレー<br>
-                    誤：ラブリュスの髪飾り<br>
-                    正：クリスのゴーグル
-                </div>
-            </div>
-            <p class="list red">
-                ※見た目のみの不具合となり、交換時は正しいアクセサリーが受け取れることを確認しております。
-            </p>
-            <p class="list red">
-                ※交換アイテムの一覧は画面右上の「i」ボタンから確認できます。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
