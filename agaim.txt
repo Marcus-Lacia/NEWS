@@ -35,7 +35,10 @@
         
         <div id="important-column-1064" class="weighty-column">
 
-            2023/03/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/03/07 14:00                            
+                <span class="red bold">
+                                            (03/07 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -235,10 +238,13 @@
                 ・千島 美幸<br>
                 ・山野 薫子<br>
                 ・御茶ノ水 美里江<br>
-                ・金潟 すぐみ<br>
-                ・春日丘 もえ
+                ・金潟 すぐみ
             </div>
         </div>
+        <p class="list red">
+            ※3/7（火）14:25 追記<br>
+            対象キャラクター一覧に対象外のキャラクター名が含まれていたため、修正しました。
+        </p>
         <div class="list">
             ▶各種データを追加しました。
         </div>
