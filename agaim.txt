@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1066" class="weighty-column">
+
+            2023/03/09 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1066" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年03月09日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・スティレット
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            <p class="list red">
+                ※「バーゼラルド」、「フレズヴェルク」のエニグマに関しても、近日実装を予定しております。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1069" class="weighty-column">
 
             2023/03/07 17:05            
@@ -1439,48 +1484,6 @@
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1047" class="weighty-column">
-
-            2023/02/09 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1047" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年02月09日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶宮南 ひかりの専用トップスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230209/bnr_l00_inf_502_09.jpg?v=1734">
-    
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、<br>
-                宮南 ひかり【爛漫】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/630?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_041_70/bnr_header.jpg?v=1734">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
