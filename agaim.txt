@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1073" class="weighty-column">
+
+            2023/03/15 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              iOS10以下の非対応化について            </div>
+
+        </div>
+        <div id="important-text-1073" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月15日 19:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            近日配信予定の最新アプリより、「iOS10」以下が非対応となりますので、ご案内いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【非対応化の対象】</p>
+            
+            <div>
+                ・iOS9<br>
+                ・iOS10
+            </div>
+            <div>
+                4月以降、iOS版開発ツールにて「iOS10」以下が非対応となるため、対象OSにつきましてもあわせて非対応化を実施させていただきます。
+            </div>
+            <div>
+                「iOS11」以上では引き続きゲームをお楽しみいただけますので、「iOS10」以下をご利用のお客様はOSのバージョンアップを実施いただきますようお願い申し上げます。
+            </div>
+        </div>
+        <div>
+            お客様にはご不便をおかけいたしますが、何卒、ご理解ならびにご協力をお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1072" class="weighty-column">
 
             2023/03/15 15:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1384,90 +1427,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1052" class="weighty-column">
-
-            2023/02/14 20:00                            
-                <span class="bold">
-                                            (02/22 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている            </div>
-
-        </div>
-        <div id="important-text-1052" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年02月22日 14:05 追記<br>
-            本件につきまして、修正が正しく反映されていることを改めて確認いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年02月21日 14:35 追記<br>
-            本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。
-        </div>
-        <div>
-            度々ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけますと幸いです。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年02月21日 14:00 追記<br>
-            本件につきまして、順次配信されましたVer1.63.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年02月14日 20:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    誤：調味料<br>
-                    正：加工チョコ
-                </div>
-            </div>
-            <p class="list red">
-                ※Tipsやお知らせ内の対応ボーナス一覧表の内容は、正しい内容となっております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
