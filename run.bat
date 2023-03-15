@@ -21,7 +21,7 @@ python diff.py
 
 
 git add -A 
-git commit -m "公告更新"
+git commit -m "NEWS UPDATE"
 git push -u origin main
 
 
