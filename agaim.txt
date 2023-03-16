@@ -33,9 +33,93 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1074" class="weighty-column">
+
+            2023/03/16 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.64.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1074" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年03月16日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.64.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.64.1の更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.64.0アプリより、下記ギアスキル発動時のエフェクトが正常に表示されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・ヘイルRWS<br>
+                ・ヘクセンシュス
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ショットギアを装備中に特定操作を行うと、各種スキルの発動や、溜め撃ち以外の行動が行えなくなることがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/フリントファングMk2<br>
+                ・★4/フリントファングMk3
+            </div>
+        </div>
+        <div class="list">
+            ▶撮影ルームにて特定操作を行うと、下記キャラクターが開発意図と異なる大きさで表示される不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・轟雷<br>
+                ・スティレット<br>
+                ・バーゼラルド<br>
+                ・フレズヴェルク
+            </div>
+        </div>
+        <div class="list show_only_iOS">
+            ▶「iOS10」以下の非対応化を行いました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.64.1の配信に伴い、<span class="bold red">3/17（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1073" class="weighty-column">
 
-            2023/03/15 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/03/15 19:00                            
+                <span class="red bold">
+                                            (03/16 実施済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
@@ -45,6 +129,20 @@
         <div id="important-text-1073" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年03月16日 14:10 追記<br>
+            「iOS10」以下の非対応化を、本日より順次配信されているVer.1.64.1アプリより実施いたしました。
+        </div>
+        <div>
+            本アプリのアップデート後より、「iOS10」以下ではゲームが起動できなくなりますのでご注意ください。
+        </div>
+        <p class="list red">
+            ※3/17（金）14:00頃を目途に強制アップデートを実施いたします。
+        </p>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年03月15日 19:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -70,6 +168,59 @@
         </div>
         <div>
             お客様にはご不便をおかけいたしますが、何卒、ご理解ならびにご協力をお願い申し上げます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-1071" class="weighty-column">
+
+            2023/03/14 20:10                            
+                <span class="red bold">
+                                            (03/16 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある            </div>
+
+        </div>
+        <div id="important-text-1071" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月16日 14:10 追記<br>
+            本件につきまして、順次配信されましたVer1.64.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2023年03月14日 20:10<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
@@ -102,44 +253,6 @@
             
             <div class="list">
                 ▶Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1071" class="weighty-column">
-
-            2023/03/14 20:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある            </div>
-
-        </div>
-        <div id="important-text-1071" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月14日 20:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある。
             </div>
         </div>
         <div>
@@ -1308,124 +1421,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1053" class="weighty-column">
-
-            2023/02/21 14:00                            
-                <span class="bold">
-                                            (02/22 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.63.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1053" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年02月21日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.63.2のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.63.2の更新内容】</p>
-        
-        <div class="list hide_DMM">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶一部クロスギアを使用中、SPスキル演出や大型ヴァイスの出現演出、及びエリア移動前後の演出中には、モードシフトゲージが減少しないよう仕様を変更しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/ミラードホーン2<br>
-                ・★4/カストル・シックス<br>
-                ・★4/レクトゥリクス<br>
-                ・★4/レクトゥリクスMk2<br>
-                ・★4/レクトゥリクスMk3
-            </div>
-        </div>
-        <div class="list">
-            ▶鳳 加純が下記クロスギア装備時、モードシフト中に背面に表示されるエフェクトが、SPスキル演出中に、開発意図と異なる見た目になる問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/レクトゥリクス<br>
-                ・★4/レクトゥリクスMk2<br>
-                ・★4/レクトゥリクスMk3
-            </div>
-        </div>
-        <div class="list">
-            ▶宮南 ひかりが特定アクセサリーを着用すると、ドレッサー画面でのリアクションが正しく行われなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ファティマ・Bがコスチューム「スタープロムナード」着用時、体の特定部位が、違和感ある見た目になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「チョコレート・オブ・ザ・デッド」で獲得できる各種イベントギアの最大Lv及び各種バトルパラメータが、開発意図よりも低くなっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・スイートブレンダーMk2<br>
-                ・スパチュラMk2<br>
-                ・ビターコートMk2/T<br>
-                ・ビターコートMk2/B
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「チョコレート・オブ・ザ・デッド」にて、米良渕 花浪の食材ボーナスが開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                誤：調味料<br>
-                正：加工チョコ
-            </div>
-        </div>
-        <p class="list red">
-            <s>
-                ※2/21（火）14:35 追記<br>
-                本不具合につきまして、修正が正しく反映されていないことを確認いたしましたので、改めて修正作業を進めております。<br>
-                度々ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけますと幸いです。
-            </s>
-        </p>
-        <p class="list red">
-            ※2/22（水）14:05 追記<br>
-            本件につきまして、修正が正しく反映されていることを改めて確認いたしましたので、ご報告申し上げます。<br>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </p>
-        <div class="list">
-            ▶イベント「チョコレート・オブ・ザ・デッド」にて、料理作成時に特定操作を行うと、宮南 ひかりが開発意図と異なる表情になることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.63.2の配信に伴い、<span class="bold red">2/22（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
