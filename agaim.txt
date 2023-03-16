@@ -271,8 +271,7 @@
         
         <div id="important-column-1072" class="weighty-column">
 
-            2023/03/15 15:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/03/15 15:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない            </div>
