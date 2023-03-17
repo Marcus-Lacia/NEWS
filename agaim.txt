@@ -191,7 +191,7 @@
         <div id="important-column-1073" class="weighty-column">
 
             2023/03/15 19:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (03/16 実施済)
                                     </span>
             
@@ -251,7 +251,7 @@
         <div id="important-column-1071" class="weighty-column">
 
             2023/03/14 20:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (03/16 修正済)
                                     </span>
             
