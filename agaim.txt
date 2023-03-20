@@ -35,7 +35,10 @@
         
         <div id="important-column-1075" class="weighty-column">
 
-            2023/03/20 11:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/03/20 11:00                            
+                <span class="red bold">
+                                            (03/20 補填済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -45,6 +48,36 @@
         <div id="important-text-1075" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2023年03月20日 17:00 追記<br>
+        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                3/20（月）17:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 100
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                4/3（月）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
     
     <div>
         ■2023年03月20日 11:00<br>
