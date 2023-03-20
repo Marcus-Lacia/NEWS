@@ -33,6 +33,102 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1075" class="weighty-column">
+
+            2023/03/20 11:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.64.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1075" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年03月20日 11:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.64.2のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.64.2の更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.64.1アプリにて修正された「へクスクリア後にMAP画面をわずかに操作できない瞬間がある不具合」が、オプションの「報酬獲得簡易表示」をONにしている場合に再発する問題を修正しました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.64.2の配信に伴い、<span class="bold red">3/20（月）17:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1072" class="weighty-column">
+
+            2023/03/15 15:05                            
+                <span class="red bold">
+                                            (03/20 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない            </div>
+
+        </div>
+        <div id="important-text-1072" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月20日 11:00 追記<br>
+            本件につきまして、順次配信されましたVer1.64.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2023年03月15日 15:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1074" class="weighty-column">
 
             2023/03/16 14:10                            
@@ -287,44 +383,6 @@
             
             <div class="list">
                 ▶Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1072" class="weighty-column">
-
-            2023/03/15 15:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない            </div>
-
-        </div>
-        <div id="important-text-1072" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月15日 15:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない。
             </div>
         </div>
         <div>
@@ -1399,51 +1457,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1057" class="weighty-column">
-
-            2023/02/24 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1057" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年02月24日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶一条 綾香の専用ショットギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230224/bnr_l00_inf_502_24.jpg?v=1742">
-    
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、<br>
-                一条 綾香【英俊】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/126?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_010_70/bnr_header.jpg?v=1742">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/51</div>
+                    <div class="page-box box-radius">1/52</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
