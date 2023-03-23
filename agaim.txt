@@ -33,6 +33,173 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1076" class="weighty-column">
+
+            2023/03/23 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1076" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年03月23日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶轟雷の専用ショットギアの性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/フリースタイルバズーカR<br>
+                ・★3/フリースタイルバズーカ<br>
+                ・★3/フリースタイルバズーカMk2<br>
+                ・★3/フリースタイルバズーカMk3<br>
+                ・★4/フリースタイルバズーカMk4<br>
+                ・★4/フリースタイルバズーカMk5<br>
+                ・★4/フリースタイルバズーカS
+            </div>
+            <p class="list">
+                ・立ち射撃1～3段目の攻撃力を約7%増加。
+            </p>
+            <p class="list">
+                ・前移動射撃の攻撃力を約10%増加。
+            </p>
+            <p class="list">
+                ・後移動射撃の攻撃力を約40%増加。
+            </p>
+            <p class="list">
+                ・横移動射撃の攻撃力を約93%増加。
+            </p>
+            <p class="list">
+                ・溜め撃ちの攻撃力を約82%増加。
+            </p>
+            <p class="list">
+                ・溜め撃ちのSPゲージ上昇量を約82%増加。
+            </p>
+        </div>
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶エニグマで修得可能な一部パッシブスキルのLv表記が、開発意図と異なっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象パッシブスキル】</p>
+            <div>
+                ・EX:轟雷<br>
+                ・EX:スティレット<br>
+                ・EX:バーゼラルド<br>
+                ・EX:フレズヴェルク
+            </div>
+        </div>
+        <p class="list red">
+            ※対象パッシブスキルを既に修得しているキャラクターにつきましては、後日、正しい表記（Lv表記なし）への修正を予定しております。
+        </p>
+        <div class="list">
+            ▶スティレットの顔を横から見たとき、口が顔から浮いて見えることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1069" class="weighty-column">
+
+            2023/03/07 17:05                            
+                <span class="red bold">
+                                            (03/23 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              エニグマで修得可能な一部パッシブスキルのLv表記が、開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-1069" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月23日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <p class="list red">
+            ※対象パッシブスキルを既に修得しているキャラクターにつきましては、後日、正しい表記（Lv表記なし）への修正を予定しております。
+        </p>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2023年03月07日 17:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶エニグマで修得可能な一部パッシブスキルのLv表記が、開発意図と異なっている。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象パッシブスキル】</p>
+                <div>
+                    ・EX:轟雷
+                </div>
+            </div>
+            <p class="list">
+                ※「Lv.4」と表記されていますが、Lvアップができないパッシブスキルとなるため、Lv表記無しが本来の仕様となります。
+            </p>
+            <p class="list">
+                ※表記のみの問題となり、パッシブスキル性能に影響はありません。
+            </p>
+            <p class="list">
+                ※近日エニグマが実装されるコラボキャラクターにおいても、同様の問題が発生する可能性がございます。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1075" class="weighty-column">
 
             2023/03/20 11:00                            
@@ -621,59 +788,6 @@
             </p>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1069" class="weighty-column">
-
-            2023/03/07 17:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              エニグマで修得可能な一部パッシブスキルのLv表記が、開発意図と異なっている            </div>
-
-        </div>
-        <div id="important-text-1069" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月07日 17:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶エニグマで修得可能な一部パッシブスキルのLv表記が、開発意図と異なっている。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象パッシブスキル】</p>
-                <div>
-                    ・EX:轟雷
-                </div>
-            </div>
-            <p class="list">
-                ※「Lv.4」と表記されていますが、Lvアップができないパッシブスキルとなるため、Lv表記無しが本来の仕様となります。
-            </p>
-            <p class="list">
-                ※表記のみの問題となり、パッシブスキル性能に影響はありません。
-            </p>
-            <p class="list">
-                ※近日エニグマが実装されるコラボキャラクターにおいても、同様の問題が発生する可能性がございます。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
@@ -1419,76 +1533,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1055" class="weighty-column">
-
-            2023/02/24 11:00                            
-                <span class="bold">
-                                            (02/24 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.63.3 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1055" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年02月24日 17:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                2/24（金）17:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                3/10（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年02月24日 11:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.63.3のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.63.3の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.63.2アプリより、村尾 未羅のSPスキル「メタトロニオス」を発動するとエラーが発生することがある不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.63.3の配信に伴い、<span class="bold red">2/24（金）17:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
