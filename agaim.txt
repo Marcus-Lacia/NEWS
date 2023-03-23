@@ -33,6 +33,67 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1078" class="weighty-column">
+
+            2023/03/23 21:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              一部ショットギア及びクロスギアを強化した時の属性値が正常に上昇しない            </div>
+
+        </div>
+        <div id="important-text-1078" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月23日 21:50<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶一部ショットギア及びクロスギアを強化した時の属性値が正常に上昇しない。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ショットギア】</p>
+                <div>
+                    ・★4/FスタイルバズーカGAs4<br>
+                    ・★4/FスタイルバズーカGAs5<br>
+                    ・★4/FスタイルバズーカGAsS<br>
+                    ・★4/ウォーターアームズMk4<br>
+                    ・★4/ウォーターアームズMk5<br>
+                    ・★4/ウォーターアームズS
+                </div>
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象クロスギア】</p>
+                <div>
+                    ・★4/サムライマスターソードMk4<br>
+                    ・★4/サムライマスターソードMk5<br>
+                    ・★4/サムライマスターソードS<br>
+                    ・★4/DチェーンソーMk4<br>
+                    ・★4/DチェーンソーMk5<br>
+                    ・★4/ダイナミックチェーンソーS
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1077" class="weighty-column">
 
             2023/03/23 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1464,59 +1525,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1059" class="weighty-column">
-
-            2023/02/24 20:00                            
-                <span class="bold">
-                                            (02/27 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              2/24（金）14:00 のアップデートより、イベント「～5周年記念イベント～ 開幕！ 5周年！」の会話へクスの内容が正しく表示されない            </div>
-
-        </div>
-        <div id="important-text-1059" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年02月27日 17:30 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年02月24日 20:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶2/24（金）14:00 のアップデートより、イベント「～5周年記念イベント～ 開幕！ 5周年！」の会話へクスの内容が正しく表示されない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
