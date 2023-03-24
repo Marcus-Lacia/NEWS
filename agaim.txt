@@ -171,8 +171,7 @@
         
         <div id="important-column-1078" class="weighty-column">
 
-            2023/03/23 21:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/03/23 21:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部ショットギア及びクロスギアを強化した時の属性値が正常に上昇しない            </div>
