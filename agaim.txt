@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1079" class="weighty-column">
+
+            2023/03/24 12:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「フレームアームズ・ガール with 創彩少女庭園 あおと武希子の課外活動 特設交換所」のレプリカギアが、入手時にロックされていない            </div>
+
+        </div>
+        <div id="important-text-1079" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年03月24日 12:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶「フレームアームズ・ガール with 創彩少女庭園 あおと武希子の課外活動 特設交換所」のレプリカギアが、入手時にロックされていない。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1078" class="weighty-column">
 
             2023/03/23 21:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1435,86 +1474,6 @@
         </div>
         <div class="list">
         	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1060" class="weighty-column">
-
-            2023/02/27 17:30                            
-                <span class="bold">
-                                            (02/27 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1060" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年02月27日 17:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶2/24（金）14:00 のアップデートより、イベント「～5周年記念イベント～ 開幕！ 5周年！」の会話へクスの内容が正しく表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶コスチューム「NVマーチャント」着用中、特定のカメラアングルになった際「ACCESS DENIED」が表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一条 綾香がコスチューム「NVマーチャント」着用中、腰のあたりに丸い影のような模様が表示される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶一部キャラエピソード再生時に、開発意図と異なるTipsが表示される不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラエピソード】</p>
-            <div>
-                ・小鳥遊 怜【ネクスト】 Ep.5-1～5-3<br>
-                ・一条 綾香【ネクスト】 Ep.5-1～5-3
-            </div>
-        </div>
-        <div class="list">
-            ▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                2/27（月）17:30 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                3/13（月）23:59 まで
-            </div>
         </div>
     </div>
     <div>
