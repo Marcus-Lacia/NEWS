@@ -178,8 +178,7 @@
         
         <div id="important-column-1076" class="weighty-column">
 
-            2023/03/23 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/03/23 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               本日のデータ更新内容について            </div>
@@ -275,7 +274,7 @@
         <div id="important-column-1069" class="weighty-column">
 
             2023/03/07 17:05                            
-                <span class="red bold">
+                <span class="bold">
                                             (03/23 修正済)
                                     </span>
             
