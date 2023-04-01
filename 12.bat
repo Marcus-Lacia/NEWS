@@ -1,27 +1,18 @@
 cd ..
-cd C:\Users\Administrator\Desktop\githubc\NEWS
-rmdir /s/q beta
-
-cd C:\Users\Administrator\Desktop\githubc\NEWS\download
-python aga.py
+cd C:\Users\Administrator\Desktop\githubc\NEWS-push
+rmdir news.txt
 
 
-move agaim.txt C:\Users\Administrator\Desktop\githubc\NEWS
-cd C:\Users\Administrator\Desktop\githubc\NEWS
-node chs.js
+
+copy C:\Users\Administrator\Desktop\githubc\NEWS\new\new.txt C:\Users\Administrator\Desktop\githubc\NEWS-push
+
+cd C:\Users\Administrator\Desktop\githubc\NEWS-push
 
 
-cd C:\Users\Administrator\Desktop\githubc\NEWS\beta
-rename *.txt new.txt
-cd C:\Users\Administrator\Desktop\githubc\NEWS\new
-rename *.txt new.txt
-cd C:\Users\Administrator\Desktop\githubc\NEWS
-
-python diff.py
 
 
 git add -A 
 git commit -m "NEWS UPDATE"
 git push -u origin main
 
-
+pause
