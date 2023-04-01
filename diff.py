@@ -16,6 +16,7 @@ else:
     os.system('python 7.py')
     os.system('python 8.py')
     os.system('python 9.py')
+    os.system('12.bat')
     
 
    
