@@ -15,4 +15,4 @@ git add -A
 git commit -m "NEWS UPDATE"
 git push -u origin main
 
-pause
+
