@@ -36,7 +36,7 @@
         <div id="important-column-1086" class="weighty-column">
 
             2023/04/01 18:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/01 補填済)
                                     </span>
             
