@@ -33,6 +33,90 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1090" class="weighty-column">
+
+            2023/04/06 15:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-1090" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年04月06日 15:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    誤：140<br>
+                    正：60
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-1089" class="weighty-column">
+
+            2023/04/06 15:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              指揮官モード中断後に特定操作を行うと、意図せず指揮官モードが開始してしまう            </div>
+
+        </div>
+        <div id="important-text-1089" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年04月06日 15:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶指揮官モードを特定操作で中断した後、通常バトルモードで任務をクリアすると意図せず指揮官モードが開始してしまうことがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1088" class="weighty-column">
 
             2023/04/05 15:00            
@@ -1266,168 +1350,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1071" class="weighty-column">
-
-            2023/03/14 20:10                            
-                <span class="bold">
-                                            (03/16 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある            </div>
-
-        </div>
-        <div id="important-text-1071" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月16日 14:10 追記<br>
-            本件につきまして、順次配信されましたVer1.64.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年03月14日 20:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1070" class="weighty-column">
-
-            2023/03/14 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.64.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1070" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年03月14日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.64.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.64.0の更新内容】</p>
-        
-        <div class="list">
-            ▶一部小型ヴァイスの攻撃のダメージ量を調整しました。
-        </div>
-        <p class="list red">
-            ※特異型が召喚するルイカとクリオスは対象外となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象小型ヴァイス】</p>
-            <div>
-                ・ルイカ<br>
-                ・ブラナイル
-            </div>
-            <p class="list">
-                ・攻撃1発分のダメージを約26%～46%減少。
-            </p>
-            <p class="list red">
-                ※出現するステージの難度にあわせて調整量が変化します。
-            </p>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象小型ヴァイス】</p>
-            <div>
-                ・クリオス<br>
-                ・ピナリア
-            </div>
-            <p class="list">
-                ・攻撃1発分のダメージを約26%減少。
-            </p>
-        </div>
-        <div class="list">
-            ▶ヴェスピナエがキャラクターの頭上からレーザー攻撃を行う時、予測線の表示位置から少しずれた所に照射される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ヴェスピナエの各種レーザー攻撃の効果音が、正常に再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ヴェスピナエが各種レーザー攻撃中にチャージ状態へ移行する際に、レーザー攻撃が中断されるよう挙動を調整しました。
-        </div>
-        <div class="list">
-            ▶ヴェスピナエとの距離が一定以上離れている状態が続いても、チャージ状態に移行しないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶鳳 加純が下記クロスギア装備時、モードシフト中に背面に表示されるエフェクトが、エリア移動後に正常に表示されなくなることがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/レクトゥリクス<br>
-                ・★4/レクトゥリクスMk2<br>
-                ・★4/レクトゥリクスMk3
-            </div>
-        </div>
-        <div class="list">
-            ▶特定端末にて、任務中の画面表示が乱れることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶任務で全滅した時に「やり直す」を選択し、任務再開後に操作キャラクターを交代すると、開発意図と異なるボイスが再生される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶「FAガール水着シェル」の説明文に使用期限を追記しました。
-        </div>
-        <p class="list red">
-            ※「FAガール水着シェル」は4/20（木）15:00 に消滅し、「ゴールド×100」がログイン時に受取箱へ送られます。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.64.0の配信に伴い、<span class="bold red">3/15（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
