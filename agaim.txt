@@ -35,8 +35,7 @@
         
         <div id="important-column-1090" class="weighty-column">
 
-            2023/04/06 15:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/04/06 15:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている            </div>
@@ -80,8 +79,7 @@
         
         <div id="important-column-1089" class="weighty-column">
 
-            2023/04/06 15:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/04/06 15:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               指揮官モード中断後に特定操作を行うと、意図せず指揮官モードが開始してしまう            </div>
