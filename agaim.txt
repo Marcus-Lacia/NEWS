@@ -33,6 +33,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1093" class="weighty-column">
+
+            2023/04/13 17:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定ショットギアの溜め撃ち（リロード）時に、ブーストゲージを消費してしまう            </div>
+
+        </div>
+        <div id="important-text-1093" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年04月13日 17:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定ショットギアの溜め撃ち（リロード）時に、ブーストゲージを消費してしまう。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象ショットギア】</p>
+                <div>
+                    ・★4/ドラグーン・レヴ<br>
+                    ・★4/ルイス・ペレンナ・レヴ
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1092" class="weighty-column">
 
             2023/04/13 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1351,119 +1397,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1074" class="weighty-column">
-
-            2023/03/16 14:10                            
-                <span class="bold">
-                                            (03/17 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.64.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1074" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年03月17日 14:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                3/17（金）14:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                3/31（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    <div>
-        ■2023年03月16日 14:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.64.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.64.1の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.64.0アプリより、へクスクリア後にMAP画面をわずかに操作できない瞬間がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.64.0アプリより、下記ギアスキル発動時のエフェクトが正常に表示されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・ヘイルRWS<br>
-                ・ヘクセンシュス
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ショットギアを装備中に特定操作を行うと、各種スキルの発動や、溜め撃ち以外の行動が行えなくなることがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★4/フリントファングMk2<br>
-                ・★4/フリントファングMk3
-            </div>
-        </div>
-        <div class="list">
-            ▶撮影ルームにて特定操作を行うと、下記キャラクターが開発意図と異なる大きさで表示される不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・轟雷<br>
-                ・スティレット<br>
-                ・バーゼラルド<br>
-                ・フレズヴェルク
-            </div>
-        </div>
-        <div class="list show_only_iOS">
-            ▶「iOS10」以下の非対応化を行いました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.64.1の配信に伴い、<span class="bold red">3/17（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
