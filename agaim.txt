@@ -33,6 +33,168 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1091" class="weighty-column">
+
+            2023/04/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1091" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年04月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種デイリー任務のBGMを変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・アニマクエスト<br>
+                ・ゴールドクエスト<br>
+                ・解析でんちクエスト
+            </div>
+        </div>
+        <div class="list">
+            ▶メインストーリー「黎明編」の一部任務で指揮官モードを利用できるよう調整しました。
+        </div>
+        <div class="list">
+            ▶「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：140<br>
+                正：60
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ギアスキル発動時、単体の敵に対する攻撃であるにも関わらず、複数の敵をロックオンする演出が表示される不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・ハロードヌイルーチ<br>
+                ・ザミルザーニイルーチ
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ショットギア装備中、射撃の射程外にいる時に、ロックオンマーカーに「射程外」と表示されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/オニエ・玄<br>
+                ・★4/オニヤライ・玄
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ショットギアの横移動射撃が、左に移動した時のみ、マルチロックオン範囲が開発意図よりも狭くなっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/ウォーターアームズR<br>
+                ・★3/ウォーターアームズ<br>
+                ・★3/ウォーターアームズMk2<br>
+                ・★3/ウォーターアームズMk3<br>
+                ・★4/ウォーターアームズMk4<br>
+                ・★4/ウォーターアームズMk5<br>
+                ・★4/ウォーターアームズS
+            </div>
+        </div>
+        <div class="list">
+            ▶源内 あお、寿 武希子の専用アクセサリー「ヘッドギア」の、説明文の装着部位表記が誤っている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表記のみの修正となり、装着部位に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                誤：頭・前頭<br>
+                正：前頭
+            </div>
+        </div>
+        <div class="list">
+            ▶寿 武希子のキャラエピソードEp4-1の特定シーンにて、開発意図と異なる背景が表示される問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記エピソードに登場する、寿 武希子の呼称表記を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象エピソード】</p>
+            <div>
+                ・寿 武希子 キャラエピソードEp4-1<br>
+                ・寿 武希子 絆エピソードEp3
+            </div>
+        </div>
+        <div class="list">
+            ▶下記エピソードの一部シーンに登場する、比良坂 夜露のギアやコスチューム等を変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象エピソード】</p>
+            <div>
+                <p class="list">
+                    ・イベント「アリス・ギア・アイギス Expansion 記念任務」
+                </p>
+                ・高幡 のどか キャラエピソードEp1
+            </div>
+        </div>
+        <div class="list">
+            ▶一部エピソードのロード画面に表示される、高幡 のどか紹介Tipsの誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶アクセサリー「ネコミミイヤホン」を特定キャラクターが着用したとき、イヤホンの着用位置がずれることがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶下記アクトレスがコスチューム「アニバドレスV」着用時の、脇の処理を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・比良坂 夜露<br>
+                ・小鳥遊 怜<br>
+                ・藤野 やよい<br>
+                ・伊戸倉 音緒<br>
+                ・神宮寺 真理<br>
+                ・琴村 朱音<br>
+                ・琴村 天音<br>
+                ・王 紅花<br>
+                ・千島 美幸<br>
+                ・御茶ノ水 美里江<br>
+                ・我龍 絵美
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1090" class="weighty-column">
 
             2023/04/06 15:45            
@@ -1284,66 +1446,6 @@
             </p>
         </div>
         
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1073" class="weighty-column">
-
-            2023/03/15 19:00                            
-                <span class="bold">
-                                            (03/16 実施済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              iOS10以下の非対応化について            </div>
-
-        </div>
-        <div id="important-text-1073" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月16日 14:10 追記<br>
-            「iOS10」以下の非対応化を、本日より順次配信されているVer.1.64.1アプリより実施いたしました。
-        </div>
-        <div>
-            本アプリのアップデート後より、「iOS10」以下ではゲームが起動できなくなりますのでご注意ください。
-        </div>
-        <p class="list red">
-            ※3/17（金）14:00頃を目途に強制アップデートを実施いたします。
-        </p>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年03月15日 19:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            近日配信予定の最新アプリより、「iOS10」以下が非対応となりますので、ご案内いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【非対応化の対象】</p>
-            
-            <div>
-                ・iOS9<br>
-                ・iOS10
-            </div>
-            <div>
-                4月以降、iOS版開発ツールにて「iOS10」以下が非対応となるため、対象OSにつきましてもあわせて非対応化を実施させていただきます。
-            </div>
-            <div>
-                「iOS11」以上では引き続きゲームをお楽しみいただけますので、「iOS10」以下をご利用のお客様はOSのバージョンアップを実施いただきますようお願い申し上げます。
-            </div>
-        </div>
-        <div>
-            お客様にはご不便をおかけいたしますが、何卒、ご理解ならびにご協力をお願い申し上げます。
-        </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
