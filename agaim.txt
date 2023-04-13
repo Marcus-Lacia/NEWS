@@ -33,6 +33,69 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1090" class="weighty-column">
+
+            2023/04/06 15:45                            
+                <span class="red bold">
+                                            (04/13 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-1090" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年04月13日 14:15 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <p class="list red">
+            ※修正時点での装備ギアの合計コストが61以上だった場合、ギアは取り外された状態になっております。<br>
+            なお、修正が反映されない場合は、再度ログインしていただくことで反映されます。
+        </p>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2023年04月06日 15:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    誤：140<br>
+                    正：60
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1091" class="weighty-column">
 
             2023/04/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -194,50 +257,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1090" class="weighty-column">
-
-            2023/04/06 15:45            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている            </div>
-
-        </div>
-        <div id="important-text-1090" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年04月06日 15:45<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    誤：140<br>
-                    正：60
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
         <div id="important-column-1089" class="weighty-column">
 
