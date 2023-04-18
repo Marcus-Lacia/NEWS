@@ -103,14 +103,14 @@
             <div class="list">
                 ▶米良渕 花浪の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1784">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1785">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 米良渕 花浪【大雅】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/655?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1784">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1785">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -614,12 +614,12 @@
             <div class="list">
                 ▶バーゼラルドの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1784">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1785">
     
             <div class="list">
                 ▶フレズヴェルクの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1784">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1785">
             
         </div>
         
