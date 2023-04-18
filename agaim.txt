@@ -33,6 +33,74 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1094" class="weighty-column">
+
+            2023/04/18 19:45                            
+                <span class="red bold">
+                                            (04/18 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「成子坂喜劇 なにわグランドスラム」の「特別周回任務：V-HARD」不具合について            </div>
+
+        </div>
+        <div id="important-text-1094" class="weighty-notice hide">
+           
+    <div>
+        <div>
+             ■2023年04月18日 19:45<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            以下の不具合が発生しておりましたが、先ほど修正対応が完了いたしましたのでご報告申し上げます。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶4/18（火）15:00に開放されたイベント「成子坂喜劇 なにわグランドスラム」の「特別周回任務：V-HARD」の報酬設定に誤りがあり、低確率で特定のSギアシェルを入手できる場合がある。
+            </div>
+        </div>
+        <div>
+            従来の各種イベントにおける「特別周回任務」と同様に、本イベントにつきましてもSギアシェルは入手できないのが本来の開発意図となりますため、先ほど報酬設定を修正させていただきました。
+        </div>
+        <div>
+            なお、不具合発生及び、データ更新のお詫びとして、下記アイテムを受取箱へ配布しております。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    全てのお客様
+                </div>
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    ・Sギアシェル/E × 4<br>
+                    ・Sギアシェル/G × 4<br>
+                    ・Sギアシェル/H × 4<br>
+                    ・Sギアシェル/F × 4<br>
+                    ・解析でんち × 400<br>
+                    ・スカウトポイント × 30
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    5/2（火）23:59 まで
+                </div>
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1093" class="weighty-column">
 
             2023/04/13 17:00            
@@ -1341,59 +1409,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1072" class="weighty-column">
-
-            2023/03/15 15:05                            
-                <span class="bold">
-                                            (03/20 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない            </div>
-
-        </div>
-        <div id="important-text-1072" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月20日 11:00 追記<br>
-            本件につきまして、順次配信されましたVer1.64.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年03月15日 15:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
