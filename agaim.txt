@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1095" class="weighty-column">
+
+            2023/04/24 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1095" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年04月24日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクター専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    <span class="bold">金潟 すぐみ</span><br>
+                    ・「XBR-EOS-3LA」シリーズ<br>
+                    ・「リオリエントμA」シリーズ<br>
+                    ・「リヴィングストンA/T」シリーズ<br>
+                    ・「リヴィングストンA/B」シリーズ
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで下記キャラクターが選択できるようになりました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・金潟 すぐみ
+                </div>
+            </div>
+            <div class="list">
+                ▶下記キャラクターに「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">※各エピソードは対象キャラクターが加入している場合に、「キャラエピソード画面」から再生できます。</p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・金潟 すぐみ【臥薪】
+                </div>
+            </div>
+            <div class="list">
+                ▶金潟 すぐみの専用クロスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230424/bnr_l00_inf_504_24.jpg?v=1790">
+    
+            <div class="list red">
+                ※派生進化専用ギア及びアナザーギアの特殊な動作について、金潟 すぐみ【臥薪】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/417?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_048_70/bnr_header.jpg?v=1790">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1094" class="weighty-column">
 
             2023/04/18 19:45                            
@@ -171,14 +244,14 @@
             <div class="list">
                 ▶米良渕 花浪の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1789">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1790">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 米良渕 花浪【大雅】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/655?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1789">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1790">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -682,12 +755,12 @@
             <div class="list">
                 ▶バーゼラルドの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1789">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1790">
     
             <div class="list">
                 ▶フレズヴェルクの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1789">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1790">
             
         </div>
         
@@ -1327,82 +1400,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1075" class="weighty-column">
-
-            2023/03/20 11:00                            
-                <span class="bold">
-                                            (03/20 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.64.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1075" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年03月20日 17:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                3/20（月）17:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                4/3（月）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年03月20日 11:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.64.2のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.64.2の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.64.0アプリより、任務中に控えキャラクターの各種スキル効果が正常に発動せず、操作キャラクターの各種スキル効果も適用されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.64.1アプリにて修正された「へクスクリア後にMAP画面をわずかに操作できない瞬間がある不具合」が、オプションの「報酬獲得簡易表示」をONにしている場合に再発する問題を修正しました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.64.2の配信に伴い、<span class="bold red">3/20（月）17:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
