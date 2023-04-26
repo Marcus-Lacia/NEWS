@@ -70,7 +70,7 @@
             ▶指揮官モードの任務選択画面に「一括選択」機能を追加しました。
         </div>
         <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_02.jpg?v=1794">
-        <div class="list">
+        <div class="list hide_DMM">
             ▶指揮官モードプレイ中は、端末がスリープしないよう挙動を変更しました。
         </div>
         <div class="list">
