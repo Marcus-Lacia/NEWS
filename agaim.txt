@@ -33,6 +33,194 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1096" class="weighty-column">
+
+            2023/04/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.66.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1096" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年04月26日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.66.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.66.0の更新内容】</p>
+        
+        <div class="list">
+            ▶一部イベントで指揮官モードを利用できるよう調整しました。
+        </div>
+        <p class="list red">
+            ※一度任務をクリアした後、指揮官モードが利用可能になります。
+        </p>
+        <p class="list red">
+            ※専用チームで出撃する一部任務は対象外となります。
+        </p>
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_01.jpg?v=1794">
+        <div class="list">
+            ▶指揮官モードの任務選択画面に「一括選択」機能を追加しました。
+        </div>
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_02.jpg?v=1794">
+        <div class="list">
+            ▶指揮官モードプレイ中は、端末がスリープしないよう挙動を変更しました。
+        </div>
+        <div class="list">
+            ▶指揮官モードの任務選択画面に、指揮官モード非対応の任務も表示されるよう仕様を変更しました。
+        </div>
+        <div class="list">
+            ▶指揮官モードでの任務中にキャラクターを切り替え続けると、カメラがキャラクターから遠ざかる問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶指揮官モードを特定操作で中断した後、通常バトルモードで任務をクリアすると、意図せず指揮官モードが開始してしまうことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特殊宙域作戦のデプスヘクスをクリアした際の演出を調整しました。
+        </div>
+        <div class="list">
+            ▶任務中のカメラモードにて、各キャラクターを注視する機能を追加しました。
+        </div>
+        <p class="list red">
+            ※複数キャラクターがいる際に、カメラモード内にある矢印ボタンより利用できます。
+        </p>
+        <div class="list">
+            ▶一部デュアルを装備中、特定状況下で近接攻撃が行えなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶一条 綾香が下記ショットギアを装備中に、SPスキル「テトラブラスターH」を発動した時、特定状況でSPスキルによる砲撃が行われず、攻撃回数だけ消費されてしまうことがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/フリントファングMk2<br>
+                ・★4/フリントファングMk3
+            </div>
+        </div>
+        <div class="list">
+            ▶金潟 すぐみが下記クロスギアを装備中、モードシフト中に表示されるエフェクトが、SPスキルの発動演出中に表示され続けてしまう問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの不具合となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★3/試作リオリエントμA<br>
+                ・★3/試作リオリエントμαA<br>
+                ・★3/試作リオリエントμOαA<br>
+                ・★4/リオリエントμA<br>
+                ・★4/リオリエントμ・α<br>
+                ・★4/リオリエントμ・Oα
+            </div>
+        </div>
+        <div class="list">
+            ▶特定ショットギアの溜め撃ち（リロード）時に、ブーストゲージを消費してしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★4/ドラグーン・レヴ<br>
+                ・★4/ルイス・ペレンナ・レヴ
+            </div>
+        </div>
+        <div class="list">
+            ▶君影 唯がSPスキル「アウレア・アストレア」発動中、ショットギアの溜め状態を維持している時にボトムススキルが再発動可能になると、溜め状態が解除されてしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶米良渕 花浪のSPスキル「ジュノン・ルキナ」のフィニッシュムーブ発動時、「ラケット型ランチャー」が変形した際の柄部分の一部パーツが、正しく表示されていない問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの不具合となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶特定操作を行い、一部ギアスキルのフィニッシュブローを発動させると、任務中にキャラクターが無敵判定となる不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記ヴァイスが攻撃している時に撃破すると、撃破されているにも関わらず、攻撃が中断されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ヴァイス】</p>
+            <div>
+                ・VWソード<br>
+                ・VWハンマー
+            </div>
+        </div>
+        <div class="list">
+            ▶任務終了直前のスロー演出中に攻撃を受けると、被弾扱いになる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「成子坂喜劇 なにわグランドスラム」のエピソード2話に登場する、百科 文嘉の一部台詞の呼称表記を調整しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターのボイスアーカイブの「その他/コラボ」の項目に、エニグマ関連のボイスが表示されていない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・源内 あお<br>
+                ・寿 武希子
+            </div>
+        </div>
+        <div class="list">
+            ▶コスチューム「私立若葉女子高校制服」着用中に特定のSPスキルを発動すると、演出中に衣装の一部の見た目が不自然になることがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶コスチューム「星大附属の制服」の名称の誤字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：星大付属の制服<br>
+                正：星大附属の制服
+            </div>
+        </div>
+        <div class="list">
+            ▶「焼夷属性」と「冷撃属性」のショットギアの溜め状態に、固有の効果音が設定されていない問題を修正しました。
+        </div>
+        <p class="list red">
+            ※「電撃属性」と「重力属性」のショットギアについては、固有の効果音が設定されています。
+        </p>
+        <div class="list">
+            ▶特定状況で招待コード入力画面を開くと、お知らせと重なって表示されることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶3D MODEL画面にて特定のカメラアングルにした後に、任務に出撃すると一部SPスキルに ACCESS DENIED が表示されてしまう問題を修正しました。
+        </div>
+        <div class="show_only_DMM">
+            <div class="list">
+                ▶PC版のWebView表示ライブラリを更新しました。
+            </div>
+            <p class="list red">
+                ※お知らせやヘルプなど、WebViewで表示している画面の見た目が僅かに変わる場合がございます。
+            </p>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.66.0の配信に伴い、<span class="bold red">4/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1095" class="weighty-column">
 
             2023/04/24 15:00            
@@ -89,13 +277,13 @@
             <div class="list">
                 ▶金潟 すぐみの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230424/bnr_l00_inf_504_24.jpg?v=1793">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230424/bnr_l00_inf_504_24.jpg?v=1794">
     
             <div class="list red">
                 ※派生進化専用ギア及びアナザーギアの特殊な動作について、金潟 すぐみ【臥薪】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/417?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_048_70/bnr_header.jpg?v=1793">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_048_70/bnr_header.jpg?v=1794">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -175,7 +363,11 @@
         
         <div id="important-column-1093" class="weighty-column">
 
-            2023/04/13 17:00            
+            2023/04/13 17:00                            
+                <span class="bold">
+                                            (04/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定ショットギアの溜め撃ち（リロード）時に、ブーストゲージを消費してしまう            </div>
@@ -184,6 +376,17 @@
         <div id="important-text-1093" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年04月26日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.66.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年04月13日 17:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -243,14 +446,14 @@
             <div class="list">
                 ▶米良渕 花浪の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1793">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1794">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 米良渕 花浪【大雅】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/655?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1793">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1794">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -486,7 +689,11 @@
         
         <div id="important-column-1089" class="weighty-column">
 
-            2023/04/06 15:45            
+            2023/04/06 15:45                            
+                <span class="bold">
+                                            (04/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               指揮官モード中断後に特定操作を行うと、意図せず指揮官モードが開始してしまう            </div>
@@ -495,6 +702,17 @@
         <div id="important-text-1089" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年04月26日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.66.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年04月06日 15:45<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -754,12 +972,12 @@
             <div class="list">
                 ▶バーゼラルドの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1793">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1794">
     
             <div class="list">
                 ▶フレズヴェルクの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1793">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1794">
             
         </div>
         
@@ -1302,113 +1520,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-1076" class="weighty-column">
-
-            2023/03/23 14:00                            
-                <span class="bold">
-                                            (03/28 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1076" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年03月23日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶轟雷の専用ショットギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/フリースタイルバズーカR<br>
-                ・★3/フリースタイルバズーカ<br>
-                ・★3/フリースタイルバズーカMk2<br>
-                ・★3/フリースタイルバズーカMk3<br>
-                ・★4/フリースタイルバズーカMk4<br>
-                ・★4/フリースタイルバズーカMk5<br>
-                ・★4/フリースタイルバズーカS
-            </div>
-            <p class="list">
-                ・立ち射撃1～3段目の攻撃力を約7%増加。
-            </p>
-            <p class="list">
-                ・前移動射撃の攻撃力を約10%増加。
-            </p>
-            <p class="list">
-                ・後移動射撃の攻撃力を約40%増加。
-            </p>
-            <p class="list">
-                ・横移動射撃の攻撃力を約93%増加。
-            </p>
-            <p class="list">
-                ・溜め撃ちの攻撃力を約82%増加。
-            </p>
-            <p class="list">
-                ・溜め撃ちのSPゲージ上昇量を約82%増加。
-            </p>
-        </div>
-        <div class="list">
-            ▶蛙坂 来弥のホーム小物を変更しました。
-        </div>
-        <div class="list">
-            ▶エニグマで修得可能な一部パッシブスキルのLv表記が、開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                ・EX:轟雷<br>
-                ・EX:スティレット<br>
-                ・EX:バーゼラルド<br>
-                ・EX:フレズヴェルク
-            </div>
-        </div>
-        <p class="list red">
-            <s>※対象パッシブスキルを既に修得しているキャラクターにつきましては、後日、正しい表記（Lv表記なし）への修正を予定しております。</s>
-        </p>
-        <p class="list red">
-            ※3/28（火）14:00 追記<br>
-            修得済みの対象パッシブスキルにつきましても、正しい表記への修正が完了しました。<br>
-            本対応は、再度ログインしていただくことで反映されます。
-        </p>
-        <div class="list">
-            ▶スティレットの顔を横から見たとき、口が顔から浮いて見えることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/52</div>
+                    <div class="page-box box-radius">1/53</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
