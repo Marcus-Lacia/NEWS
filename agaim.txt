@@ -65,11 +65,11 @@
         <p class="list red">
             ※専用チームで出撃する一部任務は対象外となります。
         </p>
-        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_01.jpg?v=1795">
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_01.jpg?v=1796">
         <div class="list">
             ▶指揮官モードの任務選択画面に「一括選択」機能を追加しました。
         </div>
-        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_02.jpg?v=1795">
+        <img class="sub-box" src="//i-cf.alice.colopl.jp/img/news/2023/230426/info_02.jpg?v=1796">
         <div class="list hide_DMM">
             ▶指揮官モードプレイ中は、端末がスリープしないよう挙動を変更しました。
         </div>
@@ -277,13 +277,13 @@
             <div class="list">
                 ▶金潟 すぐみの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230424/bnr_l00_inf_504_24.jpg?v=1795">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230424/bnr_l00_inf_504_24.jpg?v=1796">
     
             <div class="list red">
                 ※派生進化専用ギア及びアナザーギアの特殊な動作について、金潟 すぐみ【臥薪】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/417?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_048_70/bnr_header.jpg?v=1795">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_048_70/bnr_header.jpg?v=1796">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -446,14 +446,14 @@
             <div class="list">
                 ▶米良渕 花浪の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1795">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230413/bnr_l00_inf_504_13.jpg?v=1796">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 米良渕 花浪【大雅】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/655?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1795">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_066_70/bnr_header.jpg?v=1796">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -972,12 +972,12 @@
             <div class="list">
                 ▶バーゼラルドの専用トップスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1795">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1796">
     
             <div class="list">
                 ▶フレズヴェルクの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1795">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1796">
             
         </div>
         
