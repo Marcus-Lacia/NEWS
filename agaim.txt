@@ -33,6 +33,54 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1106" class="weighty-column">
+
+            2023/05/17 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1106" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年05月17日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶5/11（木）14:00 に実施したアップデートにて、駒添 絵伝のコスチューム「ビーズ・ニーズ」の3Dモデル修正が、一部正常に反映されていない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶依城 えりが特定ショットギアを装備していると、SPスキル「ムラタ-319.BA」発動中の射撃が、銃口から離れた位置より発射されることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1105" class="weighty-column">
 
             2023/05/11 14:00                            
@@ -1331,45 +1379,6 @@
         <div>
             このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
         </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1080" class="weighty-column">
-
-            2023/03/30 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1080" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年03月30日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶バーゼラルドの専用トップスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_30.jpg?v=1817">
-    
-            <div class="list">
-                ▶フレズヴェルクの専用クロスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230330/bnr_l00_inf_503_31.jpg?v=1817">
-            
-        </div>
-        
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
