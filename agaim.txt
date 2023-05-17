@@ -33,6 +33,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1100" class="weighty-column">
+
+            2023/05/17 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1100" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年05月17日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・ゲルトルート・B<br>
+                    ・エーリカ・H
+                </div>
+            </div>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            <p class="list red">
+                ※「坂本 美緒」、「ペリーヌ・C」のエニグマに関しても、近日実装を予定しております。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1106" class="weighty-column">
 
             2023/05/17 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1300,79 +1346,6 @@
                 <p class="bold">【配布期間】</p>
                 <div class="paragraph">
                     4/15（土）23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1084" class="weighty-column">
-
-            2023/03/30 21:30                            
-                <span class="bold">
-                                            (03/30 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「フレームアームズ・ガール with 創彩少女庭園 あおと武希子の課外活動 特設交換所」で交換可能な一部ギア進化素材が、開発意図と異なっている            </div>
-
-        </div>
-        <div id="important-text-1084" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年03月30日 21:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合の対応について、ご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶「フレームアームズ・ガール with 創彩少女庭園 あおと武希子の課外活動 特設交換所」で交換可能な一部ギア進化素材が、開発意図と異なっている。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア進化素材】</p>
-                <div>
-                    <p class="bold">誤</p>
-                    ・Sk・カーネルE × 1<br>
-                    ・Sk・ヒューズE × 10
-                    <p class="bold">正</p>
-                    ・Sk・カーネルG × 1<br>
-                    ・Sk・ヒューズG × 10
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、開発運営チームで慎重に対応を協議した結果、特設交換所のラインナップ修正は行わず、正しい「ギア進化素材」を補填として配布させていただくこととなりました。<br>
-            以下のアイテムを受取箱に配布しておりますので、お受け取りください。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    全てのお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    ・Sk・カーネルG × 1<br>
-                    ・Sk・ヒューズG × 10
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    4/20（木）14:59 まで
                 </div>
             </div>
         </div>
