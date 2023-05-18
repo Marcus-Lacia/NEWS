@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1108" class="weighty-column">
+
+            2023/05/18 16:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「企業案件任務β」に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1108" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年05月18日 16:25<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、イベント「企業案件任務β」にて以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ①「企画会議」ボタンをタップするとエラーが発生することがある。
+            </div>
+            <div class="list">
+                ②一部のお客様の「企画会議」の利用状況が、2021年9月開催版の「企業案件任務β」プレイ時の状況を引き継いでしまっている。
+            </div>
+            <p class="list red">
+                ※各不具合は、マップ画面からギブアップを行うと解消されることを確認しております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1107" class="weighty-column">
 
             2023/05/18 12:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1314,44 +1359,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1087" class="weighty-column">
-
-            2023/04/03 14:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.65.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1087" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年04月03日 14:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.65.1のアプリにて、以下の変更を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.65.1の更新内容】</p>
-        
-        <div class="list">
-            ▶App Store内アプリ配信ページのゲーム内容紹介を更新しました。
-        </div>
-        <p class="list red">
-            ※ゲーム内容の更新はありません。
-        </p>
-        <p class="list red">
-            ※アプリ配信ページの内容が更新されるまで時間がかかる場合があります。
-        </p>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
