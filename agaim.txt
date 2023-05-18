@@ -33,6 +33,62 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1107" class="weighty-column">
+
+            2023/05/18 12:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              エーリカ・Hのエニグマで修得可能なパッシブスキル「脚部機能拡張1」の説明文に誤字がある            </div>
+
+        </div>
+        <div id="important-text-1107" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年05月18日 12:15<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶エーリカ・Hのエニグマで修得可能なパッシブスキル「脚部機能拡張1」の説明文に誤字がある。
+            </div>
+            <div class="sub-box bg_skin">
+                <p class="bold">＜誤＞</p>
+                <div>
+                    専用★4ボトムスアクティブスキル「旋回射撃:突撃」の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
+                    各効果は出撃毎で1回しか発動しない
+                </div>
+            </div>
+            <div class="sub-box bg_skin">
+                <p class="bold">＜正＞</p>
+                <div>
+                    専用★4ボトムスアクティブスキル<span class="red">「旋回射撃:疾風」</span>の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
+                    各効果は出撃毎で1回しか発動しない
+                </div>
+            </div>
+            <p class="list red">
+                ※説明文のみの不具合となり、パッシブスキルの効果で「旋回射撃:疾風」の使用回数が正しく増加することを確認しております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1100" class="weighty-column">
 
             2023/05/17 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1298,64 +1354,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1086" class="weighty-column">
-
-            2023/04/01 18:10                            
-                <span class="bold">
-                                            (04/01 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              メインストーリー「侵蝕編7章 PARTII」の一部が開発意図と異なる状態で公開されている            </div>
-
-        </div>
-        <div id="important-text-1086" class="weighty-notice hide">
-           
-    <div>
-        <div>
-             ■2023年04月01日 18:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            以下の不具合が発生しておりましたが、先ほど修正対応が完了いたしましたのでご報告申し上げます。        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶メインストーリー「侵蝕編7章 PARTII」の一部が開発意図と異なる状態で公開されている。
-            </div>
-        </div>
-         <div>
-            また、不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    4/1（土）18:00 までに<br>
-                    アカウントを作成しているお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容】</p>
-                <div class="paragraph">
-                    スカウトポイント × 100
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    4/15（土）23:59 まで
-                </div>
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
