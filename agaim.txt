@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1109" class="weighty-column">
+
+            2023/05/19 13:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「企業案件任務β」の一部特殊効果が正しく適用されない            </div>
+
+        </div>
+        <div id="important-text-1109" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年05月19日 13:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶イベント「企業案件任務β」の企画会議にて「SPスキル使用不可」の効果を適用したにも関わらず、鳳 加純のSPスキル「フェニックスブレイズ」が発動できてしまう。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因の調査を行っております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1108" class="weighty-column">
 
             2023/05/18 16:25                            
@@ -1343,44 +1382,6 @@
             
             <div class="list">
                 ▶指揮官モードを特定操作で中断した後、通常バトルモードで任務をクリアすると意図せず指揮官モードが開始してしまうことがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1088" class="weighty-column">
-
-            2023/04/05 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              各種ネペンテスが種子を召喚した時に、一部パッシブスキルの効果が発動してしまう            </div>
-
-        </div>
-        <div id="important-text-1088" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年04月05日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶各種ネペンテスが種子を召喚した時に、「特定の大型ヴァイス登場時」が発動条件となるパッシブスキルの効果が発動してしまう。
             </div>
         </div>
         <div>
