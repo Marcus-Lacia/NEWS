@@ -115,8 +115,7 @@
         
         <div id="important-column-1107" class="weighty-column">
 
-            2023/05/18 12:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/05/18 12:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               エーリカ・Hのエニグマで修得可能なパッシブスキル「脚部機能拡張1」の説明文に誤字がある            </div>
