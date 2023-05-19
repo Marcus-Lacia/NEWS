@@ -75,7 +75,7 @@
         <div id="important-column-1108" class="weighty-column">
 
             2023/05/18 16:25                            
-                <span class="red bold">
+                <span class="bold">
                                             (05/18 補填済)
                                     </span>
             
