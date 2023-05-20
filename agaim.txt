@@ -77,8 +77,7 @@
         
         <div id="important-column-1109" class="weighty-column">
 
-            2023/05/19 13:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/05/19 13:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「企業案件任務β」の一部特殊効果が正しく適用されない            </div>
