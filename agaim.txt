@@ -35,8 +35,7 @@
         
         <div id="important-column-1110" class="weighty-column">
 
-            2023/05/19 19:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/05/19 19:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「鳥の会アクセチョイス」のバナーに表示されている文島 明日翔が、実装されていないアクセサリーを着用している            </div>
