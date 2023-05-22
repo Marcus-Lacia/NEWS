@@ -33,9 +33,74 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1111" class="weighty-column">
+
+            2023/05/22 17:10                            
+                <span class="red bold">
+                                            (05/22 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1111" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年05月22日 17:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶「鳥の会アクセチョイス」のバナーに表示されている文島 明日翔が、実装されていないアクセサリーを着用している問題を修正しました。
+        </div>
+    </div>
+    <div>
+        また、データ更新のお詫びとして、下記アイテムを受取箱へ配布しております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                5/22（月）17:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                6/5（月）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1110" class="weighty-column">
 
-            2023/05/19 19:40            
+            2023/05/19 19:40                            
+                <span class="bold">
+                                            (05/22 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「鳥の会アクセチョイス」のバナーに表示されている文島 明日翔が、実装されていないアクセサリーを着用している            </div>
@@ -44,6 +109,17 @@
         <div id="important-text-1110" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年05月22日 17:10 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年05月19日 19:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1220,167 +1296,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1091" class="weighty-column">
-
-            2023/04/13 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1091" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年04月13日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種デイリー任務のBGMを変更しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象任務】</p>
-            <div>
-                ・アニマクエスト<br>
-                ・ゴールドクエスト<br>
-                ・解析でんちクエスト
-            </div>
-        </div>
-        <div class="list">
-            ▶メインストーリー「黎明編」の一部任務で指揮官モードを利用できるよう調整しました。
-        </div>
-        <div class="list">
-            ▶「★1/高幡 のどか」のコストキャパの最大値が、開発意図と異なっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                誤：140<br>
-                正：60
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ギアスキル発動時、単体の敵に対する攻撃であるにも関わらず、複数の敵をロックオンする演出が表示される不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・ハロードヌイルーチ<br>
-                ・ザミルザーニイルーチ
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ショットギア装備中、射撃の射程外にいる時に、ロックオンマーカーに「射程外」と表示されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★4/オニエ・玄<br>
-                ・★4/オニヤライ・玄
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ショットギアの横移動射撃が、左に移動した時のみ、マルチロックオン範囲が開発意図よりも狭くなっている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/ウォーターアームズR<br>
-                ・★3/ウォーターアームズ<br>
-                ・★3/ウォーターアームズMk2<br>
-                ・★3/ウォーターアームズMk3<br>
-                ・★4/ウォーターアームズMk4<br>
-                ・★4/ウォーターアームズMk5<br>
-                ・★4/ウォーターアームズS
-            </div>
-        </div>
-        <div class="list">
-            ▶源内 あお、寿 武希子の専用アクセサリー「ヘッドギア」の、説明文の装着部位表記が誤っている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※表記のみの修正となり、装着部位に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                誤：頭・前頭<br>
-                正：前頭
-            </div>
-        </div>
-        <div class="list">
-            ▶寿 武希子のキャラエピソードEp4-1の特定シーンにて、開発意図と異なる背景が表示される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記エピソードに登場する、寿 武希子の呼称表記を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象エピソード】</p>
-            <div>
-                ・寿 武希子 キャラエピソードEp4-1<br>
-                ・寿 武希子 絆エピソードEp3
-            </div>
-        </div>
-        <div class="list">
-            ▶下記エピソードの一部シーンに登場する、比良坂 夜露のギアやコスチューム等を変更しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象エピソード】</p>
-            <div>
-                <p class="list">
-                    ・イベント「アリス・ギア・アイギス Expansion 記念任務」
-                </p>
-                ・高幡 のどか キャラエピソードEp1
-            </div>
-        </div>
-        <div class="list">
-            ▶一部エピソードのロード画面に表示される、高幡 のどか紹介Tipsの誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「ネコミミイヤホン」を特定キャラクターが着用したとき、イヤホンの着用位置がずれることがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶下記アクトレスがコスチューム「アニバドレスV」着用時の、脇の処理を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・比良坂 夜露<br>
-                ・小鳥遊 怜<br>
-                ・藤野 やよい<br>
-                ・伊戸倉 音緒<br>
-                ・神宮寺 真理<br>
-                ・琴村 朱音<br>
-                ・琴村 天音<br>
-                ・王 紅花<br>
-                ・千島 美幸<br>
-                ・御茶ノ水 美里江<br>
-                ・我龍 絵美
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
