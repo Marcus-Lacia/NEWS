@@ -90,7 +90,7 @@
         <div id="important-column-1111" class="weighty-column">
 
             2023/05/22 17:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (05/22 補填済)
                                     </span>
             
