@@ -33,6 +33,114 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1115" class="weighty-column">
+
+            2023/05/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1115" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年05月26日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶アクセサリーチケット使用期限の仕様を変更しました。
+        </div>
+        <p class="list red">
+            ※詳細は、5/24（水）掲載の「アクセサリーチケット使用期限の仕様変更について」の重要なお知らせをご確認ください。
+        </p>
+        <p class="list">
+            ※仕様変更に伴い、アクセサリーチケットやスカウトカード一覧画面のレイアウトも調整しました。
+        </p>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1112" class="weighty-column">
+
+            2023/05/24 15:00                            
+                <span class="red bold">
+                                            (05/26 実施済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              アクセサリーチケット使用期限の仕様変更について            </div>
+
+        </div>
+        <div id="important-text-1112" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年05月26日 14:00 追記<br>
+        アクセサリーチケット使用期限の仕様変更を実施いたしました。
+    </div>
+    <div>
+        本変更に伴い、5月26日（金）14:00 までに所持していたアクセサリ―チケットの使用期限を、一律で<span class="red">「7月1日（土）14:59 まで」</span>に変更させていただいております。
+    </div>
+    
+    
+    <hr class="red">
+    
+    
+    <div>
+        ■2023年05月24日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        下記の日時より、アクセサリーチケットの使用期限の仕様を変更いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【変更日時】</p>
+        <div>
+            2023年5月26日（金）14:00 頃
+        </div>
+        <p class="bold">【変更内容】</p>
+        <div>
+            アクセサリーチケット獲得後の使用期限を、以下のように変更。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                変更前：<br>
+                獲得した時から30日後まで
+            </div>
+            <div>
+                変更後：<br>
+                <span class="red">獲得した月から翌々月1日の14:59 まで</span>
+            </div>
+        </div>
+        <div>
+            例）4月6日と4月9日にアクセサリーチケットを1枚ずつ獲得した場合、使用期限はどちらも<span class="red">「6月1日 14:59 まで」</span>となります。
+        </div>
+        <div>
+            なお、5月26日（金）14:00 時点で所持しているアクセサリ―チケットは、使用期限を一律で<span class="red">「7月1日（土）14:59 まで」</span>に変更させていただきます。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1116" class="weighty-column">
 
             2023/05/25 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -211,57 +319,6 @@
     <div>
         なお、Ver.1.67.0の配信に伴い、<span class="bold red">5/26（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1112" class="weighty-column">
-
-            2023/05/24 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              アクセサリーチケット使用期限の仕様変更について            </div>
-
-        </div>
-        <div id="important-text-1112" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月24日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        下記の日時より、アクセサリーチケットの使用期限の仕様を変更いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【変更日時】</p>
-        <div>
-            2023年5月26日（金）14:00 頃
-        </div>
-        <p class="bold">【変更内容】</p>
-        <div>
-            アクセサリーチケット獲得後の使用期限を、以下のように変更。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                変更前：<br>
-                獲得した時から30日後まで
-            </div>
-            <div>
-                変更後：<br>
-                <span class="red">獲得した月から翌々月1日の14:59 まで</span>
-            </div>
-        </div>
-        <div>
-            例）4月6日と4月9日にアクセサリーチケットを1枚ずつ獲得した場合、使用期限はどちらも<span class="red">「6月1日 14:59 まで」</span>となります。
-        </div>
-        <div>
-            なお、5月26日（金）14:00 時点で所持しているアクセサリ―チケットは、使用期限を一律で<span class="red">「7月1日（土）14:59 まで」</span>に変更させていただきます。
-        </div>
     </div>
     
     <div>
@@ -1295,78 +1352,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1095" class="weighty-column">
-
-            2023/04/24 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1095" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年04月24日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクター専用のアナザーギアを実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    <span class="bold">金潟 すぐみ</span><br>
-                    ・「XBR-EOS-3LA」シリーズ<br>
-                    ・「リオリエントμA」シリーズ<br>
-                    ・「リヴィングストンA/T」シリーズ<br>
-                    ・「リヴィングストンA/B」シリーズ
-                </div>
-            </div>
-            <div class="list">
-                ▶ギアオクのWishで下記キャラクターが選択できるようになりました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・金潟 すぐみ
-                </div>
-            </div>
-            <div class="list">
-                ▶下記キャラクターに「アナザーギア体験エピソード」を追加しました。
-            </div>
-            <p class="list red">※各エピソードは対象キャラクターが加入している場合に、「キャラエピソード画面」から再生できます。</p>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・金潟 すぐみ【臥薪】
-                </div>
-            </div>
-            <div class="list">
-                ▶金潟 すぐみの専用クロスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230424/bnr_l00_inf_504_24.jpg?v=1828">
-    
-            <div class="list red">
-                ※派生進化専用ギア及びアナザーギアの特殊な動作について、金潟 すぐみ【臥薪】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/417?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_048_70/bnr_header.jpg?v=1828">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
