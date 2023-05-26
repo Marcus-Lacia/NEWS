@@ -182,8 +182,7 @@
         
         <div id="important-column-1116" class="weighty-column">
 
-            2023/05/25 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/05/25 19:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.67.0アプリより、特定画面のコスチューム&amp;アクセサリーアイコンにミニキャラアイコンが表示される            </div>
