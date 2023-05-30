@@ -36,7 +36,7 @@
         <div id="important-column-1118" class="weighty-column">
 
             2023/05/29 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (05/29 更新)
                                     </span>
             
@@ -100,7 +100,7 @@
         <div id="important-column-1117" class="weighty-column">
 
             2023/05/26 17:45                            
-                <span class="red bold">
+                <span class="bold">
                                             (05/29 補填済)
                                     </span>
             
