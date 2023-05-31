@@ -33,6 +33,106 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1120" class="weighty-column">
+
+            2023/05/31 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.67.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1120" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年05月31日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.67.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.67.1の更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.67.0アプリより、3D MODEL画面やドレッサー画面のコスチューム&amp;アクセサリーアイコンにミニキャラアイコンが表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.67.1の配信に伴い、<span class="bold red">6/1（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1116" class="weighty-column">
+
+            2023/05/25 19:20                            
+                <span class="red bold">
+                                            (05/31 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.67.0アプリより、特定画面のコスチューム&amp;アクセサリーアイコンにミニキャラアイコンが表示される            </div>
+
+        </div>
+        <div id="important-text-1116" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年05月31日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.67.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
+        <div>
+            ■2023年05月25日 19:20<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.67.0アプリより、3D MODEL画面やドレッサー画面のコスチューム&amp;アクセサリーアイコンにミニキャラアイコンが表示される。
+            </div>
+            <div>
+                本不具合により、アクセサリーアイコンに表記されているコストが確認できない状態となっております。<br>
+                コストを確認する際は、お手数ですがアクセサリーアイコン長押しで表示される、詳細画面をご確認ください。
+            </div>
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1118" class="weighty-column">
 
             2023/05/29 14:00                            
@@ -320,45 +420,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1116" class="weighty-column">
-
-            2023/05/25 19:20            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.67.0アプリより、特定画面のコスチューム&amp;アクセサリーアイコンにミニキャラアイコンが表示される            </div>
-
-        </div>
-        <div id="important-text-1116" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年05月25日 19:20<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.67.0アプリより、3D MODEL画面やドレッサー画面のコスチューム&amp;アクセサリーアイコンにミニキャラアイコンが表示される。
-            </div>
-            <div>
-                本不具合により、アクセサリーアイコンに表記されているコストが確認できない状態となっております。<br>
-                コストを確認する際は、お手数ですがアクセサリーアイコン長押しで表示される、詳細画面をご確認ください。
-            </div>
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
         <div id="important-column-1114" class="weighty-column">
 
@@ -1199,47 +1260,6 @@
             <div class="paragraph">
                 5/16（火）23:59 まで
             </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1102" class="weighty-column">
-
-            2023/05/02 14:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1102" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月02日 14:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
         </div>
     </div>
     <div>
