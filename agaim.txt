@@ -33,6 +33,64 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1122" class="weighty-column">
+
+            2023/06/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.67.2 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1122" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年06月12日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.67.2のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.67.2の更新内容】</p>
+        
+        <div class="list">
+            ▶指揮官モード中、キャラクターが攻撃を行わなくなることがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶撮影ルームにて、フランチェスカ・Lの前髪の一部が正しく表示されないことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶ドレッサー画面にて、フランチェスカ・Lがアクセサリー「オンブラ」とコスチューム「ロマーニャ空軍制服」を同時に着用した時の尻尾の見た目が、開発意図と異なる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ドレッサー画面にて、シャーロット・Yがアクセサリー「ウサギ」とコスチューム「リベリオン陸軍制服」を同時に着用した時の尻尾の見た目が、開発意図と異なる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶5/29（月）15:00 より切り替わったホーム画面にて、空を飛ぶキャラクターのポーズが、開発意図と異なることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.67.2の配信に伴い、<span class="bold red">6/13（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1121" class="weighty-column">
 
             2023/06/05 14:00            
@@ -1187,65 +1245,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1104" class="weighty-column">
-
-            2023/05/09 21:00                            
-                <span class="bold">
-                                            (05/09 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              メインストーリー「侵蝕編7章PARTⅡ」の配信延期について            </div>
-
-        </div>
-        <div id="important-text-1104" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月09日 21:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        メインストーリー「侵蝕編7章PARTⅡ」について、今春の配信を予定しておりましたが、配信時期を下記に変更させていただくこととなりましたので、ご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【配信時期】</p>
-        変更前：今春<br>
-        変更後：6/16（金）
-    </div>
-    <div>
-        本件につきましては、開発運営チームで慎重に対応を協議した結果、ストーリー演出の更なるクオリティアップのために配信を延期させていただくこととなりました。<br>
-        お客様にご満足いただけるクオリティを目指し、チーム一同尽力して参りますので、今しばらくお待ちいただけますと幸いです。
-    </div>
-    <div>
-        また、配信延期のお詫びとして、下記アイテムを受取箱へ配布しております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                全てのお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 300
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                6/16（金）14:59 まで
-            </div>
-        </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
