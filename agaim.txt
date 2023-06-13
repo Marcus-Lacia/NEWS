@@ -243,8 +243,7 @@
         
         <div id="important-column-1123" class="weighty-column">
 
-            2023/06/12 21:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/06/12 21:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「あんなのクイズでぴょん！ぴょん！」のエピソード7話「成子坂 VS AEGiS」が、途中で終了してしまう場合がある            </div>
