@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1125" class="weighty-column">
+
+            2023/06/13 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1125" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年06月13日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶的場 アオイの専用ショットギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1855">
+    
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、<br>
+                的場 アオイ【冀望】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/683?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1855">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1124" class="weighty-column">
 
             2023/06/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -711,11 +754,11 @@
         <div class="list">
             ▶任務選択画面の指揮官モードボタンのデザインを変更しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1853">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1855">
         <div class="list">
             ▶指揮官モード中のバトルUIに、カメラモードボタンを追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1853">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1855">
         <div class="list">
             ▶一部マップ形式イベントの特定ヘクスにて、指揮官モードを利用できるよう調整しました。
         </div>
@@ -869,12 +912,12 @@
             <div class="list">
                 ▶ペリーヌ・Cの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1853">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1855">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/673?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1853">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1855">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1233,53 +1276,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1106" class="weighty-column">
-
-            2023/05/17 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1106" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月17日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶5/11（木）14:00 に実施したアップデートにて、駒添 絵伝のコスチューム「ビーズ・ニーズ」の3Dモデル修正が、一部正常に反映されていない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶依城 えりが特定ショットギアを装備していると、SPスキル「ムラタ-319.BA」発動中の射撃が、銃口から離れた位置より発射されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
