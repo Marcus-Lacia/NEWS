@@ -33,6 +33,129 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1124" class="weighty-column">
+
+            2023/06/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1124" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年06月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ギアに装着したカスタムキットを取り外せる機能を追加しました。
+        </div>
+        <div class="list">
+            ▶「スロット拡張ツール」を実装しました。
+        </div>
+        <p class="list red">
+            ※トップス及びボトムスギアの「拡張スロット」が使用可能になるアイテムです。
+        </p>
+        <div class="list">
+            ▶ギアオクの「ウィークリー」ラインナップに、スロット拡張ツールを追加しました。
+        </div>
+        <div class="bg_skin">
+            カスタムキットに関する各種アップデートの詳細は、<a href="/news/show/id/686?returnUrl=back" class="bold navy"><u>「カスタムキット機能アップデート」のお知らせ</u></a>をご確認ください。
+        </div>
+        <div class="list">
+            ▶高幡 のどかの3Dモデルを微調整しました。
+        </div>
+        <p class="list red">
+            ※本調整にあわせて、「高幡 のどか」のイラストが表示された各種バナーも調整しております。
+        </p>
+        <div class="list">
+            ▶一部エピソードに登場するNPCの名称表示を下記に統一しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・オペレーターA → 二見 興子<br>
+                ・オペレーターB → 若狭 香洋<br>
+                ・オペレーターC → 須磨 将也
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターの、アクセサリー「ホワイトブリム」の着用位置を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ホワイトブリム/CB<br>
+                ・神宮寺 真理<br>
+                ・千島 美幸<br>
+                <br>
+                ホワイトブリム/RS<br>
+                ・ファティマ・B<br>
+                ・ミア・V<br>
+                ・御茶ノ水 美里江<br>
+                ・フランチェスカ・L<br>
+                <br>
+                ホワイトブリム/BB<br>
+                ・東雲 チヱ<br>
+                ・御蔵座 梓希
+            </div>
+        </div>
+        <div class="list">
+            ▶ボイスアーカイブにて、下記キャラクターのボイスの並び順を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・宮藤 芳佳<br>
+                ・坂本 美緒<br>
+                ・リネット・B<br>
+                ・ペリーヌ・C<br>
+                ・ゲルトルート・B<br>
+                ・エーリカ・H<br>
+                ・フランチェスカ・L<br>
+                ・シャーロット・Y
+            </div>
+        </div>
+        <div class="list">
+            ▶九炉鉄 悠都がアクセサリー「サーロス」を着用中、アクセサリーの上に眉毛が表示されてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶シャーロット・Yのボトムスギアスキル「バレットファイア」の攻撃が、一部の敵に当たりにくい問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶メインストーリー「侵蝕編7章」の一部任務に出現する、特定大型ヴァイスの3Dモデルを微調整しました。
+        </div>
+        <div class="list">
+            ▶ロード画面等に表示される、カスタムキットに関するTipsの内容を調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1123" class="weighty-column">
 
             2023/06/12 21:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -77,8 +200,7 @@
         
         <div id="important-column-1122" class="weighty-column">
 
-            2023/06/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/06/12 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.67.2 配信のお知らせ            </div>
@@ -589,11 +711,11 @@
         <div class="list">
             ▶任務選択画面の指揮官モードボタンのデザインを変更しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1850">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1852">
         <div class="list">
             ▶指揮官モード中のバトルUIに、カメラモードボタンを追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1850">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1852">
         <div class="list">
             ▶一部マップ形式イベントの特定ヘクスにて、指揮官モードを利用できるよう調整しました。
         </div>
@@ -747,12 +869,12 @@
             <div class="list">
                 ▶ペリーヌ・Cの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1850">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1852">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/673?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1850">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1852">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1139,90 +1261,6 @@
         </div>
         <div class="list">
             ▶依城 えりが特定ショットギアを装備していると、SPスキル「ムラタ-319.BA」発動中の射撃が、銃口から離れた位置より発射されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1105" class="weighty-column">
-
-            2023/05/11 14:00                            
-                <span class="bold">
-                                            (05/11 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1105" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月11日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶駒添 絵伝のコスチューム「ビーズ・ニーズ」の一部が、開発意図と異なる色味になっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※本修正にあわせて、「★4/駒添 絵伝」のイラストが表示された各種バナーも修正しております。
-        </p>
-        <p class="list red">
-            ※5/11（木）15:45 追記<br>
-            コスチューム「ビーズ・ニーズ」の3Dモデル修正が、一部正常に反映されていないことを確認しておりますので、後日改めて修正データを適用させていただきます。<br>
-            対応完了まで今しばらくお待ちください。
-        </p>
-        <div class="list">
-            ▶ミッションビンゴの「特定大型ヴァイスを5体撃破する（一部特殊任務を除く）」のカウントが、下記大型ヴァイスの特異型や変種を撃破した時に進行しない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象大型ヴァイス】</p>
-            <div>
-                ・ポイゾネルモス各種<br>
-                ・レントラー各種<br>
-                ・セルケト各種
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「成子坂喜劇 道頓堀マーメイド」の各種エピソードに登場する駒添 絵伝の、水泳キャップの色が開発意図と異なる色になっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※正しくは「黄色」となります。
-        </p>
-        <div class="list">
-            ▶一部キャラクターに関する下記任務にて、ロード画面に表示されるキャラクター紹介Tipsのプロフィールに、学校名や年齢を記載するよう表記を統一しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象任務】</p>
-            <div>
-                ・アナザーギア体験エピソード<br>
-                ・アナザートライアル任務<br>
-                ・ファクタートライアル任務
-            </div>
         </div>
         <div class="list">
             ▶各種データを追加しました。
