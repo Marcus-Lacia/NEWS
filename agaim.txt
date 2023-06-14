@@ -33,9 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1127" class="weighty-column">
+
+            2023/06/14 16:00                            
+                <span class="red bold">
+                                            (06/14 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              一部ギアの拡張スロットにカスタムキットを装着し出撃すると、デフォルト装備に変更されることがある            </div>
+
+        </div>
+        <div id="important-text-1127" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年06月14日 16:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            以下の不具合が発生しておりましたが、先ほど修正対応が完了いたしましたのでご報告申し上げます。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶一部ギアの拡張スロットにカスタムキットを装着し出撃すると、デフォルト装備に変更されることがある。
+            </div>
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1126" class="weighty-column">
 
-            2023/06/13 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/06/13 17:30                            
+                <span class="red bold">
+                                            (06/14 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +87,20 @@
         <div id="important-text-1126" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年06月14日 16:00 追記<br>
+            本件につきまして、修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <p class="list red">
+            ※修正が反映されない場合は、再度ログインしていただくことで反映されます。
+        </p>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年06月13日 17:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1192,76 +1248,6 @@
         </div>
         <div>
             本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1107" class="weighty-column">
-
-            2023/05/18 12:15                            
-                <span class="bold">
-                                            (05/25 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              エーリカ・Hのエニグマで修得可能なパッシブスキル「脚部機能拡張1」の説明文に誤字がある            </div>
-
-        </div>
-        <div id="important-text-1107" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年05月25日 14:00 追記<br>
-            本件につきまして、順次配信されましたVer1.67.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年05月18日 12:15<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶エーリカ・Hのエニグマで修得可能なパッシブスキル「脚部機能拡張1」の説明文に誤字がある。
-            </div>
-            <div class="sub-box bg_skin">
-                <p class="bold">＜誤＞</p>
-                <div>
-                    専用★4ボトムスアクティブスキル「旋回射撃:突撃」の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
-                    各効果は出撃毎で1回しか発動しない
-                </div>
-            </div>
-            <div class="sub-box bg_skin">
-                <p class="bold">＜正＞</p>
-                <div>
-                    専用★4ボトムスアクティブスキル<span class="red">「旋回射撃:疾風」</span>の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
-                    各効果は出撃毎で1回しか発動しない
-                </div>
-            </div>
-            <p class="list red">
-                ※説明文のみの不具合となり、パッシブスキルの効果で「旋回射撃:疾風」の使用回数が正しく増加することを確認しております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
         </div>
         <div>
             修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
