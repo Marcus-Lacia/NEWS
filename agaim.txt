@@ -83,7 +83,7 @@
         <div id="important-column-1127" class="weighty-column">
 
             2023/06/14 16:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/14 修正済)
                                     </span>
             
@@ -122,7 +122,7 @@
         <div id="important-column-1126" class="weighty-column">
 
             2023/06/13 17:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/14 修正済)
                                     </span>
             
