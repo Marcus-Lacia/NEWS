@@ -249,14 +249,14 @@
             <div class="list">
                 ▶的場 アオイの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1859">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1860">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 的場 アオイ【冀望】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/683?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1859">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1860">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -942,11 +942,11 @@
         <div class="list">
             ▶任務選択画面の指揮官モードボタンのデザインを変更しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1859">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1860">
         <div class="list">
             ▶指揮官モード中のバトルUIに、カメラモードボタンを追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1859">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1860">
         <div class="list">
             ▶一部マップ形式イベントの特定ヘクスにて、指揮官モードを利用できるよう調整しました。
         </div>
@@ -1100,12 +1100,12 @@
             <div class="list">
                 ▶ペリーヌ・Cの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1859">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1860">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/673?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1859">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1860">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
