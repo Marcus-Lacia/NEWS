@@ -33,6 +33,47 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1131" class="weighty-column">
+
+            2023/06/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              メインストーリー「侵蝕編7章 PARTⅡ」について            </div>
+
+        </div>
+        <div id="important-text-1131" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年06月16日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日15:00 より配信が開始されたメインストーリー「侵蝕編7章 PARTⅡ」について、下記の対象に含まれるお客様は、<span class="red">エピソードや任務がクリア済みの状態となっている</span>場合がございます。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【対象者】</p>
+        <div>
+            4月1日（土）の「侵蝕編7章 PARTⅡの一部が開発意図と異なる状態で公開された」不具合の発生時に、誤って公開されたエピソードや任務をプレイされたお客様
+        </div>
+        <div>
+            各エピソードや任務のクリア状況は引き継がれており、初回クリア報酬の「スカウトポイント」や「ゴールド」も4月1日（土）の時点で獲得済みとなります。
+        </div>
+        <p class="list red">
+            ※初回クリア報酬の「スカウトポイント」や「ゴールド」は、開発意図通りの内容が配布されていることを確認しております。
+        </p>
+        <div>
+            なお、現在は正しい内容のエピソードや任務が配信されておりますので、ぜひお楽しみください。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1130" class="weighty-column">
 
             2023/06/16 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -126,8 +167,7 @@
         
         <div id="important-column-1128" class="weighty-column">
 
-            2023/06/15 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/06/15 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               駒添 絵伝専用クロスギアの、強化状態中に下フリックで発動する「全キャラクターのHPを回復する」効果が自身にしか適用されない            </div>
@@ -294,14 +334,14 @@
             <div class="list">
                 ▶的場 アオイの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1860">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1861">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 的場 アオイ【冀望】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/683?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1860">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1861">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1002,11 +1042,11 @@
         <div class="list">
             ▶任務選択画面の指揮官モードボタンのデザインを変更しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1860">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1861">
         <div class="list">
             ▶指揮官モード中のバトルUIに、カメラモードボタンを追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1860">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1861">
         <div class="list">
             ▶一部マップ形式イベントの特定ヘクスにて、指揮官モードを利用できるよう調整しました。
         </div>
@@ -1160,12 +1200,12 @@
             <div class="list">
                 ▶ペリーヌ・Cの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1860">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_l00_inf_505_23.jpg?v=1861">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/673?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1860">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/230523/bnr_s00_inf_505_23.jpg?v=1861">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1174,67 +1214,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1111" class="weighty-column">
-
-            2023/05/22 17:10                            
-                <span class="bold">
-                                            (05/22 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1111" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月22日 17:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶「鳥の会アクセチョイス」のバナーに表示されている文島 明日翔が、実装されていないアクセサリーを着用している問題を修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新のお詫びとして、下記アイテムを受取箱へ配布しております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                5/22（月）17:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                6/5（月）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
