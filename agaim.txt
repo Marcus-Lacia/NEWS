@@ -33,9 +33,76 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1133" class="weighty-column">
+
+            2023/06/16 20:35                            
+                <span class="red bold">
+                                            (06/16 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1133" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年06月16日 20:35<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶メインストーリー「侵蝕編7章 PART II」の特定シーンが正常に再生されず、エラーが発生する不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.67.2アプリより、ドレッサー画面でキャラクターを高幡 のどかに変更すると、エラーが発生することがある不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                6/16（金）20:35 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 100
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                6/30（金）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1132" class="weighty-column">
 
-            2023/06/16 15:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/06/16 15:40                            
+                <span class="red bold">
+                                            (06/16 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +112,17 @@
         <div id="important-text-1132" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年06月16日 20:35 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年06月16日 15:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1048,151 +1126,6 @@
         <div>
             なお、5月26日（金）14:00 時点で所持しているアクセサリ―チケットは、使用期限を一律で<span class="red">「7月1日（土）14:59 まで」</span>に変更させていただきます。
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1114" class="weighty-column">
-
-            2023/05/25 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.67.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1114" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.67.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.67.0の更新内容】</p>
-        
-        <div class="list">
-            ▶任務選択画面の指揮官モードボタンのデザインを変更しました。
-        </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_01.jpg?v=1861">
-        <div class="list">
-            ▶指揮官モード中のバトルUIに、カメラモードボタンを追加しました。
-        </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/230525/info_02.jpg?v=1861">
-        <div class="list">
-            ▶一部マップ形式イベントの特定ヘクスにて、指揮官モードを利用できるよう調整しました。
-        </div>
-        <div class="list">
-            ▶指揮官モード中、特定条件で複数のアクトレスが一カ所に集まるよう挙動を調整しました。
-        </div>
-        <div class="list">
-            ▶SPスキル発動中にカメラモードを起動し、エフェクトをつけてスクリーンショットを保存すると、保存する度にエフェクトが重複してしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種ネペンテスをダウン状態中に撃破すると、開発意図と異なる撃破演出になる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「企業案件任務β」にて、企画会議で特定操作を行うと、能力上昇系の効果が発動していないにも関わらず、ステータス画面に能力上昇を表すアイコンが表示されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶エーリカ・Hのエニグマで修得可能なパッシブスキル「脚部機能拡張1」の説明文の誤字を修正しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜誤＞</p>
-            <div>
-                専用★4ボトムスアクティブスキル「旋回射撃:突撃」の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
-                各効果は出撃毎で1回しか発動しない
-            </div>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜正＞</p>
-            <div>
-                専用★4ボトムスアクティブスキル<span class="red">「旋回射撃:疾風」</span>の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
-                各効果は出撃毎で1回しか発動しない
-            </div>
-        </div>
-        <div class="list">
-            ▶リネット・Bのエニグマで修得可能なパッシブスキル「妨害機構拡張1」の説明文の誤字を修正しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜誤＞</p>
-            <div>
-                1.専用★4トップスアクティブスキル「精密射撃」の使用時、追加射撃を行う<br>
-                2.エリア開始時に自身から10m範囲の敵弾誘導性能を無効化する 20秒間継続<br>
-                各効果は条件を満たす限り再発動する
-            </div>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜正＞</p>
-            <div>
-                1.専用★4トップスアクティブスキル<span class="red">「精密狙撃」</span>の使用時、追加射撃を行う<br>
-                2.エリア開始時に自身から10m範囲の敵弾誘導性能を無効化する 20秒間継続<br>
-                各効果は条件を満たす限り再発動する
-            </div>
-        </div>
-        <div class="list">
-            ▶特定の組み合わせでギアを装備すると、ショットギアから排出される薬莢が、開発意図と異なる位置から排出されることがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶下記キャラクターがコスチューム「アニバドレスV」を着用した時、特定ポーズ中の脇の見え方に違和感がある問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・百科 文嘉<br>
-                ・吾妻 楓<br>
-                ・二子玉 舞<br>
-                ・四谷 ゆみ<br>
-                ・下落合 桃歌<br>
-                ・依城 えり<br>
-                ・文島 明日翔<br>
-                ・州天頃 椎奈<br>
-                ・村尾 未羅<br>
-                ・君影 唯<br>
-                ・須賀 乙莉<br>
-                ・九炉鉄 悠都<br>
-                ・ニーナ・K<br>
-                ・山野 薫子<br>
-                ・巽 竜子<br>
-                ・金潟 すぐみ<br>
-                ・在賀 奈々<br>
-                ・春日丘 もえ
-            </div>
-        </div>
-        <div class="list show_only_DMM">
-            ▶PC版のWebView画面（お知らせやヘルプなど）に、スクロールバーが表示されない問題を修正しました。
-        </div>
-        <div class="list show_only_Android">
-            ▶Android6系以下の非対応化を行いました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.67.0の配信に伴い、<span class="bold red">5/26（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
