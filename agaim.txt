@@ -160,8 +160,7 @@
         
         <div id="important-column-1129" class="weighty-column">
 
-            2023/06/15 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/06/15 16:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               的場 アオイの派生進化専用ショットギアの溜め時間が、SPスキル「バッカンテ・フレア」の効果終了後に長くなってしまう            </div>
