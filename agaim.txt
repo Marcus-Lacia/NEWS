@@ -100,7 +100,7 @@
         <div id="important-column-1132" class="weighty-column">
 
             2023/06/16 15:40                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/16 修正済)
                                     </span>
             
