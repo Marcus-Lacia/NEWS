@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1134" class="weighty-column">
+
+            2023/06/19 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              シャーロット・Yのトップスギアスキル「ループショット」のフィニッシュ攻撃を行っても、スキルの効果時間が終了しない            </div>
+
+        </div>
+        <div id="important-text-1134" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年06月19日 15:30<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶シャーロット・Yのトップスギアスキル「ループショット」のフィニッシュ攻撃を行っても、スキルの効果時間が終了しない。
+            </div>
+            <p class="list red">
+                ※フィニッシュ攻撃後はスキルの効果時間が終了するのが、正常な挙動となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1133" class="weighty-column">
 
             2023/06/16 20:35                            
@@ -1058,72 +1100,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1112" class="weighty-column">
-
-            2023/05/24 15:00                            
-                <span class="bold">
-                                            (05/26 実施済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              アクセサリーチケット使用期限の仕様変更について            </div>
-
-        </div>
-        <div id="important-text-1112" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年05月26日 14:00 追記<br>
-        アクセサリーチケット使用期限の仕様変更を実施いたしました。
-    </div>
-    <div>
-        本変更に伴い、5月26日（金）14:00 までに所持していたアクセサリ―チケットの使用期限を、一律で<span class="red">「7月1日（土）14:59 まで」</span>に変更させていただいております。
-    </div>
-    
-    
-    <hr class="red">
-    
-    
-    <div>
-        ■2023年05月24日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        下記の日時より、アクセサリーチケットの使用期限の仕様を変更いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【変更日時】</p>
-        <div>
-            2023年5月26日（金）14:00 頃
-        </div>
-        <p class="bold">【変更内容】</p>
-        <div>
-            アクセサリーチケット獲得後の使用期限を、以下のように変更。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                変更前：<br>
-                獲得した時から30日後まで
-            </div>
-            <div>
-                変更後：<br>
-                <span class="red">獲得した月から翌々月1日の14:59 まで</span>
-            </div>
-        </div>
-        <div>
-            例）4月6日と4月9日にアクセサリーチケットを1枚ずつ獲得した場合、使用期限はどちらも<span class="red">「6月1日 14:59 まで」</span>となります。
-        </div>
-        <div>
-            なお、5月26日（金）14:00 時点で所持しているアクセサリ―チケットは、使用期限を一律で<span class="red">「7月1日（土）14:59 まで」</span>に変更させていただきます。
-        </div>
     </div>
     
     <div>
