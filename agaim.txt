@@ -33,6 +33,85 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1138" class="weighty-column">
+
+            2023/06/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1138" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年06月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶高幡 のどかの各種称号を実装しました。
+        </div>
+        <p class="list red">
+            ※6/28（水）14:00時点で獲得条件を満たしているお客様へ
+        </p>
+        <div class="list">
+            ・アップデート時点で、対象称号は未入手の状態となりますので後日、対応称号の配布を実施いたします。
+        </div>
+        <div class="list">
+            ・信頼度またはファン数を改めて増加させることでも、対象称号を入手できます。
+        </div>
+        <div class="list">
+            ・配布処理の都合上、入手済みの称号が後日配布される場合もありますが、称号は複数個所持できない仕様となります。
+        </div>
+        <div class="list">
+            ▶小鳥遊 怜がコスチューム「スーベニア」着用中、勝利演出中にギアの一部が衣装にめり込むことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶的場 アオイがコスチューム「ステミング」着用中、特定モーション中にコスチュームの一部が肌にめり込むことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶的場 アオイの派生進化専用ショットギアの溜め時間が、SPスキル「バッカンテ・フレア」の効果終了後に長くなってしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ★4/イン・ザ・ブラック501<br>
+                ★4/イン・ザ・ブラック701
+            </div>
+        </div>
+        <div class="list">
+            ▶シャーロット・Yのトップスギアスキル「ループショット」のフィニッシュ攻撃を行っても、スキルの効果時間が終了しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.68.0アプリより、ネペンテスの色が変わってしまっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1137" class="weighty-column">
 
             2023/06/27 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -236,7 +315,11 @@
         
         <div id="important-column-1134" class="weighty-column">
 
-            2023/06/19 15:30            
+            2023/06/19 15:30                            
+                <span class="bold">
+                                            (06/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               シャーロット・Yのトップスギアスキル「ループショット」のフィニッシュ攻撃を行っても、スキルの効果時間が終了しない            </div>
@@ -245,6 +328,17 @@
         <div id="important-text-1134" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年06月28日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年06月19日 15:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -478,7 +572,11 @@
         
         <div id="important-column-1129" class="weighty-column">
 
-            2023/06/15 16:10            
+            2023/06/15 16:10                            
+                <span class="bold">
+                                            (06/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               的場 アオイの派生進化専用ショットギアの溜め時間が、SPスキル「バッカンテ・フレア」の効果終了後に長くなってしまう            </div>
@@ -487,6 +585,17 @@
         <div id="important-text-1129" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年06月28日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年06月15日 16:10<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1099,70 +1208,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1118" class="weighty-column">
-
-            2023/05/29 14:00                            
-                <span class="bold">
-                                            (05/29 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1118" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年05月29日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <p class="list red">
-            ※5/29（月）20:00 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶Ver.1.67.0アプリより、メインストーリー「侵蝕編6～7章」の一部任務に出現する、特定大型ヴァイスとの戦闘開始時にエラーが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「ポンポン/黄・白」の白いポンポンの揺れ方が、開発意図と異なる動きになっていた問題を修正しました。
-        </div>
-        <div class="list">
-            ▶エニグマにて修得可能なパッシブスキル「即時反撃【近接】1」が任務中に2回以上発動した場合、「近接攻撃が10%上昇する」効果が正常に発動しないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種キャラ一覧画面の、「ストライクウィッチーズ」コラボキャラクターの並び順を調整しました。
-        </div>
-        <div class="list">
-            ▶イベント「【復刻】ストライクウィッチーズ 新たなる空」の、5/27（土）15:00 に公開された予告エピソードに登場するシャーリー・Oの服装を微調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
