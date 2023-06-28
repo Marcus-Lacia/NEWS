@@ -86,7 +86,10 @@
         
         <div id="important-column-1138" class="weighty-column">
 
-            2023/06/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/06/28 14:00                            
+                <span class="red bold">
+                                            (06/28 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -122,6 +125,10 @@
         <div class="list">
             ・配布処理の都合上、入手済みの称号が後日配布される場合もありますが、称号は複数個所持できない仕様となります。
         </div>
+        <p class="list red">
+            ※6/28（水）15:00 追記<br>
+            14:00時点で獲得条件を満たしているお客様へ、対象称号の配布を実施いたしました。
+        </p>
         <div class="list">
             ▶小鳥遊 怜がコスチューム「スーベニア」着用中、勝利演出中にギアの一部が衣装にめり込むことがある問題を緩和しました。
         </div>
