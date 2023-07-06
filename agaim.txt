@@ -911,14 +911,14 @@
             <div class="list">
                 ▶的場 アオイの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1881">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1882">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 的場 アオイ【冀望】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/683?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1881">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1882">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
