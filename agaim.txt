@@ -35,8 +35,7 @@
         
         <div id="important-column-1142" class="weighty-column">
 
-            2023/07/10 17:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/07/10 17:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.68.0アプリより、メインストーリー「侵蝕編7章」のエピソード「495」の一部演出が正常に再生されない            </div>
