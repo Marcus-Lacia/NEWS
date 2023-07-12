@@ -33,6 +33,93 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1143" class="weighty-column">
+
+            2023/07/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.69.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1143" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年07月12日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.69.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.69.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶指揮官モードに、ランダムカメラモードを追加しました。
+        </div>
+        <p class="list red">
+            ※任務開始時のカメラのON/OFF設定は、オプション＞バトル関連＞「指揮官モードランダムカメラの初期状態」から変更できます。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1893">
+        </div>
+        <div class="list">
+            ▶ファティマ・Bがコスチューム「フラヌール」着用中に特定ポーズをとると、脚がスカートを突き抜けてしまうことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶ピーフォールとの戦闘中、攻撃を受けていなくてもスコアの獲得倍率が減少することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶メインストーリー「侵蝕編7章」に出現する特定大型ヴァイスの、レーザーを反射して攻撃を行う際の反射回数が、開発意図よりも少なくなっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.68.0アプリより、エリア移動演出や勝利演出中に、ギアのスラスターから噴出されるエフェクトが変化することがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.68.0アプリより、各種ヴァイスワーカーの出現演出が変化している問題を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチの一部任務に出現するプクラオが、ゲストとして参加したプレイヤーのみロックオンできないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記ギアスキルの説明文の一部誤字を修正しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・サンダーストローク<br>
+                ・サンダーストロークS<br>
+                ・サンダーストロークR
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.69.0の配信に伴い、<span class="bold red">7/13（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1142" class="weighty-column">
 
             2023/07/10 17:30            
@@ -1159,62 +1246,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1123" class="weighty-column">
-
-            2023/06/12 21:00                            
-                <span class="bold">
-                                            (06/16 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「あんなのクイズでぴょん！ぴょん！」のエピソード7話「成子坂 VS AEGiS」が、途中で終了してしまう場合がある            </div>
-
-        </div>
-        <div id="important-text-1123" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年06月16日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年06月12日 21:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶イベントエピソードセレクション「あんなのクイズでぴょん！ぴょん！」のエピソード7話「成子坂 VS AEGiS」が、途中で終了してしまう場合がある。
-            </div>
-            <p class="list red">
-                ※本不具合によってエピソードが途中で終了してしまっても、初回クリア報酬は正常に獲得できることを確認しております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、原因の調査を行っております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
