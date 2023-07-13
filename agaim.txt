@@ -33,10 +33,77 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1144" class="weighty-column">
+
+            2023/07/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1144" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年07月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶高幡 のどかのエニグマで修得可能なパッシブスキル「雷撃機能拡張1」の効果を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【追加内容】</p>
+            <p class="list">
+                ・スキルタグに「防御タグ」を追加。
+            </p>
+            <p class="list">
+                ・スキル効果に「被弾時のダメージを軽減する」を追加。
+            </p>
+        </div>
+        <div class="list">
+            ▶Ver.1.68.0アプリより、メインストーリー「侵蝕編7章」のエピソード「495」の一部演出が正常に再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶相河 愛花の下記専用トップスギアの、ギアスキル発動時のエフェクト表示位置を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象トップスギア】</p>
+            <div>
+                ・★3/MN201AAs/T<br>
+                ・★3/MN201AAsG1/T<br>
+                ・★3/MN201AAsG2/T
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1143" class="weighty-column">
 
-            2023/07/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/07/12 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.69.0 配信のお知らせ            </div>
@@ -66,7 +133,7 @@
             ※任務開始時のカメラのON/OFF設定は、オプション＞バトル関連＞「指揮官モードランダムカメラの初期状態」から変更できます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1895">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1896">
         </div>
         <div class="list">
             ▶ファティマ・Bがコスチューム「フラヌール」着用中に特定ポーズをとると、脚がスカートを突き抜けてしまうことがある問題を緩和しました。
@@ -122,7 +189,11 @@
         
         <div id="important-column-1142" class="weighty-column">
 
-            2023/07/10 17:30            
+            2023/07/10 17:30                            
+                <span class="bold">
+                                            (07/13 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.68.0アプリより、メインストーリー「侵蝕編7章」のエピソード「495」の一部演出が正常に再生されない            </div>
@@ -131,6 +202,17 @@
         <div id="important-text-1142" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年07月13日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年07月10日 17:30<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -162,7 +244,7 @@
 
             2023/07/06 12:00                            
                 <span class="bold">
-                                            (07/06 追記)
+                                            (07/13 実施済)
                                     </span>
             
             <div class="column-text">
@@ -173,6 +255,14 @@
         <div id="important-text-1141" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2023年07月13日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて仕様追加が完了いたしましたので、ご報告申し上げます。
+    </div>
+
+    
+    <hr class="red">
     
     <div>
         ■2023年07月06日 12:00<br>
@@ -1108,14 +1198,14 @@
             <div class="list">
                 ▶的場 アオイの専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1895">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230613/bnr_l00_inf_506_13.jpg?v=1896">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 的場 アオイ【冀望】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/683?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1895">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_059_70/bnr_header.jpg?v=1896">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1124,128 +1214,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1124" class="weighty-column">
-
-            2023/06/13 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1124" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年06月13日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ギアに装着したカスタムキットを取り外せる機能を追加しました。
-        </div>
-        <div class="list">
-            ▶「スロット拡張ツール」を実装しました。
-        </div>
-        <p class="list red">
-            ※トップス及びボトムスギアの「拡張スロット」が使用可能になるアイテムです。
-        </p>
-        <div class="list">
-            ▶ギアオクの「ウィークリー」ラインナップに、スロット拡張ツールを追加しました。
-        </div>
-        <div class="bg_skin">
-            カスタムキットに関する各種アップデートの詳細は、<a href="/news/show/id/686?returnUrl=back" class="bold navy"><u>「カスタムキット機能アップデート」のお知らせ</u></a>をご確認ください。
-        </div>
-        <div class="list">
-            ▶高幡 のどかの3Dモデルを微調整しました。
-        </div>
-        <p class="list red">
-            ※本調整にあわせて、「高幡 のどか」のイラストが表示された各種バナーも調整しております。
-        </p>
-        <div class="list">
-            ▶一部エピソードに登場するNPCの名称表示を下記に統一しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・オペレーターA → 二見 興子<br>
-                ・オペレーターB → 若狭 香洋<br>
-                ・オペレーターC → 須磨 将也
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターの、アクセサリー「ホワイトブリム」の着用位置を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ホワイトブリム/CB<br>
-                ・神宮寺 真理<br>
-                ・千島 美幸<br>
-                <br>
-                ホワイトブリム/RS<br>
-                ・ファティマ・B<br>
-                ・ミア・V<br>
-                ・御茶ノ水 美里江<br>
-                ・フランチェスカ・L<br>
-                <br>
-                ホワイトブリム/BB<br>
-                ・東雲 チヱ<br>
-                ・御蔵座 梓希
-            </div>
-        </div>
-        <div class="list">
-            ▶ボイスアーカイブにて、下記キャラクターのボイスの並び順を微調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・宮藤 芳佳<br>
-                ・坂本 美緒<br>
-                ・リネット・B<br>
-                ・ペリーヌ・C<br>
-                ・ゲルトルート・B<br>
-                ・エーリカ・H<br>
-                ・フランチェスカ・L<br>
-                ・シャーロット・Y
-            </div>
-        </div>
-        <div class="list">
-            ▶九炉鉄 悠都がアクセサリー「サーロス」を着用中、アクセサリーの上に眉毛が表示されてしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶シャーロット・Yのボトムスギアスキル「バレットファイア」の攻撃が、一部の敵に当たりにくい問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶メインストーリー「侵蝕編7章」の一部任務に出現する、特定大型ヴァイスの3Dモデルを微調整しました。
-        </div>
-        <div class="list">
-            ▶ロード画面等に表示される、カスタムキットに関するTipsの内容を調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
