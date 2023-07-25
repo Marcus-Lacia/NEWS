@@ -35,7 +35,11 @@
         
         <div id="important-column-1146" class="weighty-column">
 
-            2023/07/21 14:00            
+            2023/07/21 14:00                            
+                <span class="red bold">
+                                            (07/25 更新)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               本日のデータ更新内容について            </div>
@@ -55,6 +59,20 @@
     <div class="bg_white news-box">
         <p class="bold">【データ更新内容】</p>
         
+        <p class="list red">
+            ※7/25（火）17:00 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶下記キャラクターがアクセサリー「アスペクトリング」を着用中、ホーム画面等のネームプレートに表示される一部文字列が、開発意図と異なっている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・巽 竜子<br>
+                ・鳳 加純
+            </div>
+        </div>
         <div class="list">
             ▶下記コスチュームとアクセサリーをあわせて着用した際、一部画面に固有モーションを追加しました。
         </div>
