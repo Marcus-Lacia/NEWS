@@ -1,4 +1,4 @@
-
+﻿
 [download version](https://github.com/Marcus-Lacia/NEWS/releases/tag/V1.0)
 [下载版本](https://github.com/Marcus-Lacia/NEWS/releases/tag/V1.0)
 
@@ -31,5 +31,5 @@
 ### If cloning, remove the above code to avoid useless commits
 
 
-Translated with www.DeepL.com/Translator (free version)
+
 
