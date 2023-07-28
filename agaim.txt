@@ -121,8 +121,7 @@
         
         <div id="important-column-1149" class="weighty-column">
 
-            2023/07/27 12:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/07/27 12:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.70.0アプリより、我龍 絵美のコスチューム「AEGiS体操着/紺」が正常に着用できない            </div>
