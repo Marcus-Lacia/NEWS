@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1150" class="weighty-column">
+
+            2023/07/28 17:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1150" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年07月28日 17:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶百科 文嘉のエニグマのノーマルエリアに、新パッシブスキルが修得できるスキルセルを追加しました。
+        </div>
+        <div class="list">
+            ▶ヘルプ＞誕生日リストにファクター「百科 文嘉」がお祝いするキャラクターを追記しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・7/24	：大関 小結
+            </div>
+        </div>
+        <div class="list">
+            ▶Ver.1.70.0アプリより、我龍 絵美のコスチューム「AEGiS体操着/紺」が正常に着用できず、代わりに別コスチュームのグラフィックになってしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶7/27（木）14:00 のアップデートより、百科 文嘉のボイスアーカイブの一部台詞テキストが正常に表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶百科 文嘉のキャラエピソードEp5-3に登場する、特定人物のリアクションを微調整しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターが特定ギアを装備していると、3D MODEL画面で開発意図と異なるポーズをとってしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・兼志谷 シタラ【ブレイブ】<br>
+                ・百科 文嘉【ブレイブ】
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1151" class="weighty-column">
 
             2023/07/28 16:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -162,7 +235,11 @@
         
         <div id="important-column-1149" class="weighty-column">
 
-            2023/07/27 12:40            
+            2023/07/27 12:40                            
+                <span class="bold">
+                                            (07/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.70.0アプリより、我龍 絵美のコスチューム「AEGiS体操着/紺」が正常に着用できない            </div>
@@ -171,6 +248,17 @@
         <div id="important-text-1149" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年07月28日 17:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年07月27日 12:40<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1244,46 +1332,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1131" class="weighty-column">
-
-            2023/06/16 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              メインストーリー「侵蝕編7章 PART II」について            </div>
-
-        </div>
-        <div id="important-text-1131" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年06月16日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日15:00 より配信が開始されたメインストーリー「侵蝕編7章 PART II」について、下記の対象に含まれるお客様は、<span class="red">エピソードや任務がクリア済みの状態となっている</span>場合がございます。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【対象者】</p>
-        <div>
-            4月1日（土）の「侵蝕編7章 PART IIの一部が開発意図と異なる状態で公開された」不具合の発生時に、誤って公開されたエピソードや任務をプレイされたお客様
-        </div>
-        <div>
-            各エピソードや任務のクリア状況は引き継がれており、初回クリア報酬の「スカウトポイント」や「ゴールド」も4月1日（土）の時点で獲得済みとなります。
-        </div>
-        <p class="list red">
-            ※初回クリア報酬の「スカウトポイント」や「ゴールド」は、開発意図通りの内容が配布されていることを確認しております。
-        </p>
-        <div>
-            なお、現在は正しい内容のエピソードや任務が配信されておりますので、ぜひお楽しみください。
-        </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
