@@ -108,8 +108,7 @@
         
         <div id="important-column-1151" class="weighty-column">
 
-            2023/07/28 16:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/07/28 16:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               兼志谷 シタラと百科 文嘉のボイスアーカイブにて、「ファクター」ボイスのタブが未実装にも関わらず開放されている            </div>
