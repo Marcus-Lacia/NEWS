@@ -478,14 +478,14 @@
             <div class="list">
                 ▶在賀 奈々の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230713/bnr_l00_inf_507_13.jpg?v=1939">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230713/bnr_l00_inf_507_13.jpg?v=1940">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 在賀 奈々【星詠】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/695?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_058_70/bnr_header.jpg?v=1939">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_058_70/bnr_header.jpg?v=1940">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -594,7 +594,7 @@
             ※任務開始時のカメラのON/OFF設定は、オプション＞バトル関連＞「指揮官モードランダムカメラの初期状態」から変更できます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1939">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1940">
         </div>
         <div class="list">
             ▶ファティマ・Bがコスチューム「フラヌール」着用中に特定ポーズをとると、脚がスカートを突き抜けてしまうことがある問題を緩和しました。
