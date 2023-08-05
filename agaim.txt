@@ -35,8 +35,7 @@
         
         <div id="important-column-1152" class="weighty-column">
 
-            2023/08/04 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/08/04 20:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               服袋「BDナースセレクト」及びアクセサリーガチャ「BDキャップ」の公開終了について            </div>
