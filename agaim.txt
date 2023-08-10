@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1154" class="weighty-column">
+
+            2023/08/10 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1154" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年08月10日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクター専用のアナザーギアを実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    <span class="bold">大関 小結</span><br>
+                    ・「試験用ライスシャワーAHVY」シリーズ<br>
+                    ・「試験用グラビトンコリダーA凸」シリーズ<br>
+                    ・「ダイコクA/T」シリーズ<br>
+                    ・「ダイコクA/B」シリーズ
+                </div>
+            </div>
+            <div class="list">
+                ▶ギアオクのWishで下記キャラクターが選択できるようになりました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・大関 小結
+                </div>
+            </div>
+            <div class="list">
+                ▶下記キャラクターに「アナザーギア体験エピソード」を追加しました。
+            </div>
+            <p class="list red">※各エピソードは対象キャラクターが加入している場合に、「キャラエピソード画面」から再生できます。</p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・大関 小結【豊潤】
+                </div>
+            </div>
+            <div class="list">
+                ▶大関 小結の専用クロスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230810/bnr_l00_inf_508_10.jpg?v=1955">
+    
+            <div class="list red">
+                ※派生進化専用ギア及びアナザーギアの特殊な動作について、大関 小結【豊潤】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/121?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_039_70/bnr_header.jpg?v=1955">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1153" class="weighty-column">
 
             2023/08/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -233,7 +306,11 @@
         
         <div id="important-column-1151" class="weighty-column">
 
-            2023/07/28 16:05            
+            2023/07/28 16:05                            
+                <span class="bold">
+                                            (08/10 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               兼志谷 シタラと百科 文嘉のボイスアーカイブにて、「ファクター」ボイスのタブが未実装にも関わらず開放されている            </div>
@@ -242,6 +319,17 @@
         <div id="important-text-1151" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年08月10日 15:00 追記<br>
+            8/10（木）15:00 のアップデートにて、兼志谷 シタラと百科 文嘉の「ファクター」のボイスアーカイブを実装いたしました。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年07月28日 16:05<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1272,62 +1360,6 @@
             <div class="list">
                 ▶Ver.1.67.2アプリより、村尾 未羅のSPスキル「メタトロニオス」発動中のカウンター攻撃が正常に行われなくなっている。
             </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1134" class="weighty-column">
-
-            2023/06/19 15:30                            
-                <span class="bold">
-                                            (06/28 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              シャーロット・Yのトップスギアスキル「ループショット」のフィニッシュ攻撃を行っても、スキルの効果時間が終了しない            </div>
-
-        </div>
-        <div id="important-text-1134" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年06月28日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年06月19日 15:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶シャーロット・Yのトップスギアスキル「ループショット」のフィニッシュ攻撃を行っても、スキルの効果時間が終了しない。
-            </div>
-            <p class="list red">
-                ※フィニッシュ攻撃後はスキルの効果時間が終了するのが、正常な挙動となります。
-            </p>
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
