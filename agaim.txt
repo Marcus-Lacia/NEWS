@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1153" class="weighty-column">
+
+            2023/08/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1153" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年08月10日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶百科 文嘉のアクセサリー「インデックス」の3Dモデルを微調整しました。
+        </div>
+        <div class="list">
+            ▶小鳥遊 怜が下記アクセサリーを着用した時のフィット感を微調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクセサリー】</p>
+            <div>
+                ・シロワニハット<br>
+                ・サンタキャップ<br>
+                ・キャップ/PANEM<br>
+                ・キャペリン/白
+            </div>
+        </div>
+        <div class="list">
+            ▶一部ギアのギアメーカー表示が誤っている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★3「G12-OKs/B」シリーズ<br>
+                ・★3「ヴァンパイアKCs」シリーズ
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「クリクエオンライン ～みりえの挑戦状～」及び「クリクエオンライン ～復活のみりえ～」にて、特定環境でエピソード中の顔アイコンが正常に表示されないことがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶藤野 やよい【ライブ】をホーム画面に配置中、「藤野 極」の誕生日をお祝いする台詞が正しく再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1152" class="weighty-column">
 
             2023/08/04 20:05            
@@ -1266,70 +1339,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1133" class="weighty-column">
-
-            2023/06/16 20:35                            
-                <span class="bold">
-                                            (06/16 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1133" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年06月16日 20:35<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶メインストーリー「侵蝕編7章 PART II」の特定シーンが正常に再生されず、エラーが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.67.2アプリより、ドレッサー画面でキャラクターを高幡 のどかに変更すると、エラーが発生することがある不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                6/16（金）20:35 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                6/30（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
