@@ -35,7 +35,10 @@
         
         <div id="important-column-1155" class="weighty-column">
 
-            2023/08/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/08/28 14:00                            
+                <span class="red bold">
+                                            (08/28 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -56,6 +59,13 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.71.0の更新内容】</p>
         
+        <p class="list red">
+            ※8/28（月）16:35 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶へクス調査報酬獲得時の演出を高速化しました。
+        </div>
         <div class="list">
             ▶アプリアイコンのデザインを変更しました。
         </div>
