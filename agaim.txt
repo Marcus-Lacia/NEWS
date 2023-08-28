@@ -33,6 +33,82 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1155" class="weighty-column">
+
+            2023/08/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.71.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1155" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年08月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.71.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.71.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶定期パスが購入できる「プレミアムショップ」を実装しました。
+        </div>
+        <p class="list red">
+            ※プレミアムショップは8/29（火）15:00 から利用可能となります。
+        </p>
+        <div class="list">
+            ▶一部ログインボーナス受け取り時のUIデザインを調整しました。
+        </div>
+        <div class="list">
+            ▶春日丘 もえのSPスキル「テナサイトブラスト」発動中に上書きされる、トップススキルの発動演出を微調整しました。
+        </div>
+        <p class="list red">
+            ※演出のみの調整となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶鳳 加純のSPスキル「フェニックスブレイズ」が使用可能な状態でステップを行うと、SPスキルボタン上の「HOLD」の表示が消える問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶「追加タップで連続攻撃を行う」効果のボトムスギアスキル発動後に、特定操作を行うと、スキルボタンが開発意図と異なる見た目になることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「企業案件任務β」にて、ギアスキルの使用回数がパッシブスキルによって上昇している場合に、マップ画面にギアスキルの正しい使用回数が表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ホーム画面で特定操作を行うと、解析やメニュー画面を複数回開くことができてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.71.0の配信に伴い、<span class="bold red">8/29（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1154" class="weighty-column">
 
             2023/08/10 15:00            
@@ -1311,59 +1387,6 @@
         </div>
         <div>
             このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1135" class="weighty-column">
-
-            2023/06/19 17:50                            
-                <span class="bold">
-                                            (06/27 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.67.2アプリより、村尾 未羅のSPスキル「メタトロニオス」発動中のカウンター攻撃が正常に行われなくなっている            </div>
-
-        </div>
-        <div id="important-text-1135" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年06月27日 14:05 追記<br>
-            本件につきまして、順次配信されましたVer1.68.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年06月19日 17:50<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.67.2アプリより、村尾 未羅のSPスキル「メタトロニオス」発動中のカウンター攻撃が正常に行われなくなっている。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
         </div>
         <div>
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
