@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1159" class="weighty-column">
+
+            2023/08/29 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              初音 ミクがコスチューム「ウェイトレス/39」着用中、特定のカメラアングルになった際に「ACCESS DENIED」が表示される            </div>
+
+        </div>
+        <div id="important-text-1159" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年08月29日 16:40<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶初音 ミクがコスチューム「ウェイトレス/39」着用中、特定のカメラアングルになった際に「ACCESS DENIED」が表示される。
+            </div>
+            <p class="list red">
+                ※当該コスチューム着用中「ACCESS DENIED」は表示されないのが仕様となります。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1158" class="weighty-column">
 
             2023/08/29 15:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1258,56 +1300,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1139" class="weighty-column">
-
-            2023/06/28 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1139" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年06月28日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶高幡 のどかの「エニグマ」を実装しました。
-            </div>
-            <p class="list red">
-                ※エニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-            <div class="list">
-                ▶高幡 のどかの専用ギア及び固有のSギアシェルを実装しました。
-            </div>
-            <p class="list red">
-                ※専用ギアは「電撃属性」と「焼夷属性」の2種類あり、それぞれ性能が異なります。
-            </p>
-            <div class="list">
-                ▶高幡 のどかの絆エピソード及びEp1以外のキャラエピソードを実装しました。
-            </div>
-            <div class="list">
-                ▶各種ログインボーナスにて、スカウトカード所持上限を超えるスカウトポイントを獲得した際、スカウトポイントが受取箱へ送られるよう仕様を変更しました。
-            </div>
-            <p class="list red">
-                ※受取期限は7日間となります。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
