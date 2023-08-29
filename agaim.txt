@@ -39,7 +39,7 @@
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              初音 ミク【音色】を所持していても、以下のキャラエピソードが開放されない            </div>
+              初音 ミク【音色】を所持していても、特定のキャラエピソードが開放されない            </div>
 
         </div>
         <div id="important-text-1158" class="weighty-notice hide">
