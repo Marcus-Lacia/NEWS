@@ -33,6 +33,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1157" class="weighty-column">
+
+            2023/08/29 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1157" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年08月29日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶下記キャラクターに「エニグマ」を実装しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                <div>
+                    ・初音 ミク<br>
+                    ・初音 ミク【音色】
+                </div>
+            </div>
+            <p class="list red">
+                ※「初音 ミク」と「初音 ミク【音色】」のエニグマは、共通の内容となります。
+            </p>
+            <p class="list red">
+                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1156" class="weighty-column">
 
             2023/08/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -223,13 +269,13 @@
             <div class="list">
                 ▶大関 小結の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230810/bnr_l00_inf_508_10.jpg?v=1980">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230810/bnr_l00_inf_508_10.jpg?v=1981">
     
             <div class="list red">
                 ※派生進化専用ギア及びアナザーギアの特殊な動作について、大関 小結【豊潤】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/121?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_039_70/bnr_header.jpg?v=1980">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_039_70/bnr_header.jpg?v=1981">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -824,14 +870,14 @@
             <div class="list">
                 ▶在賀 奈々の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230713/bnr_l00_inf_507_13.jpg?v=1980">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230713/bnr_l00_inf_507_13.jpg?v=1981">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 在賀 奈々【星詠】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/695?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_058_70/bnr_header.jpg?v=1980">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_058_70/bnr_header.jpg?v=1981">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -940,7 +986,7 @@
             ※任務開始時のカメラのON/OFF設定は、オプション＞バトル関連＞「指揮官モードランダムカメラの初期状態」から変更できます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1980">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230712/info_01.jpg?v=1981">
         </div>
         <div class="list">
             ▶ファティマ・Bがコスチューム「フラヌール」着用中に特定ポーズをとると、脚がスカートを突き抜けてしまうことがある問題を緩和しました。
@@ -1304,117 +1350,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1137" class="weighty-column">
-
-            2023/06/27 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.68.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1137" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年06月27日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.68.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.68.0の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶発動中にBGMが変更されるSPスキルの効果終了後、変更前のBGMが中断箇所から再開されるよう仕様を変更しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・戦いのプリパレーション<br>
-                ・ヴァニッシュト・ヨナ
-            </div>
-        </div>
-        <div class="list">
-            ▶Ver.1.67.2アプリより、村尾 未羅のSPスキル「メタトロニオス」発動中のカウンター攻撃が正常に行われなくなっている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶駒添 絵伝専用クロスギアの、強化状態中に下フリックで発動する「全キャラクターのHPを回復する」効果が自身にしか適用されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/エイル<br>
-                ・★4/エイル・プロ<br>
-                ・★4/ベイグル&amp;トリエグル
-            </div>
-        </div>
-        <div class="list">
-            ▶各種ネペンテスが種子を召喚した時に、「特定の大型ヴァイス登場時」が発動条件となるパッシブスキルの効果が発動してしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種ネペンテスの「種子が破壊されるまでバリアを張り続ける」行動中に、種子をロックオンできるよう仕様を変更しました。
-        </div>
-        <div class="list">
-            ▶各種ネペンテスをロックオンしている際、特定動作時にカメラが激しく揺れる問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶各種レントラー属性特異型が刃を展開していない時に、本体への攻撃が正しく当たらないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種セルケトがダウン状態の時にHPを一定まで減らすと、ダウン状態が強制終了して次の行動へ移行してしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ヴェスピナエを特定状況で撃破すると、撃破演出が正しく再生されないことがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチ任務にて、リコサアラゴギがチャージ状態へ移行すると、下方向へ急降下することがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチ任務にて、大型ヴァイスの出現前にゲストプレイヤーの通信状態が切れると、大型ヴァイスが出現しなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶指揮官モードにて、リザルト画面でアイテム詳細画面を開くと、詳細画面が開かれたまま次の任務が開始してしまう不具合を修正しました。
-        </div>
-        <div class="hide_DMM">
-            <div class="list">
-                ▶「オプション」＞「実験的機能」に「マルチ切断時の自動戦闘継続（ホストのみ）」の項目を追加しました。
-            </div>
-            <p class="list red">
-                ※本機能をONにして、マルチ任務にホストとして参加すると、ゲストの接続が切断された時に、切断されたプレイヤーのアクトレスが自律的に戦闘を継続するようになります。
-            </p>
-            <p class="list red">
-                ※本機能はPC版に先行実装していた機能となります。<br>
-                また「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
-            </p>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.68.0の配信に伴い、<span class="bold red">6/28（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/55</div>
+                    <div class="page-box box-radius">1/56</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
