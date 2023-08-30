@@ -116,8 +116,7 @@
         
         <div id="important-column-1158" class="weighty-column">
 
-            2023/08/29 15:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/08/29 15:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               初音 ミク【音色】を所持していても、特定のキャラエピソードが開放されない            </div>
