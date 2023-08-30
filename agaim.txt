@@ -113,8 +113,7 @@
         
         <div id="important-column-1159" class="weighty-column">
 
-            2023/08/29 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/08/29 16:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               初音 ミクがコスチューム「ウェイトレス/39」着用中、特定のカメラアングルになった際に「ACCESS DENIED」が表示される            </div>
