@@ -35,8 +35,7 @@
         
         <div id="important-column-1161" class="weighty-column">
 
-            2023/08/30 16:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/08/30 16:35            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               琴村 朱音のコスチューム「赤の広場制服」の一部色味が、開発意図と異なっている            </div>
