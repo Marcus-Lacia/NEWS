@@ -35,8 +35,7 @@
         
         <div id="important-column-1166" class="weighty-column">
 
-            2023/09/08 18:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/09/08 18:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「企業案件任務」で派遣部隊のおまかせ編成を行うと、一部キャラクターのノーマルとアナザーを同時に編成できてしまう            </div>
