@@ -35,7 +35,10 @@
         
         <div id="important-column-1167" class="weighty-column">
 
-            2023/09/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/09/13 14:00                            
+                <span class="red bold">
+                                            (09/13 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -56,6 +59,13 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.72.0の更新内容】</p>
         
+        <p class="list red">
+            ※9/13（水）15:00 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶オプション＞実験的機能「ダークモード」利用中、一部画面にて重篤な不具合が確認されたため、対象機能を非公開にしました。
+        </div>
         <div class="list">
             ▶アプリアイコンのデザインを変更しました。
         </div>
