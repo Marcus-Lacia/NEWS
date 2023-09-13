@@ -33,6 +33,96 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1167" class="weighty-column">
+
+            2023/09/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.72.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1167" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年09月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.72.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.72.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2000">
+        </div>
+        <div class="list">
+            ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.71.0アプリより、百科 文嘉のSPスキル「ツヴァイヘンデルAZ」発動中に上書きされたボトムススキルの効果が正しく発動せず、効果時間も終了しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶金潟 すぐみのSPスキル「マグヌム・オプス」の効果時間中、近接攻撃以外の攻撃で、下記クロスギアのモードシフトゲージが増加することがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/リオリエントμ・α<br>
+                ・★4/リオリエントμ・Ｏα<br>
+                ・★3/試作リオリエントμA<br>
+                ・★3/試作リオリエントμαA<br>
+                ・★3/試作リオリエントμOαA<br>
+                ・★4/リオリエントμA
+            </div>
+        </div>
+        <div class="list">
+            ▶「追加タップでスキルが強化される」効果を持つトップスギアスキルが、追加タップを行う分のスキル使用回数が残っていない状態でも、1回分の追加タップが行えてしまうことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ボスとして出現するヴァイスワーカー各種が、出現演出の直前にエリアに現れることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶巽 竜子がホーム画面に配置されている時、特定状況で台詞が2連続で再生されることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶8/29（火）14:00 のアップデートより、一部コラボキャラクターが特定アクセサリーを着用した時に一部リアクションを行わなくなっていた不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶「案件ポイント/AUT」の説明文に書かれている使用期限が誤っている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※正しい使用期限は「12/14（木）14:59 まで」となります。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.72.0の配信に伴い、<span class="bold red">9/14（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1166" class="weighty-column">
 
             2023/09/08 18:50            
@@ -379,7 +469,11 @@
         
         <div id="important-column-1160" class="weighty-column">
 
-            2023/08/30 14:00            
+            2023/08/30 14:00                            
+                <span class="bold">
+                                            (09/13 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               百科 文嘉のSPスキル「ツヴァイヘンデルAZ」に発生している不具合について            </div>
@@ -388,6 +482,17 @@
         <div id="important-text-1160" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年09月13日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.72.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年08月30日 14:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1220,119 +1325,6 @@
     <div>
         なお、Ver.1.70.0の配信に伴い、<span class="bold red">7/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1146" class="weighty-column">
-
-            2023/07/21 14:00                            
-                <span class="bold">
-                                            (07/25 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1146" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年07月21日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <p class="list red">
-            ※7/25（火）17:00 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶下記キャラクターがアクセサリー「アスペクトリング」を着用中、ホーム画面等のネームプレートに表示される一部文字列が、開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・巽 竜子<br>
-                ・鳳 加純
-            </div>
-        </div>
-        <div class="list">
-            ▶下記コスチュームとアクセサリーをあわせて着用した際、一部画面に固有モーションを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象】</p>
-            <div>
-                <div class="list">
-                    ・アクセサリー「シーフバンダナ」&amp;<br>
-                    コスチューム「シバルリーチュニック」
-                </div>
-                <div class="list">
-                    ・アクセサリー「ソーサラーハット」&amp;<br>
-                    コスチューム「ソーサラーローブ」
-                </div>
-                <div class="list">
-                    ・アクセサリー「バラの髪飾り」&amp;<br>
-                    コスチューム「ノーブルガレルース」
-                </div>
-                <div class="list">
-                    ・アクセサリー「ラッテの帽子」&amp;<br>
-                    コスチューム「グラストコス/シタラ」
-                </div>
-                <div class="list">
-                    ・アクセサリー「ラブリュスの髪飾り」&amp;<br>
-                    コスチューム「グラストコス/舞」
-                </div>
-                <div class="list">
-                    ・アクセサリー「クリスのゴーグル」&amp;<br>
-                    コスチューム「グラストコス/ジニー」
-                </div>
-                <div class="list">
-                    ・アクセサリー「リーシュのティカ」&amp;<br>
-                    コスチューム「グラストコス/FB」
-                </div>
-            </div>
-        </div>
-        <div class="list">
-            ▶各種ストリックの当たり判定を調整し、一部の攻撃が当たりにくい問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶ケプリ属性特異型との戦闘中に特定操作を行うと、ケプリ本体がロックオンできなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチにて、ゲストとして参加したプレイヤーのみ、各種ヴァイスワーカーが表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶巽 竜子が専用クロスギアを装備時、3D MODEL画面にて、特定ポーズ中に手がクロスギアにめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶尾長 晶乃が専用クロスギアを装備時、3D MODEL画面にて、特定ポーズ中に手がクロスギアにめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶尾長 晶乃がコスチューム「アニバドレスV」を着用時、特定ポーズ中に左肩が違和感のある見た目になることがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
