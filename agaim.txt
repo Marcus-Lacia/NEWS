@@ -39,7 +39,7 @@
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならない            </div>
+              Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある            </div>
 
         </div>
         <div id="important-text-1170" class="weighty-notice hide">
@@ -58,7 +58,7 @@
             <p class="bold">【不具合内容】</p>
             
             <div class="list">
-                ▶Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならない。
+                ▶Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある。
             </div>
             <div class="sub-box bg_white">
                 <p class="bold">【対象任務】</p>
