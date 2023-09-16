@@ -35,8 +35,7 @@
         
         <div id="important-column-1170" class="weighty-column">
 
-            2023/09/15 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/09/15 19:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある            </div>
