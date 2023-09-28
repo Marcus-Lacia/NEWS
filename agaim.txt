@@ -33,6 +33,67 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1174" class="weighty-column">
+
+            2023/09/28 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              相河 愛花【ネクスト】及び小芦 睦海【ネクスト】が、特定のSPスキルを発動するとボイスが正しく再生されない            </div>
+
+        </div>
+        <div id="important-text-1174" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年09月28日 19:20<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶相河 愛花【ネクスト】及び小芦 睦海【ネクスト】が、特定のSPスキルを発動するとボイスが正しく再生されない。
+            </div>
+            <p class="list red">
+                ※SPスキルの効果は正しく発動していることを確認しております。
+            </p>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象SPスキル】</p>
+                <div>
+                    <span class="bold">相河 愛花【ネクスト】</span><br>
+                    ・リペアポッドEα<br>
+                    ・リペアポッドEβ<br>
+                    ・リペアポッドE<br>
+                    ・ナーサリーライム<br>
+                    ・ヴァーナルフラッフ
+                </div>
+                <div>
+                    <span class="bold">小芦 睦海【ネクスト】</span><br>
+                    ・フロストストライクα<br>
+                    ・フロストストライクβ<br>
+                    ・フロストストライク<br>
+                    ・アイスエイジブレイク<br>
+                    ・ビーストインストール
+                </div>
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1173" class="weighty-column">
 
             2023/09/28 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1372,59 +1433,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1152" class="weighty-column">
-
-            2023/08/04 20:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              服袋「BDナースセレクト」及びアクセサリーガチャ「BDキャップ」の公開終了について            </div>
-
-        </div>
-        <div id="important-text-1152" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年08月04日 20:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            現在公開中の「BDナースセレクト」及びアクセサリーガチャ「BDキャップ」につきまして、以下の日時に公開終了を予定しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【対象】</p>
-            <div>
-                ・服袋「BDナースセレクト vol.1」<br>
-                ・服袋「BDナースセレクト vol.2」<br>
-                ・服袋「BDナースセレクト vol.3」<br>
-                ・服袋「BDナースセレクト vol.4」<br>
-                ・服袋「BDナースセレクト vol.5」<br>
-                ・服袋「BDナースセレクト vol.6」<br>
-                ・アクセサリーガチャ「BDキャップ」
-                <p class="list red">
-                    ※公開終了日時以降に開催される各種「アクセチョイス」にも、アクセサリー「BDキャップ」が含まれなくなります。
-                </p>
-            </div>
-            <p class="bold">【公開終了日時】</p>
-            <div>
-        	    ・8/31（木）14:59
-            </div>
-            <div class="list red">
-                ※公開終了日時以降は各種「BDナースセレクト」及びアクセサリーガチャ「BDキャップ」をご利用いただけなくなります。
-            </div>
-            <div class="list red">
-                ※すでに入手済みのコスチュームは引き続きご利用いただけます。
-            </div>
-            <div class="list red">
-                ※再配信につきましては「未定」となっております。
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
