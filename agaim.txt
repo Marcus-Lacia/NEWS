@@ -35,7 +35,10 @@
         
         <div id="important-column-1171" class="weighty-column">
 
-            2023/09/28 10:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/09/28 10:05                            
+                <span class="red bold">
+                                            (09/28 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -56,6 +59,16 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.72.1の更新内容】</p>
         
+        <p class="list red">
+            ※9/28（木）12:00 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶我龍 絵美のSPスキル「大和雅絵図」のフィニッシュムーブ演出中にカメラモードを起動すると、SPスキル中に召喚したギアが、演出終了後も表示され続けることがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
         <div class="list">
             ▶Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある不具合を修正しました。
         </div>
