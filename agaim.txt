@@ -33,9 +33,100 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1171" class="weighty-column">
+
+            2023/09/28 10:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.72.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1171" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年09月28日 10:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.72.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.72.1の更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・マルチ「EASY 軌道上の狙撃手」<br>
+                ・マルチ「EASY 惑星軌道を守れ」<br>
+                ・メインストーリーの一部任務
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ヴァイスの出現演出中、武器が開発意図と異なる表示になっている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ヴァイス】</p>
+            <div>
+                ・VWソード<br>
+                ・VWスナイプ
+            </div>
+        </div>
+        <div class="list">
+            ▶「追加タップでフィニッシュ攻撃を行う」効果のギアスキル発動後、特定状況でスキルボタンが激しく明滅することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ギアスキルの効果時間が終了する直前に「高速移動しながら攻撃を行う」効果を持つスキルを発動すると、ギアスキルの効果時間終了後に、すぐにクールタイムに移行しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記トップスギアスキルの、追加タップ2回目の入力受付時間が開発意図よりも短い不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・Mアンプリファイア<br>
+                ・MアンプリファイアR<br>
+                ・MアンプリファイアS
+            </div>
+        </div>
+        <div class="list">
+            ▶9/14（木）15:00 より切り替わったホーム画面にて、食卓のご飯や冷奴の一部が黒く見えることがある問題を修正しました。
+        </div>
+        <div class="list show_only_Android">
+            ▶Android7系以下の非対応化を行いました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.72.1の配信に伴い、<span class="bold red">9/28（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1170" class="weighty-column">
 
-            2023/09/15 19:00            
+            2023/09/15 19:00                            
+                <span class="bold">
+                                            (09/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある            </div>
@@ -44,6 +135,17 @@
         <div id="important-text-1170" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年09月28日 10:05 追記<br>
+            本件につきまして、順次配信されましたVer1.72.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年09月15日 19:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1288,91 +1390,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1148" class="weighty-column">
-
-            2023/07/27 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1148" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年07月27日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ヘルプ＞誕生日リストにファクター「兼志谷 シタラ」がお祝いするキャラクターを追記しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・1/30	：ファティマ・B<br>
-                ・3/21	：宇佐元 杏奈<br>
-                ・4/6	：四谷 ゆみ<br>
-                ・4/9	：比良坂 夜露<br>
-                ・4/21	：小芦 睦海<br>
-                ・5/15	：金潟 すぐみ<br>
-                ・6/19	：バージニア・G<br>
-                ・8/18	：兼志谷 ナビン<br>
-                ・11/22：百科 文嘉<br>
-                ・12/12：二子玉 舞
-            </div>
-        </div>
-        <div class="list">
-            ▶ヘルプ＞誕生日リストにファクター「百科 文嘉」がお祝いするキャラクターを追記しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・2/19	：吾妻 楓<br>
-                ・3/7	：松田 アレックス<br>
-                ・4/6	：四谷 ゆみ<br>
-                ・4/9	：比良坂 夜露<br>
-                ・5/1	：鈴木 有人<br>
-                ・7/1	：仁紀藤 奏<br>
-                ・9/1	：磐田 宗一郎<br>
-                ・10/8	：駒添 絵伝<br>
-                ・10/9	：岡村 実果<br>
-                ・10/18：兼志谷 シタラ<br>
-                ・10/31：富田 海良<br>
-                ・12/20：萬場 盟華
-            </div>
-        </div>
-        <div class="list">
-            ▶一部のエネルギー弾属性のスナイパーを装備中、射撃の射程外にいても、ロックオンマーカーに「射程外」と表示されないことがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
