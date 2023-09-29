@@ -35,8 +35,7 @@
         
         <div id="important-column-1174" class="weighty-column">
 
-            2023/09/28 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/09/28 19:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               相河 愛花【ネクスト】及び小芦 睦海【ネクスト】が、特定のSPスキルを発動するとボイスが正しく再生されない            </div>
