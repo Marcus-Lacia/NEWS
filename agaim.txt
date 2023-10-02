@@ -537,7 +537,7 @@
             ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2029">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2030">
         </div>
         <div class="list">
             ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
@@ -1343,13 +1343,13 @@
             <div class="list">
                 ▶大関 小結の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230810/bnr_l00_inf_508_10.jpg?v=2029">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230810/bnr_l00_inf_508_10.jpg?v=2030">
     
             <div class="list red">
                 ※派生進化専用ギア及びアナザーギアの特殊な動作について、大関 小結【豊潤】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/121?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_039_70/bnr_header.jpg?v=2029">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_039_70/bnr_header.jpg?v=2030">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
