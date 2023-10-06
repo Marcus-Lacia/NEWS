@@ -76,7 +76,7 @@
                     <div class="sub-title">
                         変更リスト
                     </div>
-                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2035">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2036">
                 </div>
                 <div class="list">
                     ▶下記任務の初回クリア報酬に、各種ギアシェルを追加しました。
@@ -185,8 +185,7 @@
         
         <div id="important-column-1175" class="weighty-column">
 
-            2023/10/05 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/05 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               アップデートのお知らせ            </div>
@@ -765,7 +764,7 @@
             ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2035">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2036">
         </div>
         <div class="list">
             ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
