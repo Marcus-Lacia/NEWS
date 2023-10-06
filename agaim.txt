@@ -33,6 +33,156 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1176" class="weighty-column">
+
+            2023/10/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1176" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年10月06日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶メインストーリー「黎明編」各任務の初回クリア報酬をリニューアルしました。
+        </div>
+         
+        <div id="story231006">
+            
+            <div class="center">
+                <div class="bold center purple">
+                    <u>＜ 変更点の詳細はコチラ ＞</u>
+                </div>
+            </div>
+             
+            <div class="hidden-contents bg_skin">
+                <div class="list">
+                    ▶スカウトポイント、ゴールド、アニマの獲得量を変更しました。
+                </div>
+                <div>
+                    <div class="sub-title">
+                        変更リスト
+                    </div>
+                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2035">
+                </div>
+                <div class="list">
+                    ▶下記任務の初回クリア報酬に、各種ギアシェルを追加しました。
+                </div>
+                <div class="sub-box bg_white">
+                    <div>
+                        <span class="bold">任務No.21クリアで獲得</span><br>
+                        ・Sギアシェル/SH × 1
+                    </div>
+                    <div>
+                        <span class="bold">任務No.39クリアで獲得</span><br>
+                        ・ギアシェル（★3） × 1
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            対象任務を既にクリアしているお客様につきましては、リニューアルで追加された分の報酬アイテムが、ログイン時に受取箱へ補填されます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【報酬アイテム】</p>
+            <div>
+                ・スカウトポイント × 1,070<br>
+                ・ゴールド × 117,535<br>
+                ・アニマ × 58,500<br>
+                ・Sギアシェル/SH × 1<br>
+                ・ギアシェル（★3） × 1
+                <p class="list red">
+                    ※「黎明編」の任務を全てクリアしている場合の数量です。
+                </p>
+            </div>
+        </div>
+        <div class="list">
+            ▶AIT Ti2及びAIT【イア・レトナ】が特定コスチュームを着用した時に、瞳の色が変わらなくなるよう仕様を変更しました。
+        </div>
+        <div class="list">
+            ▶相河 愛花の下記アナザーギアに、チューンスキル「射撃形態変更AAs」を付与した時の性能を調整しました。
+        </div>
+        <p class="list red">
+            ※上記チューンスキルを付与していない時の性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/試作フラワーヴァーズA<br>
+                ・★3/試作フラワーヴァーズAMk2<br>
+                ・★3/試作フラワーヴァーズAMk3<br>
+                ・★4/フラワーヴァーズA
+            </div>
+            <p class="list">
+                ・溜め撃ちの突進中に、受けるダメージを約35%軽減する効果を追加。
+            </p>
+        </div>
+        <div class="list">
+            ▶SPスキル「ドレッドノートV2F」発動中の横移動射撃の攻撃発生タイミングを早める調整を行い、一部の敵に当たりにくい問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の「立ち射撃3段目実行時、ENE属性の追加射撃を行う」効果が、チューンスキル「射撃形態変更KMs」が付与されたアナザーショットギアの装備中に発動しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶相河 愛花【ネクスト】及び小芦 睦海【ネクスト】が、特定のSPスキルを発動するとボイスが正しく再生されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶相河 愛花【ネクスト】が下記クロスギアを装備時、3D MODEL画面にて、開発意図と異なるポーズをとってしまう問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/ティンクルブーケLW<br>
+                ・★4/ポティスティリ
+            </div>
+        </div>
+        <div class="list">
+            ▶百科 文嘉がアクセサリー「アンダーリム」と「小型加湿器」を同時に着用した時に、メガネが曇らない問題を修正しました。
+        </div>
+        <p class="list red">
+            ※上記アクセサリーを同時に着用した時にメガネが曇るのが、開発意図通りの挙動となります。
+        </p>
+        <div class="list">
+            ▶AIT Ti2及びAIT【イア・レトナ】がコスチューム「ダライアス宇宙軍制服」着用中、撮影ルームで特定ポーズをとると、スカートの一部が肌にめり込むことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶イベント「ダライアスバーストCSコア メモリアル」のエピソード内の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶撮影ルームの撮影ミッション「【コラボ】アクアワールドフレーム1～4」のソート順を調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1175" class="weighty-column">
 
             2023/10/05 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -83,7 +233,11 @@
         
         <div id="important-column-1174" class="weighty-column">
 
-            2023/09/28 19:20            
+            2023/09/28 19:20                            
+                <span class="bold">
+                                            (10/06 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               相河 愛花【ネクスト】及び小芦 睦海【ネクスト】が、特定のSPスキルを発動するとボイスが正しく再生されない            </div>
@@ -92,6 +246,17 @@
         <div id="important-text-1174" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年10月06日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年09月28日 19:20<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -143,7 +308,11 @@
         
         <div id="important-column-1173" class="weighty-column">
 
-            2023/09/28 18:00            
+            2023/09/28 18:00                            
+                <span class="bold">
+                                            (10/06 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の一部効果が、特定状況で正しく発動しない            </div>
@@ -152,6 +321,17 @@
         <div id="important-text-1173" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年10月06日 14:00 追記<br>
+            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年09月28日 18:00<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1349,78 +1529,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1154" class="weighty-column">
-
-            2023/08/10 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1154" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年08月10日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクター専用のアナザーギアを実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    <span class="bold">大関 小結</span><br>
-                    ・「試験用ライスシャワーAHVY」シリーズ<br>
-                    ・「試験用グラビトンコリダーA凸」シリーズ<br>
-                    ・「ダイコクA/T」シリーズ<br>
-                    ・「ダイコクA/B」シリーズ
-                </div>
-            </div>
-            <div class="list">
-                ▶ギアオクのWishで下記キャラクターが選択できるようになりました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・大関 小結
-                </div>
-            </div>
-            <div class="list">
-                ▶下記キャラクターに「アナザーギア体験エピソード」を追加しました。
-            </div>
-            <p class="list red">※各エピソードは対象キャラクターが加入している場合に、「キャラエピソード画面」から再生できます。</p>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・大関 小結【豊潤】
-                </div>
-            </div>
-            <div class="list">
-                ▶大関 小結の専用ショットギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230810/bnr_l00_inf_508_10.jpg?v=2035">
-    
-            <div class="list red">
-                ※派生進化専用ギア及びアナザーギアの特殊な動作について、大関 小結【豊潤】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/121?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_039_70/bnr_header.jpg?v=2035">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
