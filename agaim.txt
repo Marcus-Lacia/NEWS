@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1179" class="weighty-column">
+
+            2023/10/16 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1179" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年10月16日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶アデライーデ・Bの専用クロスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/bnr_l00_inf_510_16.jpg?v=2047">
+    
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、<br>
+                アデライーデ【瑞花】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/731?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_069_70/bnr_header.jpg?v=2047">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1178" class="weighty-column">
 
             2023/10/16 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -66,7 +109,7 @@
             ※本件は任務中及び3D MODEL画面で発生していた問題となり、ホーム画面やドレッサー画面での見た目に変更はございません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2045">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2047">
         </div>
         <div class="list">
             ▶下記コスチュームを着用したキャラクターが特定ポーズをとった時に、コスチュームの一部が破れたように見えることがある不具合を修正しました。
@@ -193,7 +236,7 @@
                     <div class="sub-title">
                         変更リスト
                     </div>
-                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2045">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2047">
                 </div>
                 <div class="list">
                     ▶下記任務の初回クリア報酬に、各種ギアシェルを追加しました。
@@ -881,7 +924,7 @@
             ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2045">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2047">
         </div>
         <div class="list">
             ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
@@ -1468,54 +1511,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-1157" class="weighty-column">
-
-            2023/08/29 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1157" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年08月29日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶下記キャラクターに「エニグマ」を実装しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象キャラクター】</p>
-                <div>
-                    ・初音 ミク<br>
-                    ・初音 ミク【音色】
-                </div>
-            </div>
-            <p class="list red">
-                ※「初音 ミク」と「初音 ミク【音色】」のエニグマは、共通の内容となります。
-            </p>
-            <p class="list red">
-                ※対象キャラクターのエニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-            </p>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/56</div>
+                    <div class="page-box box-radius">1/57</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
