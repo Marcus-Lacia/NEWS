@@ -33,6 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1178" class="weighty-column">
+
+            2023/10/16 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1178" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年10月16日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶四谷 ゆみのコスチューム「ラクス・シャルキー」のスカート丈が、ギア装備時のみ開発意図と異なる長さになっており、ギアに大きく干渉してしまう問題を修正しました。
+        </div>
+        <p class="list red">
+            ※同様のデザインとなるファティマ・Bのコスチューム「グラストコス/FB」と、同じ外見となるよう修正しております。
+        </p>
+        <p class="list red">
+            ※本件は任務中及び3D MODEL画面で発生していた問題となり、ホーム画面やドレッサー画面での見た目に変更はございません。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2045">
+        </div>
+        <div class="list">
+            ▶下記コスチュームを着用したキャラクターが特定ポーズをとった時に、コスチュームの一部が破れたように見えることがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                ・ラクス・シャルキー<br>
+                ・グラストコス/FB
+            </div>
+        </div>
+        <div class="list">
+            ▶下落合 桃歌がコスチューム「アイドルホリデイ」着用中に特定ポーズをとると、指が違和感のある見え方になることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ホーム画面及びドレッサー画面にて、小芦 睦海【ネクスト】の眉が違和感のある動きになることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「再会のオーシャンテラス ～アクアワールド・大洗～」のエピソード1話に登場する、新居目 安里の一部台詞を調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1177" class="weighty-column">
 
             2023/10/11 16:10            
@@ -120,7 +193,7 @@
                     <div class="sub-title">
                         変更リスト
                     </div>
-                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2044">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2045">
                 </div>
                 <div class="list">
                     ▶下記任務の初回クリア報酬に、各種ギアシェルを追加しました。
@@ -808,7 +881,7 @@
             ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2044">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2045">
         </div>
         <div class="list">
             ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
@@ -1439,53 +1512,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1156" class="weighty-column">
-
-            2023/08/29 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1156" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年08月29日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶メインストーリー「侵蝕編3章」の一部会話へクスに登場する、君影 唯のアイコンが開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶藤野 やよいのボイスアーカイブにて、一部ボイスが重複して登録されている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
