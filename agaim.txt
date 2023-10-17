@@ -39,7 +39,7 @@
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              アデライーデ・Bのエニグマで修得可能なパッシブスキル「槍斧の重撃1」の一部効果が、特定ギア装備中に発動しない            </div>
+              アデライーデ・Bのエニグマで修得可能なパッシブスキル「槍斧の重撃1」の効果が、特定ギア装備中に発動しない            </div>
 
         </div>
         <div id="important-text-1180" class="weighty-notice hide">
