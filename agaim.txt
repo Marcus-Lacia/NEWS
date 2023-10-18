@@ -35,8 +35,7 @@
         
         <div id="important-column-1180" class="weighty-column">
 
-            2023/10/17 17:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/17 17:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               アデライーデ・Bのエニグマで修得可能なパッシブスキル「槍斧の重撃1」の効果が、特定ギア装備中に発動しない            </div>
