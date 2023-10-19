@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1181" class="weighty-column">
+
+            2023/10/19 13:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の一部効果が、アナザーショットギアの溜め撃ち残弾数が0の時に発動しない            </div>
+
+        </div>
+        <div id="important-text-1181" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年10月19日 13:55<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の「立ち射撃3段目実行時、ENE属性の追加射撃を行う」効果が、アナザーショットギアの溜め撃ち残弾数が0の時に発動しない。
+            </div>
+            <p class="list red">
+                ※残弾数が1以上の時は、パッシブスキルの効果が正しく発動することを確認しております。
+            </p>
+        </div>
+        <div>
+            本件につきまして、現在、修正作業を進めております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1180" class="weighty-column">
 
             2023/10/17 17:25            
@@ -1427,62 +1469,6 @@
             <div class="list">
                 ▶Ver.1.71.0アプリより、百科 文嘉のSPスキル「ツヴァイヘンデルAZ」発動中に上書きされたボトムススキルの効果が正しく発動せず、効果時間も終了しない。
             </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1159" class="weighty-column">
-
-            2023/08/29 16:40                            
-                <span class="bold">
-                                            (09/01 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              初音 ミクがコスチューム「ウェイトレス/39」着用中、特定のカメラアングルになった際に「ACCESS DENIED」が表示される            </div>
-
-        </div>
-        <div id="important-text-1159" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年09月01日 17:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年08月29日 16:40<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶初音 ミクがコスチューム「ウェイトレス/39」着用中、特定のカメラアングルになった際に「ACCESS DENIED」が表示される。
-            </div>
-            <p class="list red">
-                ※当該コスチューム着用中「ACCESS DENIED」は表示されないのが仕様となります。
-            </p>
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
