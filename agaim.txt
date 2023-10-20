@@ -35,8 +35,7 @@
         
         <div id="important-column-1181" class="weighty-column">
 
-            2023/10/19 13:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/19 13:55            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の一部効果が、アナザーショットギアの溜め撃ち残弾数が0の時に発動しない            </div>
