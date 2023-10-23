@@ -144,14 +144,14 @@
             <div class="list">
                 ▶アデライーデ・Bの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/bnr_l00_inf_510_16.jpg?v=2052">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/bnr_l00_inf_510_16.jpg?v=2053">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 アデライーデ【瑞花】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/731?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_069_70/bnr_header.jpg?v=2052">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_069_70/bnr_header.jpg?v=2053">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -193,7 +193,7 @@
             ※本件は任務中及び3D MODEL画面で発生していた問題となり、ホーム画面やドレッサー画面での見た目に変更はございません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2052">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2053">
         </div>
         <div class="list">
             ▶下記コスチュームを着用したキャラクターが特定ポーズをとった時に、コスチュームの一部が破れたように見えることがある不具合を修正しました。
@@ -320,7 +320,7 @@
                     <div class="sub-title">
                         変更リスト
                     </div>
-                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2052">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2053">
                 </div>
                 <div class="list">
                     ▶下記任務の初回クリア報酬に、各種ギアシェルを追加しました。
@@ -1008,7 +1008,7 @@
             ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2052">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2053">
         </div>
         <div class="list">
             ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
