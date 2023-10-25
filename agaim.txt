@@ -33,6 +33,166 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1183" class="weighty-column">
+
+            2023/10/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.73.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1183" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年10月25日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.73.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.73.0の更新内容】</p>
+        
+        <div class="list">
+            ▶ホーム画面のアクトレスに関連する各画面へ素早くアクセスできる「ソーシャルメニュー」機能を実装しました。
+        </div>
+        <p class="list red">
+            ※「オプション」＞「ホーム関連」＞「ソーシャルメニューの開閉状態を保存」機能をONにすると、メニューの開閉状態を保持しておくことができます。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2060">
+        </div>
+        <div class="list">
+            ▶「オプション」＞「実験的機能」に「ホームUIの非表示ボタンを有効化」の項目を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2060">
+        </div>
+        <div class="list">
+            ▶「ダークモード」機能の利用中、特定画面の文字の可読性が著しく落ちてしまう不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※修正に伴い、「ダークモード」機能をオプション＞実験的機能に再公開しました。
+        </p>
+        <div class="list">
+            ▶イベント終了後の特設交換所に、「イベント終了」と表示する機能を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能は、10/26（木）開催予定のイベント「ノエルとハロウィンの夜」終了後から表示されます。
+        </p>
+        <div class="list">
+            ▶交換所のフィルタ機能の対象に下記アイテムを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アイテム】</p>
+            <div>
+                ・専用信頼度アイテム<br>
+                ・Sギアシェル<br>
+                ・許可証
+            </div>
+        </div>
+        <div class="list">
+            ▶任務中のバフ/デバフ等を表すステータスアイコンが、最大8つまで表示されるように変更しました。
+        </div>
+        <div class="list">
+            ▶メインストーリー「侵蝕編6～7章」の一部任務に出現する特定大型ヴァイスとの戦闘中に、ステータスアイコンが表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶相河 愛花のSPスキル「シュトルムボックHV」を発動すると、特定クロスギアの「全キャラクターを回復し、状態異常を解除する」効果の使用回数がリセットされてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/ティンクルブーケLW<br>
+                ・★4/ポティスティリ
+            </div>
+        </div>
+        <div class="list">
+            ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「斧槍の重撃1」の、名称の誤字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                修正前：槍斧の重撃1<br>
+                修正後：斧槍の重撃1
+            </div>
+        </div>
+        <div class="list">
+            ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「斧槍の重撃1」の「立ち攻撃3段目のヒット時にSP獲得量が増加し、ターン時のブースト消費が軽減され、ダメージへの耐性を得る」効果が、派生クロスギア装備中に発動しない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/ヘレバルデ・レーヴェG2<br>
+                ・★4/ヘレバルデ・レーヴェG3
+            </div>
+        </div>
+        <div class="list">
+            ▶マルチにて、アデライーデ・Bの派生クロスギアのフィニッシュ攻撃エフェクトが、他のプレイヤーの画面では正しく表示されない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/ヘレバルデ・レーヴェG2<br>
+                ・★4/ヘレバルデ・レーヴェG3
+            </div>
+        </div>
+        <div class="list">
+            ▶下記コスチュームを着用したキャラクターを特定のカメラアングルから見ると、肌の一部が違和感のある見え方になる不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                ・ラクス・シャルキー<br>
+                ・グラストコス/FB
+            </div>
+        </div>
+        <div class="list">
+            ▶マルチに出現するオベリスクが、開発意図と異なる行動となる「砲台のない部位からレーザー攻撃」を行う不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチに出現するオベリスクが、「オクパドを召喚する」行動をとらない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.72.1アプリより、出現した小型ヴァイスを即座に撃破すると、爆破エフェクトが表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定端末でのプレイ中に、動作が重くなってしまうことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶おでかけモードのおでかけ先に「BAR Blue Moon」を追加しました。
+        </div>
+        <p class="list red">
+            ※BAR Blue Moonで遊べる「きょうのラッキーアクトレス」は、10/31（火）15:00 より利用可能となります。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.73.0の配信に伴い、<span class="bold red">10/26（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1182" class="weighty-column">
 
             2023/10/24 19:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -115,15 +275,30 @@
         
         <div id="important-column-1180" class="weighty-column">
 
-            2023/10/17 17:25            
+            2023/10/17 17:25                            
+                <span class="bold">
+                                            (10/25 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              アデライーデ・Bのエニグマで修得可能なパッシブスキル「槍斧の重撃1」の効果が、特定ギア装備中に発動しない            </div>
+              アデライーデ・Bのエニグマで修得可能なパッシブスキル「斧槍の重撃1」の効果が、特定ギア装備中に発動しない            </div>
 
         </div>
         <div id="important-text-1180" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年10月25日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.73.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年10月17日 17:25<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -137,7 +312,7 @@
             <p class="bold">【不具合内容】</p>
             
             <div class="list">
-                ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「槍斧の重撃1」の「立ち攻撃3段目のヒット時にSP獲得量が増加し、ターン時のブースト消費が軽減され、ダメージへの耐性を得る」効果が、派生クロスギア装備中に発動しない。
+                ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「<s>槍斧</s><span class="red">斧槍</span>の重撃1」の「立ち攻撃3段目のヒット時にSP獲得量が増加し、ターン時のブースト消費が軽減され、ダメージへの耐性を得る」効果が、派生クロスギア装備中に発動しない。
             </div>
             <div class="sub-box bg_white">
                 <p class="bold">【対象クロスギア】</p>
@@ -183,14 +358,14 @@
             <div class="list">
                 ▶アデライーデ・Bの専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/bnr_l00_inf_510_16.jpg?v=2059">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/bnr_l00_inf_510_16.jpg?v=2060">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 アデライーデ【瑞花】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/731?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_069_70/bnr_header.jpg?v=2059">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_069_70/bnr_header.jpg?v=2060">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -232,7 +407,7 @@
             ※本件は任務中及び3D MODEL画面で発生していた問題となり、ホーム画面やドレッサー画面での見た目に変更はございません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2059">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/info_01.jpg?v=2060">
         </div>
         <div class="list">
             ▶下記コスチュームを着用したキャラクターが特定ポーズをとった時に、コスチュームの一部が破れたように見えることがある不具合を修正しました。
@@ -274,7 +449,11 @@
         
         <div id="important-column-1177" class="weighty-column">
 
-            2023/10/11 16:10            
+            2023/10/11 16:10                            
+                <span class="bold">
+                                            (10/25 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               相河 愛花のSPスキル「シュトルムボックHV」を発動すると、特定クロスギアの回復効果の使用回数がリセットされてしまう            </div>
@@ -283,6 +462,17 @@
         <div id="important-text-1177" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年10月25日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.73.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年10月11日 16:10<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -359,7 +549,7 @@
                     <div class="sub-title">
                         変更リスト
                     </div>
-                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2059">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2023/231006/info_01.jpg?v=2060">
                 </div>
                 <div class="list">
                     ▶下記任務の初回クリア報酬に、各種ギアシェルを追加しました。
@@ -1047,7 +1237,7 @@
             ▶シェル解析直後に、入手したギアを売却できる機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2059">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/230913/info_01.jpg?v=2060">
         </div>
         <div class="list">
             ▶指揮官モード終了後のバトルリザルト画面では、スリープ抑制機能を解除するよう挙動を変更しました。
@@ -1412,59 +1602,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1161" class="weighty-column">
-
-            2023/08/30 16:35                            
-                <span class="bold">
-                                            (09/01 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              琴村 朱音のコスチューム「赤の広場制服」の一部色味が、開発意図と異なっている            </div>
-
-        </div>
-        <div id="important-text-1161" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年09月01日 17:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年08月30日 16:35<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶琴村 朱音のコスチューム「赤の広場制服」の一部色味が、開発意図と異なっている。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
