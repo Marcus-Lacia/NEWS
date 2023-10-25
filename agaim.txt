@@ -195,8 +195,7 @@
         
         <div id="important-column-1182" class="weighty-column">
 
-            2023/10/24 19:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/24 19:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               駒添 絵伝がコスチューム「生贄の聖衣」を着用中、体型の一部が開発意図よりも小さくなっている            </div>
