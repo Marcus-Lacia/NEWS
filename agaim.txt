@@ -33,6 +33,84 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1187" class="weighty-column">
+
+            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある            </div>
+
+        </div>
+        <div id="important-text-1187" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年10月25日 20:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-1186" class="weighty-column">
+
+            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ソーシャルメニューの一部機能への遷移が正しく行われない場合がある            </div>
+
+        </div>
+        <div id="important-text-1186" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年10月25日 20:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定操作を行うと、ソーシャルメニュー内から一部機能への遷移が正しく行われず、選択したキャラクター以外のキャラ強化画面やボイスアーカイブ等が開かれる場合がある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1183" class="weighty-column">
 
             2023/10/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1410,186 +1488,6 @@
             <p class="bold">【配布期間】</p>
             <div class="paragraph">
                 9/20（水）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1163" class="weighty-column">
-
-            2023/09/04 18:30                            
-                <span class="bold">
-                                            (09/04 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              初心者応援プレゼントの「アクセサリーチケット×100」が正しく配布されていない            </div>
-
-        </div>
-        <div id="important-text-1163" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年09月04日 18:30<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            以下の不具合が発生しておりましたが、先ほど修正対応が完了いたしましたのでご報告申し上げます。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶初心者応援プレゼントの「アクセサリーチケット×100」が正しく配布されていない。
-            </div>
-            <p class="list red">
-                ※当該の「アクセサリーチケット×100」は、2023/7/1（土）以降にゲームを始めたお客様に配布されるのが正しい挙動となります。
-            </p>
-            <div>
-                本不具合への対応として、対象となるお客様へ改めて「アクセサリーチケット×100」を配布いたしましたので、受取箱よりお受け取りください。
-            </div>
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1162" class="weighty-column">
-
-            2023/09/01 17:00                            
-                <span class="bold">
-                                            (09/01 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1162" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年09月01日 17:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-                <p class="list red">
-            ※9/1（金）17:20 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶初音 ミクがアクセサリー「ホワイトブリム/39」と「キツネミミ/狐」を同時に着用した時に、アクセサリー同士が干渉してしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶初音 ミクの下記SPスキルの攻撃判定を調整し、フィニッシュムーブの攻撃の一部が敵に当たりにくい問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・Song 4 Future'<br>
-                ・Song 4 Future
-            </div>
-        </div>
-        <div class="list">
-            ▶初音 ミクのクロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★3/39メガフォン【音色】R<br>
-                ・★3/39メガフォン【音色】<br>
-                ・★4/39メガフォン【音色】<br>
-                ・★4/39メガフォン【音色】S
-            </div>
-            <p class="list">
-                ・近接攻撃3段目の射程距離を約63%増加。
-            </p>
-            <p class="list">
-                ・近接攻撃3段目の攻撃時に、受けるダメージを約50%軽減する効果を追加。
-            </p>
-        </div>
-        <div class="list">
-            ▶初音 ミクのSPスキル「Ready-Go-Round」の演出中に出現したギアが、演出終了時に一瞬再表示される問題を修正しました。
-        </div>
-        <p class="list red">
-            ※演出のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶初音 ミクがコスチューム「初音ミク」着用中、特定ボトムスギアを装備すると、脚の一部が違和感のある見た目になることがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶初音 ミクがコスチューム「ウェイトレス/39」着用中、特定のカメラアングルになった際に「ACCESS DENIED」が表示される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶初音 ミク【音色】を所持していても、以下のキャラエピソードが開放されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象エピソード】</p>
-            <div>
-                ・キャラエピソードEp.4-1～4-3
-            </div>
-        </div>
-        <div class="list">
-            ▶スカウト一覧画面の「カラットショップ 初音ミク」のバナーデザインが、開発意図と異なっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、交換品内容に変更はございません。
-        </p>
-        <div class="list">
-            ▶8/29（火）14:00 のアップデートより、高幡 のどかがコスチューム「ゾディアックバニー」とアクセサリー「バニーティアラ/卯」をあわせて着用した時の固有モーションを行わなくなっていた不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶琴村 朱音のコスチューム「赤の広場制服」の一部色味が、開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                9/1（金）17:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                9/15（金）23:59 まで
             </div>
         </div>
     </div>
