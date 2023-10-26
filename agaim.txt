@@ -256,8 +256,7 @@
         
         <div id="important-column-1187" class="weighty-column">
 
-            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/25 20:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある            </div>
@@ -295,8 +294,7 @@
         
         <div id="important-column-1186" class="weighty-column">
 
-            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/25 20:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ソーシャルメニューの一部機能への遷移が正しく行われない場合がある            </div>
