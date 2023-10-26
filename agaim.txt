@@ -33,87 +33,12 @@
 
       <div id="" class="weighty-list">
         
-        <div id="important-column-1187" class="weighty-column">
-
-            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある            </div>
-
-        </div>
-        <div id="important-text-1187" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年10月25日 20:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1186" class="weighty-column">
-
-            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ソーシャルメニューの一部機能への遷移が正しく行われない場合がある            </div>
-
-        </div>
-        <div id="important-text-1186" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年10月25日 20:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定操作を行うと、ソーシャルメニュー内から一部機能への遷移が正しく行われず、選択したキャラクター以外のキャラ強化画面やボイスアーカイブ等が開かれる場合がある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
         <div id="important-column-1183" class="weighty-column">
 
-            2023/10/25 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/10/25 14:00                            
+                <span class="red bold">
+                                            (10/26 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -134,6 +59,13 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.73.0の更新内容】</p>
         
+        <p class="list red">
+            ※10/26（木）9:00 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶ノエル・Fの3Dモデルの瞳の表現を微調整しました。
+        </div>
         <div class="list">
             ▶ホーム画面のアクトレスに関連する各画面へ素早くアクセスできる「ソーシャルメニュー」機能を実装しました。
         </div>
@@ -270,6 +202,84 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
+        
+        <div id="important-column-1187" class="weighty-column">
+
+            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある            </div>
+
+        </div>
+        <div id="important-text-1187" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年10月25日 20:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
+        <div id="important-column-1186" class="weighty-column">
+
+            2023/10/25 20:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ソーシャルメニューの一部機能への遷移が正しく行われない場合がある            </div>
+
+        </div>
+        <div id="important-text-1186" class="weighty-notice hide">
+           
+    <div>
+        <div>
+            ■2023年10月25日 20:05<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+        </div>
+        <div>
+            現在、以下の不具合を確認しております。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【不具合内容】</p>
+            
+            <div class="list">
+                ▶特定操作を行うと、ソーシャルメニュー内から一部機能への遷移が正しく行われず、選択したキャラクター以外のキャラ強化画面やボイスアーカイブ等が開かれる場合がある。
+            </div>
+        </div>
+        <div>
+            本件につきまして、現在、原因を調査しております。
+        </div>
+        <div>
+            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+        </div>
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
         
         <div id="important-column-1182" class="weighty-column">
 
