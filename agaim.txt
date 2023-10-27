@@ -87,7 +87,7 @@
         <div id="important-column-1183" class="weighty-column">
 
             2023/10/25 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (10/26 更新)
                                     </span>
             
