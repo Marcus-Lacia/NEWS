@@ -35,8 +35,7 @@
         
         <div id="important-column-1188" class="weighty-column">
 
-            2023/10/31 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/10/31 14:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.73.0アプリより、「攻撃力低下」効果中の敵の攻撃を、「ダメージ軽減」効果中のキャラが受けた際に、ダメージ計算が正しく行われない            </div>
