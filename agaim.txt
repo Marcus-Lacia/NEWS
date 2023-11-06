@@ -33,6 +33,144 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1191" class="weighty-column">
+
+            2023/11/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.73.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1191" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年11月06日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.73.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.73.1の更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶特定操作を行うと、ソーシャルメニュー内から一部機能への遷移が正しく行われず、選択したキャラクター以外のキャラ強化画面やボイスアーカイブ等が開かれる場合がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ソーシャルメニューを閉じている時に、ホーム画面の一部領域をタップしても反応しない不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.73.1の配信に伴い、<span class="bold red">11/7（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1190" class="weighty-column">
+
+            2023/11/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              定期要撃任務の一部スケジュールが正常に表示されていない            </div>
+
+        </div>
+        <div id="important-text-1190" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年11月06日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶定期要撃任務の11/11（土）以降のスケジュールが正常に表示されていない。
+        </div>
+        <p class="list red">
+            ※正しいスケジュールは下記をご確認ください。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">・11/11（土）～ 11/13（月）</span><br>
+                出現ヴァイス：ネペンテス
+            </div>
+            <div>
+                <span class="bold">・11/12（日）～ 11/14（火）</span><br>
+                出現ヴァイス：エレクインバス
+            </div>
+            <div>
+                <span class="bold">・11/13（月）～ 11/15（水）</span><br>
+                出現ヴァイス：フロストファルコン
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1189" class="weighty-column">
+
+            2023/11/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.73.0アプリより、アプリをバックグラウンド状態にすると、再プレイ時にサウンドが再生されなくなることがある            </div>
+
+        </div>
+        <div id="important-text-1189" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年11月06日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.73.0アプリより、アプリをバックグラウンド状態にすると、再プレイ時にサウンドが再生されなくなることがある。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1188" class="weighty-column">
 
             2023/10/31 14:10            
@@ -331,7 +469,11 @@
         
         <div id="important-column-1187" class="weighty-column">
 
-            2023/10/25 20:05            
+            2023/10/25 20:05                            
+                <span class="bold">
+                                            (11/06 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある            </div>
@@ -340,6 +482,17 @@
         <div id="important-text-1187" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年11月06日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.73.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年10月25日 20:05<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -369,7 +522,11 @@
         
         <div id="important-column-1186" class="weighty-column">
 
-            2023/10/25 20:05            
+            2023/10/25 20:05                            
+                <span class="bold">
+                                            (11/06 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ソーシャルメニューの一部機能への遷移が正しく行われない場合がある            </div>
@@ -378,6 +535,17 @@
         <div id="important-text-1186" class="weighty-notice hide">
            
     <div>
+        <div>
+            ■2023年11月06日 14:00 追記<br>
+            本件につきまして、順次配信されましたVer1.73.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+        </div>
+        <div>
+            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+        </div>
+        
+        
+        <hr class="red">
+        
         <div>
             ■2023年10月25日 20:05<br>
             アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1147,262 +1315,6 @@
         </div>
         <div class="list">
             ▶金潟 すぐみのボイスアーカイブの、一部ボイスの誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1171" class="weighty-column">
-
-            2023/09/28 10:05                            
-                <span class="bold">
-                                            (09/28 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.72.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1171" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年09月28日 10:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.72.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.72.1の更新内容】</p>
-        
-        <p class="list red">
-            ※9/28（木）12:00 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶我龍 絵美のSPスキル「大和雅絵図」のフィニッシュムーブ演出中にカメラモードを起動すると、SPスキル中に召喚したギアが、演出終了後も表示され続けることがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象任務】</p>
-            <div>
-                ・マルチ「EASY 軌道上の狙撃手」<br>
-                ・マルチ「EASY 惑星軌道を守れ」<br>
-                ・メインストーリーの一部任務
-            </div>
-        </div>
-        <div class="list">
-            ▶下記ヴァイスの出現演出中、武器が開発意図と異なる表示になっている問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・VWソード<br>
-                ・VWスナイプ
-            </div>
-        </div>
-        <div class="list">
-            ▶「追加タップでフィニッシュ攻撃を行う」効果のギアスキル発動後、特定状況でスキルボタンが激しく明滅することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ギアスキルの効果時間が終了する直前に「高速移動しながら攻撃を行う」効果を持つスキルを発動すると、ギアスキルの効果時間終了後に、すぐにクールタイムに移行しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記トップスギアスキルの、追加タップ2回目の入力受付時間が開発意図よりも短い不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・Mアンプリファイア<br>
-                ・MアンプリファイアR<br>
-                ・MアンプリファイアS
-            </div>
-        </div>
-        <div class="list">
-            ▶9/14（木）15:00 より切り替わったホーム画面にて、食卓のご飯や冷奴の一部が黒く見えることがある問題を修正しました。
-        </div>
-        <div class="list show_only_Android">
-            ▶Android7系以下の非対応化を行いました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.72.1の配信に伴い、<span class="bold red">9/28（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1170" class="weighty-column">
-
-            2023/09/15 19:00                            
-                <span class="bold">
-                                            (09/28 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある            </div>
-
-        </div>
-        <div id="important-text-1170" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年09月28日 10:05 追記<br>
-            本件につきまして、順次配信されましたVer1.72.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年09月15日 19:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶Ver.1.72.0アプリより、一部任務にボスとして出現するヴァイスワーカーを撃破しても、クリア扱いにならないことがある。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象任務】</p>
-                <div>
-                    ・マルチ「EASY 軌道上の狙撃手」<br>
-                    ・マルチ「EASY 惑星軌道を守れ」<br>
-                    ・メインストーリーの一部任務
-                </div>
-            </div>
-            <p class="list red">
-                ※本不具合が発生した場合は、出現した敵を全て撃破すると、任務がクリアできることを確認しております。
-            </p>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1168" class="weighty-column">
-
-            2023/09/14 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1168" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年09月14日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶チーム管理画面のBGMを、定常のBGMに変更しました。
-        </div>
-        <div class="list">
-            ▶撮影ルームにて、下記キャラクターが特定コスチュームを着用して撮影した時に得られるスコアが、開発意図と異なる値になっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※コスチューム「星条大学附属高校夏服」は、アクセサリー「スクイズボトル」と一緒に着用した場合のみ、開発意図と異なるスコアになっていたことを確認しております。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                <p class="bold">兼志谷 シタラ</p>
-                ・コスチューム「ラブリーエンゼルR」
-            </div>
-            <div>
-                <p class="bold">百科 文嘉</p>
-                ・コスチューム「ラブリーエンゼルR」<br>
-                ・コスチューム「スイムウェア/星条」<br>
-                ・コスチューム「星条大学附属高校夏服」
-            </div>
-            <div>
-                <p class="bold">吾妻 楓</p>
-                ・コスチューム「スイムウェア/星条」<br>
-                ・コスチューム「星条大学附属高校夏服」
-            </div>
-            <div>
-                <p class="bold">日向 リン</p>
-                ・コスチューム「スイムウェア/郷湾」
-            </div>
-            <div>
-                <p class="bold">蛙坂 来弥</p>
-                ・コスチューム「スイムウェア/郷湾」
-            </div>
-            <div>
-                <p class="bold">御茶ノ水 美里江</p>
-                ・コスチューム「スイムウェア/星条」<br>
-                ・コスチューム「星条大学附属高校夏服」
-            </div>
-            <div>
-                <p class="bold">米良渕 花浪</p>
-                ・コスチューム「スイムウェア/郷湾」
-            </div>
-            <div>
-                <p class="bold">駒添 絵伝</p>
-                ・コスチューム「スイムウェア/郷湾」
-            </div>
-        </div>
-        <div class="list">
-            ▶大関 小結の、ホーム画面での一部リアクションを調整しました。
         </div>
         <div class="list">
             ▶各種データを追加しました。
