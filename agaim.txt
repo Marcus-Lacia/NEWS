@@ -35,8 +35,7 @@
         
         <div id="important-column-1191" class="weighty-column">
 
-            2023/11/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/06 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.73.1 配信のお知らせ            </div>
@@ -78,8 +77,7 @@
         
         <div id="important-column-1190" class="weighty-column">
 
-            2023/11/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/06 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               定期要撃任務の一部スケジュールが正常に表示されていない            </div>
@@ -134,8 +132,7 @@
         
         <div id="important-column-1189" class="weighty-column">
 
-            2023/11/06 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/06 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.73.0アプリより、アプリをバックグラウンド状態にすると、再プレイ時にサウンドが再生されなくなることがある            </div>
