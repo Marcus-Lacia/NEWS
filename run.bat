@@ -1,21 +1,21 @@
 cd ..
-cd C:\Users\Administrator\Desktop\githubc\NEWS
-rmdir /s/q beta
+cd /root/github/NEWS
+rmdir -s -q beta
 
-cd C:\Users\Administrator\Desktop\githubc\NEWS\download
+cd /root/github/NEWS/download
 python aga.py
 
 
-move agaim.txt C:\Users\Administrator\Desktop\githubc\NEWS
-cd C:\Users\Administrator\Desktop\githubc\NEWS
+move agaim.txt root/github/NEWS
+cd /root/github/NEWS
 node chs.js
 
 
-cd C:\Users\Administrator\Desktop\githubc\NEWS\beta
+cd /root/github/NEWS/beta
 rename *.txt new.txt
-cd C:\Users\Administrator\Desktop\githubc\NEWS\new
+cd /root/github/NEWS/new
 rename *.txt new.txt
-cd C:\Users\Administrator\Desktop\githubc\NEWS
+cd /root/github/NEWS
 
 python diff.py
 
