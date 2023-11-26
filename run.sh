@@ -6,7 +6,7 @@ cd /root/github/NEWS/download
 python aga.py
 
 
-mv agaim.txt root/github/NEWS
+mv agaim.txt root/github/NEWS -f
 cd /root/github/NEWS
 node chs.js
 
