@@ -7,14 +7,17 @@ python aga.py
 
 
 mv agaim.txt root/github/NEWS -f
+cd ..
 cd /root/github/NEWS
 node chs.js
 
 ls
 cd /root/github/NEWS/beta
+cd ..
 ls
 sudo rename continue *.txt new.txt
 cd /root/github/NEWS/new
+cd ..
 ls
 sudo rename continue *.txt new.txt
 ls
