@@ -1,7 +1,7 @@
 cd ..
 cd /root/github/NEWS
 rm -r -d beta
-
+mkdir -m beta
 cd /root/github/NEWS/download
 python aga.py
 
