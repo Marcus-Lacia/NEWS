@@ -13,10 +13,10 @@ node chs.js
 ls
 cd /root/github/NEWS/beta
 ls
-rename continue *.txt new.txt
+sudo rename continue *.txt new.txt
 cd /root/github/NEWS/new
 ls
-rename continue *.txt new.txt
+sudo rename continue *.txt new.txt
 ls
 cd /root/github/NEWS
 
