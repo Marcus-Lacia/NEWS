@@ -12,9 +12,9 @@ node chs.js
 
 
 cd /root/github/NEWS/beta
-rename *.txt new.txt
+rename continue *.txt new.txt
 cd /root/github/NEWS/new
-rename *.txt new.txt
+rename continue *.txt new.txt
 cd /root/github/NEWS
 
 python diff.py
