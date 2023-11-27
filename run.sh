@@ -7,7 +7,7 @@ ls
 python aga.py
 ls
 
-mv agaim.txt /root/github/NEWS/new -f
+mv agaim.txt /root/github/NEWS/new/agaim.txt -f
 cd ..
 node chs.js
 
