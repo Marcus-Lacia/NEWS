@@ -1,12 +1,12 @@
 cd ..
-cd C:\Users\Administrator\Desktop\githubc\NEWS-push
+cd \root\github\NEWS-push
 rmdir news.txt
 
 
 
-copy \root\github\NEWS\new\new.txt C:\Users\Administrator\Desktop\githubc\NEWS-push
+copy \root\github\NEWS\new\new.txt \root\github\NEWS-push
 
-cd C:\Users\Administrator\Desktop\githubc\NEWS-push
+cd \root\github\NEWS-push
 
 
 
