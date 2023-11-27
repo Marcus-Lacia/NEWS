@@ -4,8 +4,8 @@ import requests
 import shutil
 import os
 G = ("/root/github/NEWS/new/new.txt")  
-C = ("/root/github/NEWS/beta/new.txt")
-D = ("/root/github/NEWS/new/new.txt")
+C = ("root/github/NEWS/beta/new.txt")
+D = ("root/github/NEWS/new/new.txt")
 B = ("/root/github/NEWS/new/new.txt")
 result = filecmp.cmp(C, D)
 print(result)
