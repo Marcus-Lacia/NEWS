@@ -2,27 +2,28 @@ cd ..
 cd /root/github/NEWS
 rm -r -d beta
 mkdir beta
-cd /root/github/NEWS/download
+cd download
 python aga.py
 
 
-mv agaim.txt root/github/NEWS -f
+mv agaim.txt /root/github/NEWS -f
 cd ..
-cd /root/github/NEWS
 node chs.js
 
 ls
-cd /root/github/NEWS/beta
-cd ..
-ls
-sudo rename continue *.txt new.txt
-cd /root/github/NEWS/new
-cd ..
-ls
-sudo rename continue *.txt new.txt
-ls
-cd /root/github/NEWS
+cd beta
 
+ls
+cd ..
+sudo rename continue *.txt new.txt
+cd new
+ls
+cd ..
+
+sudo rename continue *.txt new.txt
+ls
+cd ..
+cd /root/github/NEWS
 python diff.py
 
 
