@@ -4,7 +4,7 @@ rmdir news.txt
 
 
 
-copy C:\Users\Administrator\Desktop\githubc\NEWS\new\new.txt C:\Users\Administrator\Desktop\githubc\NEWS-push
+copy \root\github\NEWS\new\new.txt C:\Users\Administrator\Desktop\githubc\NEWS-push
 
 cd C:\Users\Administrator\Desktop\githubc\NEWS-push
 
