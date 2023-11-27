@@ -4,7 +4,7 @@ rmdir news.txt
 
 
 
-copy /root/github/NEWS/new/new.txt /root/github/NEWS-push
+mv /root/github/NEWS/new/new.txt /root/github/NEWS-push
 
 cd /root/github/NEWS-push
 
