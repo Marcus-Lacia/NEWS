@@ -12,15 +12,18 @@ node chs.js
 
 ls
 cd beta
-
+mv *.txt new.txt
 ls
 cd ..
-sudo rename continue *.txt new.txt
+#rename 's/*.txt/new.txt/'
+#sudo rename continue *.txt new.txt
 cd new
+mv *.txt new.txt
+
 ls
 cd ..
-
-sudo rename continue *.txt new.txt
+#sudo rename continue *.txt new.txt
+#rename 's/*.txt/new.txt/'
 ls
 cd ..
 cd /root/github/NEWS
