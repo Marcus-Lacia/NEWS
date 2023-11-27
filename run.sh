@@ -9,7 +9,7 @@ ls
 cd ..
 mv -f /root/github/NEWS/download/agaim.txt /root/github/NEWS/new/agaim.txt
 cd ..
-node chs.js
+node /root/github/NEWS/chs.js
 
 ls
 cd beta
