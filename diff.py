@@ -9,6 +9,7 @@ D = ("new/new.txt")
 B = ("/root/github/NEWS/new/new.txt")
 result = filecmp.cmp(C, D)
 print(result)
+shutil.move(r'beta/new.txt', r'new/new.txt')
 B = result
 if  B:
     print('b是True')
