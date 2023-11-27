@@ -17,11 +17,7 @@ mv *.txt new.txt
 ls
 cd ..
 
-cd new
-mv *.txt new.txt
 
-ls
-cd ..
 
 ls
 cd ..
