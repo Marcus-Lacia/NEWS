@@ -6,8 +6,8 @@ cd download
 ls
 python aga.py
 ls
-
-mv agaim.txt /root/github/NEWS/new/agaim.txt -f
+cd ..
+mv -f /root/github/NEWS/download/agaim.txt /root/github/NEWS/new/agaim.txt
 cd ..
 node chs.js
 
