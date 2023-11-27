@@ -3,8 +3,9 @@ cd /root/github/NEWS
 rm -r -d beta
 mkdir beta
 cd download
+ls
 python aga.py
-
+ls
 
 mv agaim.txt /root/github/NEWS -f
 cd ..
