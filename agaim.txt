@@ -345,8 +345,7 @@
         
         <div id="important-column-1197" class="weighty-column">
 
-            2023/11/27 22:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/27 22:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.74.0アプリより、一部アクセサリーが開発意図と異なるデザインになっている            </div>
