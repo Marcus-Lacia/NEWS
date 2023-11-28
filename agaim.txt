@@ -33,6 +33,87 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1195" class="weighty-column">
+
+            2023/11/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1195" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年11月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.74.0アプリより、ホーム画面にて開発意図と異なるBGMが再生される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶小芦 睦海がコスチューム「ハーバボナB」着用時、任務クリア演出中にスカートの一部が肌にめり込む問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターがコスチューム「スカートスーツ」着用時、任務中及び3D MODEL画面で特定ポーズをとると、スカートの一部が裂けたように見える問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・大関 小結<br>
+                ・宇佐元 杏奈<br>
+                ・萬場 盟華<br>
+                ・在賀 奈々
+            </div>
+        </div>
+        <div class="list">
+            ▶Ver.1.74.0アプリより、下記キャラクターを「なでなで」した時に、開発意図と異なる表情になる不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・星月 みき<br>
+                ・常磐 くるみ<br>
+                ・粒咲 あんこ<br>
+                ・楠 明日葉<br>
+                ・綿木 ミシェル<br>
+                ・サドネ<br>
+                ・国枝 詩穂
+            </div>
+        </div>
+        <div class="list">
+            ▶兼志谷 シタラが特定表情の時に、口元が違和感のある見た目になることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ノエル・Fのボイスアーカイブの一部ボイスの誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1197" class="weighty-column">
 
             2023/11/27 22:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -119,7 +200,10 @@
         
         <div id="important-column-1194" class="weighty-column">
 
-            2023/11/27 14:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/11/27 14:20                            
+                <span class="red bold">
+                                            (11/28 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -129,6 +213,17 @@
         <div id="important-text-1194" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2023年11月28日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2023年11月27日 14:20<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -158,8 +253,7 @@
         
         <div id="important-column-1193" class="weighty-column">
 
-            2023/11/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/27 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.74.0 配信のお知らせ            </div>
@@ -1227,66 +1321,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1177" class="weighty-column">
-
-            2023/10/11 16:10                            
-                <span class="bold">
-                                            (10/25 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              相河 愛花のSPスキル「シュトルムボックHV」を発動すると、特定クロスギアの回復効果の使用回数がリセットされてしまう            </div>
-
-        </div>
-        <div id="important-text-1177" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年10月25日 14:00 追記<br>
-            本件につきまして、順次配信されましたVer1.73.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年10月11日 16:10<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶相河 愛花のSPスキル「シュトルムボックHV」を発動すると、特定クロスギアの「全キャラクターを回復し、状態異常を解除する」効果の使用回数がリセットされてしまう。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象クロスギア】</p>
-                <div>
-                    ・★4/ティンクルブーケLW<br>
-                    ・★4/ポティスティリ
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
