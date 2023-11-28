@@ -33,6 +33,115 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1200" class="weighty-column">
+
+            2023/11/28 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「Sギアシェル/望」解析時に一定確率で入手できるギアが、開発意図と異なる設定になっている            </div>
+
+        </div>
+        <div id="important-text-1200" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年11月28日 18:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶「Sギアシェル/望」解析時に一定確率で入手できるギアが、開発意図と異なる設定になっている。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：★4/フローラユニット改/B<br>
+                正：★3/フローラユニット/B
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。<br>
+        なお、既に解析で当該ギアを獲得されているお客様に対する、アイテムの回収や変換などは予定しておりません。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1199" class="weighty-column">
+
+            2023/11/28 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定ギアの攻撃の一次属性が開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-1199" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年11月28日 18:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ①御茶ノ水 美里江の派生クロスギアの、下フリック攻撃の一次属性が、開発意図と異なり「斬撃属性」となっている。
+        </div>
+        <p class="list red">
+            ※ギアアイコンに記載の通り、正しい属性は「打撃属性」となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/ウォープライヤT型<br>
+                ・★4/ウアウプライヤ
+            </div>
+        </div>
+        <div class="list">
+            ②シルフィーIIのトップスギアスキルの一次属性が、開発意図と異なり「斬撃属性」となっている。
+        </div>
+        <p class="list red">
+            ※スキル説明文に記載の通り、正しい属性は「打撃属性」となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・キャットインパクト<br>
+                ・キャットインパクトR<br>
+                ・キャットインパクトS
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1198" class="weighty-column">
 
             2023/11/28 15:07                            
@@ -1187,111 +1296,9 @@
         </div>
     </div>        </div>
         
-        <div id="important-column-1180" class="weighty-column">
-
-            2023/10/17 17:25                            
-                <span class="bold">
-                                            (10/25 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              アデライーデ・Bのエニグマで修得可能なパッシブスキル「斧槍の重撃1」の効果が、特定ギア装備中に発動しない            </div>
-
-        </div>
-        <div id="important-text-1180" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年10月25日 14:00 追記<br>
-            本件につきまして、順次配信されましたVer1.73.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年10月17日 17:25<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「<s>槍斧</s><span class="red">斧槍</span>の重撃1」の「立ち攻撃3段目のヒット時にSP獲得量が増加し、ターン時のブースト消費が軽減され、ダメージへの耐性を得る」効果が、派生クロスギア装備中に発動しない。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象クロスギア】</p>
-                <div>
-                    ・★4/ヘレバルデ・レーヴェG2<br>
-                    ・★4/ヘレバルデ・レーヴェG3
-                </div>
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1179" class="weighty-column">
-
-            2023/10/16 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1179" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2023年10月16日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶アデライーデ・Bの専用クロスギアに進化分岐を追加しました。
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231016/bnr_l00_inf_510_16.jpg?v=2115">
-    
-            <div class="list red">
-                ※派生進化専用ギアの特殊な動作について、<br>
-                アデライーデ【瑞花】の詳細ページにて説明しております。
-            </div>
-            <a href="/news/show/id/731?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_069_70/bnr_header.jpg?v=2115">
-                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
-            </a>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/57</div>
+                    <div class="page-box box-radius">1/58</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
