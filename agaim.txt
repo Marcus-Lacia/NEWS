@@ -33,9 +33,79 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1201" class="weighty-column">
+
+            2023/11/28 20:30                            
+                <span class="red bold">
+                                            (11/28 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1201" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年11月28日 20:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶「Sギアシェル/望」解析時に一定確率で入手できるギアが、開発意図と異なる設定になっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：★4/フローラユニット改/B<br>
+                正：★3/フローラユニット/B
+            </div>
+        </div>
+    </div>
+    <div>
+        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                11/28（火）20:30 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                12/12（火）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1200" class="weighty-column">
 
-            2023/11/28 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/11/28 18:15                            
+                <span class="red bold">
+                                            (11/28 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +115,17 @@
         <div id="important-text-1200" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2023年11月28日 20:30 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2023年11月28日 18:15<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -424,7 +505,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2116">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2117">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
@@ -950,7 +1031,7 @@
             ※「オプション」＞「ホーム関連」＞「ソーシャルメニューの開閉状態を保存」機能をONにすると、メニューの開閉状態を保持しておくことができます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2116">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2117">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ホームUIの非表示ボタンを有効化」の項目を追加しました。
@@ -959,7 +1040,7 @@
             ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2116">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2117">
         </div>
         <div class="list">
             ▶「ダークモード」機能の利用中、特定画面の文字の可読性が著しく落ちてしまう不具合を修正しました。
@@ -1227,62 +1308,6 @@
             <div class="list">
                 ▶駒添 絵伝がコスチューム「生贄の聖衣」を着用中、体型の一部が開発意図よりも小さくなっている。
             </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1181" class="weighty-column">
-
-            2023/10/19 13:55                            
-                <span class="bold">
-                                            (11/09 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の一部効果が、アナザーショットギアの溜め撃ち残弾数が0の時に発動しない            </div>
-
-        </div>
-        <div id="important-text-1181" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年11月09日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年10月19日 13:55<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の「立ち射撃3段目実行時、ENE属性の追加射撃を行う」効果が、アナザーショットギアの溜め撃ち残弾数が0の時に発動しない。
-            </div>
-            <p class="list red">
-                ※残弾数が1以上の時は、パッシブスキルの効果が正しく発動することを確認しております。
-            </p>
         </div>
         <div>
             本件につきまして、現在、修正作業を進めております。
