@@ -309,8 +309,7 @@
         
         <div id="important-column-1196" class="weighty-column">
 
-            2023/11/27 19:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/27 19:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.74.0アプリより、任務開始時のロード中にエラーが発生することがある            </div>
