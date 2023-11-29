@@ -103,7 +103,7 @@
         <div id="important-column-1200" class="weighty-column">
 
             2023/11/28 18:15                            
-                <span class="red bold">
+                <span class="bold">
                                             (11/28 修正済)
                                     </span>
             
@@ -162,8 +162,7 @@
         
         <div id="important-column-1199" class="weighty-column">
 
-            2023/11/28 18:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/28 18:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定ギアの攻撃の一次属性が開発意図と異なっている            </div>
