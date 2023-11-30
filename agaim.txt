@@ -33,6 +33,62 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1203" class="weighty-column">
+
+            2023/11/30 15:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              天野 望のレプリカギア「フローラユニットE/B」に、開発意図と異なるパッシブスキルが付与されている            </div>
+
+        </div>
+        <div id="important-text-1203" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年11月30日 15:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶天野 望のレプリカギア「フローラユニットE/B」に、開発意図と異なるパッシブスキルが付与されている。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">誤：電撃耐性追加【速】</span>
+                <p>
+                    電撃耐性が小上昇するが、重力耐性が小減少<br>
+                    移動速度が向上したが、最大HPが減少する
+                </p>
+                <span class="bold">正：電撃耐性追加</span>
+                <p>
+                    電撃耐性が小上昇するが、重力耐性が小減少
+                </p>
+            </div>
+        </div>
+        <div>
+            「電撃耐性追加【速】」は機動タイプ「高機動」のボトムスギア専用パッシブスキルとなり、機動タイプ「バランス」の「フローラユニットE/B」には、移動速度向上の効果が適用されません。<br>
+            ただし最大HP減少の効果は適用されてしまうため、開発意図よりも性能が低い状態となってしまっております。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1202" class="weighty-column">
 
             2023/11/30 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -560,7 +616,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2120">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2121">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
@@ -1086,7 +1142,7 @@
             ※「オプション」＞「ホーム関連」＞「ソーシャルメニューの開閉状態を保存」機能をONにすると、メニューの開閉状態を保持しておくことができます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2120">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2121">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ホームUIの非表示ボタンを有効化」の項目を追加しました。
@@ -1095,7 +1151,7 @@
             ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2120">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2121">
         </div>
         <div class="list">
             ▶「ダークモード」機能の利用中、特定画面の文字の可読性が著しく落ちてしまう不具合を修正しました。
@@ -1256,59 +1312,6 @@
             
             <div class="list">
                 ▶Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、原因を調査しております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1186" class="weighty-column">
-
-            2023/10/25 20:05                            
-                <span class="bold">
-                                            (11/06 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ソーシャルメニューの一部機能への遷移が正しく行われない場合がある            </div>
-
-        </div>
-        <div id="important-text-1186" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年11月06日 14:00 追記<br>
-            本件につきまして、順次配信されましたVer1.73.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年10月25日 20:05<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶特定操作を行うと、ソーシャルメニュー内から一部機能への遷移が正しく行われず、選択したキャラクター以外のキャラ強化画面やボイスアーカイブ等が開かれる場合がある。
             </div>
         </div>
         <div>
