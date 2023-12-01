@@ -111,8 +111,7 @@
         
         <div id="important-column-1203" class="weighty-column">
 
-            2023/11/30 15:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/11/30 15:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               天野 望のレプリカギア「フローラユニットE/B」に、開発意図と異なるパッシブスキルが付与されている            </div>
