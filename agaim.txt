@@ -649,7 +649,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2125">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2126">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
@@ -1175,7 +1175,7 @@
             ※「オプション」＞「ホーム関連」＞「ソーシャルメニューの開閉状態を保存」機能をONにすると、メニューの開閉状態を保持しておくことができます。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2125">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2126">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ホームUIの非表示ボタンを有効化」の項目を追加しました。
@@ -1184,7 +1184,7 @@
             ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2125">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2126">
         </div>
         <div class="list">
             ▶「ダークモード」機能の利用中、特定画面の文字の可読性が著しく落ちてしまう不具合を修正しました。
