@@ -77,8 +77,7 @@
         
         <div id="important-column-1204" class="weighty-column">
 
-            2023/12/01 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/12/01 19:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部アクセサリーのコスト値が、アイコン上の数値よりも高くなっている            </div>
