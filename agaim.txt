@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1205" class="weighty-column">
+
+            2023/12/02 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              コラボイベント「学級日誌 今日の課題」で発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1205" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月02日 17:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、バトルガール ハイスクールコラボイベント「学級日誌 今日の課題」にて、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶対象任務が「天野 望」分しか開放されていない。
+        </div>
+        <p class="list red">
+            ※開催初日は「天野 望」と「芹沢 蓮華」の2人分が開放されるのが本来の開発意図となります。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1204" class="weighty-column">
 
             2023/12/01 19:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1181,176 +1223,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1183" class="weighty-column">
-
-            2023/10/25 14:00                            
-                <span class="bold">
-                                            (10/26 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.73.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1183" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年10月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.73.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.73.0の更新内容】</p>
-        
-        <p class="list red">
-            ※10/26（木）9:00 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶ノエル・Fの3Dモデルの瞳の表現を微調整しました。
-        </div>
-        <div class="list">
-            ▶ホーム画面のアクトレスに関連する各画面へ素早くアクセスできる「ソーシャルメニュー」機能を実装しました。
-        </div>
-        <p class="list red">
-            ※「オプション」＞「ホーム関連」＞「ソーシャルメニューの開閉状態を保存」機能をONにすると、メニューの開閉状態を保持しておくことができます。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_01.jpg?v=2129">
-        </div>
-        <div class="list">
-            ▶「オプション」＞「実験的機能」に「ホームUIの非表示ボタンを有効化」の項目を追加しました。
-        </div>
-        <p class="list red">
-            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231025/info_02.jpg?v=2129">
-        </div>
-        <div class="list">
-            ▶「ダークモード」機能の利用中、特定画面の文字の可読性が著しく落ちてしまう不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※修正に伴い、「ダークモード」機能をオプション＞実験的機能に再公開しました。
-        </p>
-        <div class="list">
-            ▶イベント終了後の特設交換所に、「イベント終了」と表示する機能を追加しました。
-        </div>
-        <p class="list red">
-            ※本機能は、10/26（木）開催予定のイベント「ノエルとハロウィンの夜」終了後から表示されます。
-        </p>
-        <div class="list">
-            ▶交換所のフィルタ機能の対象に下記アイテムを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アイテム】</p>
-            <div>
-                ・専用信頼度アイテム<br>
-                ・Sギアシェル<br>
-                ・許可証
-            </div>
-        </div>
-        <div class="list">
-            ▶任務中のバフ/デバフ等を表すステータスアイコンが、最大8つまで表示されるように変更しました。
-        </div>
-        <div class="list">
-            ▶メインストーリー「侵蝕編6～7章」の一部任務に出現する特定大型ヴァイスとの戦闘中に、ステータスアイコンが表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶相河 愛花のSPスキル「シュトルムボックHV」を発動すると、特定クロスギアの「全キャラクターを回復し、状態異常を解除する」効果の使用回数がリセットされてしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/ティンクルブーケLW<br>
-                ・★4/ポティスティリ
-            </div>
-        </div>
-        <div class="list">
-            ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「斧槍の重撃1」の、名称の誤字を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                修正前：槍斧の重撃1<br>
-                修正後：斧槍の重撃1
-            </div>
-        </div>
-        <div class="list">
-            ▶アデライーデ・Bのエニグマで修得可能なパッシブスキル「斧槍の重撃1」の「立ち攻撃3段目のヒット時にSP獲得量が増加し、ターン時のブースト消費が軽減され、ダメージへの耐性を得る」効果が、派生クロスギア装備中に発動しない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/ヘレバルデ・レーヴェG2<br>
-                ・★4/ヘレバルデ・レーヴェG3
-            </div>
-        </div>
-        <div class="list">
-            ▶マルチにて、アデライーデ・Bの派生クロスギアのフィニッシュ攻撃エフェクトが、他のプレイヤーの画面では正しく表示されない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/ヘレバルデ・レーヴェG2<br>
-                ・★4/ヘレバルデ・レーヴェG3
-            </div>
-        </div>
-        <div class="list">
-            ▶下記コスチュームを着用したキャラクターを特定のカメラアングルから見ると、肌の一部が違和感のある見え方になる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                ・ラクス・シャルキー<br>
-                ・グラストコス/FB
-            </div>
-        </div>
-        <div class="list">
-            ▶マルチに出現するオベリスクが、開発意図と異なる行動となる「砲台のない部位からレーザー攻撃」を行う不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチに出現するオベリスクが、「オクパドを召喚する」行動をとらない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.72.1アプリより、出現した小型ヴァイスを即座に撃破すると、爆破エフェクトが表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定端末でのプレイ中に、動作が重くなってしまうことがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶おでかけモードのおでかけ先に「BAR Blue Moon」を追加しました。
-        </div>
-        <p class="list red">
-            ※BAR Blue Moonで遊べる「きょうのラッキーアクトレス」は、10/31（火）15:00 より利用可能となります。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.73.0の配信に伴い、<span class="bold red">10/26（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
