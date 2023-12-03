@@ -35,7 +35,10 @@
         
         <div id="important-column-1205" class="weighty-column">
 
-            2023/12/02 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/12/02 17:10                            
+                <span class="red bold">
+                                            (12/03 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -63,6 +66,11 @@
         <p class="list red">
             ※開催初日は「天野 望」と「芹沢 蓮華」の2人分が開放されるのが本来の開発意図となります。
         </p>
+        <br>
+        <p class="list red">※12/3（日）15:35 追記</p>
+            本日追加される予定だった「星月 みき」「サドネ」も正常に任務が開放されていないことを確認しております。<br>
+            本件につきまして、原因は判明しており近日中に修正対応を実施致します。<br>
+            ご不便をおかけいたしますが、修正完了まで今しばらくお待ちください。
     </div>
     <div>
         本件につきまして、現在、原因を調査しております。
