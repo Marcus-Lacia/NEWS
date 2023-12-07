@@ -35,7 +35,10 @@
         
         <div id="important-column-1207" class="weighty-column">
 
-            2023/12/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/12/07 14:00                            
+                <span class="red bold">
+                                            (12/07 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -73,10 +76,14 @@
             </div>
         </div>
         <p class="list red">
-            ※本修正以降に天野 望のレプリカギア「フローラユニットE/B」を新たに獲得した場合は、正しいパッシブスキルが付与されます。<br>
-            当該ギアを既に獲得している場合につきましては、後日、正しいパッシブスキルへの修正を予定しております。
+            <s>※本修正以降に天野 望のレプリカギア「フローラユニットE/B」を新たに獲得した場合は、正しいパッシブスキルが付与されます。<br>
+            当該ギアを既に獲得している場合につきましては、後日、正しいパッシブスキルへの修正を予定しております。</s>
         </p>
-        
+        <p class="list red">
+            ※12/7（木）14:10 追記<br>
+            獲得済みの「フローラユニットE/B」のパッシブスキルの修正対応が完了しました。<br>
+            本対応は、再度ログインしていただくことで反映されます。
+        </p>
         <div class="list">
             ▶一部アクセサリーのコスト値が、アイコン上の数値よりも高くなっている不具合を修正しました。
         </div>
@@ -949,7 +956,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2135">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2136">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
