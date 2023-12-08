@@ -33,6 +33,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1206" class="weighty-column">
+
+            2023/12/08 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1206" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2023年12月08日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶煌上 花音の専用ショットギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2139">
+            <div class="list">
+                ▶国枝 詩穂の専用クロスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2139">
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/756?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2139">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1207" class="weighty-column">
 
             2023/12/07 14:00                            
@@ -956,7 +1001,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2138">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2139">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
@@ -1326,59 +1371,6 @@
             
             <div class="list">
                 ▶Ver.1.73.0アプリより、「攻撃力低下」効果中の敵の攻撃を、「ダメージ軽減」効果中のキャラが受けた際に、ダメージ計算が正しく行われない。
-            </div>
-        </div>
-        <div>
-            本件につきまして、現在、修正作業を進めております。
-        </div>
-        <div>
-            修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-        </div>
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
-        
-        <div id="important-column-1185" class="weighty-column">
-
-            2023/10/27 14:15                            
-                <span class="bold">
-                                            (11/09 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ノエル・FのSPスキル「アルク・ド・トリヨンフ」でリムルインバスに攻撃すると、見た目と異なる部位にヒットすることがある            </div>
-
-        </div>
-        <div id="important-text-1185" class="weighty-notice hide">
-           
-    <div>
-        <div>
-            ■2023年11月09日 14:00 追記<br>
-            本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-        </div>
-        <div>
-            このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div>
-            ■2023年10月27日 14:15<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-        </div>
-        <div>
-            現在、以下の不具合を確認しております。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【不具合内容】</p>
-            
-            <div class="list">
-                ▶ノエル・FのSPスキル「アルク・ド・トリヨンフ」でリムルインバスに攻撃すると、見た目と異なる部位にヒットすることがある。
             </div>
         </div>
         <div>
