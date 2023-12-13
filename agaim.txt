@@ -35,8 +35,7 @@
         
         <div id="important-column-1208" class="weighty-column">
 
-            2023/12/12 16:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/12/12 16:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               マルチ任務にて、特定状況で一部クロスギアのモードシフト状態を利用すると、他プレイヤーの環境でエラーが発生することがある            </div>
