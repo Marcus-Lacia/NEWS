@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1209" class="weighty-column">
+
+            2023/12/15 19:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「年末中野ジャンボドリーム」のイベントトップ画面で特定操作を行うと、次の報酬獲得までに必要なポイントが正しく表示されないことがある            </div>
+
+        </div>
+        <div id="important-text-1209" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月15日 19:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶イベント「年末中野ジャンボドリーム キャリーオーバー チョリ～クリスマッス♪」のイベントトップ画面で特定操作を行うと、次の報酬獲得までに必要なポイントが正しく表示されないことがある。
+        </div>
+        <p class="list red">
+            ※本不具合が発生した場合は、一旦ホーム画面に戻ると正しく表示されるようになることを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1208" class="weighty-column">
 
             2023/12/12 16:25            
@@ -233,16 +275,16 @@
             <div class="list">
                 ▶煌上 花音の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2161">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2162">
             <div class="list">
                 ▶国枝 詩穂の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2161">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2162">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/756?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2161">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2162">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1051,7 +1093,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2161">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2162">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
@@ -1334,48 +1376,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1191" class="weighty-column">
-
-            2023/11/06 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.73.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1191" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年11月06日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.73.1のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.73.1の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.73.0アプリより、特定環境でサウンドにノイズが含まれることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶特定操作を行うと、ソーシャルメニュー内から一部機能への遷移が正しく行われず、選択したキャラクター以外のキャラ強化画面やボイスアーカイブ等が開かれる場合がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ソーシャルメニューを閉じている時に、ホーム画面の一部領域をタップしても反応しない不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.73.1の配信に伴い、<span class="bold red">11/7（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
