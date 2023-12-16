@@ -35,8 +35,7 @@
         
         <div id="important-column-1209" class="weighty-column">
 
-            2023/12/15 19:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/12/15 19:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「年末中野ジャンボドリーム」のイベントトップ画面で特定操作を行うと、次の報酬獲得までに必要なポイントが正しく表示されないことがある            </div>
