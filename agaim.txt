@@ -35,7 +35,10 @@
         
         <div id="important-column-1210" class="weighty-column">
 
-            2023/12/18 16:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/12/18 16:15                            
+                <span class="red bold">
+                                            (12/18 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -60,6 +63,11 @@
         <div class="list">
             ▶金潟 すぐみがコスチューム「ラプタースタイル」を着用すると、肌の色味が変化してしまう。
         </div>
+        <p class="list red">
+            ※12/18（月）17:00 追記<br>
+            新居目 安里のコスチューム「ストライクスタイル」も、衣装や肌の陰影表現が開発意図と異なっていることを確認しました。<br>
+            コスチューム「ラプタースタイル」とあわせて、近日中の修正を予定しております。
+        </p>
     </div>
     <div>
         本件につきまして、現在、原因を調査しております。
