@@ -33,6 +33,91 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1213" class="weighty-column">
+
+            2023/12/20 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定操作を行うと、解析機にシェルをセットしていない状態にも関わらず「解析依頼ボタン」がタップできてしまう            </div>
+
+        </div>
+        <div id="important-text-1213" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月20日 17:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶シェル解析予約にて特定操作を行った後、解析機にシェルがセットされていない状態にも関わらず「解析依頼ボタン」がタップできてしまい、タップするとエラーが発生する。
+        </div>
+        <p class="list red">
+            ※エラー発生時に各種シェルが消滅することはありません。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1212" class="weighty-column">
+
+            2023/12/20 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定状況でシェル解析結果画面からギアを売却するとエラーが発生する            </div>
+
+        </div>
+        <div id="important-text-1212" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月20日 17:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶シェル解析予約機能を利用した際のシェル解析結果画面で、特定操作を行いギアを売却するとエラーが発生する。
+        </div>
+        <p class="list">
+            ※本不具合が発生した際、ギアは売却されずに所持した状態となります。
+        </p>
+        <p class="list">
+            ※不具合発生後、対象ギアをギア整備室から正常に売却できることを確認しております。
+        </p>
+    </div>
+    <div>
+        本不具合を修正したアプリを近日中に配信予定です。<br>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1211" class="weighty-column">
 
             2023/12/20 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1293,197 +1378,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1193" class="weighty-column">
-
-            2023/11/27 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.74.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1193" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年11月27日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.74.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.74.0の更新内容】</p>
-        
-        <div class="list">
-            ▶ギア売却時のUIやフローを改修しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2177">
-        </div>
-        <div class="list">
-            ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
-        </div>
-        <p class="list red">
-            ※本機能は「実験的機能」として提供されるため、予告なく機能削除や仕様変更がされる場合がございます、予めご了承ください。
-        </p>
-        <div class="list">
-            ▶Ver.1.73.0アプリより、アプリをバックグラウンド状態にすると、再プレイ時にサウンドが再生されなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.73.0アプリより、「攻撃力低下」効果中の敵の攻撃を、「ダメージ軽減」効果中のキャラが受けた際に、ダメージ計算が正しく行われない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶★4/ノエル・Fの初回スカウト演出のカメラワークが、キャラクターからわずかに遠い状態になることがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、キャラクターの提供内容に変更はございません。
-        </p>
-        <div class="list">
-            ▶ノエル・Fのコスチューム「生贄の聖衣」の、アイコンに表示されたコスチュームのデザインが開発意図と異なっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※アイコンのみの修正となり、コスチュームデザインに変更はございません。
-        </p>
-        <div class="list">
-            ▶二子玉 舞のSPスキル「ディヴェルティスマン」発動後に大型ヴァイスの出現演出が再生されると、SPスキルの発動演出のエフェクトが再度表示される不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶「伸状態」の大関 小結が下記アクセサリーを着用した時に、アクセサリーが顔にめり込む問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクセサリー】</p>
-            <div>
-                ・生贄の眼帯<br>
-                ・生贄の眼帯/R
-            </div>
-        </div>
-        <div class="list">
-            ▶アクセサリー「小型加湿器」と各種メガネをあわせて着用している時、暗い場面での見た目が自然になるよう、メガネの曇り方を微調整しました。
-        </div>
-        <div class="list">
-            ▶おでかけモードの「きょうのラッキーアクトレス」を特定端末でプレイすると、開始演出に開発意図と異なる画面が映りこむことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.74.0の配信に伴い、<span class="bold red">11/28（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1192" class="weighty-column">
-
-            2023/11/09 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1192" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年11月09日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶春日丘 もえのコスチューム「ポテ」の、一部の金属パーツの質感を微調整しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gのコスチューム「レスト」の首元のデザインの一部が歪んで見える問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベントギア「ホロモルフ/T」シリーズの3Dモデルを調整し、デザインの一部に開発意図と異なるパーツが含まれている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ノエル・FのSPスキル「アルク・ド・トリヨンフ」でリムルインバスに攻撃すると、見た目と異なる部位にヒットすることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶小芦 睦海のエニグマで修得可能なパッシブスキル「イェーガマイスター1」の「立ち射撃3段目実行時、ENE属性の追加射撃を行う」効果が、アナザーショットギアの溜め撃ち残弾数が0の時に発動しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記コスチュームの第一ボタンが、違和感のある位置についている問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                ・オフィスペンシル/S<br>
-                ・オフィスペンシル/W<br>
-                ・オフィスペンシル/I
-            </div>
-        </div>
-        <div class="list">
-            ▶下記コスチューム着用中に近接攻撃を行うと、スカートの一部が破れたように見えることがある問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                ・オフィスペンシル/S<br>
-                ・オフィスペンシル/W<br>
-                ・オフィスペンシル/I
-            </div>
-        </div>
-        <div class="list">
-            ▶初音 ミクが下記アクセサリー着用時、暗い場面でアクセサリーが白く光って見える問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクセサリー】</p>
-            <div>
-                ・39ヘッドセット<br>
-                ・39ヘッドセット/音色
-            </div>
-        </div>
-        <div class="list">
-            ▶二階堂 司がアクセサリー「生贄の眼帯」着用中、アクセサリーが鼻に干渉する問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶定期要撃任務の11/11（土）以降のスケジュールが正常に表示されていない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶10/26（木）15:00 より切り替わったホーム画面にて、キャラクターの待機位置が僅かにずれることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
