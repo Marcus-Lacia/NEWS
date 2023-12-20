@@ -33,6 +33,161 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1211" class="weighty-column">
+
+            2023/12/20 14:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.75.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1211" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年12月20日 14:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.75.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <div class="sub-box bg_white show_only_iOS">
+        <p class="list bold red">
+            ※iOS版アプリのバージョンについて
+        </p>
+        App Storeの審査の都合により、iOS版はVer.1.75.0のアプリを配信しております（iOS以外のプラットフォームは、一部不具合修正を実施したVer.1.75.1を配信しております）<br>
+        審査が完了し次第、Ver.1.75.1アプリを配信いたしますので、今しばらくお待ちください。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.75.1の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶定期パスの30日間有効機能に、「シェル解析予約」機能を追加しました。
+        </div>
+        <p class="list">
+            ※定期パスの有効期間中、解析するシェルの予約を行える機能です。<br>
+            詳細は<a href="/custom-page/show/page-id/subscription-shell-news" class="bold navy"><u>ヘルプページ</u></a>をご確認ください。
+        </p>
+        <div class="list">
+            ▶シェル解析画面のソート機能に「充電時間」の条件を追加しました。
+        </div>
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶マルチ任務にて、特定状況で一部クロスギアのモードシフト状態を利用すると、他プレイヤーの環境でエラーが発生することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶御茶ノ水 美里江の派生クロスギアの、下フリック攻撃の一次属性が、開発意図と異なり「斬撃属性」となっている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※ギアアイコンに記載の通り、正しい属性は「打撃属性」となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★4/ウォープライヤT型<br>
+                ・★4/ウアウプライヤ
+            </div>
+        </div>
+        <div class="list">
+            ▶シルフィーIIのトップスギアスキルの一次属性が、開発意図と異なり「斬撃属性」となっている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※スキル説明文に記載の通り、正しい属性は「打撃属性」となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・キャットインパクト<br>
+                ・キャットインパクトR<br>
+                ・キャットインパクトS
+            </div>
+        </div>
+        <div class="list">
+            ▶波佐見 利佳のSPスキル「テラス・クスィフォス」の効果時間終了間際にトップススキルを発動してピジョンを展開すると、SPスキルの効果時間が終了した時にピジョンが表示されなくなる不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶サポーター呼び出し中に特定操作を行うと、サポーターが活動時間を超えても退避しなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ケプリ属性特異型の岩石を特定タイミングで破壊すると、ケプリ本体にロックオンできなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「バトルガール ハイスクールコラボ ロスト・クリスマス編」のエピソード2話に登場する須賀 乙莉の顔アイコンが、開発意図と異なる表示になっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「【復刻】バトルガール ハイスクールコラボ 再会編」の、一部任務のナンバー表示が誤っている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※任務構成に変更はございません。
+        </p>
+        <div class="list">
+            ▶ホーム画面のソーシャルメニューからキャラ強化を行った際、強化したキャラのアイコンが2つ表示されることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶「案件ポイント/WTR」のアイテム詳細画面に記載されている有効期限が誤っている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：3/14（木）14:59<br>
+                正：3/7（木）14:59
+            </div>
+        </div>
+        <div class="list">
+            ▶任務のコンティニュー機能利用時、復帰キャラクターのSPゲージ仕様を変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                変更前：<br>
+                SPゲージが0の状態で、1度だけSPスキルが発動できる。
+            </div>
+            <div>
+                変更後：<br>
+                SPゲージが上限値までチャージされる。
+            </div>
+        </div>
+        <p class="list red">
+            ※特定状況や一部SPが利用しにくい問題を改善するため、効果内容を調整しました。
+        </p>
+        <div class="list">
+            ▶撮影ルームにて、芹沢 蓮華がコスチューム「星衣フローラ」着用中に特定ポーズをとると、コスチュームの一部が違和感のある見た目になる問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶ゲーム開始時のチュートリアル中に、特定状況でアプリを強制終了すると、チュートリアルが進行できなくなることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶実験的機能の「ギアチューン演出3倍速モード」の利用中、ギアを選択しにくい問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.75.1の配信に伴い、<span class="bold red">12/21（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1210" class="weighty-column">
 
             2023/12/18 16:15                            
@@ -123,7 +278,11 @@
         
         <div id="important-column-1208" class="weighty-column">
 
-            2023/12/12 16:25            
+            2023/12/12 16:25                            
+                <span class="bold">
+                                            (12/20 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               マルチ任務にて、特定状況で一部クロスギアのモードシフト状態を利用すると、他プレイヤーの環境でエラーが発生することがある            </div>
@@ -132,6 +291,17 @@
         <div id="important-text-1208" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2023年12月20日 14:05 追記<br>
+        本件につきまして、順次配信されましたVer1.75.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2023年12月12日 16:30<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -321,16 +491,16 @@
             <div class="list">
                 ▶煌上 花音の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2174">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2175">
             <div class="list">
                 ▶国枝 詩穂の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2174">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2175">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/756?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2174">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2175">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -769,7 +939,11 @@
         
         <div id="important-column-1199" class="weighty-column">
 
-            2023/11/28 18:15            
+            2023/11/28 18:15                            
+                <span class="bold">
+                                            (12/20 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定ギアの攻撃の一次属性が開発意図と異なっている            </div>
@@ -778,6 +952,17 @@
         <div id="important-text-1199" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2023年12月20日 14:05 追記<br>
+        本件につきまして、順次配信されましたVer1.75.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2023年11月28日 18:15<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1139,7 +1324,7 @@
             ▶ギア売却時のUIやフローを改修しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2174">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231127/info_01.jpg?v=2175">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」に「ギアチューン演出3倍速モード」の項目を追加しました。
@@ -1299,76 +1484,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1190" class="weighty-column">
-
-            2023/11/06 14:00                            
-                <span class="bold">
-                                            (11/09 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              定期要撃任務の一部スケジュールが正常に表示されていない            </div>
-
-        </div>
-        <div id="important-text-1190" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年11月09日 14:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年11月06日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶定期要撃任務の11/11（土）以降のスケジュールが正常に表示されていない。
-        </div>
-        <p class="list red">
-            ※正しいスケジュールは下記をご確認ください。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                <span class="bold">・11/11（土）～ 11/13（月）</span><br>
-                出現ヴァイス：ネペンテス
-            </div>
-            <div>
-                <span class="bold">・11/12（日）～ 11/14（火）</span><br>
-                出現ヴァイス：エレクインバス
-            </div>
-            <div>
-                <span class="bold">・11/13（月）～ 11/15（水）</span><br>
-                出現ヴァイス：フロストファルコン
-            </div>
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
