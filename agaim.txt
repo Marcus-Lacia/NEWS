@@ -194,8 +194,7 @@
         
         <div id="important-column-1212" class="weighty-column">
 
-            2023/12/20 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/12/20 17:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況でシェル解析結果画面からギアを売却するとエラーが発生する            </div>
