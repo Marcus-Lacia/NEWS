@@ -33,6 +33,66 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1213" class="weighty-column">
+
+            2023/12/20 17:10                            
+                <span class="red bold">
+                                            (12/21 更新)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定操作を行うと、解析機にシェルをセットしていない状態にも関わらず「解析依頼ボタン」がタップできてしまう            </div>
+
+        </div>
+        <div id="important-text-1213" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月21日 14:05 追記<br>
+        本件につきまして、さきほど暫定的な対処を実施いたしました。<br>
+        特定操作時にエラーは発生しなくなりますが、シェルがセットされていない状態にも関わらず、解析演出が再生される状態となります。
+    </div>
+    <p class="list red">
+        ※演出のみの再生となり、実際にシェル解析は行われていません。
+    </p>
+    <div>
+        根本的な修正につきましては、近日中にアプリ配信を予定しておりますので、今しばらくお待ちください。
+    </div>
+    
+    
+    <hr class="red">
+    
+    <div>
+        ■2023年12月20日 17:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶シェル解析予約にて特定操作を行った後、解析機にシェルがセットされていない状態にも関わらず「解析依頼ボタン」がタップできてしまい、タップするとエラーが発生する。
+        </div>
+        <p class="list red">
+            ※エラー発生時に各種シェルが消滅することはありません。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1214" class="weighty-column">
 
             2023/12/21 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -127,48 +187,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1213" class="weighty-column">
-
-            2023/12/20 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定操作を行うと、解析機にシェルをセットしていない状態にも関わらず「解析依頼ボタン」がタップできてしまう            </div>
-
-        </div>
-        <div id="important-text-1213" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年12月20日 17:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶シェル解析予約にて特定操作を行った後、解析機にシェルがセットされていない状態にも関わらず「解析依頼ボタン」がタップできてしまい、タップするとエラーが発生する。
-        </div>
-        <p class="list red">
-            ※エラー発生時に各種シェルが消滅することはありません。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
