@@ -35,7 +35,10 @@
         
         <div id="important-column-1216" class="weighty-column">
 
-            2023/12/26 15:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2023/12/26 15:20                            
+                <span class="red bold">
+                                            (12/26 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -66,6 +69,11 @@
                 ・特別任務：3件目<br>
                 ・特別任務：5件目<br>
                 ・特別任務：8件目
+                <p class="list red">
+                    ※12/26（火）21:30 追記<br>
+                    調査の結果、下記任務でも同不具合が発生することを確認しました。
+                </p>
+                ・特別任務：7件目
             </div>
         </div>
     </div>
