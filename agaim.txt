@@ -33,6 +33,93 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1217" class="weighty-column">
+
+            2023/12/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1217" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2023年12月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶宇佐元 杏奈の専用ショットギアに進化分岐を追加しました。
+        </div>
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2209">
+        
+        <div class="list red">
+            ※派生進化専用ギアの特殊な動作について、<br>
+            宇佐元 杏奈【希求】の詳細ページにて説明しております。
+        </div>
+        <div>
+            <a href="/news/show/id/162?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2209">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        <div class="list">
+            ▶イベント「宇佐元 杏奈【レジェンド】トライアル任務」に登場する宇佐元 杏奈【レジェンド】のクロスギアを、派生進化専用ギア「★4/アレクサンドラプラス」に変更しました。
+        </div>
+        <p class="list red">
+            ※当該任務「トライアル任務:ファクター杏奈編」のクリア状況はリセットされません。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2209">
+        </div>
+        <div class="list">
+            ▶イベント「彗星のファーストタッチ」の一部任務にて、特定状況で小型ヴァイス「ベイト」を撃破すると、正常な撃破判定とならず、「撮影シェル」がドロップしないことがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・特別任務：3件目<br>
+                ・特別任務：5件目<br>
+                ・特別任務：7件目<br>
+                ・特別任務：8件目
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「年末中野ジャンボドリーム」のエピソード16話に登場する宮南 ひかりの、我龍 絵美に対する呼称の誤表記を修正しました。
+        </div>
+        <div class="list">
+            ▶ノエル・Fがコスチューム「エール・ド・ランジュ」着用中に特定ポーズをとると、指が違和感のある見た目になることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶リタ・Hが特定コスチュームとアクセサリー「マフラー/スノー」を同時に着用した時に、マフラーが体に大きくめり込むことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1216" class="weighty-column">
 
             2023/12/26 15:20                            
@@ -857,16 +944,16 @@
             <div class="list">
                 ▶煌上 花音の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2208">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2209">
             <div class="list">
                 ▶国枝 詩穂の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2208">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2209">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/756?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2208">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2209">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1414,86 +1501,6 @@
     <div>
         このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1195" class="weighty-column">
-
-            2023/11/28 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1195" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年11月28日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.74.0アプリより、ホーム画面にて開発意図と異なるBGMが再生される不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶小芦 睦海がコスチューム「ハーバボナB」着用時、任務クリア演出中にスカートの一部が肌にめり込む問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターがコスチューム「スカートスーツ」着用時、任務中及び3D MODEL画面で特定ポーズをとると、スカートの一部が裂けたように見える問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・大関 小結<br>
-                ・宇佐元 杏奈<br>
-                ・萬場 盟華<br>
-                ・在賀 奈々
-            </div>
-        </div>
-        <div class="list">
-            ▶Ver.1.74.0アプリより、下記キャラクターを「なでなで」した時に、開発意図と異なる表情になる不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・星月 みき<br>
-                ・常磐 くるみ<br>
-                ・粒咲 あんこ<br>
-                ・楠 明日葉<br>
-                ・綿木 ミシェル<br>
-                ・サドネ<br>
-                ・国枝 詩穂
-            </div>
-        </div>
-        <div class="list">
-            ▶兼志谷 シタラが特定表情の時に、口元が違和感のある見た目になることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ノエル・Fのボイスアーカイブの一部ボイスの誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
