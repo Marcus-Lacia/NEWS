@@ -33,6 +33,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1219" class="weighty-column">
+
+            2023/12/28 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている            </div>
+
+        </div>
+        <div id="important-text-1219" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月28日 18:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★4/アレクサンドラプラス<br>
+                ・★4/アレクサンドラ・ローダ
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1218" class="weighty-column">
 
             2023/12/28 18:20                            
@@ -1489,86 +1535,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1199" class="weighty-column">
-
-            2023/11/28 18:15                            
-                <span class="bold">
-                                            (12/20 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定ギアの攻撃の一次属性が開発意図と異なっている            </div>
-
-        </div>
-        <div id="important-text-1199" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年12月20日 14:05 追記<br>
-        本件につきまして、順次配信されましたVer1.75.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年11月28日 18:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ①御茶ノ水 美里江の派生クロスギアの、下フリック攻撃の一次属性が、開発意図と異なり「斬撃属性」となっている。
-        </div>
-        <p class="list red">
-            ※ギアアイコンに記載の通り、正しい属性は「打撃属性」となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★4/ウォープライヤT型<br>
-                ・★4/ウアウプライヤ
-            </div>
-        </div>
-        <div class="list">
-            ②シルフィーIIのトップスギアスキルの一次属性が、開発意図と異なり「斬撃属性」となっている。
-        </div>
-        <p class="list red">
-            ※スキル説明文に記載の通り、正しい属性は「打撃属性」となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・キャットインパクト<br>
-                ・キャットインパクトR<br>
-                ・キャットインパクトS
-            </div>
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/58</div>
+                    <div class="page-box box-radius">1/59</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
