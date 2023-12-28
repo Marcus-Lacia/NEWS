@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1220" class="weighty-column">
+
+            2023/12/28 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.75.0アプリより、SPスキル「スイミング・ガール」のダメージ判定が消えている            </div>
+
+        </div>
+        <div id="important-text-1220" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2023年12月28日 19:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.75.0アプリより、SPスキル「スイミング・ガール」のダメージ判定が消えている。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1219" class="weighty-column">
 
             2023/12/28 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1470,66 +1509,6 @@
         このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1200" class="weighty-column">
-
-            2023/11/28 18:15                            
-                <span class="bold">
-                                            (11/28 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「Sギアシェル/望」解析時に一定確率で入手できるギアが、開発意図と異なる設定になっている            </div>
-
-        </div>
-        <div id="important-text-1200" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年11月28日 20:30 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年11月28日 18:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶「Sギアシェル/望」解析時に一定確率で入手できるギアが、開発意図と異なる設定になっている。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                誤：★4/フローラユニット改/B<br>
-                正：★3/フローラユニット/B
-            </div>
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。<br>
-        なお、既に解析で当該ギアを獲得されているお客様に対する、アイテムの回収や変換などは予定しておりません。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
