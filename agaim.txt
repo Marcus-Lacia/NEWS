@@ -121,7 +121,7 @@
         <div id="important-column-1218" class="weighty-column">
 
             2023/12/28 18:20                            
-                <span class="red bold">
+                <span class="bold">
                                             (12/28 補填済)
                                     </span>
             
