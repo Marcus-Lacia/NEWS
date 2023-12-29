@@ -74,8 +74,7 @@
         
         <div id="important-column-1219" class="weighty-column">
 
-            2023/12/28 18:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2023/12/28 18:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている            </div>
