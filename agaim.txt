@@ -36,7 +36,7 @@
         <div id="important-column-1221" class="weighty-column">
 
             2024/01/09 15:30                            
-                <span class="red bold">
+                <span class="bold">
                                             (01/09 修正済)
                                     </span>
             
