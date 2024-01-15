@@ -33,6 +33,65 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1223" class="weighty-column">
+
+            2024/01/15 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              特定攻撃で発生する「小さい爆風」の調整について            </div>
+
+        </div>
+        <div id="important-text-1223" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年01月15日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div class="bg_skin">
+        【不具合】宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている
+    </div>
+    <div>
+        上記問題の修正作業中に、2023年5月に配信したVer.1.67.0アプリにて一部爆風の調整を実施していたことが判明したため、改めてご案内いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【調整内容】</p>
+        
+        <div class="list">
+            ▶特定攻撃で発生する「小さい爆風」の攻撃判定を調整し、一部の敵に当たりにくい問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象となる「小さい爆風」の一例】</p>
+            <div>
+                <p class="list">
+                    ・ショットギア「ホワイトブーケ」の<br>
+                    立ち射撃3段目
+                </p>
+                <p class="list">
+                    ・ショットギア「グシスナウタル」の<br>
+                    立ち射撃
+                </p>
+                <p class="list">
+                    ・ショットギア「風魔二曲輪」の<br>
+                    立ち射撃3段目
+                </p>
+            </div>
+        </div>
+        <div class="list red">
+            ※宇佐元 杏奈派生ショットギアの攻撃の爆風は上記の「小さい爆風」に含まれないため、近日配信予定の最新アプリにて修正を予定しております。
+        </div>
+    </div>
+    <div>
+        このたびは調整内容のご案内が行われておらず、誠に申し訳ございません。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1222" class="weighty-column">
 
             2024/01/11 14:00            
@@ -403,7 +462,7 @@
         <div class="list">
             ▶宇佐元 杏奈の専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2253">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2254">
         
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
@@ -411,7 +470,7 @@
         </div>
         <div>
             <a href="/news/show/id/162?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2253">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2254">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -422,7 +481,7 @@
             ※当該任務「トライアル任務:ファクター杏奈編」のクリア状況はリセットされません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2253">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2254">
         </div>
         <div class="list">
             ▶イベント「彗星のファーストタッチ」の一部任務にて、特定状況で小型ヴァイス「ベイト」を撃破すると、正常な撃破判定とならず、「撮影シェル」がドロップしないことがある不具合を修正しました。
@@ -1233,16 +1292,16 @@
             <div class="list">
                 ▶煌上 花音の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2253">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_08.jpg?v=2254">
             <div class="list">
                 ▶国枝 詩穂の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2253">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_l00_inf_511_09.jpg?v=2254">
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/756?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2253">
+                <img src="//i-cf.alice.colopl.jp/img/news/2023/231208/bnr_s00_inf_511_08.jpg?v=2254">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1401,82 +1460,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1202" class="weighty-column">
-
-            2023/11/30 14:00                            
-                <span class="bold">
-                                            (12/01 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.74.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1202" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年12月01日 14:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                12/1（金）14:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                12/15（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年11月30日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.74.1のアプリにて、以下の追加、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.74.1の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.74.0アプリより、任務開始時のロード中にエラーが発生することがある不具合を修正しました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.74.1の配信に伴い、<span class="bold red">12/1（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
