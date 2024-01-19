@@ -33,6 +33,95 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1224" class="weighty-column">
+
+            2024/01/19 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.76.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1224" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年01月19日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.76.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.76.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶ギア所持数を100枠拡張しました。
+        </div>
+        <p class="list red">
+            ※カラットで購入できる拡張枠とは別に、全てのお客様の所持数が100枠拡張されます。
+        </p>
+        <div class="list">
+            ▶ギア進化画面から一括進化が行えるよう、ギア進化機能をリニューアルしました。
+        </div>
+        <div class="list">
+            ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2258">
+        </div>
+        <div class="list">
+            ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2258">
+        </div>
+        <div class="list">
+            ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
+        </div>
+        <div class="list">
+            ▶宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★4/アレクサンドラプラス<br>
+                ・★4/アレクサンドラ・ローダ
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「年末中野ジャンボドリーム キャリーオーバー チョリ～クリスマッス♪」のイベントトップ画面で特定操作を行うと、次の報酬獲得までに必要なポイントが正しく表示されないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.75.2アプリより、ファクターエリア未解放キャラのエニグマを特定状況で開くと、セルが解放されていないにも関わらず、解放演出が再生されることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶粒咲 あんこ及び楠 明日葉の、ボイスアーカイブの一部ボイスの誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.76.0の配信に伴い、<span class="bold red">1/22（月）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1223" class="weighty-column">
 
             2024/01/15 15:00            
@@ -238,7 +327,11 @@
         
         <div id="important-column-1219" class="weighty-column">
 
-            2023/12/28 18:30            
+            2023/12/28 18:30                            
+                <span class="bold">
+                                            (01/19 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている            </div>
@@ -247,6 +340,17 @@
         <div id="important-text-1219" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年01月19日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.76.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2023年12月28日 18:30<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1037,7 +1141,11 @@
         
         <div id="important-column-1209" class="weighty-column">
 
-            2023/12/15 19:30            
+            2023/12/15 19:30                            
+                <span class="bold">
+                                            (01/19 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「年末中野ジャンボドリーム」のイベントトップ画面で特定操作を行うと、次の報酬獲得までに必要なポイントが正しく表示されないことがある            </div>
@@ -1046,6 +1154,17 @@
         <div id="important-text-1209" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年01月19日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.76.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2023年12月15日 19:30<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1387,74 +1506,6 @@
     </div>
     <div>
         本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1204" class="weighty-column">
-
-            2023/12/01 19:45                            
-                <span class="bold">
-                                            (12/07 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              一部アクセサリーのコスト値が、アイコン上の数値よりも高くなっている            </div>
-
-        </div>
-        <div id="important-text-1204" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年12月07日 14:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年12月01日 19:45<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶一部アクセサリーのコスト値が、アイコン上の数値よりも高くなっている。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクセサリー】</p>
-            <div>
-                <span class="bold">天野 望</span><br>
-                ・シルバーのイヤリング<br>
-                ・ロングヘア
-            </div>
-            <div>
-                <span class="bold">芹沢 蓮華</span><br>
-                ・ロングヘア
-            </div>
-        </div>
-        <p class="list red">
-            ※「シルバーのイヤリング」のコストは「2」、「ロングヘア」のコストは「1」が正しい数値となります。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
     </div>
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
