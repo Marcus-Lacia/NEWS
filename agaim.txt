@@ -35,7 +35,10 @@
         
         <div id="important-column-1228" class="weighty-column">
 
-            2024/01/23 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/01/23 14:00                            
+                <span class="red bold">
+                                            (01/23 補填済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
