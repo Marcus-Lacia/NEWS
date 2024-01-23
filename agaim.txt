@@ -120,7 +120,7 @@
         <div id="important-column-1227" class="weighty-column">
 
             2024/01/22 16:55                            
-                <span class="red bold">
+                <span class="bold">
                                             (01/23 修正済)
                                     </span>
             
@@ -179,7 +179,7 @@
         <div id="important-column-1226" class="weighty-column">
 
             2024/01/22 16:55                            
-                <span class="red bold">
+                <span class="bold">
                                             (01/23 修正済)
                                     </span>
             
