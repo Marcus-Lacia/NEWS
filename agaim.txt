@@ -33,9 +33,93 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1228" class="weighty-column">
+
+            2024/01/23 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1228" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年01月23日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶「★2/アンジェリカ・G」のコストキャパの最大値が、開発意図と異なっている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：60<br>
+                正：100
+            </div>
+        </div>
+        <div class="list">
+            ▶吾妻 京専用ショットギアの最大射程が、開発意図と異なる距離になっている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※最大射程は35mが開発意図通りの距離になります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/スペリンAKs<br>
+                ・★3/スペリンAKsMk2<br>
+                ・★3/スペリンAKsMk3<br>
+                ・★4/夜這星<br>
+                ・★4/夜這星改<br>
+                ・★4/アマツキツネ
+            </div>
+        </div>
+    </div>
+    <div>
+        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                1/23（火）14:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                2/6（火）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1227" class="weighty-column">
 
-            2024/01/22 16:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/01/22 16:55                            
+                <span class="red bold">
+                                            (01/23 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -45,6 +129,17 @@
         <div id="important-text-1227" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年01月23日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年01月22日 16:55<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -80,7 +175,10 @@
         
         <div id="important-column-1226" class="weighty-column">
 
-            2024/01/22 16:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/01/22 16:55                            
+                <span class="red bold">
+                                            (01/23 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -90,6 +188,17 @@
         <div id="important-text-1226" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年01月23日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年01月22日 16:55<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -211,7 +320,7 @@
             ※追加に伴い、鳳 加純のSPスキル「フェニックスブレイズ」のアイコンを変更しました。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2270">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2271">
         </div>
         <div class="list">
             ▶12/21（木）14:00 のアップデートより、宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない不具合を修正しました。
@@ -276,13 +385,13 @@
             ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2270">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2271">
         </div>
         <div class="list">
             ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2270">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2271">
         </div>
         <div class="list">
             ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
@@ -769,7 +878,7 @@
         <div class="list">
             ▶宇佐元 杏奈の専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2270">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2271">
         
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
@@ -777,7 +886,7 @@
         </div>
         <div>
             <a href="/news/show/id/162?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2270">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2271">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -788,7 +897,7 @@
             ※当該任務「トライアル任務:ファクター杏奈編」のクリア状況はリセットされません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2270">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2271">
         </div>
         <div class="list">
             ▶イベント「彗星のファーストタッチ」の一部任務にて、特定状況で小型ヴァイス「ベイト」を撃破すると、正常な撃破判定とならず、「撮影シェル」がドロップしないことがある不具合を修正しました。
@@ -1386,62 +1495,6 @@
         </div>
         <p class="list red">
             ※本不具合が発生した場合は、一旦ホーム画面に戻ると正しく表示されるようになることを確認しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1208" class="weighty-column">
-
-            2023/12/12 16:25                            
-                <span class="bold">
-                                            (12/20 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              マルチ任務にて、特定状況で一部クロスギアのモードシフト状態を利用すると、他プレイヤーの環境でエラーが発生することがある            </div>
-
-        </div>
-        <div id="important-text-1208" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年12月20日 14:05 追記<br>
-        本件につきまして、順次配信されましたVer1.75.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年12月12日 16:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶マルチ任務にて、特定状況で一部クロスギアのモードシフト状態を利用すると、他プレイヤーの環境でエラーが発生することがある。
-        </div>
-        <p class="list red">
-            ※本不具合はマルチ任務でのみ発生することを確認しております。
         </p>
     </div>
     <div>
