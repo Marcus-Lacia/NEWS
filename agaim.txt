@@ -33,6 +33,61 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1230" class="weighty-column">
+
+            2024/01/26 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定状況の敵に、一部ショットギアの「一定距離でクリティカルヒットする射撃」を当てると、エラーが発生することがある            </div>
+
+        </div>
+        <div id="important-text-1230" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年01月26日 19:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶敵がロックオン不可能な状態になった瞬間に、下記ショットギアの「一定距離でクリティカルヒットする射撃」を当てると、エラーが発生することがある。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/スペリンAKs<br>
+                ・★3/スペリンAKsMk2<br>
+                ・★3/スペリンAKsMk3<br>
+                ・★4/夜這星<br>
+                ・★4/夜這星改<br>
+                ・★4/アマツキツネ<br>
+                ・★4/オニエ・玄<br>
+                ・★4/オニヤライ・玄
+            </div>
+        </div>
+        <div>
+            なお、エラーが発生する際の挙動は利用端末によって異なり、場合によっては敵のHPが不自然に減少することも確認しております。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1229" class="weighty-column">
 
             2024/01/25 14:00            
@@ -1433,64 +1488,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1210" class="weighty-column">
-
-            2023/12/18 16:15                            
-                <span class="bold">
-                                            (12/21 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              金潟 すぐみがコスチューム「ラプタースタイル」を着用すると、肌の色味が変化してしまう            </div>
-
-        </div>
-        <div id="important-text-1210" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年12月21日 14:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年12月18日 16:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶金潟 すぐみがコスチューム「ラプタースタイル」を着用すると、肌の色味が変化してしまう。
-        </div>
-        <p class="list red">
-            ※12/18（月）17:00 追記<br>
-            新居目 安里のコスチューム「ストライクスタイル」も、衣装や肌の陰影表現が開発意図と異なっていることを確認しました。<br>
-            コスチューム「ラプタースタイル」とあわせて、近日中の修正を予定しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
