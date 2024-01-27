@@ -35,8 +35,7 @@
         
         <div id="important-column-1230" class="weighty-column">
 
-            2024/01/26 19:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/01/26 19:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況の敵に、一部ショットギアの「一定距離でクリティカルヒットする射撃」を当てると、エラーが発生することがある            </div>
