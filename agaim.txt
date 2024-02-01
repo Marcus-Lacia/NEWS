@@ -33,6 +33,168 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1232" class="weighty-column">
+
+            2024/02/01 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1232" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年02月01日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶一部コラボキャラクターのエニグマにて、セル解放時のクオリアの消費量やマスターエレメントの獲得量が開発意図よりも少ない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※「変換セル」のマスターエレメント変換は正しく行われていたことを確認しております。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・天野 望<br>
+                ・芹沢 蓮華
+            </div>
+        </div>
+        <div>
+            本修正によってセル解放時のマスターエレメントの獲得量が増加することに伴い、「修正前までに対象キャラクターのエニグマのセルを解放したことがあるお客様」を対象に、マスターエレメントの本来の獲得量との差分を、後日補填させていただきます。
+        </div>
+        
+        <div class="list">
+            ▶下記ショットギアのクリティカルヒット時のエフェクトを調整し、眩しさを緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/スペリンAKs<br>
+                ・★3/スペリンAKsMk2<br>
+                ・★3/スペリンAKsMk3<br>
+                ・★4/夜這星<br>
+                ・★4/夜這星改<br>
+                ・★4/アマツキツネ
+            </div>
+        </div>
+        <div class="list">
+            ▶3D MODEL画面にて、下記キャラクターのコスチューム「ゾディアックバニー」の襟周りが僅かに歪んでいる問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・バージニア・G<br>
+                ・ファティマ・B<br>
+                ・新谷 芹菜<br>
+                ・蛙坂 来弥<br>
+                ・仁紀藤 奏<br>
+                ・萬場 盟華<br>
+                ・ミア・V<br>
+                ・米良渕 花浪<br>
+                ・尾長 晶乃<br>
+                ・新居目 安里<br>
+                ・的場 アオイ<br>
+                ・波佐見 利佳<br>
+                ・常磐 くるみ<br>
+                ・粒咲 あんこ<br>
+                ・国枝 詩穂<br>
+                ・イブリ―・ハッド
+            </div>
+        </div>
+        <div class="list">
+            ▶兼志谷 シタラがコスチューム「クードゥナー」を着用中、ホーム画面で特定リアクションをとった時に脚が衣装から大きく突き出ることがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶尾長 晶乃が下記コスチュームを着用している時の特定リアクションを調整し、ホーム画面にて脚が衣装から大きく突き出ることがある問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象コスチューム】</p>
+            <div>
+                ・スタープロムナード<br>
+                ・BDナース/A<br>
+                ・オフィスペンシル/I<br>
+                ・アニバドレスW<br>
+                ・アニバジャケット<br>
+                ・アニバドレスI
+            </div>
+        </div>
+        <div class="list">
+            ▶ノエル・Fのアクセサリー「バースデーメガネ」の着用位置を微調整しました。
+        </div>
+        <div class="list">
+            ▶一部キャラクターがアクセサリー「イノセントティアラ」を着用すると、眉毛が髪に埋もれてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶吾妻 京のアクセサリー「アニバーサリーリング」の説明文の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶アンジェリカ・GのキャラエピソードEp.3-3の、一部台詞の脱字を修正しました。
+        </div>
+        <div class="list">
+            ▶「復刻イベントコスチューム&amp;アクセサリー交換所」の、一部キャラクターのプロフィールの誤字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                <span class="bold">比良坂 夜露</span><br>
+                誤：【年 齢】15際<br>
+                正：【年 齢】15歳
+            </div>
+            <div>
+                <span class="bold">宇佐元 杏奈</span><br>
+                誤：【よ み】うさもと あいな<br>
+                正：【よ み】うさもと あんな
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「盗賊所縁千金桜」のエピソード2話に登場する鳳 加純のコスチュームが、開発意図と異なっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶1/22（月）15:00 より切り替わったホーム画面の、奥にいるキャラクターの立ち位置を微調整しました。
+        </div>
+        <div class="list">
+            ▶各スカウトの「キャラクター提供割合」ページに、以下の文章を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                実際の出現率については、小数点第5位以下での四捨五入、切上げ、切捨て等は行っておりません。
+            </div>
+        </div>
+        <p class="list red">
+            ※提供内容や出現率に変更はありません。
+        </p>
+        <p class="list red">
+            ※プレミアムセレクトスカウトなど、提供割合が特殊なスカウトは対象外となります。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1231" class="weighty-column">
 
             2024/01/30 15:00            
@@ -470,7 +632,7 @@
             ※追加に伴い、鳳 加純のSPスキル「フェニックスブレイズ」のアイコンを変更しました。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2280">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2281">
         </div>
         <div class="list">
             ▶12/21（木）14:00 のアップデートより、宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない不具合を修正しました。
@@ -535,13 +697,13 @@
             ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2280">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2281">
         </div>
         <div class="list">
             ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2280">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2281">
         </div>
         <div class="list">
             ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
@@ -1028,7 +1190,7 @@
         <div class="list">
             ▶宇佐元 杏奈の専用ショットギアに進化分岐を追加しました。
         </div>
-        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2280">
+        <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/bnr_l00_inf_512_27.jpg?v=2281">
         
         <div class="list red">
             ※派生進化専用ギアの特殊な動作について、<br>
@@ -1036,7 +1198,7 @@
         </div>
         <div>
             <a href="/news/show/id/162?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2280">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_030_70/bnr_header.jpg?v=2281">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1047,7 +1209,7 @@
             ※当該任務「トライアル任務:ファクター杏奈編」のクリア状況はリセットされません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2280">
+            <img src="//i-cf.alice.colopl.jp/img/news/2023/231227/info_01.jpg?v=2281">
         </div>
         <div class="list">
             ▶イベント「彗星のファーストタッチ」の一部任務にて、特定状況で小型ヴァイス「ベイト」を撃破すると、正常な撃破判定とならず、「撮影シェル」がドロップしないことがある不具合を修正しました。
@@ -1328,63 +1490,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1212" class="weighty-column">
-
-            2023/12/20 17:10                            
-                <span class="bold">
-                                            (12/25 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定状況でシェル解析結果画面からギアを売却するとエラーが発生する            </div>
-
-        </div>
-        <div id="important-text-1212" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2023年12月25日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.75.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2023年12月20日 17:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶シェル解析予約機能を利用した際のシェル解析結果画面で、特定操作を行いギアを売却するとエラーが発生する。
-        </div>
-        <p class="list">
-            ※本不具合が発生した際、ギアは売却されずに所持した状態となります。
-        </p>
-        <p class="list">
-            ※不具合発生後、対象ギアをギア整備室から正常に売却できることを確認しております。
-        </p>
-    </div>
-    <div>
-        本不具合を修正したアプリを近日中に配信予定です。<br>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
