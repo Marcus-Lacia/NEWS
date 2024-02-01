@@ -35,7 +35,10 @@
         
         <div id="important-column-1232" class="weighty-column">
 
-            2024/02/01 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/02/01 14:00                            
+                <span class="red bold">
+                                            (02/01 補填済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -72,7 +75,14 @@
         <div>
             本修正によってセル解放時のマスターエレメントの獲得量が増加することに伴い、「修正前までに対象キャラクターのエニグマのセルを解放したことがあるお客様」を対象に、マスターエレメントの本来の獲得量との差分を、後日補填させていただきます。
         </div>
-        
+        <div class="bg_skin">
+            2/1（木）15:40 追記<br>
+            対象となるお客様へ、マスターエレメントの補填を実施しました。<br>
+            補填内容は、アプリを再起動していただくことで正しく適用されるようになります。
+            <p class="list red">
+                ※マスターエレメントはキャラクターに直接付与されるため、マスターレベルの上昇や、それに伴うスキルスロットの解放が行われる場合があります。
+            </p>
+        </div>
         <div class="list">
             ▶下記ショットギアのクリティカルヒット時のエフェクトを調整し、眩しさを緩和しました。
         </div>
