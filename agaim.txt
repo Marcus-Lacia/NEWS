@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1235" class="weighty-column">
+
+            2024/02/09 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1235" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2024年02月09日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶尾長 晶乃の専用クロスギアに進化分岐を追加しました。
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2300">
+    
+            <div class="list red">
+                ※派生進化専用ギアの特殊な動作について、<br>
+                尾長 晶乃【翼成】の詳細ページにて説明しております。
+            </div>
+            <a href="/news/show/id/785?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2300">
+                <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
+            </a>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1234" class="weighty-column">
 
             2024/02/08 14:00            
@@ -1388,81 +1431,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1215" class="weighty-column">
-
-            2023/12/25 14:00                            
-                <span class="bold">
-                                            (12/26 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.75.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1215" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2023年12月26日 14:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                12/26（火）14:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                2024/1/9（火）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    <div>
-        ■2023年12月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.75.2のアプリにて、以下の修正を行いました。
-        <p class="list red show_only_iOS">
-            ※iOS版Ver.1.75.1アプリの配信を予定しておりましたが、「Ver.1.75.2」に改めて配信しております。
-        </p>
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.75.2の更新内容】</p>
-        
-        <div class="list">
-            ▶シェル解析予約にて特定操作を行った後、解析機にシェルがセットされていない状態にも関わらず「解析依頼ボタン」がタップできてしまい、タップするとエラーが発生する不具合を修正しました。
-        </div>
-        <div class="list show_only_iOS">
-        	▶シェル解析予約機能を利用した際のシェル解析結果画面で、特定操作を行いギアを売却するとエラーが発生する不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.75.2の配信に伴い、<span class="bold red">12/26（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
