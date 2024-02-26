@@ -242,14 +242,14 @@
             <div class="list">
                 ▶尾長 晶乃の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2327">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2328">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 尾長 晶乃【翼成】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/785?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2327">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2328">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1017,7 +1017,7 @@
             ※追加に伴い、鳳 加純のSPスキル「フェニックスブレイズ」のアイコンを変更しました。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2327">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2328">
         </div>
         <div class="list">
             ▶12/21（木）14:00 のアップデートより、宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない不具合を修正しました。
@@ -1082,13 +1082,13 @@
             ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2327">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2328">
         </div>
         <div class="list">
             ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2327">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2328">
         </div>
         <div class="list">
             ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
