@@ -74,8 +74,7 @@
         
         <div id="important-column-1239" class="weighty-column">
 
-            2024/02/27 16:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/02/27 16:55            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.77.1アプリより、特定状況で信頼度称号を獲得するとエラーが発生する            </div>
