@@ -35,8 +35,7 @@
         
         <div id="important-column-1240" class="weighty-column">
 
-            2024/02/27 20:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/02/27 20:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.77.1アプリより、各種セルケト属性特異型が特定行動後にエリア中央へ瞬間移動することがある            </div>
