@@ -33,6 +33,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1241" class="weighty-column">
+
+            2024/03/05 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1241" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年03月05日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ニコル・Fの、頭や耳用の一部アクセサリーのフィット感を微調整しました。
+        </div>
+        <div class="list">
+            ▶ニコル・F専用★4ボトムスギアの右膝の一部パーツの配色が、開発意図と異なっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ニコル・Fがコスチューム「FELIN-A4S2」着用中に特定ポーズをとると、コスチュームの一部が不自然に変形することがある問題を修正しました。
+        </div>
+        <div class="list show_only_Android">
+            ▶特定端末にて、尾長 晶乃のコスチューム「ポリウコス」が開発意図と異なる質感になることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.77.1アプリより、各種セルケト属性特異型が特定行動後にエリア中央へ瞬間移動することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1240" class="weighty-column">
 
             2024/02/27 20:50            
@@ -377,14 +434,14 @@
             <div class="list">
                 ▶尾長 晶乃の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2338">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2339">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 尾長 晶乃【翼成】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/785?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2338">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2339">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1152,7 +1209,7 @@
             ※追加に伴い、鳳 加純のSPスキル「フェニックスブレイズ」のアイコンを変更しました。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2338">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2339">
         </div>
         <div class="list">
             ▶12/21（木）14:00 のアップデートより、宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない不具合を修正しました。
@@ -1217,13 +1274,13 @@
             ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2338">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2339">
         </div>
         <div class="list">
             ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2338">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2339">
         </div>
         <div class="list">
             ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
@@ -1373,45 +1430,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1221" class="weighty-column">
-
-            2024/01/09 15:30                            
-                <span class="bold">
-                                            (01/09 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              1/9（火）15:00 より、「カラットショップ 私服」がコスチューム交換一覧に表示されていない            </div>
-
-        </div>
-        <div id="important-text-1221" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年01月09日 15:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        以下の不具合が発生しておりましたが、先ほど修正が完了いたしましたのでご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶1/9（火）15:00 より、「カラットショップ 私服」がコスチューム交換一覧に表示されていない。
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
