@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1242" class="weighty-column">
+
+            2024/03/08 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              ネットワーク機器の更新作業について            </div>
+
+        </div>
+        <div id="important-text-1242" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年03月08日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        近日、ネットワーク機器の更新作業を予定しておりますのでご案内いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【実施期間】</p>
+        
+        <div class="list">
+            ・3/11（月）11:00 ～ 13:00 頃まで
+        </div>
+        <p class="list red">
+            ※終了予定時刻は前後する可能性がございます。
+        </p>
+        <div>
+            上記期間中もゲームをお楽しみいただけますが、期間中にマルチ任務のルームに長時間待機するとエラーが発生する場合がございますので、予めご了承ください。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1241" class="weighty-column">
 
             2024/03/05 14:00            
@@ -448,14 +487,14 @@
             <div class="list">
                 ▶尾長 晶乃の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2344">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2345">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 尾長 晶乃【翼成】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/785?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2344">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2345">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1223,7 +1262,7 @@
             ※追加に伴い、鳳 加純のSPスキル「フェニックスブレイズ」のアイコンを変更しました。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2344">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2345">
         </div>
         <div class="list">
             ▶12/21（木）14:00 のアップデートより、宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない不具合を修正しました。
@@ -1288,13 +1327,13 @@
             ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2344">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2345">
         </div>
         <div class="list">
             ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2344">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2345">
         </div>
         <div class="list">
             ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
@@ -1391,59 +1430,6 @@
     <div>
         このたびは調整内容のご案内が行われておらず、誠に申し訳ございません。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1222" class="weighty-column">
-
-            2024/01/11 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1222" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年01月11日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.75.0アプリより、SPスキル「スイミング・ガール」のダメージ判定が消えている不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「マフラー/スノー」を着用したキャラクターが特定ポーズをとると、マフラーが不自然な見た目になることがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gコスチューム「スタープロムナード」を着用したとき、腹部が違和感のある見た目になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「彗星のファーストタッチ」のエピソード6話に登場する、特定NPCのアイコンが開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
