@@ -33,6 +33,69 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1243" class="weighty-column">
+
+            2024/03/12 19:30                            
+                <span class="red bold">
+                                            (03/12 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              サーバー障害発生についてのご報告            </div>
+
+        </div>
+        <div id="important-text-1243" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年03月12日 19:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        以下の期間にサーバー障害が発生し、サポーター選択画面やヘルプ画面等が正常に表示されない期間がございました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【障害発生期間】</p>
+        <div>
+            3/12（火）16:45頃 から<br>
+            3/12（火）17:09頃 の間
+        </div>
+        <p class="list bold red">
+            ※現在、障害は復旧し、正常にゲームがプレイできることを確認しております。
+        </p>
+        <div>
+            障害発生のお詫びとして以下の補填対応を実施いたしましたので、併せてご報告申し上げます。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                3/12（火）19:30 までに<br>
+                アカウントを作成しているお客様
+            </div>
+            <div>
+                <p class="bold">【補填内容】</p>
+                <div class="paragraph">
+                    スカウトポイント × 40
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    3/26（火） 23:59 まで
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        この度は、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
+    </div>
+</div>        </div>
+        
         <div id="important-column-1242" class="weighty-column">
 
             2024/03/08 15:00                            
@@ -1397,64 +1460,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1223" class="weighty-column">
-
-            2024/01/15 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              特定攻撃で発生する「小さい爆風」の調整について            </div>
-
-        </div>
-        <div id="important-text-1223" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年01月15日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div class="bg_skin">
-        【不具合】宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている
-    </div>
-    <div>
-        上記問題の修正作業中に、2023年5月に配信したVer.1.67.0アプリにて一部爆風の調整を実施していたことが判明したため、改めてご案内いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【調整内容】</p>
-        
-        <div class="list">
-            ▶特定攻撃で発生する「小さい爆風」の攻撃判定を調整し、一部の敵に当たりにくい問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象となる「小さい爆風」の一例】</p>
-            <div>
-                <p class="list">
-                    ・ショットギア「ホワイトブーケ」の<br>
-                    立ち射撃3段目
-                </p>
-                <p class="list">
-                    ・ショットギア「グシスナウタル」の<br>
-                    立ち射撃
-                </p>
-                <p class="list">
-                    ・ショットギア「風魔二曲輪」の<br>
-                    立ち射撃3段目
-                </p>
-            </div>
-        </div>
-        <div class="list red">
-            ※宇佐元 杏奈派生ショットギアの攻撃の爆風は上記の「小さい爆風」に含まれないため、近日配信予定の最新アプリにて修正を予定しております。
-        </div>
-    </div>
-    <div>
-        このたびは調整内容のご案内が行われておらず、誠に申し訳ございません。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
