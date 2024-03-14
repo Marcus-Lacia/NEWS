@@ -33,6 +33,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1244" class="weighty-column">
+
+            2024/03/14 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1244" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年03月14日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶各種リコサアラゴギが特定状況でダウンすると、ダウン状態に移行する前に、回避困難な攻撃を行うことがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種リコサアラゴギが、開発意図と異なるタイミングでチャージ攻撃を行うことがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※本修正に伴い、リコサアラゴギ属性特異型がバリア展開後にチャージを行うことがある問題も修正しております。
+        </p>
+        <div class="list">
+            ▶各種リコサアラゴギが宙吊り状態の時、特定タイミングで近接攻撃を当てると、振り子状に揺れずに開発意図と異なる行動をとることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1243" class="weighty-column">
 
             2024/03/12 19:30                            
@@ -1370,94 +1427,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1224" class="weighty-column">
-
-            2024/01/19 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.76.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1224" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年01月19日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.76.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.76.0の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶ギア所持数を100枠拡張しました。
-        </div>
-        <p class="list red">
-            ※カラットで購入できる拡張枠とは別に、全てのお客様の所持数が100枠拡張されます。
-        </p>
-        <div class="list">
-            ▶ギア進化画面から一括進化が行えるよう、ギア進化機能をリニューアルしました。
-        </div>
-        <div class="list">
-            ▶シェル解析結果画面に、ギアの一括ロック/ロック解除が行えるボタンを追加しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_01.jpg?v=2351">
-        </div>
-        <div class="list">
-            ▶シェル解析予約の準備画面に、選択中のシェルの合計充電時間を表示しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240119/info_02.jpg?v=2351">
-        </div>
-        <div class="list">
-            ▶おでかけモード内ゲームセンターの施設アイコンに、開催終了までの残り日数が表示されるよう調整しました。
-        </div>
-        <div class="list">
-            ▶宇佐元 杏奈派生ショットギアの攻撃の爆風が、動いている敵に対して開発意図よりも当たりにくい状態になっている問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/アレクサンドラプラス<br>
-                ・★4/アレクサンドラ・ローダ
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「年末中野ジャンボドリーム キャリーオーバー チョリ～クリスマッス♪」のイベントトップ画面で特定操作を行うと、次の報酬獲得までに必要なポイントが正しく表示されないことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.75.2アプリより、ファクターエリア未解放キャラのエニグマを特定状況で開くと、セルが解放されていないにも関わらず、解放演出が再生されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶粒咲 あんこ及び楠 明日葉の、ボイスアーカイブの一部ボイスの誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.76.0の配信に伴い、<span class="bold red">1/22（月）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
