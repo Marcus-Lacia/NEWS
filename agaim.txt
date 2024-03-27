@@ -35,7 +35,10 @@
         
         <div id="important-column-1245" class="weighty-column">
 
-            2024/03/27 14:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/03/27 14:45                            
+                <span class="red bold">
+                                            (03/27 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -55,6 +58,35 @@
     <hr>
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.78.0の更新内容】</p>
+        
+        <p class="list red">
+            ※3/27（水）15:45 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶下記アクトレスのホーム小物を追加しました。
+        </div>
+        <p class="list red">
+            ※3/28（木）14:00 実施を予定しておりましたが、配信システムの都合上、アプリアップデートでの反映とさせていただきました。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・シャーリー・O<br>
+                ・ニーナ・K<br>
+                ・籠目 深沙希<br>
+                ・東雲 チヱ<br>
+                ・宮南 ひかり<br>
+                ・我龍 絵美<br>
+                ・天狐 天
+            </div>
+        </div>
+        <div class="list">
+            ▶メインストーリー「黎明編1章」の「討伐任務:1件目」に、バディリンクに関するバトルチュートリアルを追加しました。
+        </div>
+        
+        
+        <hr class="red">
         
         <div class="list">
             ▶新バトルシステム「バディリンク」を実装しました。
