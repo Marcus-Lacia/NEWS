@@ -33,6 +33,151 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1245" class="weighty-column">
+
+            2024/03/27 14:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.78.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1245" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年03月27日 14:45<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.78.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.78.0の更新内容】</p>
+        
+        <div class="list">
+            ▶新バトルシステム「バディリンク」を実装しました。
+        </div>
+        <p class="list red">
+            ※機能の詳細は、バディリンクのお知らせをご確認ください。
+        </p>
+        <div class="center">
+            <a href="/news/show/id/801?returnUrl=back">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/bnr_s00_upd_603_27.jpg?v=2378">
+            </a>
+            <p class="center red">
+                ※タップするとバディリンクのお知らせが開きます
+            </p>
+        </div>
+        <div class="list">
+            ▶任務中のカメラモードに、新機能「カラープリセット」と「カスタムプリセット」を追加しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/info_01.jpg?v=2378">
+        </div>
+        <div class="list">
+            ▶下記アクトレスの★3コスチュームの3Dモデルをリファインしました。
+        </div>
+        <p class="list red">
+            ※3/28（木）14:00 実施を予定しておりましたが、配信システムの都合上、アプリアップデートでの反映とさせていただきました。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・比良坂 夜露<br>
+                ・兼志谷 シタラ<br>
+                ・百科 文嘉<br>
+                ・吾妻 楓<br>
+                ・日向 リン<br>
+                ・小鳥遊 怜<br>
+                ・藤野 やよい<br>
+                ・下落合 桃歌<br>
+                ・萬場 盟華<br>
+                ・山野 薫子
+            </div>
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面にランダムで表示される履歴書に、下記アクトレスを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・蛙坂 来弥<br>
+                ・君影 唯<br>
+                ・萬場 盟華
+            </div>
+        </div>
+        <div class="list">
+            ▶ステラー実装に伴い、下記アクトレスのエニグマにセルを追加しました。
+        </div>
+        <p class="list red">
+            ※追加セルは3/28（木）15:00 より解放されます。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・小鳥遊 怜<br>
+                ・紺堂 地衛理
+            </div>
+        </div>
+        <div class="list">
+            ▶ギア整備室に表示されるギアの装備者情報に、アナザー及びファクターの二つ名が表示されるよう仕様を変更しました。
+        </div>
+        <div class="list">
+            ▶駒添 絵伝がコスチューム「ミモザ」着用中に特定ポーズをとると、スカートの一部が違和感のある見た目になることがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶ノエル・Fのアクセサリー「バースデーメガネ」と「小型加湿器」をあわせて着用した際に、メガネが曇らない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.77.0アプリより、スナイパー系ショットギアのレーザーサイトのエフェクトが、開発意図よりも長い時間表示されてしまう問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶セルケトのチャージ攻撃の阻止とテイル破壊を同時に行うと、セルケトがダウン状態になるにも関わらず、阻止したチャージ攻撃が発動してしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ドレッサー画面で特定操作を行うと、下記コスチューム及びアクセサリーの固有モーションが正しく再生されないことがある問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象】</p>
+            <div>
+                ・コスチューム「アニバドレスI」<br>
+                ・アクセサリー「アスペクトリング」各種
+            </div>
+        </div>
+        <div class="list">
+            ▶メインストーリー「躍進編3章」の「討伐任務:2件目」にて、勝利条件の「敵を全滅」を達成しなくても進行できてしまうことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.77.1アプリより、「オプション」&gt;「ウィンドウ関連」の報酬獲得簡易表示がONの状態で信頼度称号を獲得すると、エラーが発生する不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶「実験的機能」の「バトル中のギアスキルの先行入力」の挙動を調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.78.0の配信に伴い、<span class="bold red">3/28（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1244" class="weighty-column">
 
             2024/03/14 14:00            
@@ -327,7 +472,11 @@
         
         <div id="important-column-1239" class="weighty-column">
 
-            2024/02/27 16:55            
+            2024/02/27 16:55                            
+                <span class="bold">
+                                            (03/27 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.77.1アプリより、特定状況で信頼度称号を獲得するとエラーが発生する            </div>
@@ -336,6 +485,17 @@
         <div id="important-text-1239" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年03月27日 14:45 追記<br>
+        本件につきまして、順次配信されましたVer1.78.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年02月27日 16:55<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -631,14 +791,14 @@
             <div class="list">
                 ▶尾長 晶乃の専用クロスギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2376">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240209/bnr_l00_inf_602_09.jpg?v=2378">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 尾長 晶乃【翼成】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/785?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2376">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_062_70/bnr_header.jpg?v=2378">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
         </div>
@@ -1321,113 +1481,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1225" class="weighty-column">
-
-            2024/01/22 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1225" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年01月22日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記キャラクターの3Dモデルをブラッシュアップしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・吾妻 京<br>
-                ・アンジェリカ・G
-            </div>
-        </div>
-        <div class="list">
-            ▶ヘルプ＞誕生日リストにファクター「比良坂 夜露」がお祝いするキャラクターを追記しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・6/15	：吾妻 京
-            </div>
-        </div>
-        <div class="list">
-            ▶ヘルプ＞誕生日リストにファクター「吾妻 楓」がお祝いするキャラクターを追記しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・6/15	：吾妻 京
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターのボイスアーカイブにお祝いボイスを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・比良坂 夜露<br>
-                ・吾妻 楓
-            </div>
-        </div>
-        <div class="list">
-            ▶ミニゲーム「きょうのラッキーアクトレス」に下記キャラクターを追加しました。
-        </div>
-        <p class="list red">
-            ※1/22（月）15:00 よりランダムで出現するようになります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・吾妻 京<br>
-                ・アンジェリカ・G
-            </div>
-        </div>
-        <div class="list">
-            ▶SPスキルの効果分類アイコンに、新たに「ボタンの短押し/長押しで効果が変わるSPスキル」を表すアイコンを追加しました。
-        </div>
-        <p class="list red">
-            ※追加に伴い、鳳 加純のSPスキル「フェニックスブレイズ」のアイコンを変更しました。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240122/bnr_s00_inf_601_22.jpg?v=2376">
-        </div>
-        <div class="list">
-            ▶12/21（木）14:00 のアップデートより、宇佐元 杏奈がコスチューム「ユニバーサルウィスパ」着用中、ドレッサー画面での固有モーションが正常に再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ノエル・Fがコスチューム「赤の広場制服」着用中、首の見た目に違和感がある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
