@@ -33,6 +33,81 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1246" class="weighty-column">
+
+            2024/03/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1246" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年03月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶アクトレスのファン数が一定まで増えた時に、報酬として専用信頼度アイテムが手に入る機能を追加しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240328/bnr_m00_upd_603_28.jpg?v=2381">
+        </div>
+        <p class="list">
+            ※専用信頼度アイテムは任務終了後に入手できます。
+        </p>
+        <p class="list">
+            ※下記アクトレスのアイテムアイコンは、後日アップデート予定です。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・ニーナ・K<br>
+                ・王 紅花<br>
+                ・在賀 奈々<br>
+                ・天狐 天
+            </div>
+        </div>
+        <div class="list">
+            ▶ユニゾンシステム実装に伴い、全アクトレスに汎用的な性能の「ユニゾンSP」を追加しました。
+        </div>
+        <p class="list">
+            ※専用信頼度アイテムは任務終了後に入手できます。
+        </p>
+        <p class="list">
+            ※本SPは3/28（木）15:00以降、ゲーム起動時に自動的に付与されます。
+        </p>
+        <div class="list">
+            ▶ドレッサー画面の称号一覧にて、一部キャラクターの信頼度/ファン数称号が2重に表示される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1245" class="weighty-column">
 
             2024/03/27 14:45                            
@@ -1442,73 +1517,6 @@
     </div>
     <div>
         本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1226" class="weighty-column">
-
-            2024/01/22 16:55                            
-                <span class="bold">
-                                            (01/23 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              吾妻 京専用ショットギアの最大射程が、開発意図と異なる距離になっている            </div>
-
-        </div>
-        <div id="important-text-1226" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年01月23日 14:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年01月22日 16:55<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶吾妻 京専用ショットギアの最大射程が、開発意図と異なる距離になっている。
-        </div>
-        <p class="list red">
-            ※最大射程は35mが開発意図通りの距離になります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/スペリンAKs<br>
-                ・★3/スペリンAKsMk2<br>
-                ・★3/スペリンAKsMk3<br>
-                ・★4/夜這星<br>
-                ・★4/夜這星改<br>
-                ・★4/アマツキツネ
-            </div>
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
     </div>
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
