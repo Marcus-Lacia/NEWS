@@ -35,8 +35,7 @@
         
         <div id="important-column-1250" class="weighty-column">
 
-            2024/03/29 23:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/03/29 23:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ファン数達成報酬の専用信頼度アイテムが、出撃チーム固定の任務をクリアした時に獲得できてしまうことがある            </div>
@@ -79,8 +78,7 @@
         
         <div id="important-column-1249" class="weighty-column">
 
-            2024/03/29 23:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/03/29 23:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               吾妻 楓のパッシブスキル「ラストガール」がバディリンクした際に発動してしまう            </div>
@@ -121,8 +119,7 @@
         
         <div id="important-column-1248" class="weighty-column">
 
-            2024/03/29 23:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/03/29 23:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               調査任務にてバディリンクで呼び出したキャラクターが被弾した際に、完全回避状態が維持されることがある            </div>
