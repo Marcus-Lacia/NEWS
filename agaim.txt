@@ -33,6 +33,103 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1252" class="weighty-column">
+
+            2024/04/01 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              指揮官モードの作戦完了演出時にボイスが正しく再生されないことがある            </div>
+
+        </div>
+        <div id="important-text-1252" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年04月01日 19:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶指揮官モードの作戦完了演出時のキャラクターボイスが正しく再生されないことがある。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1251" class="weighty-column">
+
+            2024/04/01 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              バディリンク機能に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1251" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年04月01日 19:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、バディリンク機能に以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ①ユニゾンによってバディが特定SPスキルを発動すると、攻撃によるダメージやエフェクトが正しく発生しない。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・メルクリウス<br>
+                ・ブリーズギフト<br>
+                ・オービタルセントリーE<br>
+                ・オービタルセントリーF<br>
+                ・セントリータレットE<br>
+                ・セントリータレットH<br>
+                ・ターレットキャノンH<br>
+                ・リカバリータレットE
+            </div>
+        </div>
+        <div class="list">
+            ②バディリンク中に操作キャラ単体でSPスキルを発動した際、演出中もリンクタイムゲージが減少してしまう。
+        </div>
+        <p class="list red">
+            ※SPスキル演出中はリンクタイムゲージが減少しないのが、仕様となります。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1250" class="weighty-column">
 
             2024/03/29 23:05            
@@ -1236,230 +1333,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1232" class="weighty-column">
-
-            2024/02/01 14:00                            
-                <span class="bold">
-                                            (02/01 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1232" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年02月01日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶一部コラボキャラクターのエニグマにて、セル解放時のクオリアの消費量やマスターエレメントの獲得量が開発意図よりも少ない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※「変換セル」のマスターエレメント変換は正しく行われていたことを確認しております。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・天野 望<br>
-                ・芹沢 蓮華
-            </div>
-        </div>
-        <div>
-            本修正によってセル解放時のマスターエレメントの獲得量が増加することに伴い、「修正前までに対象キャラクターのエニグマのセルを解放したことがあるお客様」を対象に、マスターエレメントの本来の獲得量との差分を、後日補填させていただきます。
-        </div>
-        <div class="bg_skin">
-            2/1（木）15:40 追記<br>
-            対象となるお客様へ、マスターエレメントの補填を実施しました。<br>
-            補填内容は、アプリを再起動していただくことで正しく適用されるようになります。
-            <p class="list red">
-                ※マスターエレメントはキャラクターに直接付与されるため、マスターレベルの上昇や、それに伴うスキルスロットの解放が行われる場合があります。
-            </p>
-        </div>
-        <div class="list">
-            ▶下記ショットギアのクリティカルヒット時のエフェクトを調整し、眩しさを緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/スペリンAKs<br>
-                ・★3/スペリンAKsMk2<br>
-                ・★3/スペリンAKsMk3<br>
-                ・★4/夜這星<br>
-                ・★4/夜這星改<br>
-                ・★4/アマツキツネ
-            </div>
-        </div>
-        <div class="list">
-            ▶3D MODEL画面にて、下記キャラクターのコスチューム「ゾディアックバニー」の襟周りが僅かに歪んでいる問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・バージニア・G<br>
-                ・ファティマ・B<br>
-                ・新谷 芹菜<br>
-                ・蛙坂 来弥<br>
-                ・仁紀藤 奏<br>
-                ・萬場 盟華<br>
-                ・ミア・V<br>
-                ・米良渕 花浪<br>
-                ・尾長 晶乃<br>
-                ・新居目 安里<br>
-                ・的場 アオイ<br>
-                ・波佐見 利佳<br>
-                ・常磐 くるみ<br>
-                ・粒咲 あんこ<br>
-                ・国枝 詩穂<br>
-                ・イブリ―・ハッド
-            </div>
-        </div>
-        <div class="list">
-            ▶兼志谷 シタラがコスチューム「クードゥナー」を着用中、ホーム画面で特定リアクションをとった時に脚が衣装から大きく突き出ることがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶尾長 晶乃が下記コスチュームを着用している時の特定リアクションを調整し、ホーム画面にて脚が衣装から大きく突き出ることがある問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象コスチューム】</p>
-            <div>
-                ・スタープロムナード<br>
-                ・BDナース/A<br>
-                ・オフィスペンシル/I<br>
-                ・アニバドレスW<br>
-                ・アニバジャケット<br>
-                ・アニバドレスI
-            </div>
-        </div>
-        <div class="list">
-            ▶ノエル・Fのアクセサリー「バースデーメガネ」の着用位置を微調整しました。
-        </div>
-        <div class="list">
-            ▶一部キャラクターがアクセサリー「イノセントティアラ」を着用すると、眉毛が髪に埋もれてしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶吾妻 京のアクセサリー「アニバーサリーリング」の説明文の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶アンジェリカ・GのキャラエピソードEp.3-3の、一部台詞の脱字を修正しました。
-        </div>
-        <div class="list">
-            ▶「復刻イベントコスチューム&amp;アクセサリー交換所」の、一部キャラクターのプロフィールの誤字を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                <span class="bold">比良坂 夜露</span><br>
-                誤：【年 齢】15際<br>
-                正：【年 齢】15歳
-            </div>
-            <div>
-                <span class="bold">宇佐元 杏奈</span><br>
-                誤：【よ み】うさもと あいな<br>
-                正：【よ み】うさもと あんな
-            </div>
-        </div>
-        <div class="list">
-            ▶イベント「盗賊所縁千金桜」のエピソード2話に登場する鳳 加純のコスチュームが、開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶1/22（月）15:00 より切り替わったホーム画面の、奥にいるキャラクターの立ち位置を微調整しました。
-        </div>
-        <div class="list">
-            ▶各スカウトの「キャラクター提供割合」ページに、以下の文章を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                実際の出現率については、小数点第5位以下での四捨五入、切上げ、切捨て等は行っておりません。
-            </div>
-        </div>
-        <p class="list red">
-            ※提供内容や出現率に変更はありません。
-        </p>
-        <p class="list red">
-            ※プレミアムセレクトスカウトなど、提供割合が特殊なスカウトは対象外となります。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1231" class="weighty-column">
-
-            2024/01/30 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1231" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年01月30日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        イベント「特殊宙域作戦 Op.ストレリチア」の復刻にあわせて、一部バトルへクスに発生していた各種不具合の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【修正内容】</p>
-        
-        <div class="list">
-            ▶特定バトルへクスに、「変種」ではない大型ヴァイスが出現する不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※特殊宙域作戦に出現する大型ヴァイスは、全て「変種」となるのが開発意図となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象大型ヴァイス】</p>
-            <div>
-                <p class="list">
-                    ・バトルへクス「Slight Vibration」のセルケト特異型
-                </p>
-                <p class="list">
-                    ・バトルへクス「Rumination in the Brain」のグラヴィタートル
-                </p>
-            </div>
-        </div>
-        <div class="list">
-        	▶バトルへクス「高速破砕作戦：丙」に出現するエルフラが無属性になっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※対象のエルフラは「冷撃属性」となるのが開発意図となります。
-        </p>
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
