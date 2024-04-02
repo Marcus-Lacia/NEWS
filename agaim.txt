@@ -93,8 +93,7 @@
         
         <div id="important-column-1252" class="weighty-column">
 
-            2024/04/01 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/01 19:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               指揮官モードの作戦完了演出時にボイスが正しく再生されないことがある            </div>
@@ -132,8 +131,7 @@
         
         <div id="important-column-1251" class="weighty-column">
 
-            2024/04/01 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/01 19:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               バディリンク機能に発生している不具合について            </div>
