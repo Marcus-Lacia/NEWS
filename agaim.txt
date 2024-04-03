@@ -33,6 +33,53 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1253" class="weighty-column">
+
+            2024/04/03 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.78.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1253" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年04月03日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.78.1のアプリにて、以下の調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.78.1の更新内容】</p>
+        
+        <div class="list">
+            ▶メインストーリー「侵蝕編」の特定任務の強制移動モードで、障害物に衝突した際に移動速度が低下しない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・4章 討伐任務：1件目<br>
+                ・7章 討伐任務：17件目
+            </div>
+        </div>
+        <div class="list">
+        	▶その他、軽微な各種調整を行いました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.78.1の配信に伴い、<span class="bold red">4/4（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1250" class="weighty-column">
 
             2024/03/29 23:05                            
@@ -1270,82 +1317,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1233" class="weighty-column">
-
-            2024/02/05 11:00                            
-                <span class="bold">
-                                            (02/05 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定操作後にシェル解析予約を中止すると、解析機の充電時間が正しく反映されないことがある            </div>
-
-        </div>
-        <div id="important-text-1233" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年2月5日 15:40 追記<br>
-        本件につきまして、修正が完了いたしましたのでご報告申し上げます。
-    </div>
-    <div>
-        また、不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                <s>2/5（月）15:40 までに<br>
-                アカウントを作成しているお客様</s><br>
-                全てのお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                解析でんち × 200
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                2/19（月）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年02月05日 11:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶特定操作後にシェル解析予約を中止すると、解析機の充電時間が正しく反映されないことがある。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
