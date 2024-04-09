@@ -35,8 +35,7 @@
         
         <div id="important-column-1255" class="weighty-column">
 
-            2024/04/08 18:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/08 18:35            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               SPゲージ上限値が101%以上のキャラクターがユニゾンを発動すると、消費されるSPゲージ量が、本来の消費量と異なる数値になる            </div>
