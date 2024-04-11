@@ -33,10 +33,117 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1257" class="weighty-column">
+
+            2024/04/11 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1257" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年04月11日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶高幡 のどかにユニゾン対応SPスキル「アクセルキャノンE/U」を追加しました。
+        </div>
+        <p class="list">
+            ※追加されたSPスキルは、スキル詳細画面からSPスキルを付け替えることで使用可能となります。
+        </p>
+        <div class="list">
+            ▶高幡 のどかのエニグマにセルを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                ・共通エリア<br>
+                パッシブスキルセルを追加。<br>
+                <br>
+                ・ノーマルエリア<br>
+                ・アナザーエリア<br>
+                スキルスロット拡張セルを追加。
+            </div>
+        </div>
+        <div class="list">
+            ▶バージニア・Gがエニグマで修得可能なパッシブスキル「角兎の目覚め1」の効果対象に、「専用拳銃・ヴォルパーティンガー系列」を追加しました。
+        </div>
+        <div class="list">
+            ▶バージニア・Gがエニグマで修得可能なパッシブスキル「レイシュートUP1」のスキル説明文に記載されているSPゲージのチャージ量が、実際の効果よりも低く記載されている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜誤＞</p>
+            <div>
+                ボトムスアクティブスキル「クロスレイシュートX」の使用回数を1回増やし、戦闘開始時にSPを15%チャージする<br>
+                この効果は出撃毎で1回しか発動しない
+            </div>
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜正＞</p>
+            <div>
+                ボトムスアクティブスキル「クロスレイシュートX」の使用回数を1回増やし、戦闘開始時にSPを<span class="red">20%チャージ</span>する<br>
+                この効果は出撃毎で1回しか発動しない
+            </div>
+        </div>
+        <div class="list">
+            ▶一部ギアスキルの「同フィールド内のアクトレスの状態異常を治療する効果」が、正常に発動していない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギアスキル】</p>
+            <div>
+                ・オールガンズブレイズ<br>
+                気絶の治療効果が正常に発動していない不具合を修正。<br>
+                <br>
+                ・アトレグラヴィテ<br>
+                ・デフィレグラヴィテ<br>
+                ・デトックスバースト<br>
+                麻痺の治療効果が正常に発動していない不具合を修正。
+            </div>
+        </div>
+        <div class="list">
+            ▶紺堂 地衛理が特定ギアを装備していると、3D MODEL画面で開発意図と異なるポーズをとってしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶米良渕 花浪がコスチューム「マロン」を着用した時の、一部の肌の陰影表現を微調整しました。
+        </div>
+        <div class="list">
+            ▶ニコル・Fがコスチューム「ユヌ・ロブ・クルツ」を着用した時の、一部の肌の陰影表現を微調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1256" class="weighty-column">
 
-            2024/04/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/10 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.78.2 配信のお知らせ            </div>
@@ -606,7 +713,7 @@
             ▶アクトレスのファン数が一定まで増えた時に、報酬として専用信頼度アイテムが手に入る機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240328/bnr_m00_upd_603_28.jpg?v=2425">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240328/bnr_m00_upd_603_28.jpg?v=2426">
         </div>
         <p class="list">
             ※専用信頼度アイテムは任務終了後に入手できます。
@@ -721,7 +828,7 @@
         </p>
         <div class="center">
             <a href="/news/show/id/801?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/bnr_s00_upd_603_27.jpg?v=2425">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/bnr_s00_upd_603_27.jpg?v=2426">
             </a>
             <p class="center red">
                 ※タップするとバディリンクのお知らせが開きます
@@ -731,7 +838,7 @@
             ▶任務中のカメラモードに、新機能「カラープリセット」と「カスタムプリセット」を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/info_01.jpg?v=2425">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/info_01.jpg?v=2426">
         </div>
         <div class="list">
             ▶下記アクトレスの★3コスチュームの3Dモデルをリファインしました。
@@ -1229,154 +1336,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1237" class="weighty-column">
-
-            2024/02/26 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.77.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1237" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年02月26日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.77.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.77.1の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶ドレッサー画面のBGM変更機能を実装しました。
-        </div>
-        <p class="list red">
-            ※BGM変更に必要な「ミュージックディスク」は、今後のアップデートで追加予定です。
-        </p>
-        <div class="list">
-            ▶ドレッサー画面背景の3Dモデルをブラッシュアップしました。
-        </div>
-        <div class="list">
-            ▶「オプション」&gt;「サウンド変更」に、BGM、SE、ボイスの音量設定を維持しながら全体の音量を調節できる機能を追加しました。
-        </div>
-        <div class="list">
-            ▶吾妻 京専用トップスギアのスキル名称表記を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                変更前：八ソウ飛<br>
-                変更後：八艘飛
-            </div>
-        </div>
-        <div class="list">
-            ▶尾長 晶乃がコスチューム「ポリウコス」着用時、一部の陰影表現を微調整しました。
-        </div>
-        <div class="list">
-            ▶依城 えりがコスチューム「ヒグマ」とアクセサリー「なりきりドラゴン」をあわせて着用すると、開発意図と異なるポーズをとる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶敵がロックオン不可能な状態になった瞬間に、下記ショットギアの「一定距離でクリティカルヒットする射撃」を当てると、エラーが発生することがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/スペリンAKs<br>
-                ・★3/スペリンAKsMk2<br>
-                ・★3/スペリンAKsMk3<br>
-                ・★4/夜這星<br>
-                ・★4/夜這星改<br>
-                ・★4/アマツキツネ<br>
-                ・★4/オニエ・玄<br>
-                ・★4/オニヤライ・玄
-            </div>
-        </div>
-        <div class="list">
-            ▶新居目 安里のSPスキル「アムピトリーテー」のフィニッシュブローが、距離が離れた敵に対して当たりにくいことがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶指揮官モードにて、下記SPスキルを装着したキャラクターが出撃している時に、特定状況で画面の一部が不自然に点滅することがある不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・フェニックスブレイズ<br>
-                ・ホーラー・トリオン
-            </div>
-        </div>
-        <div class="list">
-            ▶ストリック各種の特定攻撃による「ヒットしたキャラクターを焦熱状態にする」効果が、「スキル効果で被ダメージを100%軽減する状態」のキャラクターにヒットした際、焦熱状態にならないよう調整しました。
-        </div>
-        <div class="list">
-            ▶セルケト各種との戦闘開始直後に尻尾を破壊すると、部位破壊によるダウンが発生しないことがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶エニグマにて、マスターレベルが999に近い状態で「変換セル」で特定操作を行うと、表示数以上のクオリアを消費してしまうことがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            <s>※本不具合が発生していたお客様を対象に、余分に消費していた分のクオリアを、後日補填させていただきます。</s>
-        </p>
-        <p class="list red">
-            ※2/27（火）14:40 追記<br>
-            対象となるお客様への補填として、余分に消費していた分のクオリアを受取箱へ配布いたしました。
-        </p>
-        <div class="list">
-            ▶2/8（木）15:00 より、ギア交換所のリタ・Hと米良渕 花浪のギアが、開発意図と異なる並び順になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶アンジェリカ・Gの絆エピソードEp.2、Ep.5のタイトル表記を調整しました。
-        </div>
-        <div class="list">
-            ▶アンジェリカ・Gの絆エピソードEp.1の、特定NPCの台詞の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶アンジェリカ・Gの絆エピソードEp.5の特定シーンに表示される麻雀牌の絵柄が、開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶琴村 朱音のボイスアーカイブにて、「シナリオ/基本」カテゴリーの一部ボイスが正しく再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イノセントホールのキャラ選択画面にて、着用中のアクセサリーのアイコンを長押しすると、詳細ウィンドウが開発意図と異なる位置に表示される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶イノセントホールのキャラ選択画面で特定操作を行うと、コスチューム選択画面が2重に表示されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ドレッサー画面で特定操作を行うと、キャラクター選択やコスチューム選択画面が2重に表示され、エラーが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶シェル解析結果画面で特定操作後に解析したギアを売却すると、エラーが発生することがある不具合を修正しました。
-        </div>
-        <div class="list show_only_Android">
-            ▶特定のAndroid端末にて、アプリ起動時にアプリが強制終了することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.77.1の配信に伴い、<span class="bold red">2/27（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
