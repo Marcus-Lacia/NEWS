@@ -33,6 +33,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1259" class="weighty-column">
+
+            2024/04/12 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              パッシブスキル「ツインフレイム」に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1259" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年04月12日 14:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、エニグマのステラーエリアで修得可能なパッシブスキル「ツインフレイム」に、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶パッシブスキル「ツインフレイム」の効果でバディリンク中の被ダメージ耐久力が30%上昇している状態で、上乗せされた耐久力以上のダメージを受けても、バディリンク状態が続いてしまう。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1258" class="weighty-column">
 
             2024/04/11 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1298,65 +1337,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1239" class="weighty-column">
-
-            2024/02/27 16:55                            
-                <span class="bold">
-                                            (03/27 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.77.1アプリより、特定状況で信頼度称号を獲得するとエラーが発生する            </div>
-
-        </div>
-        <div id="important-text-1239" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年03月27日 14:45 追記<br>
-        本件につきまして、順次配信されましたVer1.78.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年02月27日 16:55<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.77.1アプリより、「オプション」&gt;「ウィンドウ関連」の報酬獲得簡易表示がONの状態で信頼度称号を獲得すると、エラーが発生する。
-        </div>
-        <p class="list red">
-            ※報酬獲得簡易表示がOFFの状態では、エラーが発生しないことを確認しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/60</div>
+                    <div class="page-box box-radius">1/61</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
