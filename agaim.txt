@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1260" class="weighty-column">
+
+            2024/04/12 22:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              従来の属性と異なる状態で特定スキルを発動すると、射程が短くなる            </div>
+
+        </div>
+        <div id="important-text-1260" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年04月12日 22:45<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ①バージニア【チャリオット】がSPスキル「プロミネンスブラスト」を発動すると、フィニッシュムーブの射程が本来の開発意図よりも短くなる。
+        </div>
+        <div class="list">
+            ②小鳥遊 怜の★3トップスギアを焼夷属性に属性変換すると、ギアスキル「アイシクルショット」の射程が本来の開発意図よりも短くなる。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1259" class="weighty-column">
 
             2024/04/12 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1278,59 +1320,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1240" class="weighty-column">
-
-            2024/02/27 20:50                            
-                <span class="bold">
-                                            (03/05 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.77.1アプリより、各種セルケト属性特異型が特定行動後にエリア中央へ瞬間移動することがある            </div>
-
-        </div>
-        <div id="important-text-1240" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年03月05日 15:20 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年02月27日 20:50<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.77.1アプリより、各種セルケト属性特異型が特定行動後にエリア中央へ瞬間移動することがある。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
