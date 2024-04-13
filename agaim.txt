@@ -35,8 +35,7 @@
         
         <div id="important-column-1260" class="weighty-column">
 
-            2024/04/12 22:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/12 22:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               従来の属性と異なる状態で特定スキルを発動すると、射程が短くなる            </div>
