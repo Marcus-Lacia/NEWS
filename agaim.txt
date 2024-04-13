@@ -77,8 +77,7 @@
         
         <div id="important-column-1259" class="weighty-column">
 
-            2024/04/12 14:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/12 14:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               パッシブスキル「ツインフレイム」に発生している不具合について            </div>
