@@ -33,6 +33,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1261" class="weighty-column">
+
+            2024/04/14 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ギフトークン交換所の「EXイベTシェル」交換数設定に誤りがある            </div>
+
+        </div>
+        <div id="important-text-1261" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年04月14日 20:40<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            4/14にギフトークン交換所に追加された「EXイベTシェル」の交換数設定に誤りがある。
+        </div>
+    </div>
+    <div>
+        ※対象シェルの交換数は「5」が正しい設定となります。<br>
+        ※同タイミングで追加されたイベント称号につきましては、正しい設定となります。
+    </div>
+    <div>
+        既に対象シェルを交換されたお客様につきましては、後日、差分のギフトークンを返却させていただきます。
+    </div>
+    <div>
+        ご不便をおかけし、誠に申し訳ありませんが、対応完了まで今しばらくお待ちください。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1260" class="weighty-column">
 
             2024/04/12 22:45            
@@ -1260,62 +1303,6 @@
         <div>
             上記期間中もゲームをお楽しみいただけますが、期間中にマルチ任務のルームに長時間待機するとエラーが発生する場合がございますので、予めご了承ください。
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1241" class="weighty-column">
-
-            2024/03/05 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1241" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年03月05日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ニコル・Fの、頭や耳用の一部アクセサリーのフィット感を微調整しました。
-        </div>
-        <div class="list">
-            ▶ニコル・F専用★4ボトムスギアの右膝の一部パーツの配色が、開発意図と異なっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶ニコル・Fがコスチューム「FELIN-A4S2」着用中に特定ポーズをとると、コスチュームの一部が不自然に変形することがある問題を修正しました。
-        </div>
-        <div class="list show_only_Android">
-            ▶特定端末にて、尾長 晶乃のコスチューム「ポリウコス」が開発意図と異なる質感になることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.77.1アプリより、各種セルケト属性特異型が特定行動後にエリア中央へ瞬間移動することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
