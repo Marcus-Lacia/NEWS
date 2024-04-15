@@ -35,8 +35,7 @@
         
         <div id="important-column-1261" class="weighty-column">
 
-            2024/04/14 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/14 20:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ギフトークン交換所の「EXイベTシェル」交換数設定に誤りがある            </div>
