@@ -33,6 +33,70 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1262" class="weighty-column">
+
+            2024/04/16 14:00                            
+                <span class="red bold">
+                                            (04/16 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1262" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年04月16日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶4/14（日）にギフトークン交換所に追加された「EXイベTシェル」の、交換数設定の誤りを修正しました。
+        </div>
+        <p class="list red">
+        	※シェル1個につき「ギフトークン×5」が、開発意図通りの交換数となります。
+        </p>
+    </div>
+    <div>
+        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                4/16（火）14:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                4/30（火）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1261" class="weighty-column">
 
             2024/04/14 20:40            
@@ -1242,70 +1306,6 @@
     
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。<br>
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1242" class="weighty-column">
-
-            2024/03/08 15:00                            
-                <span class="bold">
-                                            (03/11 実施済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              ネットワーク機器の更新作業について            </div>
-
-        </div>
-        <div id="important-text-1242" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年03月11日 15:00 追記<br>
-        ネットワーク機器の更新作業が完了しましたので、ご報告いたします。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願い申し上げます。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年03月11日 13:10 追記<br>
-        ネットワーク機器の更新作業につきまして、終了予定時刻を<span class="red">3/11（月）15:00 頃</span>に延長させていただきます。
-    </div>
-    <div>
-        作業が完了し次第改めてご案内いたしますので、今しばらくお時間をいただけますと幸いです。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年03月08日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        近日、ネットワーク機器の更新作業を予定しておりますのでご案内いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【実施期間】</p>
-        
-        <div class="list">
-            ・3/11（月）11:00 ～ <s>13:00</s> 15:00 頃まで
-        </div>
-        <p class="list red">
-            ※終了予定時刻は前後する可能性がございます。
-        </p>
-        <div>
-            上記期間中もゲームをお楽しみいただけますが、期間中にマルチ任務のルームに長時間待機するとエラーが発生する場合がございますので、予めご了承ください。
-        </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
         
