@@ -138,7 +138,7 @@
         <div id="important-column-1262" class="weighty-column">
 
             2024/04/16 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (04/16 補填済)
                                     </span>
             
