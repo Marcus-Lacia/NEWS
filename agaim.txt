@@ -35,8 +35,7 @@
         
         <div id="important-column-1263" class="weighty-column">
 
-            2024/04/16 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/16 15:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               SPスキル「メタトロニオス」を装着した村尾 未羅とユニゾンを発動すると、操作キャラが近接攻撃を行った際に、村尾 未羅が一定時間動かなくなってしまう            </div>
