@@ -343,7 +343,11 @@
         
         <div id="important-column-1257" class="weighty-column">
 
-            2024/04/11 14:00            
+            2024/04/11 14:00                            
+                <span class="bold">
+                                            (04/19 更新)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               本日のデータ更新内容について            </div>
@@ -362,6 +366,24 @@
     <hr>
     <div class="bg_white news-box">
         <p class="bold">【データ更新内容】</p>
+        
+        <p class="list red">
+            ※4/19（金）22:00 追記<br>
+            以下の更新内容について記述が抜けていたため追記いたしました。
+        </p>
+        <div class="list">
+            ▶下記アクトレスの専用信頼度アイテムのアイコンをアップデートしました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・在賀 奈々<br>
+                ・天狐 天
+            </div>
+        </div>
+        
+        
+        <hr class="red">
         
         <div class="list">
             ▶高幡 のどかにユニゾン対応SPスキル「アクセルキャノンE/U」を追加しました。
