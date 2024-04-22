@@ -451,7 +451,7 @@
             <p class="list red">
                 ※特殊進化すると「拳銃」のギアに変化します。
             </p>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2450">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2451">
         </div>
         
         <div>
@@ -1160,7 +1160,7 @@
             ▶アクトレスのファン数が一定まで増えた時に、報酬として専用信頼度アイテムが手に入る機能を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240328/bnr_m00_upd_603_28.jpg?v=2450">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240328/bnr_m00_upd_603_28.jpg?v=2451">
         </div>
         <p class="list">
             ※専用信頼度アイテムは任務終了後に入手できます。
