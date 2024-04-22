@@ -33,6 +33,82 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1265" class="weighty-column">
+
+            2024/04/22 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              へクスクリア累積報酬のリニューアルについて            </div>
+
+        </div>
+        <div id="important-text-1265" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年04月22日 19:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        4月24日（水）14時頃より配信予定の最新アプリにて、へクスクリア累積報酬リニューアルの実施を予定しておりますのでご案内いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【実施内容】</p>
+        
+        <div class="list">
+            ①序盤の「累積報酬ポイントが溜まりやすい状態」の終了タイミングを変更
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                変更前：累積報酬5回獲得まで<br>
+                変更後：<span class="red">累積報酬10回獲得まで</span>
+            </div>
+        </div>
+        <p class="list red">
+            ※最新アプリにアップデートした時点で、累積報酬ゲージが0%状態になり、累積報酬の獲得カウント数も0回状態にリセットされます、予めご了承ください。
+        </p>
+        <div class="list">
+            ②各種ヘクスクリア時に累積報酬ゲージが上昇しやすいよう調整
+        </div>
+        <p class="list red">
+            ※「∞へクス」に関しては、従来よりもポイント獲得量が減少いたします。
+        </p>
+        <div class="list">
+            ③累積報酬ゲージ100%時に出現するシェルの抽選内容を調整
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                ・「ギアメダル×10」が選択可能になります。
+                <p class="list red">
+                    ※累積報酬の獲得カウント数が11回目以降より登場します。
+                </p>
+            </div>
+            <div>
+                ・属性別の各種Sギアシェルが出現しやすくなります。
+            </div>
+            <div>
+                ・「Sギアシェル/W」が出現しなくなります。
+                <p class="list red">
+                    ※いずれかのショットorクロスギアを入手できるSギアシェル
+                </p>
+            </div>
+            <div>
+                ・「Sギアシェル/D」が出現しなくなります。
+                <p class="list red">
+                    ※いずれかのトップスorボトムスギアを入手できるSギアシェル
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1264" class="weighty-column">
 
             2024/04/22 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1129,183 +1205,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1245" class="weighty-column">
-
-            2024/03/27 14:45                            
-                <span class="bold">
-                                            (03/27 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.78.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1245" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年03月27日 14:45<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.78.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.78.0の更新内容】</p>
-        
-        <p class="list red">
-            ※3/27（水）15:45 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶下記アクトレスのホーム小物を追加しました。
-        </div>
-        <p class="list red">
-            ※3/28（木）14:00 実施を予定しておりましたが、配信システムの都合上、アプリアップデートでの反映とさせていただきました。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・シャーリー・O<br>
-                ・ニーナ・K<br>
-                ・籠目 深沙希<br>
-                ・東雲 チヱ<br>
-                ・宮南 ひかり<br>
-                ・我龍 絵美<br>
-                ・天狐 天
-            </div>
-        </div>
-        <div class="list">
-            ▶メインストーリー「黎明編1章」の「討伐任務:1件目」に、バディリンクに関するバトルチュートリアルを追加しました。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div class="list">
-            ▶新バトルシステム「バディリンク」を実装しました。
-        </div>
-        <p class="list red">
-            ※機能の詳細は、バディリンクのお知らせをご確認ください。
-        </p>
-        <div class="center">
-            <a href="/news/show/id/801?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/bnr_s00_upd_603_27.jpg?v=2450">
-            </a>
-            <p class="center red">
-                ※タップするとバディリンクのお知らせが開きます
-            </p>
-        </div>
-        <div class="list">
-            ▶任務中のカメラモードに、新機能「カラープリセット」と「カスタムプリセット」を追加しました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240327/info_01.jpg?v=2450">
-        </div>
-        <div class="list">
-            ▶下記アクトレスの★3コスチュームの3Dモデルをリファインしました。
-        </div>
-        <p class="list red">
-            ※3/28（木）14:00 実施を予定しておりましたが、配信システムの都合上、アプリアップデートでの反映とさせていただきました。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・比良坂 夜露<br>
-                ・兼志谷 シタラ<br>
-                ・百科 文嘉<br>
-                ・吾妻 楓<br>
-                ・日向 リン<br>
-                ・小鳥遊 怜<br>
-                ・藤野 やよい<br>
-                ・下落合 桃歌<br>
-                ・萬場 盟華<br>
-                ・山野 薫子
-            </div>
-        </div>
-        <div class="list">
-            ▶アプリ起動後のロード画面にランダムで表示される履歴書に、下記アクトレスを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・蛙坂 来弥<br>
-                ・君影 唯<br>
-                ・萬場 盟華
-            </div>
-        </div>
-        <div class="list">
-            ▶ステラー実装に伴い、下記アクトレスのエニグマにセルを追加しました。
-        </div>
-        <p class="list red">
-            ※追加セルは3/28（木）15:00 より解放されます。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・小鳥遊 怜<br>
-                ・紺堂 地衛理
-            </div>
-        </div>
-        <div class="list">
-            ▶ギア整備室に表示されるギアの装備者情報に、アナザー及びファクターの二つ名が表示されるよう仕様を変更しました。
-        </div>
-        <div class="list">
-            ▶駒添 絵伝がコスチューム「ミモザ」着用中に特定ポーズをとると、スカートの一部が違和感のある見た目になることがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶ノエル・Fのアクセサリー「バースデーメガネ」と「小型加湿器」をあわせて着用した際に、メガネが曇らない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.77.0アプリより、スナイパー系ショットギアのレーザーサイトのエフェクトが、開発意図よりも長い時間表示されてしまう問題を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶セルケトのチャージ攻撃の阻止とテイル破壊を同時に行うと、セルケトがダウン状態になるにも関わらず、阻止したチャージ攻撃が発動してしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ドレッサー画面で特定操作を行うと、下記コスチューム及びアクセサリーの固有モーションが正しく再生されないことがある問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象】</p>
-            <div>
-                ・コスチューム「アニバドレスI」<br>
-                ・アクセサリー「アスペクトリング」各種
-            </div>
-        </div>
-        <div class="list">
-            ▶メインストーリー「躍進編3章」の「討伐任務:2件目」にて、勝利条件の「敵を全滅」を達成しなくても進行できてしまうことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.77.1アプリより、「オプション」&gt;「ウィンドウ関連」の報酬獲得簡易表示がONの状態で信頼度称号を獲得すると、エラーが発生する不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶「実験的機能」の「バトル中のギアスキルの先行入力」の挙動を調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.78.0の配信に伴い、<span class="bold red">3/28（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
