@@ -35,8 +35,7 @@
         
         <div id="important-column-1265" class="weighty-column">
 
-            2024/04/22 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/04/22 19:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               へクスクリア累積報酬のリニューアルについて            </div>
