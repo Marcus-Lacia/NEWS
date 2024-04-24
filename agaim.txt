@@ -124,6 +124,19 @@
     <div class="bg_white news-box">
         <p class="bold">【Ver.1.79.0の更新内容】</p>
         
+        <div class="show_only_DMM">
+            <p class="list red">
+                ※4/24（水）18:50 追記<br>
+                以下の更新内容について記述が抜けていたため追記いたしました。
+            </p>
+            <div class="list">
+                ▶モニターのリフレッシュレート設定が高い場合に、ゲームのフレームレートが開発意図よりも高くなってしまうことがある問題を修正しました。
+            </div>
+            
+            
+            <hr class="red">
+        </div>
+
         <p class="list red">
             ※4/24（水）16:45 追記<br>
             以下の更新内容について記述が抜けていたため追記いたしました。
