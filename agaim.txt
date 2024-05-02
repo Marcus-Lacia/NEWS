@@ -33,6 +33,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1270" class="weighty-column">
+
+            2024/05/02 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「黄金郷そだちざかり任務 特設交換所」内に表示される、「黄金のすくすくメダル」のアイコンデザインが開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-1270" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年05月02日 19:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶「黄金郷そだちざかり任務 特設交換所」内に表示される、「黄金のすくすくメダル」のアイコンデザインが開発意図と異なっている。
+        </div>
+        <p class="list red">
+            ※見た目のみの不具合となり、アイテム交換の際は「黄金のすくすくメダル」が正常に消費されることを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1269" class="weighty-column">
 
             2024/04/26 17:50                            
@@ -1448,78 +1490,6 @@
         <div class="list">
             ▶指揮官モードの作戦完了演出時のキャラクターボイスが正しく再生されないことがある。
         </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1251" class="weighty-column">
-
-            2024/04/01 19:15                            
-                <span class="bold">
-                                            (04/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              バディリンク機能に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-1251" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年04月24日 14:30 追記<br>
-        本件につきまして、順次配信されましたVer1.79.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年04月01日 19:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、バディリンク機能に以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ①ユニゾンによってバディが特定SPスキルを発動すると、攻撃によるダメージやエフェクトが正しく発生しない。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・メルクリウス<br>
-                ・ブリーズギフト<br>
-                ・オービタルセントリーE<br>
-                ・オービタルセントリーF<br>
-                ・セントリータレットE<br>
-                ・セントリータレットH<br>
-                ・ターレットキャノンH<br>
-                ・リカバリータレットE
-            </div>
-        </div>
-        <div class="list">
-            ②バディリンク中に操作キャラ単体でSPスキルを発動した際、演出中もリンクタイムゲージが減少してしまう。
-        </div>
-        <p class="list red">
-            ※SPスキル演出中はリンクタイムゲージが減少しないのが、仕様となります。
-        </p>
     </div>
     <div>
         本件につきまして、現在、原因を調査しております。
