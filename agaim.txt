@@ -35,8 +35,7 @@
         
         <div id="important-column-1270" class="weighty-column">
 
-            2024/05/02 19:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/05/02 19:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「黄金郷そだちざかり任務 特設交換所」内に表示される、「黄金のすくすくメダル」のアイコンデザインが開発意図と異なっている            </div>
