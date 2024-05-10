@@ -33,9 +33,85 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1271" class="weighty-column">
+
+            2024/05/10 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1271" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月10日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶イベント「コードギアス 反逆のルルーシュ 神託の少女」エピソード1話の一部効果音を調整しました。
+        </div>
+        <div class="list">
+            ▶イベント「コードギアス 反逆のルルーシュ 神託の少女」各エピソードにて、キャラクター初登場時に名前表示の演出が再生されない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「黄金郷 そだちざかり任務」の任務一覧画面の一部誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶「黄金郷そだちざかり任務 特設交換所」内に表示される、「黄金のすくすくメダル」のアイコンデザインが開発意図と異なっている問題を修正しました。
+        </div>
+        <div class="list">
+        	▶ニコル・FのSPスキル「トゥール・ルージュ」の演出中、特定ポーズ時に右肩が違和感のある見た目になる問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶C.C.専用トップスギア「ガウェイン/T」シリーズの一部パーツが、スキル発動時に正しく展開しない問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="list">
+            ▶吾妻 京の専用トップスギア「鴉/T」シリーズの一部パーツが、特定ポーズ時に歪むことがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶アクセサリー「鬼の角」を着用すると、眉毛が髪に埋もれてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1270" class="weighty-column">
 
-            2024/05/02 19:15            
+            2024/05/02 19:15                            
+                <span class="bold">
+                                            (05/10 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「黄金郷そだちざかり任務 特設交換所」内に表示される、「黄金のすくすくメダル」のアイコンデザインが開発意図と異なっている            </div>
@@ -44,6 +120,17 @@
         <div id="important-text-1270" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年05月10日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年05月02日 19:15<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -438,7 +525,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2476">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2477">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -991,7 +1078,7 @@
             <p class="list red">
                 ※特殊進化すると「拳銃」のギアに変化します。
             </p>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2476">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2477">
         </div>
         
         <div>
@@ -1439,59 +1526,6 @@
             <br>
             なお、本現象で入手できる専用信頼度アイテムについては、本来入手できる正しい個数が配布されていることを確認しておりますが、出撃していないアクトレスの専用信頼度アイテムが付与される点につきましては、後日修正を予定しております。
         </div>
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1252" class="weighty-column">
-
-            2024/04/01 19:15                            
-                <span class="bold">
-                                            (04/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              指揮官モードの作戦完了演出時にボイスが正しく再生されないことがある            </div>
-
-        </div>
-        <div id="important-text-1252" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年04月24日 14:30 追記<br>
-        本件につきまして、順次配信されましたVer1.79.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年04月01日 19:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶指揮官モードの作戦完了演出時のキャラクターボイスが正しく再生されないことがある。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
     </div>
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
