@@ -33,6 +33,58 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1272" class="weighty-column">
+
+            2024/05/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.79.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1272" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月15日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.79.1のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.79.1の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2487">
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.79.1の配信に伴い、<span class="bold red">5/16（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1271" class="weighty-column">
 
             2024/05/10 14:00            
@@ -1471,64 +1523,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1250" class="weighty-column">
-
-            2024/03/29 23:05                            
-                <span class="bold">
-                                            (04/02 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ファン数達成報酬の専用信頼度アイテムが、出撃チーム固定の任務をクリアした時に獲得できてしまうことがある            </div>
-
-        </div>
-        <div id="important-text-1250" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年04月02日 15:35 追記<br>
-        本件につきまして、修正が完了いたしましたのでご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">    
-    
-    <div>
-        ■2024年03月29日 23:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶ファン数達成報酬の専用信頼度アイテムが、出撃チーム固定の任務をクリアした時に獲得できてしまうことがある。
-        </div>
-        <div>
-            3/28（木）14:00 のアップデートにて「ファン数に応じて専用信頼度アイテムが獲得できる」機能を実装いたしました。<br>
-            本実装に伴い、各アクトレス出撃時に、アップデート前に上昇していた分のファン数も含め計算を行い、専用信頼度アイテムが獲得できる仕様となっております。<br>
-            <br>
-            しかし、出撃チーム固定の任務をクリアした際、チーム1のアクトレスに対してファン数の計算を行い、アップデート前に一定以上のファン数がある場合は、対象アクトレス用の信頼度アイテムが獲得できる状態となっております。<br>
-            <br>
-            なお、本現象で入手できる専用信頼度アイテムについては、本来入手できる正しい個数が配布されていることを確認しておりますが、出撃していないアクトレスの専用信頼度アイテムが付与される点につきましては、後日修正を予定しております。
-        </div>
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
