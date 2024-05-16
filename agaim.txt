@@ -33,6 +33,119 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1273" class="weighty-column">
+
+            2024/05/16 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1273" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月16日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種スキルによって、属性が異なるバフ効果（属性攻撃力や耐性の上昇など）が同時にかかった際の挙動を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">調整前：</span><br>
+                属性が異なる同系統のバフ効果が同時にかかった場合、いずれか1つの効果（最後に発動処理が行われた効果）のみ適用される
+            </div>
+            <div>
+                <span class="bold">調整後：</span><br>
+                属性が異なる同系統のバフ効果が同時にかかった場合、それぞれの効果が適用される
+            </div>
+        </div>
+        <div class="list">
+            ▶各種スキルによって、同じ効果値の単体バフ効果と全体バフ効果が同時にかかった際に、全体バフ効果が優先して適用されるよう挙動を調整しました。
+        </div>
+        <div class="list">
+            ▶四谷 ゆみ専用ボトムスギアのスキル効果を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">・アトレグラヴィテ</span><br>
+                <span class="bold">調整前：</span><br>
+                使用者の重力耐性を上昇させ、HP回復を行う 加えて同フィールド内のアクトレスの麻痺を治療する 25秒間継続
+            </div>
+            <div>
+                <span class="bold">調整後：</span><br>
+                使用者の重力と電撃の耐性が上昇、HP回復をする 同フィールド内のアクトレスの麻痺を治療する 25秒間継続
+            </div>
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">・デフィレグラヴィテ</span><br>
+                <span class="bold">調整前：</span><br>
+                同フィールド内のアクトレスの重力耐性を上昇させ、HP回復と麻痺の治療を行う 30秒間継続
+            </div>
+            <div>
+                <span class="bold">調整後：</span><br>
+                同フィールド内のアクトレスの重力と電撃の耐性が上昇、HP回復と麻痺の治療を行う 30秒間継続
+
+            </div>
+        </div>
+        <div class="list">
+            ▶一部マルチ任務の開始時に表示される作戦目標が誤っている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの不具合となり、任務内容に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・月曜日「EASY 軌道上の狙撃手」<br>
+                修正前：5分以内に敵を全滅<br>
+                修正後：5分以内に【VWスナイプ】を1体倒せ
+            </div>
+            <div>
+                ・金曜日「EASY 惑星軌道を守れ」<br>
+                修正前：5分以内に敵を全滅<br>
+                修正後：5分以内に【VWソード】を1体倒せ
+            </div>
+        </div>
+        <div class="list">
+            ▶一部エピソードの背景が、特定の画面比率の時に正しく表示されないことがある問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象エピソード】</p>
+            <div>
+                ・萬場 盟華 キャラエピソードEp4-2<br>
+                ・新居目 安里 絆エピソードEp4
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1272" class="weighty-column">
 
             2024/05/15 14:00            
@@ -62,7 +175,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2488">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2489">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -575,7 +688,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2488">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2489">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1128,7 +1241,7 @@
             <p class="list red">
                 ※特殊進化すると「拳銃」のギアに変化します。
             </p>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2488">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2489">
         </div>
         
         <div>
@@ -1476,52 +1589,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1253" class="weighty-column">
-
-            2024/04/03 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.78.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1253" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年04月03日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.78.1のアプリにて、以下の調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.78.1の更新内容】</p>
-        
-        <div class="list">
-            ▶メインストーリー「侵蝕編」の特定任務の強制移動モードで、障害物に衝突した際に移動速度が低下しない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象任務】</p>
-            <div>
-                ・4章 討伐任務：1件目<br>
-                ・7章 討伐任務：17件目
-            </div>
-        </div>
-        <div class="list">
-        	▶その他、軽微な各種調整を行いました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.78.1の配信に伴い、<span class="bold red">4/4（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
