@@ -229,7 +229,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2500">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2501">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -742,7 +742,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2500">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2501">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1295,7 +1295,7 @@
             <p class="list red">
                 ※特殊進化すると「拳銃」のギアに変化します。
             </p>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2500">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2501">
         </div>
         
         <div>
