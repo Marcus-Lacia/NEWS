@@ -34,6 +34,245 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1277" class="weighty-column">
+
+            2024/05/28 14:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.80.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1277" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月28日 14:25<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.80.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.80.0の更新内容】</p>
+        
+        <div class="list">
+            ▶メニュー画面に「履歴書原本」を追加しました。
+        </div>
+        <p class="list red">
+            ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2511">
+        </div>
+        <div class="list">
+            ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
+        </div>
+        <p class="list red">
+            ※スマートフォン版でキーバインド機能を利用するには、「実験的機能」＞「ゲームパッド対応」をONにする必要があります。
+        </p>
+        <div class="list">
+            ▶射撃に弾数制限がある一部ショットギアで、OVER HEAT回復時にショットの溜め状態が維持されるよう調整しました。
+        </div>
+        <div class="list">
+            ▶おでかけモードのミニゲーム一覧に、遊び方を表示するボタンを追加しました。
+        </div>
+        <div class="show_only_DMM">
+            <div class="list">
+                ▶オプション」＞「実験的機能」の「リフレッシュレートの制限解除」を「垂直同期設定」に改良しました。
+            </div>
+            <div class="sub-box bg_white">
+                <div>
+                    <span class="bold">・標準</span><br>
+                    ゲーム標準の設定です。
+                    <p class="list red">
+                        ※従来の「リフレッシュレートの制限解除」OFF時と同じ挙動。
+                    </p>
+                </div>
+                <div>
+                    <span class="bold">・有効</span><br>
+                    ディスプレイ性能に応じたフレームレートで動作するようになります。
+                </div>
+                <div>
+                    <span class="bold">・無効</span><br>
+                    PC性能に応じたフレームレートで動作するようになります。
+                    <p class="list red">
+                        ※従来の「リフレッシュレートの制限解除」ON時と同じ挙動。
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="list">
+            ▶ギアチューンの許可証選択画面にて特定操作を行うと、選択した許可証とは異なる許可証が選ばれた状態になることがある不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※本不具合について補填対応を予定しております。<br>
+            補填の詳細につきましては「ギアチューンの許可証選択時に発生している不具合について」の重要なお知らせをご確認ください。
+        </p>
+        <div class="list">
+            ▶特定の大型ヴァイスが、出現・撃破演出の前後に開発意図と異なるポーズをとる問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象大型ヴァイス】</p>
+            <div>
+                ・ケルベロス<br>
+                ・サーペント<br>
+                ・セルケト各種<br>
+                ・ヒュドラ各種<br>
+                ・オベリスク各種
+            </div>
+        </div>
+        <div class="list">
+            ▶ミア・VのSPスキル「ル・グランメナージュ」のスキル説明文が、特定状況で他の文字と被って表示されることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶特定SPスキルを装着したバディと一緒にユニゾンを発動すると、バディがプレイヤーの操作を無視して近接攻撃を行い続ける不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・アグレッシブパイル<br>
+                ・ディヴェルティスマン<br>
+                ・パープルハート
+            </div>
+        </div>
+        <div class="list">
+            ▶習熟訓練にて、「リンクゲージ高速回復」のオプションをONにした状態で特定操作を行うと、エラーが発生することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶バディリンク可能状態を表すエフェクトが、戦闘不能状態の控えキャラクターにも表示される問題を修正しました。
+        </div>
+        <div class="list">
+            ▶メインストーリー「黎明編1章」の一部任務に出現するルイカの見た目が、開発意図と異なっている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、能力に変更はございません。
+        </p>
+        <div class="list">
+            ▶任務開始時の目標表示（「2分以内に敵を全滅」など）の表示時間を微調整しました。
+        </div>
+        <div class="list">
+            ▶ホーム画面で特定操作を行うと、キャラクターの名称ウィンドウが表示されたままとなる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.80.0の配信に伴い、<span class="bold red">5/29（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1276" class="weighty-column">
+
+            2024/05/28 14:25                            
+                <span class="red bold">
+                                            (05/28 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ギアチューンの許可証選択時に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1276" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年05月28日 14:25<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        以下の不具合が発生しておりましたが、修正が完了いたしましたのでご報告いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶ギアチューンの許可証選択画面にて特定操作を行うと、選択した許可証とは異なる許可証が選ばれた状態になることがある。
+        </div>
+    </div>
+    <div>
+        なお、本不具合によって選んでいない許可証を意図せず消費してしまう可能性があったことを考慮いたしまして、5/29（水）15:00 より以下の対応を実施させていただきます。
+    </div>
+    <div>
+        <div class="event-date">
+            ①「許可証交換券」の配布
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                対象のお客様に「許可証交換券/A」と「許可証交換券/B」を受取箱へ配布いたします。
+            </div>
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    5/29（水）15:00 ～ 6/12（水）14:59 までに<br>
+                    ゲームにログインしたお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容①】</p>
+                <div class="paragraph">
+                    許可証交換券/A × 50
+                    <p class="list red">
+                        ※交換券2枚につき、任意のアクトレス専用許可証（最大作業精度5）1枚と交換できます。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <p class="bold">【補填内容②】</p>
+                <div class="paragraph">
+                    許可証交換券/B × 50
+                    <p class="list red">
+                        ※交換券2枚につき、任意のアクトレス専用許可証（最大作業精度3）1枚と交換できます。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    6/12（水）14:59 まで
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="event-date">
+            ②「許可証交換所」の開催
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                許可証交換券を対象の許可証と交換できる、「許可証交換所」を開催いたします。
+            </div>
+            <p class="list red">
+                ※許可証交換所は、開催期間中にメニュー＞ショップよりご確認いただけます。
+            </p>
+            <p class="bold">【開催期間】</p>
+            <div class="paragraph">
+                5/29（水）15:00 ～ 6/12（水）14:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1274" class="weighty-column">
 
             2024/05/16 15:00            
@@ -229,7 +468,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2510">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2511">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -742,7 +981,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2510">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2511">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1295,7 +1534,7 @@
             <p class="list red">
                 ※特殊進化すると「拳銃」のギアに変化します。
             </p>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2510">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2511">
         </div>
         
         <div>
@@ -1427,169 +1666,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1256" class="weighty-column">
-
-            2024/04/10 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.78.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1256" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年04月10日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.78.2のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.78.2の更新内容】</p>
-        
-        <div class="list">
-            ▶ミニゲーム「ASTEROID BARRAGE」のゲームパッドでの操作方法を変更しました。
-        </div>
-        <p class="list red">
-            ※タップ操作の変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">変更前</p>
-            <div>
-                移動　　　　：左スティック<br>
-                ブースト移動：Aボタン長押し+左スティック<br>
-                　　　　　　　※ブースト移動中は砲塔固定<br>
-                チャージ　　：左スティック or Aボタン長押し<br>
-                チャージ攻撃：チャージ後にAボタン2回押し<br>
-                砲塔固定　　：Aボタン長押し<br>
-                リスタート　：LBボタン<br>
-                ゲーム終了　：スタート画面でLBボタン
-            </div>
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">変更後</p>
-            <div>
-                移動　　　　：左スティック（変更なし）<br>
-                ブースト移動：A or RTボタン長押し+左スティック<br>
-                　　　　　　　※ブースト移動中は自動照準<br>
-                チャージ　　：A or Xボタン長押し<br>
-                チャージ攻撃：チャージ後にA or Xボタン2回押し<br>
-                砲塔固定　　：Xボタン長押し<br>
-                リスタート　：LB or BACKボタン<br>
-                ゲーム終了　：スタート画面でLB or BACKボタン
-            </div>
-        </div>
-        <div class="list">
-            ▶「インスピレーション交換」の交換画面に、「Aコンバータ」の現在の所持数を表示しました。
-        </div>
-        <div class="list">
-            ▶「インスピレーション交換」の交換画面の、アイテムの最大/最小選択ボタンを削除しました。
-        </div>
-        <div class="list">
-            ▶アイテム一覧の「Aコンバータ」のアイコンに、対応アクトレスの顔アイコンの表示を追加しました。
-        </div>
-        <div class="list">
-            ▶SPゲージ上限値が101%以上のキャラクターがユニゾンを発動すると、消費されるSPゲージ量が、本来の消費量と異なる数値になる不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶SPスキル「アルゴルアドヴァンス」を装着した紺堂 地衛理をサポーターとして選択すると、任務中にSPスキルを発動しない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ユニゾンSPを装着していると、SPゲージが100%になった時に再生されるボイスが、開発意図と異なるタイミングで再生されることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶伊戸倉 音緒がコスチューム「ゾディアックバニー」着用中、特定ポーズをとると、コスチュームの一部が肌にめり込むことがある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶文島 明日翔のボイスアーカイブにて、特定ボイス再生時に別のボイスも再生されてしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶オプションにて任務中のボタン配置設定をカスタムしている場合、イベント「東京シャードの盾」の特定任務で、カメラモードアイコンが設定した位置に表示されないことがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.78.0アプリより、調査任務で完全回避を達成した時の効果音が正しく再生されない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.78.0アプリより、特定状況で撮影ルームのプレビューが正しく表示されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種画面にて、ステラーキャラクターの二つ名が縮小表示されてしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.78.2の配信に伴い、<span class="bold red">4/11（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1255" class="weighty-column">
-
-            2024/04/08 18:35                            
-                <span class="bold">
-                                            (04/10 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              SPゲージ上限値が101%以上のキャラクターがユニゾンを発動すると、消費されるSPゲージ量が、本来の消費量と異なる数値になる            </div>
-
-        </div>
-        <div id="important-text-1255" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年04月10日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.78.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年04月08日 18:35<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶SPゲージ上限値が101%以上のキャラクターがユニゾンを発動すると、消費されるSPゲージ量が、本来の消費量と異なる数値になる。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
