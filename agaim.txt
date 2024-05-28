@@ -243,7 +243,7 @@
             <div>
                 <p class="bold">【配布期間】</p>
                 <div class="paragraph">
-                    6/12（水）14:59 まで
+                    5/29（水）15:00 ～ 6/12（水）14:59 まで
                 </div>
             </div>
         </div>
