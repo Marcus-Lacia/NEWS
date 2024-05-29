@@ -34,6 +34,83 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1275" class="weighty-column">
+
+            2024/05/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1275" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月29日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶ミニサーペントの頭・胴・尾それぞれの部位ごとに状態異常が判定されていたのを、ミニサーペント単体として、一括判定するよう仕様を変更しました。
+        </div>
+        <p class="list red">
+            ※今後、新たな状態変化を実装するための仕様変更となります。
+        </p>
+        <div class="list">
+            ▶ヴェスピナエ属性特異型をロックオンした時、特定状況でロックオンマーカーの表示位置が僅かにずれる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶藤野 やよいのコスチューム「a.k.a」の、特定部位の布の質感を微調整しました。
+        </div>
+        <div class="list">
+            ▶バージニア・Gがコスチューム「コミマ戦闘服/ジニー」着用中に特定ポーズをとった時に、肘の見え方に違和感がある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶一部キャラクターのアクセサリー「ウマミミ/栗」が、着用中に揺れない問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・下落合 桃歌<br>
+                ・駒添 絵伝<br>
+                ・ノエル・F
+            </div>
+        </div>
+        <div class="list">
+            ▶紅月 カレンのアクセサリー「外したバンダナ」のアイコンに表記されたコストが誤っている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※正しいコストは「1」となります。
+        </p>
+        <div class="list">
+            ▶コスチューム交換一覧に表示される、「カラットショップ ノーブルヒルズ セール」のバナーの画質がやや粗い問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1277" class="weighty-column">
 
             2024/05/28 14:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1541,135 +1618,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1257" class="weighty-column">
-
-            2024/04/11 14:00                            
-                <span class="bold">
-                                            (04/19 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1257" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年04月11日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <p class="list red">
-            ※4/19（金）22:00 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶下記アクトレスの専用信頼度アイテムのアイコンをアップデートしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・在賀 奈々<br>
-                ・天狐 天
-            </div>
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div class="list">
-            ▶高幡 のどかにユニゾン対応SPスキル「アクセルキャノンE/U」を追加しました。
-        </div>
-        <p class="list">
-            ※追加されたSPスキルは、スキル詳細画面からSPスキルを付け替えることで使用可能となります。
-        </p>
-        <div class="list">
-            ▶高幡 のどかのエニグマにセルを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                ・共通エリア<br>
-                パッシブスキルセルを追加。<br>
-                <br>
-                ・ノーマルエリア<br>
-                ・アナザーエリア<br>
-                スキルスロット拡張セルを追加。
-            </div>
-        </div>
-        <div class="list">
-            ▶バージニア・Gがエニグマで修得可能なパッシブスキル「角兎の目覚め1」の効果対象に、「専用拳銃・ヴォルパーティンガー系列」を追加しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gがエニグマで修得可能なパッシブスキル「レイシュートUP1」のスキル説明文に記載されているSPゲージのチャージ量が、実際の効果よりも低く記載されている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜誤＞</p>
-            <div>
-                ボトムスアクティブスキル「クロスレイシュートX」の使用回数を1回増やし、戦闘開始時にSPを15%チャージする<br>
-                この効果は出撃毎で1回しか発動しない
-            </div>
-        </div>
-        <div class="sub-box bg_skin">
-            <p class="bold">＜正＞</p>
-            <div>
-                ボトムスアクティブスキル「クロスレイシュートX」の使用回数を1回増やし、戦闘開始時にSPを<span class="red">20%チャージ</span>する<br>
-                この効果は出撃毎で1回しか発動しない
-            </div>
-        </div>
-        <div class="list">
-            ▶一部ギアスキルの「同フィールド内のアクトレスの状態異常を治療する効果」が、正常に発動していない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・オールガンズブレイズ<br>
-                気絶の治療効果が正常に発動していない不具合を修正。<br>
-                <br>
-                ・アトレグラヴィテ<br>
-                ・デフィレグラヴィテ<br>
-                ・デトックスバースト<br>
-                麻痺の治療効果が正常に発動していない不具合を修正。
-            </div>
-        </div>
-        <div class="list">
-            ▶紺堂 地衛理が特定ギアを装備していると、3D MODEL画面で開発意図と異なるポーズをとってしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶米良渕 花浪がコスチューム「マロン」を着用した時の、一部の肌の陰影表現を微調整しました。
-        </div>
-        <div class="list">
-            ▶ニコル・Fがコスチューム「ユヌ・ロブ・クルツ」を着用した時の、一部の肌の陰影表現を微調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
