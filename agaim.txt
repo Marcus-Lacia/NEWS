@@ -34,6 +34,151 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1278" class="weighty-column">
+
+            2024/05/29 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1278" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月29日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日、以下のアップデートを実施いたしましたのでご報告いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【アップデート内容】</p>
+        
+        <div class="list">
+            ▶ミニゲーム「きょうのラッキーアクトレス」に「遊馬 勇」を追加しました。
+        </div>
+        <p class="list red">
+            ※ランダムで出現します。
+        </p>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1276" class="weighty-column">
+
+            2024/05/28 14:25                            
+                <span class="red bold">
+                                            (05/29 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ギアチューンの許可証選択時に発生している不具合について            </div>
+
+        </div>
+        <div id="important-text-1276" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年05月29日 15:00 追記<br>
+        本件につきまして、「許可証交換券」の配布が完了いたしましたのでご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
+    <div>
+        ■2024年05月28日 14:25<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        以下の不具合が発生しておりましたが、修正が完了いたしましたのでご報告いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶ギアチューンの許可証選択画面にて特定操作を行うと、選択した許可証とは異なる許可証が選ばれた状態になることがある。
+        </div>
+    </div>
+    <div>
+        なお、本不具合によって選んでいない許可証を意図せず消費してしまう可能性があったことを考慮いたしまして、5/29（水）15:00 より以下の対応を実施させていただきます。
+    </div>
+    <div>
+        <div class="event-date">
+            ①「許可証交換券」の配布
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                対象のお客様に「許可証交換券/A」と「許可証交換券/B」を受取箱へ配布いたします。
+            </div>
+            <p class="bold">【対象者】</p>
+                <div class="paragraph">
+                    5/29（水）15:00 ～ 6/12（水）14:59 までに<br>
+                    ゲームにログインしたお客様
+                </div>
+            <div>
+                <p class="bold">【補填内容①】</p>
+                <div class="paragraph">
+                    許可証交換券/A × 50
+                    <p class="list red">
+                        ※交換券2枚につき、任意のアクトレス専用許可証（最大作業精度5）1枚と交換できます。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <p class="bold">【補填内容②】</p>
+                <div class="paragraph">
+                    許可証交換券/B × 50
+                    <p class="list red">
+                        ※交換券2枚につき、任意のアクトレス専用許可証（最大作業精度3）1枚と交換できます。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <p class="bold">【配布期間】</p>
+                <div class="paragraph">
+                    5/29（水）15:00 ～ 6/12（水）14:59 まで
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="event-date">
+            ②「許可証交換所」の開催
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                許可証交換券を対象の許可証と交換できる、「許可証交換所」を開催いたします。
+            </div>
+            <p class="list red">
+                ※許可証交換所は、開催期間中にメニュー＞ショップよりご確認いただけます。
+            </p>
+            <p class="bold">【開催期間】</p>
+            <div class="paragraph">
+                5/29（水）15:00 ～ 6/12（水）14:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1275" class="weighty-column">
 
             2024/05/29 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -140,7 +285,7 @@
             ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2513">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2514">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
@@ -246,104 +391,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1276" class="weighty-column">
-
-            2024/05/28 14:25                            
-                <span class="bold">
-                                            (05/28 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ギアチューンの許可証選択時に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-1276" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年05月28日 14:25<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        以下の不具合が発生しておりましたが、修正が完了いたしましたのでご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶ギアチューンの許可証選択画面にて特定操作を行うと、選択した許可証とは異なる許可証が選ばれた状態になることがある。
-        </div>
-    </div>
-    <div>
-        なお、本不具合によって選んでいない許可証を意図せず消費してしまう可能性があったことを考慮いたしまして、5/29（水）15:00 より以下の対応を実施させていただきます。
-    </div>
-    <div>
-        <div class="event-date">
-            ①「許可証交換券」の配布
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                対象のお客様に「許可証交換券/A」と「許可証交換券/B」を受取箱へ配布いたします。
-            </div>
-            <p class="bold">【対象者】</p>
-                <div class="paragraph">
-                    5/29（水）15:00 ～ 6/12（水）14:59 までに<br>
-                    ゲームにログインしたお客様
-                </div>
-            <div>
-                <p class="bold">【補填内容①】</p>
-                <div class="paragraph">
-                    許可証交換券/A × 50
-                    <p class="list red">
-                        ※交換券2枚につき、任意のアクトレス専用許可証（最大作業精度5）1枚と交換できます。
-                    </p>
-                </div>
-            </div>
-            <div>
-                <p class="bold">【補填内容②】</p>
-                <div class="paragraph">
-                    許可証交換券/B × 50
-                    <p class="list red">
-                        ※交換券2枚につき、任意のアクトレス専用許可証（最大作業精度3）1枚と交換できます。
-                    </p>
-                </div>
-            </div>
-            <div>
-                <p class="bold">【配布期間】</p>
-                <div class="paragraph">
-                    5/29（水）15:00 ～ 6/12（水）14:59 まで
-                </div>
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="event-date">
-            ②「許可証交換所」の開催
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                許可証交換券を対象の許可証と交換できる、「許可証交換所」を開催いたします。
-            </div>
-            <p class="list red">
-                ※許可証交換所は、開催期間中にメニュー＞ショップよりご確認いただけます。
-            </p>
-            <p class="bold">【開催期間】</p>
-            <div class="paragraph">
-                5/29（水）15:00 ～ 6/12（水）14:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
@@ -544,7 +591,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2513">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2514">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -1057,7 +1104,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2513">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2514">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1553,70 +1600,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1258" class="weighty-column">
-
-            2024/04/11 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1258" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2024年04月11日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶バージニア・Gのエニグマにセルを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    ・共通エリア<br>
-                    パッシブスキルセルを追加。<br>
-                    <br>
-                    ・ノーマルエリア<br>
-                    ・アナザーエリア<br>
-                    ・ファクターエリア<br>
-                    スキルスロット拡張セルを追加。
-                </div>
-            </div>
-            <div class="list">
-                ▶属性変換対応ギアを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・バージニア・G専用ギア一式<br>
-                    ・小鳥遊 怜専用ギア「ギュルヴィ」シリーズ
-                    <p class="list red">
-                        ※アナザーギアは対象外となります
-                    </p>
-                </div>
-            </div>
-            
-            <div class="list">
-                ▶バージニア・Gの専用クロスギアに特殊進化を追加しました。
-            </div>
-            <p class="list red">
-                ※特殊進化すると「拳銃」のギアに変化します。
-            </p>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240411/bnr_l00_inf_604_11.jpg?v=2513">
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
