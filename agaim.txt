@@ -113,8 +113,7 @@
         
         <div id="important-column-1277" class="weighty-column">
 
-            2024/05/28 14:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/05/28 14:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               Ver.1.80.0 配信のお知らせ            </div>
@@ -255,7 +254,7 @@
         <div id="important-column-1276" class="weighty-column">
 
             2024/05/28 14:25                            
-                <span class="red bold">
+                <span class="bold">
                                             (05/28 修正済)
                                     </span>
             
