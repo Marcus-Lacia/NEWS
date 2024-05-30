@@ -34,10 +34,66 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1279" class="weighty-column">
+
+            2024/05/30 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1279" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年05月30日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日、以下のアップデートを実施いたしましたのでご報告いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【アップデート内容】</p>
+        
+        <div class="list">
+            ▶遊馬 勇の「エニグマ」を実装しました。
+        </div>
+        <p class="list red">
+            ※エニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+        </p>
+        <div class="list">
+            ▶遊馬 勇のEp1以外のキャラエピソードを実装しました。
+        </div>
+        <p class="list red">
+            ※絆エピソードは6/17（月）15:00 に実装予定となります。
+        </p>
+        <div class="list">
+            ▶遊馬 勇の専用ギア及び固有のSギアシェルを実装しました。
+        </div>
+        <div class="list">
+            ▶遊馬 勇専用アクセサリーを「ゴールド/アニマEX交換所」に追加しました。
+        </div>
+        <div class="list">
+            ▶ヘルプ＞誕生日リストにキャラクターを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・5/25 遊馬 勇
+            </div>
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1278" class="weighty-column">
 
-            2024/05/29 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/05/29 15:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
               アップデートのお知らせ            </div>
@@ -73,7 +129,7 @@
         <div id="important-column-1276" class="weighty-column">
 
             2024/05/28 14:25                            
-                <span class="red bold">
+                <span class="bold">
                                             (05/29 補填済)
                                     </span>
             
@@ -284,7 +340,7 @@
             ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2515">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2516">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
@@ -590,7 +646,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2515">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2516">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -1103,7 +1159,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2515">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2516">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1562,47 +1618,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1259" class="weighty-column">
-
-            2024/04/12 14:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              パッシブスキル「ツインフレイム」に発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-1259" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年04月12日 14:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、エニグマのステラーエリアで修得可能なパッシブスキル「ツインフレイム」に、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶パッシブスキル「ツインフレイム」の効果でバディリンク中の被ダメージ耐久力が30%上昇している状態で、上乗せされた耐久力以上のダメージを受けても、バディリンク状態が続いてしまう。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/61</div>
+                    <div class="page-box box-radius">1/62</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
