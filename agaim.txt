@@ -78,8 +78,7 @@
         
         <div id="important-column-1280" class="weighty-column">
 
-            2024/05/30 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/05/30 16:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.80.0アプリより、オプションのキーバインドにて「通常移動設定」の項目が表示されなくなっている            </div>
