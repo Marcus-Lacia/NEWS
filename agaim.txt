@@ -36,8 +36,7 @@
         
         <div id="important-column-1281" class="weighty-column">
 
-            2024/05/31 13:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/05/31 13:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               習熟訓練にて、エミッショントランスの発生確率が開発意図よりも低くなることがある            </div>
