@@ -34,6 +34,56 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1283" class="weighty-column">
+
+            2024/06/04 13:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              シャーリー・O専用ショットギアの立ち射撃の挙動が変化している            </div>
+
+        </div>
+        <div id="important-text-1283" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年06月04日 13:45<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶5/29（水）14:00 のアップデートより、シャーリー・O専用ショットギアの立ち射撃の挙動が変化している。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/ライトニングSOs<br>
+                ・★3/ライトニングSOsG1<br>
+                ・★3/ライトニングSOsG2<br>
+                ・★4/アルデバランx2<br>
+                ・★4/アルデバランG2x2<br>
+                ・★4/アルデバランG3x2
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1282" class="weighty-column">
 
             2024/06/03 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1518,47 +1568,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1263" class="weighty-column">
-
-            2024/04/16 15:30            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              SPスキル「メタトロニオス」を装着した村尾 未羅とユニゾンを発動すると、操作キャラが近接攻撃を行った際に、村尾 未羅が一定時間動かなくなってしまう            </div>
-
-        </div>
-        <div id="important-text-1263" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年04月16日 15:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶SPスキル「メタトロニオス」を装着した村尾 未羅とユニゾンを発動すると、操作キャラが近接攻撃を行った際に、村尾 未羅が一定時間動かなくなってしまう。
-        </div>
-        <div>
-            「メタトロニオス」は、近接攻撃が行えない代わりにシールドを展開可能という特性を持つため、ユニゾンによってバディ状態の村尾 未羅が「メタトロニオス」を発動すると、操作キャラの近接攻撃に追従せず、その場でシールドを展開するようになります。
-        </div>
-        <div>
-            しかし、シールド展開時に村尾 未羅がその場で動かなくなってしまうため、今後、挙動の調整を予定しております。
-        </div>
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
