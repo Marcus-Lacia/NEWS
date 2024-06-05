@@ -34,6 +34,66 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1284" class="weighty-column">
+
+            2024/06/05 19:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              四谷 ゆみのパッシブスキル「DグラヴィテUP1」の仕様追加について            </div>
+
+        </div>
+        <div id="important-text-1284" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年06月05日 19:55<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        四谷 ゆみのエニグマで修得可能なパッシブスキル「DグラヴィテUP1」のスキルタグの内容が、実際のスキル効果にそぐわない表示となっていることを確認しました。
+    </div>
+    <div>
+        本件の対応としまして、今後のアップデートにて「DグラヴィテUP1」にスキルタグやスキル効果の追加を予定しておりますので、ご報告申し上げます。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【追加内容】</p>
+        
+        <div class="list">
+            ①スキルタグに「SPタグ」を追加いたします。
+        </div>
+        <div class="list">
+            ②スキルに「当該アクティブスキル効果中、射撃攻撃力が10%上昇する」効果を追加いたします。
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜変更前＞</p>
+            <div>
+                専用★4ボトムスアクティブスキル「デフィレグラヴィテ」の使用回数を1回増やし、戦闘開始時にSPを20%チャージする<br>
+                各効果は出撃毎で1回しか発動しない
+            </div>
+        </div>
+        <div class="sub-box bg_skin">
+            <p class="bold">＜変更後＞</p>
+            <div>
+                1.専用★4ボトムスアクティブスキル「デフィレグラヴィテ」の使用回数を1回増やす<br>
+                2.当該アクティブスキル効果中、射撃攻撃力が10%上昇する<br>
+                3.戦闘開始時にSPを20%チャージする<br>
+                　「2」効果は条件を満たす限り再発動する
+            </div>
+        </div>
+    </div>
+    <div>
+        調整が完了次第、追ってご案内いたしますので、少々お時間をいただけますと幸いです。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1283" class="weighty-column">
 
             2024/06/04 13:45            
@@ -514,7 +574,7 @@
             ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2527">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2528">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
@@ -820,7 +880,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2527">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2528">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -1333,7 +1393,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2527">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2528">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1523,47 +1583,6 @@
                 </p>
             </div>
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1264" class="weighty-column">
-
-            2024/04/22 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1264" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年04月22日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
