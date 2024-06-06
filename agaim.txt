@@ -36,8 +36,7 @@
         
         <div id="important-column-1284" class="weighty-column">
 
-            2024/06/05 19:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/05 19:55            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               四谷 ゆみのパッシブスキル「DグラヴィテUP1」の仕様追加について            </div>
