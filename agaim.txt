@@ -34,6 +34,65 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1285" class="weighty-column">
+
+            2024/06/07 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1285" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年06月07日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶5/29（水）14:00 のアップデートより、シャーリー・O専用ショットギアの立ち射撃の挙動が変化している不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/ライトニングSOs<br>
+                ・★3/ライトニングSOsG1<br>
+                ・★3/ライトニングSOsG2<br>
+                ・★4/アルデバランx2<br>
+                ・★4/アルデバランG2x2<br>
+                ・★4/アルデバランG3x2
+            </div>
+        </div>
+        <div class="list">
+            ▶イベント「疾駆！ ハンディレーサー成子坂GP」のエピソード2話にて、キャラクター初登場時に名前表示の演出が再生されない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1284" class="weighty-column">
 
             2024/06/05 19:55            
@@ -95,7 +154,11 @@
         
         <div id="important-column-1283" class="weighty-column">
 
-            2024/06/04 13:45            
+            2024/06/04 13:45                            
+                <span class="bold">
+                                            (06/07 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               シャーリー・O専用ショットギアの立ち射撃の挙動が変化している            </div>
@@ -104,6 +167,17 @@
         <div id="important-text-1283" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年06月07日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年06月04日 13:45<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -573,7 +647,7 @@
             ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2530">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2531">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
@@ -879,7 +953,7 @@
             ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2530">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2531">
         </div>
         <div class="list">
             ▶各種データを追加しました。
@@ -1392,7 +1466,7 @@
             ※所持しているリソース数に応じて、アイテムを上から順に一括で選択できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2530">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240424/info_01.jpg?v=2531">
         </div>
         <div class="list">
             ▶任務中のカメラモードの各「カスタムプリセット」に任意の名称（英数12文字まで）を入力できる機能を追加しました。
@@ -1507,81 +1581,6 @@
     <div>
         なお、Ver.1.79.0の配信に伴い、<span class="bold red">4/25（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1265" class="weighty-column">
-
-            2024/04/22 19:20            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              へクスクリア累積報酬のリニューアルについて            </div>
-
-        </div>
-        <div id="important-text-1265" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年04月22日 19:20<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        4月24日（水）14時頃より配信予定の最新アプリにて、へクスクリア累積報酬リニューアルの実施を予定しておりますのでご案内いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【実施内容】</p>
-        
-        <div class="list">
-            ①序盤の「累積報酬ポイントが溜まりやすい状態」の終了タイミングを変更
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                変更前：累積報酬5回獲得まで<br>
-                変更後：<span class="red">累積報酬10回獲得まで</span>
-            </div>
-        </div>
-        <p class="list red">
-            ※最新アプリにアップデートした時点で、累積報酬ゲージが0%状態になり、累積報酬の獲得カウント数も0回状態にリセットされます、予めご了承ください。
-        </p>
-        <div class="list">
-            ②各種ヘクスクリア時に累積報酬ゲージが上昇しやすいよう調整
-        </div>
-        <p class="list red">
-            ※「∞へクス」に関しては、従来よりもポイント獲得量が減少いたします。
-        </p>
-        <div class="list">
-            ③累積報酬ゲージ100%時に出現するシェルの抽選内容を調整
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                ・「ギアメダル×10」が選択可能になります。
-                <p class="list red">
-                    ※累積報酬の獲得カウント数が11回目以降より登場します。
-                </p>
-            </div>
-            <div>
-                ・属性別の各種Sギアシェルが出現しやすくなります。
-            </div>
-            <div>
-                ・「Sギアシェル/W」が出現しなくなります。
-                <p class="list red">
-                    ※いずれかのショットorクロスギアを入手できるSギアシェル
-                </p>
-            </div>
-            <div>
-                ・「Sギアシェル/D」が出現しなくなります。
-                <p class="list red">
-                    ※いずれかのトップスorボトムスギアを入手できるSギアシェル
-                </p>
-            </div>
-        </div>
     </div>
     
     <div>
