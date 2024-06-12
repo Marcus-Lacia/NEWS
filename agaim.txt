@@ -36,8 +36,7 @@
         
         <div id="important-column-1287" class="weighty-column">
 
-            2024/06/11 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/11 20:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.78.0アプリより、ノーマル及びアナザーの紺堂 地衛理が、ドレッサー画面で特定のリアクションをとらない            </div>
