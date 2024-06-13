@@ -34,6 +34,87 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1288" class="weighty-column">
+
+            2024/06/13 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1288" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年06月13日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶萬場 盟華の絆エピソードEp.5初回クリア報酬に、アクセサリー「サンビスカス」を追加しました。
+        </div>
+        <p class="list red">
+            ※既に当該エピソードをクリア済みのお客様には、後日、受取箱へ追加アクセサリーの配布を予定しております。
+        </p>
+        <div class="list">
+            ▶萬場 盟華のエニグマで修得可能なパッシブスキル「Bストリーマー1」に、スキル効果を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">変更前：</span><br>
+                ボトムスアクティブスキル「バタ揚げストリーム」の発動時、一部の敵弾消滅機能を持つ周回性のユニットが発生、ユニットは12秒間継続する 合わせて焼夷攻撃力が上昇、10m範囲の敵弾誘導性能を無効化する 15秒間継続
+            </div>
+            <div>
+                <span class="bold">変更後：</span><br>
+                ボトムスアクティブスキル「バタ揚げストリーム」の発動時、一部の敵弾消滅機能を持つ周回性のユニットが発生、ユニットは12秒間継続する 焼夷および冷撃攻撃力が上昇、10m範囲の敵弾誘導性能を無効化する 15秒間継続
+            </div>
+        </div>
+        <div class="list">
+            ▶四谷 ゆみのエニグマで修得可能なパッシブスキル「DグラヴィテUP1」に、スキルタグやスキル効果を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                <p class="bold">【追加内容】</p>
+                <div class="list">
+                    ・スキルタグに「SPタグ」を追加。
+                </div>
+                <div class="list">
+                    ・スキルに「当該アクティブスキル効果中、射撃攻撃力が10%上昇する」効果を追加。
+                </div>
+            </div>
+        </div>
+        <div class="list">
+            ▶小鳥遊 怜のコスチューム「ウネメ02F」の、右腕のヤシマ重工ロゴが左右反転している問題を修正しました。
+        </div>
+        <div class="list">
+            ▶御茶ノ水 美里江がコスチューム「ゆうしゃのふく」とアクセサリー「キャップ/ホビイ」をあわせて着用した時の見た目を調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1287" class="weighty-column">
 
             2024/06/11 20:00            
@@ -193,7 +274,11 @@
         
         <div id="important-column-1284" class="weighty-column">
 
-            2024/06/05 19:55            
+            2024/06/05 19:55                            
+                <span class="bold">
+                                            (06/13 実施済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               四谷 ゆみのパッシブスキル「DグラヴィテUP1」の仕様追加について            </div>
@@ -202,6 +287,14 @@
         <div id="important-text-1284" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2024年06月13日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にてスキルタグやスキル効果の追加が完了いたしましたので、ご報告申し上げます。
+    </div>
+    
+    
+    <hr class="red">
     
     <div>
         ■2024年06月05日 19:55<br>
@@ -1263,95 +1356,6 @@
     <div>
         このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1268" class="weighty-column">
-
-            2024/04/25 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1268" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年04月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記アクトレスの専用信頼度アイテムのアイコンをアップデートしました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・ニーナ・K<br>
-                ・王 紅花
-            </div>
-        </div>
-        <div class="list">
-            ▶Ver.1.79.0アプリより、小鳥遊 怜の特定クロスギアの攻撃時に、誤った攻撃エフェクトが表示される不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/ギュルヴィS<br>
-                ・★4/ギュルヴィ改S<br>
-                ・★4/ゲフィオンS
-            </div>
-        </div>
-        <div class="list">
-            ▶Ver.1.79.0アプリより、バージニア・Gのクロスギア「ヴォルパーティンガー45S」の、特定攻撃のエフェクトとダメージ計算が誤った属性となっている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※「ヴォルパーティンガー45S」の正しい属性は「冷撃属性」となります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【属性が誤っている攻撃の例】</p>
-            <div>
-                ・近接攻撃3段目<br>
-                ・各種ステップ攻撃<br>
-                ・ジャスト入力成功時の攻撃<br>
-                ・シールド展開中の上フリック派生攻撃
-            </div>
-        </div>
-        <div class="list">
-            ▶オベリスク特異型のサブコアを特定タイミングで破壊すると、コアが露出してもサブコアをロックオンし続けてしまうことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.79.0アプリより、バージニア・Gのアクセサリー「IVAS-G2」のアイコンが正しく表示されない問題を修正しました。
-        </div>
-        <div class="list">
-        	▶キャラエピソードEp.4の解放条件に「ステラー★4」の表示を追加しました。
-        </div>
-        <p class="list red">
-            ※表示のみの変更となり、解放条件に変更はございません。
-        </p>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
