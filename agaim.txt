@@ -36,8 +36,7 @@
         
         <div id="important-column-1290" class="weighty-column">
 
-            2024/06/13 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/13 15:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               萬場 盟華が特定の髪型変更アクセサリーとコスチュームを同時着用すると、眉毛が髪と異なる色になる            </div>
