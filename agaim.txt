@@ -36,8 +36,7 @@
         
         <div id="important-column-1291" class="weighty-column">
 
-            2024/06/14 21:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/14 21:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               萬場 盟華【サン】のSPスキル「レーヴ・ド・パピヨン」の一次属性の変更について            </div>
