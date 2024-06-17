@@ -34,6 +34,58 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1292" class="weighty-column">
+
+            2024/06/17 12:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              従来と異なる属性に変換された萬場 盟華専用ショットギアに品質を付与しても、属性値が上昇しない            </div>
+
+        </div>
+        <div id="important-text-1292" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年06月17日 12:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶従来と異なる属性に変換された萬場 盟華専用ショットギアに品質を付与しても、属性値が上昇しない。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/CアタッカーYMsS<br>
+                ・★3/CアタッカーYMsSMk2<br>
+                ・★3/CアタッカーYMsSMk3<br>
+                ・★4/ペロブスカイトブローS<br>
+                ・★4/ペロブスブローS<br>
+                ・★4/ペロブS<br>
+                ・★4/プーリミッシャーS<br>
+                ・★4/プリミS
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1291" class="weighty-column">
 
             2024/06/14 21:05            
@@ -992,7 +1044,7 @@
             ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2544">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2545">
         </div>
         <div class="list">
             ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
@@ -1262,57 +1314,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1272" class="weighty-column">
-
-            2024/05/15 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.79.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1272" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年05月15日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.79.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.79.1の更新内容】</p>
-        
-        <div class="list">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-        <div class="list">
-            ▶「∞へクス」のデザインを調整し、∞へクスであることがクリア前でも分かるようにしました。
-        </div>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240515/info_01.jpg?v=2544">
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.79.1の配信に伴い、<span class="bold red">5/16（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
