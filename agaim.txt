@@ -97,8 +97,7 @@
         
         <div id="important-column-1292" class="weighty-column">
 
-            2024/06/17 12:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/17 12:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               従来と異なる属性に変換された萬場 盟華専用ショットギアに品質を付与しても、属性値が上昇しない            </div>
