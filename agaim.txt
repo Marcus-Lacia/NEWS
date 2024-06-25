@@ -34,6 +34,50 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1294" class="weighty-column">
+
+            2024/06/25 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              小型ヴァイスのパラメータ調整について            </div>
+
+        </div>
+        <div id="important-text-1294" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年06月25日 15:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        今後実装予定のコンテンツをよりお楽しみいただくため、近日配信予定の最新版アプリより、小型ヴァイスの各種パラメータ（HP、攻撃力、防御力）の調整を予定しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【調整内容】</p>
+        
+        <div class="list">
+            ①Lv.81以上の小型ヴァイスのパラメータを下方調整します。
+        </div>
+        <div class="list">
+            ②Lv.80以下の小型ヴァイスのパラメータを僅かに下方調整します。
+        </div>
+        <div>
+            Lv.81以上の小型ヴァイスにつきましては、実装当初は「能力ダウンヘクス」などのデバフ効果を前提にしたパラメータで登場しておりましたが、近年の一部コンテンツでは能力ダウン効果が適用されずに登場するケースもあり、敵の強さが理不尽に感じるケースがあったため、Lv.81以上のパラメータ成長率を下方調整いたします。
+        </div>
+        <div>
+            その影響を受け、Lv.80以下の小型ヴァイスのパラメータも変化いたしますが、ストーリー任務や多くのイベント任務のプレイフィールが大きく変わらないように、調整前とほぼ変わらないよう、わずかに弱体化した程度の調整になります。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1293" class="weighty-column">
 
             2024/06/17 18:00                            
@@ -1214,60 +1258,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1274" class="weighty-column">
-
-            2024/05/16 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1274" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2024年05月16日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶四谷 ゆみのエニグマにセルを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    ・共通エリア<br>
-                    パッシブスキルセルを追加。<br>
-                    <br>
-                    ・ノーマルエリア<br>
-                    ・アナザーエリア<br>
-                    スキルスロット拡張セルを追加。
-                </div>
-            </div>
-            <div class="list">
-                ▶属性変換対応ギアを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・四谷 ゆみ専用ギア一式
-                    <p class="list red">
-                        ※アナザーギアは対象外となります
-                    </p>
-                </div>
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
