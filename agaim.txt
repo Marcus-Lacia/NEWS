@@ -34,9 +34,281 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1295" class="weighty-column">
+
+            2024/06/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.81.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1295" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年06月26日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.81.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.81.0の更新内容】</p>
+        
+        <div class="list">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶習熟訓練に「SP・アクティブの消費無効」のオプションを追加しました。
+        </div>
+        <div class="list">
+            ▶下記アクトレスのボイスアーカイブに、「ステラー」タブを追加しました。
+        </div>
+        <p class="list red">
+            ※対象アクトレスの「ステラー」が加入すると解放されます。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・小鳥遊 怜<br>
+                ・バージニア・グリンベレー<br>
+                ・四谷 ゆみ<br>
+                ・紺堂 地衛理<br>
+                ・萬場 盟華
+            </div>
+        </div>
+        <div class="list">
+            ▶ドレッサー及び3D MODEL画面のアクセサリー一覧に、アクセサリーのフィルタ&amp;ソート機能を追加しました。
+        </div>
+        <p class="list red">
+            ※本機能の追加に伴い、各種アクセサリーのデフォルトのソート順を調整しました。
+        </p>
+        <div class="list">
+            ▶Lv.81以上の小型ヴァイスのパラメータを下方調整しました。
+        </div>
+        <div class="list">
+            ▶Lv.80以下の小型ヴァイスのパラメータを僅かに下方調整しました。
+        </div>
+        <div class="list">
+            ▶萬場 盟華【サン】のSPスキル「レーヴ・ド・パピヨン」の攻撃の一次属性を変更しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                変更前：斬撃属性<br>
+                変更後：<span class="red">打撃属性</span>
+            </div>
+        </div>
+        <div class="list">
+            ▶エミッショントランス発生中に画面上下に表示されるエフェクトの色味を調整しました。
+        </div>
+        <div class="list">
+            ▶アプリ起動後のロード画面等に表示される一部アクトレスの手書き履歴書に、折り目の表現を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・小芦 睦海<br>
+                ・二子玉 舞<br>
+                ・バージニア・グリンベレー<br>
+                ・藤野 やよい<br>
+                ・下落合 桃歌<br>
+                ・依城 えり<br>
+                ・大関 小結
+            </div>
+        </div>
+        <div class="list show_only_DMM">
+            ▶「オプション」＞「グラフィック関連」＞「解像度」に、新たに「3840×2160」の解像度設定を追加しました。
+        </div>
+        <div class="list">
+            ▶「オプション」＞「バトル関連」＞「ダメージ表示設定」を「全て」または「一部」に設定した場合に、表示される回復量やダメージの種類を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【追加された表示の一例】</p>
+            <div>
+                ・バディが回復した際の回復量<br>
+                ・敵が受けた状態異常ダメージ<br>
+                ・敵が敵の攻撃で受けたダメージ など
+            </div>
+        </div>
+        <div class="list">
+            ▶お知らせやショップ等の一部画面に、公式サイトへのバナーを追加しました。
+        </div>
+        <div class="list">
+            ▶敵をロックオンしていない状態で近接攻撃ボタンを押した場合、一番近くの敵をロックオンして攻撃するよう挙動を変更しました。
+        </div>
+        <div class="list">
+            ▶射撃に弾数制限がある一部ショットギアを装備中、ロックオンマーカーが表示されていない時（敵と密着している時）に弾数が変動した場合に、変動後の弾数が表示されるよう仕様を変更しました。
+        </div>
+        <div class="list">
+            ▶射撃に弾数制限がある一部ショットギアを装備中、弾数が最大まで回復する瞬間に溜め撃ちを発射しようとすると、通常射撃が発射される不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.80.0アプリより、射撃に弾数制限がある一部ショットギアを装備中にOVER HEATが回復するまでショットの溜め状態を維持し続けると、回復後に溜め状態の効果音が消える問題を修正しました。
+        </div>
+        <div class="list">
+            ▶遊馬 勇専用クロスギアの一部攻撃が、エフェクトの見た目に対して当たりにくくなっている問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★3/八一式長槍AIs<br>
+                ・★3/八一式長槍AIs甲<br>
+                ・★3/八一式長槍AIs乙<br>
+                ・★4/ヤリハンゾウ<br>
+                ・★4/ヤリハンゾウ改<br>
+                ・★4/モリツナ
+            </div>
+        </div>
+        <div class="list">
+            ▶天狐 天専用クロスギアの近接攻撃1段目が、特定状況で敵に当たりにくい問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★3/ベノムTSs<br>
+                ・★3/ベノムTSsA1<br>
+                ・★3/ベノムTSsA2<br>
+                ・★4/トビグチ<br>
+                ・★4/トビグチ改<br>
+                ・★4/トビグチ【木遣】
+            </div>
+        </div>
+        <div class="list">
+            ▶ボトムスギア「サイクロン★トライH/B」及び「サイクロン★トライF/B」の、ギアスキル説明文の脱字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                修正前：自身から10範囲の敵弾誘導性能を無効化する<br>
+                修正後：自身から<span class="red">10m範囲</span>の敵弾誘導性能を無効化する
+            </div>
+        </div>
+        <div class="list">
+            ▶従来と異なる属性に変換された萬場 盟華専用ショットギアに品質を付与しても、属性値が上昇しない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/CアタッカーYMsS<br>
+                ・★3/CアタッカーYMsSMk2<br>
+                ・★3/CアタッカーYMsSMk3<br>
+                ・★4/ペロブスカイトブローS<br>
+                ・★4/ペロブスブローS<br>
+                ・★4/ペロブS<br>
+                ・★4/プーリミッシャーS<br>
+                ・★4/プリミS
+            </div>
+        </div>
+        <div class="list">
+            ▶萬場 盟華が特定ギアを装備していると、3D MODEL画面で開発意図と異なるポーズをとってしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶萬場 盟華が特定の髪型変更アクセサリーとコスチュームを同時着用すると、眉毛が髪と異なる色になる問題を修正しました。
+        </div>
+        <div class="list">
+            ▶萬場 盟華のアクセサリー「サンビスカス」が、着用中に揺れない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターのアクセサリー「べっ甲メガネ」の鼻パッドが、開発意図と異なる色味となっている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・駒添 絵伝<br>
+                ・吾妻 京
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターのアクセサリー「べっ甲メガネ」の一部パーツが、開発意図と異なる色味となっている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・兼志谷 シタラ<br>
+                ・ファティマ・B<br>
+                ・萬場 盟華<br>
+                ・サンティ・R<br>
+                ・新居目 安里
+            </div>
+        </div>
+        <div class="list">
+            ▶Ver.1.80.0アプリより、オプションのキーバインドにて「通常移動設定」の項目が表示されなくなっている不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶習熟訓練にて、エミッショントランスの発生確率が開発意図よりも低くなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ヴェスピナエ属性特異型が特定行動中にダウンした際に、一部の子機が攻撃を行わなくなるよう挙動を調整しました。
+        </div>
+        <div class="list">
+            ▶ダウンした敵に対してエミッショントランスが発生した際に、ダウンゲージの進行が遅くならない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※上記状況の場合、ダウンゲージの進行も遅くなるのが開発意図となります。
+        </p>
+        <div class="list">
+            ▶バディリンク中、近接攻撃を行う瞬間にSPスキルを使用すると、バディがその場で硬直することがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶キャラクターパッシブスキルのスロット2と3に得意ギアタグを装着している場合に、スロット3スキルの「はずす」が選択できない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶特定端末にて、バトル中のカメラモードを利用して撮影すると、スクリーンショットの端に白い線が表示される問題を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.78.0アプリより、ノーマル及びアナザーの紺堂 地衛理が、ドレッサー画面で特定のリアクションをとらない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ドレッサー画面のBGM変更時に特定操作を行うと、BGMが再生されなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「新米隊長向け 特別調査任務」の一部任務名称が、開発意図と異なっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「新米隊長向け 特別調査任務」の一部任務に出現するレントラーに、弱点属性が設定されていない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※対象レントラーの正しい弱点属性は「焼夷属性」となります。
+        </p>
+        <div class="list">
+            ▶イベント「疾駆！ハンディレーサー成子坂GP」のイベントトップ画面にて、マシンが違和感のある走り方をしていることがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「疾駆！ハンディレーサー成子坂GP」に登場するNPCの名称表記を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                調整前：五十鈴 みお<br>
+                調整前：五十鈴 澪
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.81.0の配信に伴い、<span class="bold red">6/27（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1294" class="weighty-column">
 
-            2024/06/25 15:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/06/25 15:10                            
+                <span class="red bold">
+                                            (06/26 実施済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
@@ -46,6 +318,17 @@
         <div id="important-text-1294" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて調整を実施いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
     
     <div>
         ■2024年06月25日 15:10<br>
@@ -141,7 +424,11 @@
         
         <div id="important-column-1292" class="weighty-column">
 
-            2024/06/17 12:15            
+            2024/06/17 12:15                            
+                <span class="bold">
+                                            (06/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               従来と異なる属性に変換された萬場 盟華専用ショットギアに品質を付与しても、属性値が上昇しない            </div>
@@ -150,6 +437,17 @@
         <div id="important-text-1292" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年06月17日 12:15<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -192,7 +490,11 @@
         
         <div id="important-column-1291" class="weighty-column">
 
-            2024/06/14 21:05            
+            2024/06/14 21:05                            
+                <span class="bold">
+                                            (06/26 実施済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
               萬場 盟華【サン】のSPスキル「レーヴ・ド・パピヨン」の一次属性の変更について            </div>
@@ -201,6 +503,17 @@
         <div id="important-text-1291" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて変更を実施いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
     
     <div>
         ■2024年06月14日 21:05<br>
@@ -241,7 +554,11 @@
         
         <div id="important-column-1290" class="weighty-column">
 
-            2024/06/13 15:30            
+            2024/06/13 15:30                            
+                <span class="bold">
+                                            (06/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               萬場 盟華が特定の髪型変更アクセサリーとコスチュームを同時着用すると、眉毛が髪と異なる色になる            </div>
@@ -250,6 +567,17 @@
         <div id="important-text-1290" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年06月13日 15:30<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -427,7 +755,11 @@
         
         <div id="important-column-1287" class="weighty-column">
 
-            2024/06/11 20:00            
+            2024/06/11 20:00                            
+                <span class="bold">
+                                            (06/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.78.0アプリより、ノーマル及びアナザーの紺堂 地衛理が、ドレッサー画面で特定のリアクションをとらない            </div>
@@ -436,6 +768,17 @@
         <div id="important-text-1287" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年06月11日 20:00<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -766,7 +1109,11 @@
         
         <div id="important-column-1281" class="weighty-column">
 
-            2024/05/31 13:00            
+            2024/05/31 13:00                            
+                <span class="bold">
+                                            (06/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               習熟訓練にて、エミッショントランスの発生確率が開発意図よりも低くなることがある            </div>
@@ -775,6 +1122,17 @@
         <div id="important-text-1281" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年05月31日 13:00<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -807,7 +1165,11 @@
         
         <div id="important-column-1280" class="weighty-column">
 
-            2024/05/30 16:40            
+            2024/05/30 16:40                            
+                <span class="bold">
+                                            (06/26 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.80.0アプリより、オプションのキーバインドにて「通常移動設定」の項目が表示されなくなっている            </div>
@@ -816,6 +1178,17 @@
         <div id="important-text-1280" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年06月26日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.81.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年05月30日 16:40<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1112,146 +1485,6 @@
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1277" class="weighty-column">
-
-            2024/05/28 14:25            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.80.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1277" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年05月28日 14:25<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.80.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.80.0の更新内容】</p>
-        
-        <div class="list">
-            ▶メニュー画面に「履歴書原本」を追加しました。
-        </div>
-        <p class="list red">
-            ※アプリ起動後のロード画面に表示される手書き履歴書を、いつでも確認できる機能です。
-        </p>
-        <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240528/info_01.jpg?v=2560">
-        </div>
-        <div class="list">
-            ▶「オプション」＞「実験的機能」＞「キーバインド」に、バディリンク/ユニゾン発動キーの変更機能を追加しました。
-        </div>
-        <p class="list red">
-            ※スマートフォン版でキーバインド機能を利用するには、「実験的機能」＞「ゲームパッド対応」をONにする必要があります。
-        </p>
-        <div class="list">
-            ▶射撃に弾数制限がある一部ショットギアで、OVER HEAT回復時にショットの溜め状態が維持されるよう調整しました。
-        </div>
-        <div class="list">
-            ▶おでかけモードのミニゲーム一覧に、遊び方を表示するボタンを追加しました。
-        </div>
-        <div class="show_only_DMM">
-            <div class="list">
-                ▶オプション」＞「実験的機能」の「リフレッシュレートの制限解除」を「垂直同期設定」に改良しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    <span class="bold">・標準</span><br>
-                    ゲーム標準の設定です。
-                    <p class="list red">
-                        ※従来の「リフレッシュレートの制限解除」OFF時と同じ挙動。
-                    </p>
-                </div>
-                <div>
-                    <span class="bold">・有効</span><br>
-                    ディスプレイ性能に応じたフレームレートで動作するようになります。
-                </div>
-                <div>
-                    <span class="bold">・無効</span><br>
-                    PC性能に応じたフレームレートで動作するようになります。
-                    <p class="list red">
-                        ※従来の「リフレッシュレートの制限解除」ON時と同じ挙動。
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="list">
-            ▶ギアチューンの許可証選択画面にて特定操作を行うと、選択した許可証とは異なる許可証が選ばれた状態になることがある不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※本不具合について補填対応を予定しております。<br>
-            補填の詳細につきましては「ギアチューンの許可証選択時に発生している不具合について」の重要なお知らせをご確認ください。
-        </p>
-        <div class="list">
-            ▶特定の大型ヴァイスが、出現・撃破演出の前後に開発意図と異なるポーズをとる問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象大型ヴァイス】</p>
-            <div>
-                ・ケルベロス<br>
-                ・サーペント<br>
-                ・セルケト各種<br>
-                ・ヒュドラ各種<br>
-                ・オベリスク各種
-            </div>
-        </div>
-        <div class="list">
-            ▶ミア・VのSPスキル「ル・グランメナージュ」のスキル説明文が、特定状況で他の文字と被って表示されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶特定SPスキルを装着したバディと一緒にユニゾンを発動すると、バディがプレイヤーの操作を無視して近接攻撃を行い続ける不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・アグレッシブパイル<br>
-                ・ディヴェルティスマン<br>
-                ・パープルハート
-            </div>
-        </div>
-        <div class="list">
-            ▶習熟訓練にて、「リンクゲージ高速回復」のオプションをONにした状態で特定操作を行うと、エラーが発生することがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶バディリンク可能状態を表すエフェクトが、戦闘不能状態の控えキャラクターにも表示される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶メインストーリー「黎明編1章」の一部任務に出現するルイカの見た目が、開発意図と異なっている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、能力に変更はございません。
-        </p>
-        <div class="list">
-            ▶任務開始時の目標表示（「2分以内に敵を全滅」など）の表示時間を微調整しました。
-        </div>
-        <div class="list">
-            ▶ホーム画面で特定操作を行うと、キャラクターの名称ウィンドウが表示されたままとなる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.80.0の配信に伴い、<span class="bold red">5/29（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
     <div>
