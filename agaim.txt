@@ -280,7 +280,7 @@
         <div class="sub-box bg_white">
             <div>
                 調整前：五十鈴 みお<br>
-                調整前：五十鈴 澪
+                調整後：五十鈴 澪
             </div>
         </div>
         <div class="list">
