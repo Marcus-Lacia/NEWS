@@ -306,7 +306,7 @@
         <div id="important-column-1294" class="weighty-column">
 
             2024/06/25 15:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (06/26 実施済)
                                     </span>
             
