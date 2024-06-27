@@ -34,6 +34,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1298" class="weighty-column">
+
+            2024/06/27 20:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定端末でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある            </div>
+
+        </div>
+        <div id="important-text-1298" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年06月27日 20:15<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶特定端末でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1297" class="weighty-column">
 
             2024/06/27 18:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1372,41 +1411,6 @@
                 ・5/25 遊馬 勇
             </div>
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1278" class="weighty-column">
-
-            2024/05/29 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1278" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年05月29日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日、以下のアップデートを実施いたしましたのでご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【アップデート内容】</p>
-        
-        <div class="list">
-            ▶ミニゲーム「きょうのラッキーアクトレス」に「遊馬 勇」を追加しました。
-        </div>
-        <p class="list red">
-            ※ランダムで出現します。
-        </p>
     </div>
     
     <div>
