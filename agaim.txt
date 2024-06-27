@@ -34,6 +34,63 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1296" class="weighty-column">
+
+            2024/06/27 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1296" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年06月27日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶アクセサリー「V-THORメット」及び「ポーンA1ヘルム」を着用した際に、ホーム画面で表示される名前表示が変化するよう調整しました。
+        </div>
+        <div class="list">
+            ▶チャージ中のポイゾネルモス各種を特定状況でダウンさせると、ダウン状態から回復した後に、阻止したチャージ攻撃が発動してしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶一部コラボキャラクターのコスチューム「クリーム＆バター制服」の名称の脱字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                修正前：クリーム＆バター<br>
+                修正後：クリーム＆バター制服
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1295" class="weighty-column">
 
             2024/06/26 14:00            
@@ -1410,82 +1467,6 @@
     <div>
         このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1275" class="weighty-column">
-
-            2024/05/29 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1275" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年05月29日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶ミニサーペントの頭・胴・尾それぞれの部位ごとに状態異常が判定されていたのを、ミニサーペント単体として、一括判定するよう仕様を変更しました。
-        </div>
-        <p class="list red">
-            ※今後、新たな状態変化を実装するための仕様変更となります。
-        </p>
-        <div class="list">
-            ▶ヴェスピナエ属性特異型をロックオンした時、特定状況でロックオンマーカーの表示位置が僅かにずれる問題を修正しました。
-        </div>
-        <div class="list">
-            ▶藤野 やよいのコスチューム「a.k.a」の、特定部位の布の質感を微調整しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gがコスチューム「コミマ戦闘服/ジニー」着用中に特定ポーズをとった時に、肘の見え方に違和感がある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶一部キャラクターのアクセサリー「ウマミミ/栗」が、着用中に揺れない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・下落合 桃歌<br>
-                ・駒添 絵伝<br>
-                ・ノエル・F
-            </div>
-        </div>
-        <div class="list">
-            ▶紅月 カレンのアクセサリー「外したバンダナ」のアイコンに表記されたコストが誤っている問題を修正しました。
-        </div>
-        <p class="list red">
-            ※正しいコストは「1」となります。
-        </p>
-        <div class="list">
-            ▶コスチューム交換一覧に表示される、「カラットショップ ノーブルヒルズ セール」のバナーの画質がやや粗い問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
