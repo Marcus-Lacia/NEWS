@@ -40,7 +40,7 @@
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定端末でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある            </div>
+              特定環境でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある            </div>
 
         </div>
         <div id="important-text-1298" class="weighty-notice hide">
@@ -59,7 +59,7 @@
         <p class="bold">【不具合内容】</p>
         
         <div class="list">
-            ▶特定端末でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある。
+            ▶特定環境でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある。
         </div>
     </div>
     <div>
