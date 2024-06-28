@@ -126,8 +126,7 @@
         
         <div id="important-column-1298" class="weighty-column">
 
-            2024/06/27 20:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/27 20:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定環境でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある            </div>
