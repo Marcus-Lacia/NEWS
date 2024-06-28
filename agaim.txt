@@ -165,8 +165,7 @@
         
         <div id="important-column-1297" class="weighty-column">
 
-            2024/06/27 18:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/27 18:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.81.0アプリより、特定SPスキルの効果で性能が上書きされたボトムススキルのダメージ量が、装備したギアのボトムススキルによって変動してしまう            </div>
