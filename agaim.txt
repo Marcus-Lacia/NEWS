@@ -78,8 +78,7 @@
         
         <div id="important-column-1299" class="weighty-column">
 
-            2024/06/28 11:35                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/06/28 11:35            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               小石川 エマのパッシブスキル「ツインフレイム」にスキルLvが表記されている            </div>
