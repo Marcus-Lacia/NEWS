@@ -118,8 +118,7 @@
         
         <div id="important-column-1302" class="weighty-column">
 
-            2024/07/01 13:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/01 13:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.81.0アプリより、任務中にギアスキルの使用回数が回復した場合に、スキルアイコンに正しい使用回数が反映されない            </div>
