@@ -120,8 +120,7 @@
         
         <div id="important-column-1303" class="weighty-column">
 
-            2024/07/04 18:45                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/04 18:45            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               佐伯 リツカの一部の★3専用ギア及びレプリカギアの属性攻撃力が、開発意図よりも高い数値となっている            </div>
