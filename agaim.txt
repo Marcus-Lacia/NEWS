@@ -36,8 +36,7 @@
         
         <div id="important-column-1305" class="weighty-column">
 
-            2024/07/05 18:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/05 18:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない            </div>
