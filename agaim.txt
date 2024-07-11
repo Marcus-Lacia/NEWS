@@ -36,7 +36,10 @@
         
         <div id="important-column-1306" class="weighty-column">
 
-            2024/07/11 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/07/11 14:00                            
+                <span class="red bold">
+                                            (07/11 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -90,7 +93,12 @@
             </div>
         </div>
         <p class="list red">
-            ※対象パッシブスキルをすでに習得している場合は、後日、正しい表記（Lv表記なし）への修正を予定しております。
+            <s>※対象パッシブスキルをすでに習得している場合は、後日、正しい表記（Lv表記なし）への修正を予定しております。</s>
+        </p>
+        <p class="list red">
+            ※14:10 追記<br>
+            修得済みの対象パッシブスキルにつきましても、正しい表記への修正が完了しました。
+            本対応は、再度ログインしていただくことで反映されます。
         </p>
         <div class="list">
             ▶新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない不具合を修正しました。
