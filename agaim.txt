@@ -34,6 +34,57 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1308" class="weighty-column">
+
+            2024/07/11 18:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「エマとリツカの課外活動」の一部任務が正しく開放されない            </div>
+
+        </div>
+        <div id="important-text-1308" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年07月11日 18:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶7/11（木）14:00 のアップデートより、イベント「エマとリツカの課外活動」のエピソード「終わりは次の始まり」の初回クリア時に、以下の任務が正しく開放されない。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・V-THORギア運用試験2<br>
+                ・特別周回任務：NORMAL<br>
+                ・特別周回任務：HARD<br>
+                ・特別周回任務：V-HARD
+            </div>
+        </div>
+        <p class="list red">
+            ※本不具合は、アップデート前に対象任務を開放しているお客様への影響はありません。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因の調査を行っております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1307" class="weighty-column">
 
             2024/07/11 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1434,94 +1485,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1288" class="weighty-column">
-
-            2024/06/13 14:00                            
-                <span class="bold">
-                                            (06/13 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1288" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年06月13日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶萬場 盟華の絆エピソードEp.5初回クリア報酬に、アクセサリー「サンビスカス」を追加しました。
-        </div>
-        <p class="list red">
-            <s>※既に当該エピソードをクリア済みのお客様には、後日、受取箱へ追加アクセサリーの配布を予定しております。</s>
-        </p>
-        <p class="list red">
-            ※6/13（木）14:20 追記<br>
-            既に当該エピソードをクリア済みのお客様へ、追加アクセサリーの配布が完了いたしました。
-        </p>
-        <div class="list">
-            ▶萬場 盟華のエニグマで修得可能なパッシブスキル「Bストリーマー1」に、スキル効果を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                <span class="bold">変更前：</span><br>
-                ボトムスアクティブスキル「バタ揚げストリーム」の発動時、一部の敵弾消滅機能を持つ周回性のユニットが発生、ユニットは12秒間継続する 合わせて焼夷攻撃力が上昇、10m範囲の敵弾誘導性能を無効化する 15秒間継続
-            </div>
-            <div>
-                <span class="bold">変更後：</span><br>
-                ボトムスアクティブスキル「バタ揚げストリーム」の発動時、一部の敵弾消滅機能を持つ周回性のユニットが発生、ユニットは12秒間継続する 焼夷および冷撃攻撃力が上昇、10m範囲の敵弾誘導性能を無効化する 15秒間継続
-            </div>
-        </div>
-        <div class="list">
-            ▶四谷 ゆみのエニグマで修得可能なパッシブスキル「DグラヴィテUP1」に、スキルタグやスキル効果を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                <p class="bold">【追加内容】</p>
-                <div class="list">
-                    ・スキルタグに「SPタグ」を追加。
-                </div>
-                <div class="list">
-                    ・スキルに「当該アクティブスキル効果中、射撃攻撃力が10%上昇する」効果を追加。
-                </div>
-            </div>
-        </div>
-        <div class="list">
-            ▶小鳥遊 怜のコスチューム「ウネメ02F」の、右腕のヤシマ重工ロゴが左右反転している問題を修正しました。
-        </div>
-        <div class="list">
-            ▶御茶ノ水 美里江がコスチューム「ゆうしゃのふく」とアクセサリー「キャップ/ホビイ」をあわせて着用した時の見た目を調整しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
