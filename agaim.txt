@@ -34,9 +34,140 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1306" class="weighty-column">
+
+            2024/07/11 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1306" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年07月11日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶佐伯 リツカの一部の★3専用ギア及びレプリカギアの属性攻撃力が、★4専用ギア相当の数値となっており、開発意図よりも高く設定されている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                <span class="bold">ショットギア</span><br>
+                ・★3/ガンナイフR<br>
+                ・★3/ガンナイフ<br>
+                ・★3/ガンナイフMk2<br>
+                ・★3/ガンナイフMk3
+            </div>
+            <div>
+                <span class="bold">クロスギア</span><br>
+                ・★3/ライトウェイトブレードR<br>
+                ・★3/ライトウェイトブレード<br>
+                ・★3/ライトウェイトブレードMk2<br>
+                ・★3/ライトウェイトブレードMk3
+            </div>
+        </div>
+        <div class="list">
+            ▶小石川 エマのエニグマで修得可能なパッシブスキル「ツインフレイム」に、スキルLvが表記されている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※表記のみの不具合となり、スキル性能には影響がないことを確認しております。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                誤：Lv.2<br>
+                正：Lv表記なし
+            </div>
+        </div>
+        <p class="list red">
+            ※対象パッシブスキルをすでに習得している場合は、後日、正しい表記（Lv表記なし）への修正を予定しております。
+        </p>
+        <div class="list">
+            ▶新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※本修正に伴い、当該スキルの説明文を更新しております。
+        </p>
+        <div class="list">
+            ▶シャーリー・O専用トップスギアのスキル発動時の、トップスギアの動きを微調整しました。
+        </div>
+        <p class="list red">
+            ※見た目の修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・★4/ワイルドチャップス/T<br>
+                ・★4/ワイルドチャップスG2/T<br>
+                ・★4/フロンティアチャップス/T
+            </div>
+        </div>
+        <div class="list">
+            ▶シャーリー・OのSPスキル「ラフストック」の効果で性能が上書きされたボトムススキルの説明文の一部を微調整しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの調整となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                調整前：サドルコンテナユニットから電撃ミサイルを発射する<br>
+                調整後：サドルコンテナユニットからミサイルを発射する
+            </div>
+        </div>
+        <div class="list">
+            ▶スカウトレベルが9になった際、キャラクター提供割合ページに表示されるスカウトEXPが、0より多い数値になる場合がある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※表示のみの問題となり、実際のスカウトEXP及びスカウトレベルに影響はありません。
+        </p>
+        <p class="list red">
+            ※スカウトレベルが上限のLv.9になった際は、スカウトEXPが上昇しないのが仕様となります。
+        </p>
+        <div class="list">
+            ▶シャーリー・Oのボイスアーカイブ等に表示される、一部台詞の一人称の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶萬場 盟華の絆エピソードEp.2にて、萬場 盟華の台詞の誤字を修正しました。
+        </div>
+        <div class="list">
+            ▶アクセサリー「ハートリング」のアイコンが、開発意図と異なる表示になっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1305" class="weighty-column">
 
-            2024/07/05 18:05            
+            2024/07/05 18:05                            
+                <span class="bold">
+                                            (07/11 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない            </div>
@@ -45,6 +176,17 @@
         <div id="important-text-1305" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年07月11日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年07月05日 18:05<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -118,7 +260,11 @@
         
         <div id="important-column-1303" class="weighty-column">
 
-            2024/07/04 18:45            
+            2024/07/04 18:45                            
+                <span class="bold">
+                                            (07/11 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               佐伯 リツカの一部の★3専用ギア及びレプリカギアの属性攻撃力が、開発意図よりも高い数値となっている            </div>
@@ -127,6 +273,17 @@
         <div id="important-text-1303" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年07月11日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年07月04日 18:45<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -354,7 +511,11 @@
         
         <div id="important-column-1299" class="weighty-column">
 
-            2024/06/28 11:35            
+            2024/06/28 11:35                            
+                <span class="bold">
+                                            (07/11 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               小石川 エマのパッシブスキル「ツインフレイム」にスキルLvが表記されている            </div>
@@ -363,6 +524,17 @@
         <div id="important-text-1299" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年07月11日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年06月28日 11:35<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1339,67 +1511,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1286" class="weighty-column">
-
-            2024/06/07 18:05                            
-                <span class="bold">
-                                            (06/07 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1286" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年06月07日 18:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶今後公開予定の一部データを修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                6/7（金）18:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                6/21（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
