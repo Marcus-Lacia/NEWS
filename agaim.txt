@@ -140,7 +140,7 @@
         <div id="important-column-1306" class="weighty-column">
 
             2024/07/11 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (07/11 更新)
                                     </span>
             
