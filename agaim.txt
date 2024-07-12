@@ -36,7 +36,10 @@
         
         <div id="important-column-1308" class="weighty-column">
 
-            2024/07/11 18:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/07/11 18:20                            
+                <span class="red bold">
+                                            (07/12 補填済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -46,6 +49,42 @@
         <div id="important-text-1308" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年7月12日 16:00 追記<br>
+        本件につきまして、修正が完了いたしましたのでご報告申し上げます。
+    </div>
+    <p class="list red">
+        ※修正が反映されない場合は、再度ログインしていただくことで反映されます。
+    </p>
+    <div>
+        また、不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                7/12（金）16:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                創彩メダル × 5000
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                7/23（火）14:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年07月11日 18:20<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
