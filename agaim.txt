@@ -36,8 +36,7 @@
         
         <div id="important-column-1311" class="weighty-column">
 
-            2024/07/17 15:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/17 15:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.81.0アプリより、マルチ任務の戦闘中にホストプレイヤーがルームを解散した場合、ゲストプレイヤーがロード画面のまま動かなくなってしまう            </div>
@@ -75,8 +74,7 @@
         
         <div id="important-column-1310" class="weighty-column">
 
-            2024/07/17 15:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/17 15:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.81.0アプリより、一部のエピソードが不自然なタイミングで中断される場合がある            </div>
