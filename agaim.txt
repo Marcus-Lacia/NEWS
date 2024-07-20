@@ -36,8 +36,7 @@
         
         <div id="important-column-1313" class="weighty-column">
 
-            2024/07/19 19:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/19 19:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ゲームパッドまたはキーボード操作にて、指揮官モードを一時停止している時に特定操作を行うと、任務がクリアできなくなる場合がある            </div>
