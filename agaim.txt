@@ -34,6 +34,68 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1312" class="weighty-column">
+
+            2024/07/22 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1312" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年07月22日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶下記キャラクターがコスチューム「スタープロムナード」を着用中、特定のポーズをとった場合、コスチュームの一部が肌にめり込むことがある問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・波佐見 利佳<br>
+                ・春日丘 もえ
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターのコスチューム「チアガール/成子坂B」の衣装説明画面にて、企業アイコンが表示されない問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・巽 竜子<br>
+                ・鳳 加純
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1313" class="weighty-column">
 
             2024/07/19 19:10            
@@ -1359,67 +1421,6 @@
         <div>
             その影響を受け、Lv.80以下の小型ヴァイスのパラメータも変化いたしますが、ストーリー任務や多くのイベント任務のプレイフィールが大きく変わらないように、調整前とほぼ変わらないよう、わずかに弱体化した程度の調整になります。
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1293" class="weighty-column">
-
-            2024/06/17 18:00                            
-                <span class="bold">
-                                            (06/17 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1293" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年06月17日 18:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶今後公開予定の一部データを修正しました。
-        </div>
-    </div>
-    <div>
-        また、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                6/17（月）18:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                7/1（月）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
