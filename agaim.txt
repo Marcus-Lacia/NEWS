@@ -34,6 +34,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1318" class="weighty-column">
+
+            2024/07/26 13:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              伊戸倉 音緒のエニグマで、アナザーエリアのセル「スキルスロット14付け替え機能」を解放しても、伊戸倉 音緒【破手】に反映されない            </div>
+
+        </div>
+        <div id="important-text-1318" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年07月26日 13:50<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶伊戸倉 音緒のエニグマで、アナザーエリアのセル「スキルスロット14付け替え機能」を解放しても、伊戸倉 音緒【破手】に反映されない。
+        </div>
+        <p class="list red">
+            ※ノーマル、ファクターでは正常に反映されていることを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1315" class="weighty-column">
 
             2024/07/25 14:00                            
@@ -1379,59 +1421,6 @@
                 誤：Lv.2<br>
                 正：Lv表記なし
             </div>
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1298" class="weighty-column">
-
-            2024/06/27 20:15                            
-                <span class="bold">
-                                            (07/01 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              特定環境でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある            </div>
-
-        </div>
-        <div id="important-text-1298" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月01日 18:10 追記<br>
-        本件につきまして、順次配信されましたVer1.81.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年06月27日 20:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶特定環境でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある。
         </div>
     </div>
     <div>
