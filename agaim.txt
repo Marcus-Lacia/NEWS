@@ -262,8 +262,7 @@
         
         <div id="important-column-1317" class="weighty-column">
 
-            2024/07/25 18:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/25 18:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ファティマ・B及び伊戸倉 音緒に特定のSPスキルを装着すると、SPスキル発動時のボイスが再生されない            </div>
