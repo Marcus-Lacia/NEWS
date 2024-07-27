@@ -78,8 +78,7 @@
         
         <div id="important-column-1319" class="weighty-column">
 
-            2024/07/26 15:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/26 15:15            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部のエピソードで、開発意図と異なるキャラクターが表示されてしまう            </div>
