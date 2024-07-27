@@ -36,8 +36,7 @@
         
         <div id="important-column-1320" class="weighty-column">
 
-            2024/07/26 20:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/26 20:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.82.0アプリより、一部のゲームパッドが正常に動かなくなっている            </div>
