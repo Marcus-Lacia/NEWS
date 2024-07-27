@@ -117,8 +117,7 @@
         
         <div id="important-column-1318" class="weighty-column">
 
-            2024/07/26 13:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/07/26 13:50            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               伊戸倉 音緒のエニグマで、アナザーエリアのセル「スキルスロット14付け替え機能」を解放しても、伊戸倉 音緒【破手】に反映されない            </div>
