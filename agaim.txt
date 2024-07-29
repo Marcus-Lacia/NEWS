@@ -34,6 +34,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1323" class="weighty-column">
+
+            2024/07/29 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ファティマ・BのSPスキル「スイフトマローダーH」が敵にヒットした際に、実際に与えたダメージ値とは別に、数字の「0」が表示される            </div>
+
+        </div>
+        <div id="important-text-1323" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年07月29日 20:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶ファティマ・BのSPスキル「スイフトマローダーH」が敵にヒットした際に、実際に与えたダメージ値とは別に、数字の「0」が表示される。
+        </div>
+        <p class="list red">
+            ※攻撃とは無関係な数字が表示される不具合となり、実際に与えたダメージ値は開発意図通りとなっていることを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1320" class="weighty-column">
 
             2024/07/26 20:40            
@@ -1332,62 +1374,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1302" class="weighty-column">
-
-            2024/07/01 13:10                            
-                <span class="bold">
-                                            (07/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.81.0アプリより、任務中にギアスキルの使用回数が回復した場合に、スキルアイコンに正しい使用回数が反映されない            </div>
-
-        </div>
-        <div id="important-text-1302" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月24日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.82.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
- 
-    <div>
-        ■2024年07月01日 13:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.81.0アプリより、任務中にギアスキルの使用回数が回復した場合に、スキルアイコンに正しい使用回数が反映されない。
-        </div>
-        <p class="list red">
-            ※表示が反映されない不具合となり、ギアスキルの使用回数は正常に回復していることを確認しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
