@@ -34,6 +34,43 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1321" class="weighty-column">
+
+            2024/07/30 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.82.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1321" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年07月30日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.82.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.82.1の更新内容】</p>
+        
+        <div class="list">
+            ▶一部のエピソードで、開発意図と異なるキャラクターが表示されてしまう不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.82.1の配信に伴い、<span class="bold red">7/31（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1323" class="weighty-column">
 
             2024/07/29 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -119,7 +156,11 @@
         
         <div id="important-column-1319" class="weighty-column">
 
-            2024/07/26 15:15            
+            2024/07/26 15:15                            
+                <span class="bold">
+                                            (07/30 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部のエピソードで、開発意図と異なるキャラクターが表示されてしまう            </div>
@@ -128,6 +169,17 @@
         <div id="important-text-1319" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年07月30日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.82.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+
+    
+    <hr class="red">
+
     <div>
         ■2024年07月26日 15:15<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1293,87 +1345,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1301" class="weighty-column">
-
-            2024/07/01 18:10            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.81.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1301" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年07月01日 18:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.81.1のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.81.1の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.81.0アプリより、特定SPスキルの効果で性能が上書きされたボトムススキルのダメージ量が、装備したギアのボトムススキルによって変動してしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・メタトロニオス<br>
-                ・ウラノメトリア<br>
-                ・祭朱砲筒【大輪】<br>
-                ・F.N.クレイモア
-            </div>
-        </div>
-        <div class="list">
-            ▶小石川 エマのエニグマで修得可能なパッシブスキル「重砲機能拡張1」の「専用ショットギアの立ち射撃と溜め撃ちのダメージが10%上昇する」効果が、溜め撃ちに対して正しく反映されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶小石川 エマの専用トップスギアのギアスキルを発動した時、ギアの砲口から僅かにずれた位置からビームが発射される問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶小石川 エマの専用トップスギア及びクロスギアの一部パーツに、無敵状態等のエフェクトが表示されないことがある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="list">
-            ▶特定環境でホーム画面に設置されている撮影用カメラに切り替えた際、元の画面に戻るための「戻るボタン」がタップしづらい場合がある問題を修正しました。
-        </div>
-        <div class="list show_only_Android">
-            ▶ホーム画面に設置されている撮影用カメラの利用中は、端末のバックキーが有効となるよう挙動を調整しました。
-        </div>
-        <div class="list">
-            ▶ホーム画面に設置されている撮影用カメラに切り替えた際に特定操作を行うと、ホーム画面が開発意図と異なる表示になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「エマとリツカの課外活動」エピソード5話に登場する、特定キャラクターの一人称の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.81.1の配信に伴い、<span class="bold red">7/2（火）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
