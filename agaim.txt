@@ -34,6 +34,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1324" class="weighty-column">
+
+            2024/08/01 16:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              イベント「調査任務ver.2α コマンダー撃破任務」にて、操作キャラクター以外の「奇数エリア移動毎に発動するパッシブスキル効果」が、任務開始時に正常に発動しない            </div>
+
+        </div>
+        <div id="important-text-1324" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年08月01日 16:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶イベント「調査任務ver.2α コマンダー撃破任務」にて、操作キャラクター以外の「奇数エリア移動毎に発動するパッシブスキル効果」が、任務開始時に正常に発動しない。
+        </div>
+        <p class="list red">
+            ※「やり直す」を行った場合、正常に発動できることを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因の調査を行っております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1322" class="weighty-column">
 
             2024/07/31 14:00            
@@ -1294,47 +1336,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1304" class="weighty-column">
-
-            2024/07/05 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1304" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年07月05日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
