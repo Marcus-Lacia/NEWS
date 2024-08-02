@@ -36,8 +36,7 @@
         
         <div id="important-column-1324" class="weighty-column">
 
-            2024/08/01 16:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/08/01 16:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               イベント「調査任務ver.2α コマンダー撃破任務」にて、操作キャラクター以外の「奇数エリア移動毎に発動するパッシブスキル効果」が、任務開始時に正常に発動しない            </div>
