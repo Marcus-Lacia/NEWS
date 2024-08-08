@@ -34,6 +34,115 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1325" class="weighty-column">
+
+            2024/08/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1325" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年08月08日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶下記ショットギア一部の弾の射線を表すエフェクトが、開発意図よりも長く表示されてしまう問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/レールガンR<br>
+                ・★4/レールガン<br>
+                ・★4/レールガンS
+            </div>
+        </div>
+        <div class="list">
+            ▶クロスギア「荷電式超大型戦術刀」シリーズを装備し、特定状況において近接攻撃中に下フリックで発動する溜め攻撃を行った際、溜め時間が長くなってしまうことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶ファティマ・BのSPスキル「スイフトマローダーH」が敵にヒットした際に、実際に与えたダメージ値とは別に、数字の「0」が表示される問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターに特定のSPスキルを装着すると、SPスキル発動時のボイスが再生されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・ファティマ・B<br>
+                ・伊戸倉 音緒
+            </div>
+        </div>
+        <div class="list">
+            ▶日向 リンがコスチューム「八八式戦闘服R」を着用している時、コスチュームの一部が破れたように見えることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶兼志谷 シタラがコスチューム「グラストコス/シタラ」を着用中、特定のポーズをとった場合、スカートの一部が肌にめり込んでしまう問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶バージニア・Gがコスチューム「FDN-EF02B」を着用した時の、ジャケット内側の陰影表現を微調整しました。
+        </div>
+        <div class="list">
+            ▶金潟 すぐみのボイスアーカイブの項目「バトル/基本」に、任務完了時のボイスが表示されていない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶藤野 やよいのボイスアーカイブにおいて、「ファクター」タブの項目「ホーム・ドレッサー/基本」に藤野 極の誕生日ボイスが含まれていない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記アクトレスのボイスアーカイブにおいて、「ファクター」タブの項目「その他」にエニグマ関連のボイスが含まれていない問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・ファティマ・B<br>
+                ・伊戸倉 音緒
+            </div>
+        </div>
+        <div class="list">
+            ▶伊戸倉 音緒のキャラエピソードEp5-3において、伊戸倉 音緒の年齢表記に誤りがあったため修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                誤：21<br>
+            	正：22
+            </div>
+        </div>
+        <div class="list">
+            ▶サイフォゾーアが尻尾の先端からレーザーを照射しながら回転攻撃を行う時、開発意図と異なる場所に攻撃判定が存在している不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1324" class="weighty-column">
 
             2024/08/01 16:30                            
@@ -178,7 +287,11 @@
         
         <div id="important-column-1323" class="weighty-column">
 
-            2024/07/29 20:00            
+            2024/07/29 20:00                            
+                <span class="bold">
+                                            (08/08 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ファティマ・BのSPスキル「スイフトマローダーH」が敵にヒットした際に、実際に与えたダメージ値とは別に、数字の「0」が表示される            </div>
@@ -187,6 +300,17 @@
         <div id="important-text-1323" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年08月08日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年07月29日 20:00<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -514,7 +638,11 @@
         
         <div id="important-column-1317" class="weighty-column">
 
-            2024/07/25 18:00            
+            2024/07/25 18:00                            
+                <span class="bold">
+                                            (08/08 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ファティマ・B及び伊戸倉 音緒に特定のSPスキルを装着すると、SPスキル発動時のボイスが再生されない            </div>
@@ -523,6 +651,17 @@
         <div id="important-text-1317" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年08月08日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年07月25日 18:00<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1294,62 +1433,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1305" class="weighty-column">
-
-            2024/07/05 18:05                            
-                <span class="bold">
-                                            (07/11 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない            </div>
-
-        </div>
-        <div id="important-text-1305" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月11日 14:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年07月05日 18:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない。
-        </div>
-        <p class="list red">
-            ※当該ボトムススキル発動時、弾消し効果が付与されるのが開発意図となります。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
