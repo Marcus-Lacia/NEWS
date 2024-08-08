@@ -34,6 +34,51 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1327" class="weighty-column">
+
+            2024/08/08 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              ギア所持枠を拡張する際、一部画面にて拡張数が3桁以上表示されない            </div>
+
+        </div>
+        <div id="important-text-1327" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年08月08日 15:30<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶カラットを消費してギア所持枠を拡張する際、一部画面にて拡張数が3桁以上表示されない。
+        </div>
+        <p class="list red">
+            ※表示のみの問題となり、4桁以上の所持枠拡張を行う際も、カラットの消費数に応じた所持枠が正常に反映されることを確認しております。
+        </p>
+        <p class="list red">
+            ※最終確認画面においては、消費カラット数と拡張所持枠数が正常に表示されております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1326" class="weighty-column">
 
             2024/08/08 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1314,57 +1359,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1307" class="weighty-column">
-
-            2024/07/11 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1307" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2024年07月11日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶シャーリー・Oのエニグマにセルを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <div>
-                    ・共通エリア<br>
-                    パッシブスキルセルを追加。<br>
-                    <br>
-                    ・ノーマルエリア<br>
-                    ・アナザーエリア<br>
-                    スキルスロット拡張セルを追加。
-                </div>
-            </div>
-            <div class="list">
-                ▶属性変換対応ギアを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                <p class="bold">【対象ギア】</p>
-                <div>
-                    ・シャーリー・O専用ギア一式
-                </div>
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
