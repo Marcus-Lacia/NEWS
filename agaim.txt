@@ -34,6 +34,69 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1326" class="weighty-column">
+
+            2024/08/08 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1326" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2024年08月08日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶ギア所持枠を100枠拡張しました。
+            </div>
+            <p class="list red">
+                ※カラットで拡張できる所持枠とは別に、全てのお客様が100枠拡張されます。
+            </p>
+            <div class="list">
+                ▶カラットで拡張できるギア所持枠を、最大1100枠に引き上げました。
+            </div>
+            <p class="list red">
+               ※通常の所持枠と合算すると最大「2050」枠が上限になります。
+            </p>
+            <div class="list">
+                ▶二子玉 舞のエニグマにセルを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                ・共通エリア<br>
+                パッシブスキルセルを追加。<br>
+                <br>
+                ・ノーマルエリア<br>
+                ・アナザーエリア<br>
+                ・ファクターエリア<br>
+                スキルスロット拡張セルを追加。
+            </div>
+            <div class="list">
+                ▶属性変換対応ギアを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                ・二子玉 舞専用ギア一式
+                <p class="list red">
+                    ※アナザーギアは対象外となります。
+                </p>
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1325" class="weighty-column">
 
             2024/08/08 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1302,141 +1365,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1306" class="weighty-column">
-
-            2024/07/11 14:00                            
-                <span class="bold">
-                                            (07/11 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1306" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年07月11日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶佐伯 リツカの一部の★3専用ギア及びレプリカギアの属性攻撃力が、★4専用ギア相当の数値となっており、開発意図よりも高く設定されている不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                <span class="bold">ショットギア</span><br>
-                ・★3/ガンナイフR<br>
-                ・★3/ガンナイフ<br>
-                ・★3/ガンナイフMk2<br>
-                ・★3/ガンナイフMk3
-            </div>
-            <div>
-                <span class="bold">クロスギア</span><br>
-                ・★3/ライトウェイトブレードR<br>
-                ・★3/ライトウェイトブレード<br>
-                ・★3/ライトウェイトブレードMk2<br>
-                ・★3/ライトウェイトブレードMk3
-            </div>
-        </div>
-        <div class="list">
-            ▶小石川 エマのエニグマで修得可能なパッシブスキル「ツインフレイム」に、スキルLvが表記されている不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表記のみの不具合となり、スキル性能には影響がないことを確認しております。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                誤：Lv.2<br>
-                正：Lv表記なし
-            </div>
-        </div>
-        <p class="list red">
-            <s>※対象パッシブスキルをすでに習得している場合は、後日、正しい表記（Lv表記なし）への修正を予定しております。</s>
-        </p>
-        <p class="list red">
-            ※14:10 追記<br>
-            修得済みの対象パッシブスキルにつきましても、正しい表記への修正が完了しました。
-            本対応は、再度ログインしていただくことで反映されます。
-        </p>
-        <div class="list">
-            ▶新居目 安里のSPスキル「アムピトリーテー」の効果で性能が上書きされたボトムススキルの発動時に、弾消し効果が付与されていない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※本修正に伴い、当該スキルの説明文を更新しております。
-        </p>
-        <div class="list">
-            ▶シャーリー・O専用トップスギアのスキル発動時の、トップスギアの動きを微調整しました。
-        </div>
-        <p class="list red">
-            ※見た目の修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★4/ワイルドチャップス/T<br>
-                ・★4/ワイルドチャップスG2/T<br>
-                ・★4/フロンティアチャップス/T
-            </div>
-        </div>
-        <div class="list">
-            ▶シャーリー・OのSPスキル「ラフストック」の効果で性能が上書きされたボトムススキルの説明文の一部を微調整しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの調整となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                調整前：サドルコンテナユニットから電撃ミサイルを発射する<br>
-                調整後：サドルコンテナユニットからミサイルを発射する
-            </div>
-        </div>
-        <div class="list">
-            ▶スカウトレベルが9になった際、キャラクター提供割合ページに表示されるスカウトEXPが、0より多い数値になる場合がある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※表示のみの問題となり、実際のスカウトEXP及びスカウトレベルに影響はありません。
-        </p>
-        <p class="list red">
-            ※スカウトレベルが上限のLv.9になった際は、スカウトEXPが上昇しないのが仕様となります。
-        </p>
-        <div class="list">
-            ▶シャーリー・Oのボイスアーカイブ等に表示される、一部台詞の一人称の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶萬場 盟華の絆エピソードEp.2にて、萬場 盟華の台詞の誤字を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「ハートリング」のアイコンが、開発意図と異なる表示になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
