@@ -101,8 +101,7 @@
         
         <div id="important-column-1327" class="weighty-column">
 
-            2024/08/08 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/08/08 15:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ギア所持枠を拡張する際、一部画面にて拡張数が3桁以上表示されない            </div>
