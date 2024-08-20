@@ -34,6 +34,96 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1330" class="weighty-column">
+
+            2024/08/20 21:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              定期パスのリニューアルについて            </div>
+
+        </div>
+        <div id="important-text-1330" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年08月20日 21:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        8月23日（金）15:00 より実施予定の、定期パスのリニューアルについてご案内いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【実施内容】</p>
+        
+        <div class="list">
+            ▶新しい定期パスとして「プレミアムパス 10日間/30日間」を実装いたします。
+        </div>
+        <p class="list red">
+            ※各パスはカラットを消費することでご購入いただけます。
+        </p>
+        <p class="list red">
+            ※「プレミアムパス 30日間」は、9月2日（月）15:00 から提供開始となります。
+        </p>
+        
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2683">
+        </div>
+        
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2683">
+        </div>
+        <div>
+            新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
+        </div>
+        <div>
+            また、各パスの「毎日もらえるアイテム」には、受け取り忘れても後から入手可能となる「受取保証期間」が追加されています。
+        </div>
+        
+        <div class="bg_skin">
+            <p class="center">受取保証期間について</p>
+            各パスの有効期間中に受け取らなかったアイテムがある場合、期間終了から7日（168時間）以内にログインすることで受取箱に送られる機能です。
+        </div>
+        
+        <div class="sub-box">
+            <p class="bold red center">＜　注 意 事 項　＞</p>
+            <div class="list">
+                ※「プレミアムパス 10日間/30日間」の実装に伴い、「アドバンスドパス/AEGiSパス/ルーキーパス（以下、旧定期パス）」は、8月22日（木）12:00 に新規販売を終了します。
+            </div>
+            <div class="list">
+                ※購入済みの旧定期パスは、有効期間が終了するまで、引き続きご利用いただけます。
+            </div>
+            <div class="list">
+                ※旧定期パスの有効期間中も「プレミアムパス 10日間/30日間」をご購入いただけます。その際、「毎日もらえるアイテム」の受け取りや「シェル所持枠拡張」は重複して適用されますが、「シェル解析予約機能」が利用できるのは最大4基までとなります。
+            </div>
+        </div>
+        
+        
+        <hr class="red">
+        
+        
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2683">
+            <div class="event-date">
+                期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
+            </div>
+        </div>
+        <div>
+            定期パスのリニューアルを記念して、期間中はカラットを消費せずに「プレミアムパス 10日間」をご利用いただけるキャンペーンを予定しております。
+        </div>
+        <div>
+            旧定期パスの有効期間中でもご利用いただけますので、この機会にぜひ、新しい定期パスをお試しください。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1329" class="weighty-column">
 
             2024/08/16 14:00            
@@ -1275,59 +1365,6 @@
         
         <div class="list">
             ▶Ver.1.81.0アプリより、マルチ任務の戦闘中にホストプレイヤーがルームを解散した場合、ゲストプレイヤーがロード画面のまま動かなくなってしまう。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1310" class="weighty-column">
-
-            2024/07/17 15:50                            
-                <span class="bold">
-                                            (07/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.81.0アプリより、一部のエピソードが不自然なタイミングで中断される場合がある            </div>
-
-        </div>
-        <div id="important-text-1310" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月24日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.82.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
- 
-    <div>
-        ■2024年07月17日 15:50<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.81.0アプリより、一部のエピソードが不自然なタイミングで中断される場合がある。
         </div>
     </div>
     <div>
