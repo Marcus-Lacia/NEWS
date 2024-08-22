@@ -34,6 +34,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1332" class="weighty-column">
+
+            2024/08/22 15:40                            
+                <span class="red bold">
+                                            (08/22 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver1.83.0アプリより、ホーム画面のスカウト新着表示が消えなくなっている            </div>
+
+        </div>
+        <div id="important-text-1332" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年08月22日 15:40<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        以下の不具合が発生しておりましたが、修正が完了いたしましたのでご報告いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver1.83.0アプリより、ホーム画面のスカウト新着表示が消えなくなっている。
+        </div>
+    </div>
+    <div>
+        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1331" class="weighty-column">
 
             2024/08/22 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1414,59 +1453,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1313" class="weighty-column">
-
-            2024/07/19 19:10                            
-                <span class="bold">
-                                            (08/22 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              ゲームパッドまたはキーボード操作にて、指揮官モードを一時停止している時に特定操作を行うと、任務がクリアできなくなる場合がある            </div>
-
-        </div>
-        <div id="important-text-1313" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年08月22日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年07月19日 19:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶ゲームパッドまたはキーボード操作にて、指揮官モードを一時停止している時に特定操作を行うと、任務がクリアできなくなる場合がある。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
