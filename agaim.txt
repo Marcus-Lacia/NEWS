@@ -34,6 +34,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1333" class="weighty-column">
+
+            2024/08/22 20:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.83.0アプリより、ボイス音量が開発意図よりも小さくなってしまうことがある            </div>
+
+        </div>
+        <div id="important-text-1333" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年08月22日 20:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.83.0アプリより、オプション＞サウンド関連からボイス音量を減少させている場合に、音量が開発意図よりも小さくなってしまう。
+        </div>
+        <p class="list red">
+            ※ボイス音量設定を変更していない場合は、音量に影響がないことを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、原因を調査しております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1332" class="weighty-column">
 
             2024/08/22 15:40                            
@@ -1390,67 +1432,6 @@
     <div>
         なお、Ver.1.82.0の配信に伴い、<span class="bold red">7/25（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1312" class="weighty-column">
-
-            2024/07/22 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1312" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年07月22日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記キャラクターがコスチューム「スタープロムナード」を着用中、特定のポーズをとった場合、コスチュームの一部が肌にめり込むことがある問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・波佐見 利佳<br>
-                ・春日丘 もえ
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターのコスチューム「チアガール/成子坂B」の衣装説明画面にて、企業アイコンが表示されない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・巽 竜子<br>
-                ・鳳 加純
-            </div>
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
