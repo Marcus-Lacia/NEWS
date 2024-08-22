@@ -34,6 +34,96 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1331" class="weighty-column">
+
+            2024/08/22 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.83.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1331" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年08月22日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.83.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.83.0の更新内容】</p>
+        
+        <div class="list">
+            ▶「水着ギフト券」が消滅する際に「アクセサリーチケット×1」に変換されるよう仕様を変更しました。
+        </div>
+        <p class="list red">
+            ※8/26（月）14:59以降のログイン時に変換されます。
+        </p>
+        <div class="list">
+            ▶定期パスのリニューアルに伴い、一部の画面構成を調整しました。
+        </div>
+        <p class="list red">
+            ※新定期パスは、8/23（金）15:00 より順次提供開始となります。
+        </p>
+        <p class="list red">
+            ※新定期パスの購入画面は、ホーム画面＞メニュー＞ショップ一覧から開くことができます。
+        </p>
+        <div class="list">
+            ▶ゲームパッドまたはキーボード操作にて、指揮官モードを一時停止している時に特定操作を行うと、任務がクリアできなくなる場合がある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.82.0アプリより、一部のゲームパッドが正常に動かなくなっている不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※本不具合の応急処置としてオプションの「Xinputを有効」をONにしているお客様に関しましては、再度OFFにしていただくことで正常に動作するようになります。
+        </p>
+        <div class="list show_only_DMM">
+            ▶「オプション」＞「ゲームパッド関連」＞「Xinputを有効」の設定を「OFF」にしている状態でアプリを起動後、「ON」に切り替えるとゲームパッドによる入力を受け付けなくなってしまう不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「調査任務ver.2α コマンダー撃破任務」にて、操作キャラクター以外の「奇数エリア移動毎に発動するパッシブスキル効果」が、任務開始時に正常に発動しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶イベント「調査任務ver.2α コマンダー撃破任務」にて、全体に効果を適用する各種スキルが操作キャラクター以外に適用されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶攻撃系ピジョンを展開する各種スキルを発動した瞬間にターゲットとなる敵がいなくなってしまった場合に、ピジョンが動かなくなってしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶バディリンク発動中にバディが攻撃した時、スコアの獲得倍率が上昇しない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチ任務のルームにて、ゲストプレイヤーが「準備完了」を選択しても、特定状況で準備完了状態にならないことがある問題を修正しました。
+        </div>
+        <div class="list">
+            ▶カラットを消費してギア所持枠を拡張する際、一部画面にて拡張数が3桁以上表示されない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶カラットショップのコスチュームセット交換前の確認画面にて、一部キャラクターの名称が表示ウィンドウからはみ出ることがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正となり、表示されている情報に影響はございません。
+        </p>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1330" class="weighty-column">
 
             2024/08/20 21:20            
@@ -69,11 +159,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2684">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2685">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2684">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2685">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -105,7 +195,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2684">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2685">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -231,7 +321,11 @@
         
         <div id="important-column-1327" class="weighty-column">
 
-            2024/08/08 15:30            
+            2024/08/08 15:30                            
+                <span class="bold">
+                                            (08/22 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ギア所持枠を拡張する際、一部画面にて拡張数が3桁以上表示されない            </div>
@@ -240,6 +334,17 @@
         <div id="important-text-1327" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年08月22日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年08月08日 15:30<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -447,7 +552,7 @@
 
             2024/08/01 16:30                            
                 <span class="bold">
-                                            (08/02 更新)
+                                            (08/22 修正済)
                                     </span>
             
             <div class="column-text">
@@ -458,7 +563,20 @@
         <div id="important-text-1324" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年08月22日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <p class="list red">
+        ※当該イベントは開催終了しておりますが、今後イベントが開催する際には修正が反映された状態となります。
+    </p>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
     
+    
+    <hr class="red">
+
     <div>
         ■2024年08月01日 16:30<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -643,7 +761,11 @@
         
         <div id="important-column-1320" class="weighty-column">
 
-            2024/07/26 20:40            
+            2024/07/26 20:40                            
+                <span class="bold">
+                                            (08/22 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.82.0アプリより、一部のゲームパッドが正常に動かなくなっている            </div>
@@ -652,6 +774,17 @@
         <div id="important-text-1320" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年08月22日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年07月26日 20:40<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1288,7 +1421,11 @@
         
         <div id="important-column-1313" class="weighty-column">
 
-            2024/07/19 19:10            
+            2024/07/19 19:10                            
+                <span class="bold">
+                                            (08/22 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               ゲームパッドまたはキーボード操作にて、指揮官モードを一時停止している時に特定操作を行うと、任務がクリアできなくなる場合がある            </div>
@@ -1297,6 +1434,17 @@
         <div id="important-text-1313" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年08月22日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年07月19日 19:10<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1311,59 +1459,6 @@
         
         <div class="list">
             ▶ゲームパッドまたはキーボード操作にて、指揮官モードを一時停止している時に特定操作を行うと、任務がクリアできなくなる場合がある。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1311" class="weighty-column">
-
-            2024/07/17 15:50                            
-                <span class="bold">
-                                            (07/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.81.0アプリより、マルチ任務の戦闘中にホストプレイヤーがルームを解散した場合、ゲストプレイヤーがロード画面のまま動かなくなってしまう            </div>
-
-        </div>
-        <div id="important-text-1311" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月24日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.82.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年07月17日 15:50<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.81.0アプリより、マルチ任務の戦闘中にホストプレイヤーがルームを解散した場合、ゲストプレイヤーがロード画面のまま動かなくなってしまう。
         </div>
     </div>
     <div>
