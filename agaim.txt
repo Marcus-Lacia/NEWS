@@ -79,7 +79,7 @@
         <div id="important-column-1332" class="weighty-column">
 
             2024/08/22 15:40                            
-                <span class="red bold">
+                <span class="bold">
                                             (08/22 修正済)
                                     </span>
             
