@@ -34,6 +34,49 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1334" class="weighty-column">
+
+            2024/08/26 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.83.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1334" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年08月26日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.83.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.83.1の更新内容】</p>
+        
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.83.1の配信に伴い、<span class="bold red">8/28（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1333" class="weighty-column">
 
             2024/08/22 20:00            
@@ -238,11 +281,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2691">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2692">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2691">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2692">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -274,7 +317,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2691">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2692">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1303,135 +1346,6 @@
     <div>
         このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1314" class="weighty-column">
-
-            2024/07/24 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.82.0 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1314" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年07月24日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.82.0のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.82.0の更新内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.81.0アプリより、任務中にギアスキルの使用回数が回復した場合に、スキルアイコンに正しい使用回数が反映されない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※表記のみの不具合となり、スキル性能に影響はありません。
-        </p>
-        <div class="list">
-            ▶SPスキル「メタトロニオス」を装着した村尾 未羅とユニゾンを発動すると、操作キャラが近接攻撃を行った際に、村尾 未羅が一定時間動かなくなってしまう挙動を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                調整前：シールド展開時に村尾 未羅がその場で動かなくなってしまう<br>
-                調整後：シールド展開後、プレイヤーが移動または射撃を開始した時に、バディが近接行動をとった場合、シールドをキャンセルして行動を開始する
-            </div>
-        </div>
-        <div class="list">
-            ▶一部ステラーアクトレスのスキル詳細画面にて、SPスキルアイコンの外枠が、ノーマルの得意属性色になっている問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記アクトレスに特定のSPスキルを装着すると、SPスキル発動中の一部エフェクトが、開発意図と異なる見た目になる場合がある問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・小鳥遊 怜【テンペランス】<br>
-                ・バージニア【チャリオット】<br>
-                ・四谷 ゆみ【ムーン】<br>
-                ・シャーリー【チャリオット】<br>
-                ・萬場 盟華【サン】
-            </div>
-        </div>
-        <div class="list">
-            ▶天狐 天専用クロスギアの一部の攻撃が、一定数ヒットすると攻撃判定が消失してしまう不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-            	・★3/ベノムTSs<br>
-	            ・★3/ベノムTSsA1<br>
-	            ・★3/ベノムTSsA2<br>
-	            ・★4/トビグチ<br>
-	            ・★4/トビグチ改<br>
-	            ・★4/トビグチ【木遣】
-            </div>
-        </div>
-        <div class="list">
-            ▶大型ヴァイスを撃破した直後に特定ショットギアを装備したサポーターを呼び出すと、任務がクリアできなくなる場合がある不具合を修正しました。
-        </div>
-        <div class="list show_only_Android">
-            ▶溜め撃ちに弾数制限があるショットギアで、溜め撃ち発射後に特定操作を行うと、連続して発射できてしまうことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶任務中に特定状況でキャラクターを交代すると、ダメージを受けていないにも関わらず、交代後のキャラクターのHPゲージに被弾演出が表示されることがある問題を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.81.0アプリより、射撃に弾数制限があるショットギアで攻撃した後にキャラクター交代を行うと、ロックオンマーカーに、残弾を表すゲージが一瞬再表示されてしまう問題を修正しました。
-        </div>
-        <div class="list">
-            ▶バディリンク中、リンクタイムゲージが切れる間際で戦闘が終了した時、クリア時の演出にバディが登場しない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチ任務のリザルト画面で特定操作を行うと、ルーム画面に戻った際に画面が正しく表示されなくなることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.81.0アプリより、マルチ任務の戦闘中にホストプレイヤーがルームを解散した場合、ゲストプレイヤーがロード画面のまま動かなくなってしまう不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ドレッサーのキャラクター選択画面にて、フィルタ機能の「その他フィルタ」の設定が正常に保存されない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶「カラットショップ アニバドレスV」及び「カラットショップ アニバジャケット」に表示される、コスチュームセットアイコンの表示サイズを微調整しました。
-        </div>
-        <div class="list">
-            ▶「カラットショップ アニバドレスV」及び「カラットショップ アニバジャケット」にて、コスチュームセットの商品説明の一部レイアウトが崩れる問題を修正しました。
-        </div>
-        <p class="list red">
-             ※見た目のみの修正となり、表示されている情報に影響はございません。
-        </p>
-        <div class="list">
-            ▶「カラットショップ アニバドレスV」に、コスチュームカラーの変更プレビュー機能を反映しました。
-        </div>
-        <div class="list">
-            ▶Ver.1.81.0アプリより、一部のエピソードが不自然なタイミングで中断される場合がある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.82.0の配信に伴い、<span class="bold red">7/25（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
