@@ -34,6 +34,55 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1339" class="weighty-column">
+
+            2024/08/28 21:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
+              「6.Go周年記念 カラット購入キャンペーン」の特典追加に伴う補填について            </div>
+
+        </div>
+        <div id="important-text-1339" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年08月28日 21:50<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        8月28日（水）に実施した「6.Go周年記念 カラット購入キャンペーン」特典追加に伴う補填対応につきまして、キャンペーンによるプレゼントの獲得条件を満たしていない一部のお客様もプレゼント対象になっていることが発覚いたしました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【誤ってプレゼントされたアクセサリー】</p>
+        
+        <div>
+            ・Vチップ/灰青 （エマ・A専用）<br>
+            ・Vチップ/ピンク （エマ・A専用）
+        </div>
+        <div class="list">
+            ※「6.Go周年記念 カラット購入キャンペーン」は7月22日（月）15:00～9月2日（月）14:59の期間中、いずれかのカラットを1度ご購入いただくことで、プレゼント獲得条件が達成されます。
+        </div>
+        <div class="list">
+            ※8月28日（水）14:00以降に、新たにプレゼント獲得条件を達成したお客様につきましては、正常に特典アクセサリーがプレゼントされていることを確認しております。
+        </div>
+    </div>
+    
+    <div>
+        なお、誤ってエマ・A専用の「Vチップ/灰青」と「Vチップ/ピンク」がプレゼントされたお客様につきましては、後日アクセサリーの回収を実施させていただく予定です。
+    </div>
+    <div>
+        詳細は近日中に改めてご案内させていただきます。<br>
+        ご迷惑をおかけしますが、今しばらくお時間をいただけますと幸いです。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1338" class="weighty-column">
 
             2024/08/28 18:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -164,7 +213,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2706">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2707">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -527,11 +576,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2706">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2707">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2706">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2707">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -563,7 +612,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2706">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2707">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1183,62 +1232,9 @@
     </div>
 </div>        </div>
         
-        <div id="important-column-1319" class="weighty-column">
-
-            2024/07/26 15:15                            
-                <span class="bold">
-                                            (07/30 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              一部のエピソードで、開発意図と異なるキャラクターが表示されてしまう            </div>
-
-        </div>
-        <div id="important-text-1319" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月30日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.82.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-
-    
-    <hr class="red">
-
-    <div>
-        ■2024年07月26日 15:15<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶一部のエピソードで、開発意図と異なるキャラクターが表示されてしまう。
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
-                    <div class="page-box box-radius">1/64</div>
+                    <div class="page-box box-radius">1/65</div>
                       <a href="/news/importants?page=2&amp;returnUrl=/news/top">
               <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png">
             </a>
