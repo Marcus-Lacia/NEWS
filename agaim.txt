@@ -34,6 +34,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1338" class="weighty-column">
+
+            2024/08/28 18:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              エマ・AのSPスキル「マペットデリバリー」を長押しして初回発動した際に、エミッショントランスが発生しないことがある            </div>
+
+        </div>
+        <div id="important-text-1338" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年08月28日 18:25<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶エマ・AのSPスキル「マペットデリバリー」の効果以外でエミッショントランスを発生させていると、当該SPスキルを長押しして初回発動した際に、エミッショントランスが発生しないことがある。
+        </div>
+        <p class="list red">
+            ※当該SPスキルの初回発動時は、エミッショントランスが発生するのが開発意図通りの挙動になります。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1336" class="weighty-column">
 
             2024/08/28 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1185,62 +1227,6 @@
     </div>
     <div>
         本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1318" class="weighty-column">
-
-            2024/07/26 13:50                            
-                <span class="bold">
-                                            (07/31 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              伊戸倉 音緒のエニグマで、アナザーエリアのセル「スキルスロット14付け替え機能」を解放しても、伊戸倉 音緒【破手】に反映されない            </div>
-
-        </div>
-        <div id="important-text-1318" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年07月31日 14:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年07月26日 13:50<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶伊戸倉 音緒のエニグマで、アナザーエリアのセル「スキルスロット14付け替え機能」を解放しても、伊戸倉 音緒【破手】に反映されない。
-        </div>
-        <p class="list red">
-            ※ノーマル、ファクターでは正常に反映されていることを確認しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
     </div>
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
