@@ -34,6 +34,67 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1336" class="weighty-column">
+
+            2024/08/28 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1336" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2024年08月28日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶エマ・Aの「エニグマ」を実装しました。
+            </div>
+            <p class="list red">
+                ※エニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+            </p>
+            <div class="list">
+                ▶エマ・Aのキャラエピソードを実装しました。
+            </div>
+            <div class="list">
+                ▶エマ・Aの専用ギア及び固有のSギアシェルを実装しました。
+            </div>
+            <div class="list">
+                ▶エマ・A専用アクセサリーを「ゴールド/アニマEX交換所」に追加しました。
+            </div>
+            <div class="list">
+                ▶ミニゲーム「きょうのラッキーアクトレス」に「エマ・A」を追加しました。
+            </div>
+            <p class="list red">
+                ※ランダムで出現します。
+            </p>
+            <div class="list">
+                ▶ヘルプ＞誕生日リストにキャラクターを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                <p class="bold">【対象キャラクター】</p>
+                ・10/26 エマ・A
+            </div>
+            <div class="list">
+                ▶キャラクターがドレッサー画面に移動した際に、台詞が再生されない不具合を修正しました。
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1337" class="weighty-column">
 
             2024/08/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -61,7 +122,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2704">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2705">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -424,11 +485,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2704">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2705">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2704">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2705">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -460,7 +521,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2704">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2705">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1184,151 +1245,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1315" class="weighty-column">
-
-            2024/07/25 14:00                            
-                <span class="bold">
-                                            (07/26 更新)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1315" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年07月25日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <p class="list red">
-            ※7/26（金）11:00 追記<br>
-            以下の更新内容について記述が抜けていたため追記いたしました。
-        </p>
-        <div class="list">
-            ▶ファティマ・B及び伊戸倉 音緒のエニグマにセルを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                ・共通エリア<br>
-                パッシブスキルセルを追加。<br>
-                <br>
-                ・ノーマルエリア<br>
-                ・アナザーエリア<br>
-                スキルスロット拡張セルを追加。
-            </div>
-        </div>
-        <div class="list">
-            ▶伊戸倉 音緒にホーム小物を追加しました。
-        </div>
-            
-        
-        <hr class="red">
-        
-        <div class="list">
-            ▶ヘルプ＞誕生日リストにファクター「ファティマ・B」がお祝いするキャラクターを追記しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・4/21	：小芦 睦海<br>
-                ・6/6	：伊戸倉 音緒<br>
-                ・6/19	：バージニア・G<br>
-                ・7/23	：ナルゲス<br>
-                ・10/1	：アルアブラ・B<br>
-                ・10/17：藤野 やよい<br>
-                ・10/18：兼志谷 シタラ<br>
-                ・11/12：ムハンマド<br>
-                ・12/12：二子玉 舞
-            </div>
-        </div>
-        <div class="list">
-            ▶ヘルプ＞誕生日リストにファクター「伊戸倉 音緒」がお祝いするキャラクターを追記しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・1/23	：室江 央典<br>
-                ・4/6	：四谷 ゆみ<br>
-                ・5/27	：シャーリー・O<br>
-                ・9/14	：雁屋 葵<br>
-                ・10/17：藤野 やよい<br>
-                ・10/18：兼志谷 シタラ<br>
-                ・11/1	：下落合 桃歌<br>
-                ・12/12：二子玉 舞
-            </div>
-        </div>
-        <div class="list">
-            ▶調査任務にて出撃演出で再生されるシステムボイスのパターンを追加しました。
-        </div>
-        <div class="list">
-            ▶7/11（木）14:00 のアップデートより、下記ギアスキルの爆発エフェクトが表示されない問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギアスキル】</p>
-            <div>
-                ・タイダウンラリアット<br>
-                ・スティアーラリアット
-            </div>
-        </div>
-        <div class="list">
-            ▶ボトムススキル「バウンスアラウンド」に、パッシブスキル「Eモジュール追加/B」等のスキル使用回数の上昇効果が正しく適用されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「溶接面WM-305G」の装着部位が、開発意図と異なる部位になっている問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                修正前：顔・頭・前頭・耳・髪型<br>
-            	修正後：顔・髪型
-            </div>
-        </div>
-        <div class="list">
-            ▶アクセサリー「溶接面WM-305G」の説明画面に、企業アイコンが表示されない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶アクセサリー「モモタンヘッド」を着用中、特定のリアクションをとった際の頬の色味を微調整しました。
-        </div>
-        <div class="list">
-            ▶二子玉 舞がコスチューム「グラストコス/舞」を着用中、特定のポーズをとった場合、太ももの見た目に違和感がある問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶兼志谷 シタラがコスチューム「グラストコス/シタラ」を着用中、特定のポーズをとった場合、スカートの一部が肌にめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶イベント「【復刻】武運 –MARTIAL DESTINY-」のエピソード2話にて、一部のナレーションが表示されない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
