@@ -332,11 +332,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2700">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2701">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2700">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2701">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -368,7 +368,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2700">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2701">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
