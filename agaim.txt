@@ -36,16 +36,55 @@
         
         <div id="important-column-1339" class="weighty-column">
 
-            2024/08/28 21:50                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/08/28 21:50                            
+                <span class="red bold">
+                                            (08/29 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_default.png" class="icn-category">
-              「6.Go周年記念 カラット購入キャンペーン」の特典追加に伴う補填について            </div>
+              エマ・Aの一部「Vチップ」回収対応について            </div>
 
         </div>
         <div id="important-text-1339" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2024年08月29日 18:00 追記<br>
+        誤ってエマ・A専用の「Vチップ/灰青」と「Vチップ/ピンク」がプレゼントされたお客様につきまして、以下の対応を実施させていただきます。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">「Vチップ/灰青」と「Vチップ/ピンク」の回収</p>
+        
+        <div>
+            7月22日（月）15:00～9月2日（月）14:59 のキャンペーン期間中にカラットを購入しておらず、かつ補填の「Vチップ/灰青」と「Vチップ/ピンク」が誤って配布されたお客様を対象にアクセサリーの回収を実施させていただきます。
+        </div>
+        <p class="list red">
+            ※回収対応は、9月2日（月）15:00 以降に対象者の集計を行い、実施予定となります。
+        </p>
+        <div>
+            アクセサリーの回収対象となるお客様には、お知らせトップページの最上部にバナーが表示されますので、ご確認ください。
+        </div>
+        <p class="list red">
+            ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
+        </p>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2710">
+        </div>
+        <div>
+            なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     
     <div>
         ■2024年08月28日 21:50<br>
