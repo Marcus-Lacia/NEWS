@@ -124,8 +124,7 @@
         
         <div id="important-column-1338" class="weighty-column">
 
-            2024/08/28 18:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/08/28 18:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               エマ・AのSPスキル「マペットデリバリー」を長押しして初回発動した際に、エミッショントランスが発生しないことがある            </div>
