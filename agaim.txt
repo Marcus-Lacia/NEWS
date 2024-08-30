@@ -34,6 +34,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1340" class="weighty-column">
+
+            2024/08/30 16:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              依城 えりのエニグマで修得可能なパッシブスキル「折り連なる刃1」の、「ターン時のブースト消費を軽減」の効果が正常に適用されていない            </div>
+
+        </div>
+        <div id="important-text-1340" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年08月30日 16:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶依城 えりのエニグマで修得可能なパッシブスキル「折り連なる刃1」の、「ターン時のブースト消費を軽減」の効果が正常に適用されていない。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1339" class="weighty-column">
 
             2024/08/28 21:50                            
@@ -72,7 +111,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2710">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2711">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
@@ -249,7 +288,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2710">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2711">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -612,11 +651,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2710">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2711">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2710">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2711">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -648,7 +687,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2710">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2711">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1203,62 +1242,6 @@
     </div>
     <div>
         本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1320" class="weighty-column">
-
-            2024/07/26 20:40                            
-                <span class="bold">
-                                            (08/22 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.82.0アプリより、一部のゲームパッドが正常に動かなくなっている            </div>
-
-        </div>
-        <div id="important-text-1320" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年08月22日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年07月26日 20:40<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.82.0アプリより、一部のゲームパッドが正常に動かなくなっている。
-        </div>
-        <p class="list red">
-            ※「オプション」＞「ゲームパッド関連」＞「Xinputを有効」をONにすると改善されることは確認しておりますが、ボタン設定（キーバインド）が意図せず変更されてしまう場合がございます。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
     </div>
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
