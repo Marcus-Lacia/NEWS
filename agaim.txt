@@ -36,8 +36,7 @@
         
         <div id="important-column-1340" class="weighty-column">
 
-            2024/08/30 16:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/08/30 16:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               依城 えりのエニグマで修得可能なパッシブスキル「折り連なる刃1」の、「ターン時のブースト消費を軽減」の効果が正常に適用されていない            </div>
