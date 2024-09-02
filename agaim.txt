@@ -36,7 +36,10 @@
         
         <div id="important-column-1342" class="weighty-column">
 
-            2024/09/02 17:15                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/09/02 17:15                            
+                <span class="red bold">
+                                            (09/02 修正済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -46,6 +49,64 @@
         <div id="important-text-1342" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年09月02日 22:00 追記<br>
+        本件につきまして、不具合の詳細が判明いたしましたのでご報告申し上げます。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶旧定期パスと新定期パスを併用していると、本来配布されないカラットが受取箱に配布されることがある。
+        </div>
+        <div>
+            下記条件を満たした方が不具合対象者になります。
+        </div>
+        <div class="sub-box bg_white">
+            <div class="list">
+                ・7/27（土）15:00以降に旧定期パスの利用を開始した。
+            </div>
+            <div class="list">
+                ・「プレミアムパス 10日版」の利用期間が9/2（月）14:59に終了した。
+            </div>
+            <div class="list">
+                ・9/2（月）15:00～17:29の間にログインした。
+            </div>
+        </div>
+        <div>
+            本不具合は、新定期パスに追加した「毎日もらえるアイテム」を受け取り忘れた際、7日以内にログインすると受取箱へ対象アイテムが配布される保障機能が、旧定期パスに対して誤作動したことが原因となります。<br>
+            保障機能の不具合修正は9/2（月）17:30時点で完了しており、17:30以降にログインされたお客様につきましては、上記不具合が発生しないことを確認しております。
+        </div>
+        <div>
+            また、旧定期パスのその他機能（解析予約やシェル所持枠拡張など）につきましては、本不具合の影響を受けず、正常に動作していることを確認しており、「毎日もらえるアイテム」につきましても、有効期間内であれば明日以降も、ログイン時に特典アイテムが配布されます。
+        </div>
+        <p class="list red">
+            ※旧定期パスは「毎日もらえるアイテム」保障機能の対象外になるのが仕様となります。
+        </p>
+        <div>
+            なお、不具合によって一部のお客様に配布されたカラットにつきましては、下記の手順にて回収対応を実施させていただきます。
+        </div>
+        <div class="sub-box bg_white">
+            <div class="list">
+                <span class="bold">①受取箱にあるカラット</span><br>
+                9/2（月）21:58に回収対応を実施させていただきました。
+            </div>
+            <div class="list">
+                <span class="bold">②受取箱から入手したカラット</span><br>
+                後日、順次回収対応を実施させていただきます。
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
+    
     <div>
         ■2024年09月02日 17:15<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -135,7 +196,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2717">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2718">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
@@ -312,7 +373,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2717">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2718">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -675,11 +736,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2717">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2718">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2717">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2718">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -711,7 +772,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2717">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2718">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
