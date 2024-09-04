@@ -34,52 +34,11 @@
 
       <div id="" class="weighty-list">
         
-        <div id="important-column-1341" class="weighty-column">
-
-            2024/09/03 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1341" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月03日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
         <div id="important-column-1342" class="weighty-column">
 
             2024/09/02 17:15                            
-                <span class="bold">
-                                            (09/02 修正済)
+                <span class="red bold">
+                                            (09/04 追記)
                                     </span>
             
             <div class="column-text">
@@ -90,6 +49,24 @@
         <div id="important-text-1342" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年09月04日 14:55 追記<br>
+        本件につきまして、「②受取箱から入手したカラット」の回収対象となる一部のお客様の回収対応を実施いたしました。
+    </div>
+    <div>
+        回収対応については、複数回に分けて実施させていただきますため、今回カラットを回収させていただいたお客様につきましては、回収完了の旨を告知する意図で「解析でんち×1」を受取箱に送付しております。
+    </div>
+    <p class="list">
+        ※配布された「解析でんち×1」は、ご利用いただいて問題ございません。
+    </p>
+    <div>
+        なお、不具合発生のお詫びにつきましては、回収完了後に改めて配布を実施させていただきます。<br>
+        対応完了まで、今しばらくお時間をいただけますと幸いです。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年09月02日 22:00 追記<br>
         本件につきまして、不具合の詳細が判明いたしましたのでご報告申し上げます。
@@ -156,6 +133,47 @@
         現在、旧定期パス（アドバンスドパス、AEGiSパス、ルーキーパス）機能に、開発意図と異なる挙動が発生することを確認しております。<br>
         本件について調査を進めておりますので、今しばらくお時間をいただけますと幸いです。
     </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1341" class="weighty-column">
+
+            2024/09/03 14:00            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1341" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年09月03日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
