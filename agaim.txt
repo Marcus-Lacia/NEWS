@@ -89,7 +89,7 @@
         <div id="important-column-1339" class="weighty-column">
 
             2024/08/28 21:50                            
-                <span class="red bold">
+                <span class="bold">
                                             (09/09 実施済)
                                     </span>
             
