@@ -34,6 +34,149 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1344" class="weighty-column">
+
+            2024/09/11 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.84.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1344" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年09月11日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.84.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.84.0の更新内容】</p>
+        
+        <div class="list hide_DMM">
+            ▶アプリアイコンのデザインを変更しました。
+        </div>
+        <div class="list">
+            ▶エマ・AのSPスキル「マペットデリバリー」の効果以外でエミッショントランスを発生させていると、当該SPスキルを長押しして初回発動した際に、エミッショントランスが発生しないことがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶御蔵座 梓希のSPスキル「破邪調伏の槌」の発動時に、SEが再生されない問題を修正しました。
+        </div>
+        <div class="list">
+            ▶セルケト属性特異型の子機が出現している状態でセルケト本体をダウンさせると、子機から攻撃の予測線が照射され続けてしまう不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※本修正に伴い、セルケト本体をダウンさせると子機が破壊されるよう挙動を調整しました。
+        </p>
+        <div class="list">
+            ▶特定の大型ヴァイス撃破時に、撃破演出直前に違和感のある挙動をすることがある問題を修正しました。
+        </div>
+        <p class="list red">
+           ※見た目のみの修正であり、ゲームの進行に影響はございません。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ヴァイス】</p>
+            <div>
+                ・キュクロプス<br>
+                ・キュクロプス・クリサリス<br>
+                ・ファルコン<br>
+                ・ファルコン属性特異型<br>
+                ・レントラー<br>
+                ・レントラー属性特異型
+            </div>
+        </div>
+        <div class="list">
+            ▶一部の敵が行う攻撃の衝撃波や爆風が、エフェクトの見た目以上に攻撃判定が長く続いている不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象となる攻撃の一例】</p>
+            <div>
+                ・オベリスクがコア露出前に放つ衝撃波<br>
+                ・VWスプレッドの射撃の爆風 など
+            </div>
+        </div>
+        <div class="list">
+            ▶下記ショットギアの溜め撃ちの弾数が残っている状態で任務をやり直した時、任務開始時の溜め撃ちの弾数がリセットされない不具合を修正しました。
+        </div>
+        <p class="list red">
+            ※任務開始時の溜め撃ちの弾数は、0が正しい挙動になります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギア】</p>
+            <div>
+                ・★3/FSHB-001R DUA<br>
+                ・★3/FSHB-001 DUA<br>
+                ・★4/FSHB-001S DUA
+            </div>
+        </div>
+        <div class="list">
+            ▶ユニゾンによって「効果内容がランダムで変わるSPスキル」をバディが発動した際、SPスキルの効果がランダムで変わらなくなる不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・メイデンライブラリ<br>
+                ・NEOエクスペリエンス<br>
+                ・クロス・ザ・フェイト
+            </div>
+        </div>
+        <div class="list">
+            ▶特定状況でバトル中のカメラモードで撮影した画像を保存すると、大容量のファイルが出力されてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶敵をロックオンしていない状態で、金潟 すぐみがSPスキル「マグヌム・オプス」を発動した時、ショットギアが違和感のある位置に表示されてしまう問題を修正しました。
+        </div>
+        <div class="hide_DMM">
+            <div class="list">
+                ▶エニグマにて、マスターレベルが上がった際にレベルが3桁に到達すると、ウィンドウの一部の表示が崩れてしまう問題を修正しました。
+            </div>
+            <p class="list red">
+                ※見た目のみの修正であり、上昇したレベルに影響はございません。
+            </p>
+        </div>
+        <div class="list">
+            ▶日向 リンがコスチューム「パッション」を着用した時の、一部の肌の陰影表現を調整しました。
+        </div>
+        <div class="list">
+            ▶萬場 盟華が特定の髪型変更アクセサリーとショットギアを同時着用した状態で、特定のポーズをとった場合、髪型の一部が肌にめり込むことがある問題を緩和しました。
+        </div>
+        <div class="list">
+            ▶ドレッサー画面のBGM変更時に特定操作を行うと、BGMが再生されなくなることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶エマ・Aの一部キャラエピソードにて、誤字を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象エピソード】</p>
+            <div>
+                ・Ep.1-1<br>
+                ・Ep.4-3
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.84.0の配信に伴い、<span class="bold red">9/12（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1343" class="weighty-column">
 
             2024/09/10 14:00            
@@ -391,7 +534,11 @@
         
         <div id="important-column-1338" class="weighty-column">
 
-            2024/08/28 18:25            
+            2024/08/28 18:25                            
+                <span class="bold">
+                                            (09/11 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               エマ・AのSPスキル「マペットデリバリー」を長押しして初回発動した際に、エミッショントランスが発生しないことがある            </div>
@@ -400,6 +547,17 @@
         <div id="important-text-1338" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年09月11日 14:00 追記<br>
+        本件につきまして、順次配信されましたVer1.84.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年08月28日 18:25<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1263,75 +1421,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1324" class="weighty-column">
-
-            2024/08/01 16:30                            
-                <span class="bold">
-                                            (08/22 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              イベント「調査任務ver.2α コマンダー撃破任務」にて、発生している不具合について            </div>
-
-        </div>
-        <div id="important-text-1324" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年08月22日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.83.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <p class="list red">
-        ※当該イベントは開催終了しておりますが、今後イベントが開催する際には修正が反映された状態となります。
-    </p>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年08月01日 16:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、「調査任務ver.2α コマンダー撃破任務」にて以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <p class="list red">
-            ※8/2（金）17:30 追記
-        </p>
-        <div class="list">
-            ▶イベント「調査任務ver.2α コマンダー撃破任務」にて、全体に効果を適用する各種スキルが操作キャラクター以外に適用されない。
-        </div>
-        
-        
-        <hr class="red">
-        
-        <div class="list">
-            ▶イベント「調査任務ver.2α コマンダー撃破任務」にて、操作キャラクター以外の「奇数エリア移動毎に発動するパッシブスキル効果」が、任務開始時に正常に発動しない。
-        </div>
-        <p class="list red">
-            ※「やり直す」を行った場合、正常に発動できることを確認しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
