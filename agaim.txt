@@ -34,6 +34,106 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1346" class="weighty-column">
+
+            2024/09/12 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1346" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年09月12日 15:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日、以下のアップデートを実施いたしましたのでご報告いたします。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【アップデート内容】</p>
+        
+        <div class="list">
+            ▶下記キャラクターの「エニグマ」を実装しました。
+        </div>
+        <p class="list red">
+            ※エニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・牧瀬 紅莉栖<br>
+                ・阿万音 鈴羽
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターに、追加の専用ギアを実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・牧瀬 紅莉栖<br>
+                ・阿万音 鈴羽
+            </div>
+        </div>
+        <div class="list">
+            ▶下記キャラクターに、追加のSギアシェルを実装しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・牧瀬 紅莉栖【因果】<br>
+                ・阿万音 鈴羽【戦士】
+            </div>
+        </div>
+        <div class="list">
+            ▶特殊進化対応ギアを追加しました。
+        </div>
+        <p class="list red">
+            ※特殊進化はギアをLv.80まで強化すると利用できます。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・牧瀬 紅莉栖専用ギア一式<br>
+                ・阿万音 鈴羽専用ギア一式
+            </div>
+        </div>
+        
+        <div class="center">
+            <div class="event-date">
+                特殊進化について
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2750">
+        </div>
+       <div class="list">
+            ▶属性変換対応ギアを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ギア】</p>
+            <div>
+                ・牧瀬 紅莉栖専用ギア一式<br>
+                ・阿万音 鈴羽専用ギア一式
+            </div>
+        </div>
+        
+        <div class="center">
+            <div class="event-date">
+                属性変換について
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2750">
+        </div>
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1345" class="weighty-column">
 
             2024/09/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -86,7 +186,7 @@
                 SPスキル「AGアサルトアーツ」<br>
                 遠距離攻撃への派生ルートについて
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2749">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2750">
         </div>
         <div class="list">
             ▶阿万音 鈴羽の各種クロスギアの性能を調整しました。
@@ -574,7 +674,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2749">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2750">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
@@ -860,7 +960,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2749">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2750">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -1223,11 +1323,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2749">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2750">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2749">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2750">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -1259,7 +1359,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2749">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2750">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1441,68 +1541,6 @@
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
 </div>        </div>
-        
-        <div id="important-column-1326" class="weighty-column">
-
-            2024/08/08 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1326" class="weighty-notice hide">
-           
-    <div>
-        
-        <div>
-            ■2024年08月08日 15:00<br>
-            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-            本日、以下のアップデートを実施いたしましたのでご報告いたします。
-        </div>
-        
-        <hr>
-        <div class="bg_white news-box">
-            <p class="bold">【アップデート内容】</p>
-            
-            <div class="list">
-                ▶ギア所持枠を100枠拡張しました。
-            </div>
-            <p class="list red">
-                ※カラットで拡張できる所持枠とは別に、全てのお客様が100枠拡張されます。
-            </p>
-            <div class="list">
-                ▶カラットで拡張できるギア所持枠を、最大1100枠に引き上げました。
-            </div>
-            <p class="list red">
-               ※通常の所持枠と合算すると最大「2050」枠が上限になります。
-            </p>
-            <div class="list">
-                ▶二子玉 舞のエニグマにセルを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                ・共通エリア<br>
-                パッシブスキルセルを追加。<br>
-                <br>
-                ・ノーマルエリア<br>
-                ・アナザーエリア<br>
-                ・ファクターエリア<br>
-                スキルスロット拡張セルを追加。
-            </div>
-            <div class="list">
-                ▶属性変換対応ギアを追加しました。
-            </div>
-            <div class="sub-box bg_white">
-                ・二子玉 舞専用ギア一式
-                <p class="list red">
-                    ※アナザーギアは対象外となります。
-                </p>
-            </div>
-        </div>
-        
-        <div>
-            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-        </div>
-    </div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
