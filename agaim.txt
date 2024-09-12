@@ -34,6 +34,56 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1348" class="weighty-column">
+
+            2024/09/12 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない            </div>
+
+        </div>
+        <div id="important-text-1348" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年09月12日 16:40<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラエピソード】</p>
+            <div>
+                ・Ep4-1<br>
+                ・Ep4-2<br>
+                ・Ep4-3
+            </div>
+        </div>
+        <p class="list red">
+            ※対象エピソードは、ノーマル★4もしくはアナザー★4キャラが加入することで開放されるのが開発意図通りの挙動となります。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1347" class="weighty-column">
 
             2024/09/12 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -151,7 +201,7 @@
             <div class="event-date">
                 特殊進化について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2754">
         </div>
        <div class="list">
             ▶属性変換対応ギアを追加しました。
@@ -168,7 +218,7 @@
             <div class="event-date">
                 属性変換について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2754">
         </div>
     </div>
     
@@ -229,7 +279,7 @@
                 SPスキル「AGアサルトアーツ」<br>
                 遠距離攻撃への派生ルートについて
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2754">
         </div>
         <div class="list">
             ▶阿万音 鈴羽の各種クロスギアの性能を調整しました。
@@ -717,7 +767,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2754">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
@@ -1003,7 +1053,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2754">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -1366,11 +1416,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2754">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2754">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -1402,7 +1452,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2753">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2754">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1451,71 +1501,6 @@
         <p class="list red">
             ※追加されたSPスキルは、スキル詳細画面からSPスキルを付け替えることで使用可能となります。
         </p>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1328" class="weighty-column">
-
-            2024/08/08 19:30                            
-                <span class="bold">
-                                            (08/08 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1328" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年08月08日 19:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶特定画面にて、在賀 奈々のコスチューム「ディバイナーローブ」の名称表記が誤っている問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            誤：ディバイナーエナン<br>
-            正：ディバイナーローブ
-        </div>
-    </div>
-    <div>
-        また、不具合発生及び、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                8/8（木）19:30 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                8/22（木）23:59 まで
-            </div>
-        </div>
     </div>
     <div>
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
