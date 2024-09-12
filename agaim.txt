@@ -34,6 +34,132 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1345" class="weighty-column">
+
+            2024/09/12 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1345" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年09月12日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶阿万音 鈴羽のSPスキル「AGアサルトアーツ」の性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【調整内容】</p>
+            <p class="list">
+                ・発動時に「トップスとボトムススキルの使用回数を1回復する」効果を追加。
+            </p>
+            <p class="list">
+                ・近接攻撃のエフェクトを調整。
+            </p>
+            <p class="list">
+                ・フィニッシュブローのエフェクトを調整。
+            </p>
+            <p class="list">
+                ・フィニッシュブローのダメージを約12%増加。
+            </p>
+            <p class="list">
+                ・ジャスト入力の受付判定を緩和。
+            </p>
+            <p class="list">
+                ・ジャスト入力受付中に「遠距離攻撃」へ派生できるルートを追加。
+            </p>
+        </div>
+        <div class="center">
+            <div class="event-date">
+                SPスキル「AGアサルトアーツ」<br>
+                遠距離攻撃への派生ルートについて
+            </div>
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2746">
+        </div>
+        <div class="list">
+            ▶阿万音 鈴羽の各種クロスギアの性能を調整しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象クロスギア】</p>
+            <div>
+                ・★3/C27セレステ<br>
+                ・★3/C27セレステASs<br>
+                ・★3/C27セレステASsGen2<br>
+                ・★3/C27セレステASsGen3<br>
+                ・★4/C27セレステASsGen4<br>
+                ・★4/C27セレステASsGen5<br>
+                ・★4/C27セレステASsGen6
+            </div>
+            <p class="list">
+                ・ジャスト入力の受付判定を緩和。
+            </p>
+        </div>
+        <div class="list">
+            ▶エニグマで習得可能な下記のパッシブスキルに「ターン時のブースト消費を軽減」の効果を追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象パッシブスキル】</p>
+            <div>
+                ・摂理の解明1<br>
+                ・夕闇の鶴翼1<br>
+                ・笑顔の力1<br>
+                ・歌声の力1
+            </div>
+        </div>
+        <div class="list">
+            ▶エニグマで習得可能なパッシブスキル「夕闇の鶴翼1」に、スキルタグ「機動力」を追加しました。
+        </div>
+        <div class="list">
+            ▶依城 えりのエニグマで修得可能なパッシブスキル「折り連なる刃1」の、「ターン時のブースト消費を軽減」の効果が正常に適用されていない不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターが専用トップスギアを装備した時、手首の見た目に違和感がある問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・牧瀬 紅莉栖<br>
+                ・阿万音 鈴羽
+            </div>
+        </div>
+        <div class="list">
+            ▶萬場 盟華のアクセサリー「コータムMW」の企業ロゴの誤記を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            誤：YASHIMA<br>
+            正：Mountain Witch
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1342" class="weighty-column">
 
             2024/09/02 17:15                            
@@ -448,7 +574,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2745">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2746">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
@@ -541,7 +667,11 @@
         
         <div id="important-column-1340" class="weighty-column">
 
-            2024/08/30 16:05            
+            2024/08/30 16:05                            
+                <span class="bold">
+                                            (09/12 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               依城 えりのエニグマで修得可能なパッシブスキル「折り連なる刃1」の、「ターン時のブースト消費を軽減」の効果が正常に適用されていない            </div>
@@ -550,6 +680,17 @@
         <div id="important-text-1340" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年09月12日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年08月30日 16:05<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -719,7 +860,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2745">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2746">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -1082,11 +1223,11 @@
         </p>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2745">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_22.jpg?v=2746">
         </div>
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2745">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_23.jpg?v=2746">
         </div>
         <div>
             新しい「プレミアムパス」には10日間と30日間のコースがあり、それぞれの特典アイテムや便利機能は同じ内容となります（特典アイテムの数量は、パスの有効期間に応じて異なります）
@@ -1118,7 +1259,7 @@
         
         
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2745">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240820/bnr_m00_trl_608_21.jpg?v=2746">
             <div class="event-date">
                 期間：8/23（金）15:00 ～ 9/2（月）14:59 まで
             </div>
@@ -1362,114 +1503,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1325" class="weighty-column">
-
-            2024/08/08 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1325" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年08月08日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶下記ショットギア一部の弾の射線を表すエフェクトが、開発意図よりも長く表示されてしまう問題を修正しました。
-        </div>
-        <p class="list red">
-            ※見た目のみの修正となり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/レールガンR<br>
-                ・★4/レールガン<br>
-                ・★4/レールガンS
-            </div>
-        </div>
-        <div class="list">
-            ▶クロスギア「荷電式超大型戦術刀」シリーズを装備し、特定状況において近接攻撃中に下フリックで発動する溜め攻撃を行った際、溜め時間が長くなってしまうことがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶ファティマ・BのSPスキル「スイフトマローダーH」が敵にヒットした際に、実際に与えたダメージ値とは別に、数字の「0」が表示される問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターに特定のSPスキルを装着すると、SPスキル発動時のボイスが再生されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・ファティマ・B<br>
-                ・伊戸倉 音緒
-            </div>
-        </div>
-        <div class="list">
-            ▶日向 リンがコスチューム「八八式戦闘服R」を着用している時、コスチュームの一部が破れたように見えることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶兼志谷 シタラがコスチューム「グラストコス/シタラ」を着用中、特定のポーズをとった場合、スカートの一部が肌にめり込んでしまう問題を緩和しました。
-        </div>
-        <div class="list">
-            ▶バージニア・Gがコスチューム「FDN-EF02B」を着用した時の、ジャケット内側の陰影表現を微調整しました。
-        </div>
-        <div class="list">
-            ▶金潟 すぐみのボイスアーカイブの項目「バトル/基本」に、任務完了時のボイスが表示されていない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶藤野 やよいのボイスアーカイブにおいて、「ファクター」タブの項目「ホーム・ドレッサー/基本」に藤野 極の誕生日ボイスが含まれていない問題を修正しました。
-        </div>
-        <div class="list">
-            ▶下記アクトレスのボイスアーカイブにおいて、「ファクター」タブの項目「その他」にエニグマ関連のボイスが含まれていない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象アクトレス】</p>
-            <div>
-                ・ファティマ・B<br>
-                ・伊戸倉 音緒
-            </div>
-        </div>
-        <div class="list">
-            ▶伊戸倉 音緒のキャラエピソードEp5-3において、伊戸倉 音緒の年齢表記に誤りがあったため修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                誤：21<br>
-            	正：22
-            </div>
-        </div>
-        <div class="list">
-            ▶サイフォゾーアが尻尾の先端からレーザーを照射しながら回転攻撃を行う時、開発意図と異なる場所に攻撃判定が存在している不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
