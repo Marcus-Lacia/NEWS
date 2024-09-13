@@ -36,8 +36,7 @@
         
         <div id="important-column-1348" class="weighty-column">
 
-            2024/09/12 16:40                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/09/12 16:40            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない            </div>
