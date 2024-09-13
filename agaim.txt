@@ -86,8 +86,7 @@
         
         <div id="important-column-1347" class="weighty-column">
 
-            2024/09/12 15:30                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/09/12 15:30            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               任務中に回復、強化、状態異常などの効果が正常に適用されないことがある            </div>
