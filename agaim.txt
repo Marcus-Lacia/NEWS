@@ -34,9 +34,120 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1349" class="weighty-column">
+
+            2024/09/13 20:00                            
+                <span class="red bold">
+                                            (09/13 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1349" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年09月13日 20:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラエピソード】</p>
+            <div>
+                ・Ep.4-1<br>
+                ・Ep.4-2<br>
+                ・Ep.4-3
+            </div>
+        </div>
+        <div class="list">
+            ▶「カラットショップ STEINS;GATE」の「コスセットA」の説明文を調整しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの調整となり、商品内容に変更はありません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">調整前：</span><br>
+                コスチュームセット
+            </div>
+            <div>
+                <span class="bold">調整後：</span><br>
+                『STEINS;GATE』コラボ<br>
+                <br>
+                牧瀬 紅莉栖の特別コスチューム<br>
+                4着セット
+            </div>
+        </div>
+        <div class="list">
+            ▶「カラットショップ STEINS;GATE」の「コスセットB」の説明文を調整しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの調整となり、商品内容に変更はありません。
+        </p>
+        <div class="sub-box bg_white">
+            <div>
+                <span class="bold">調整前：</span><br>
+                コスチュームセット
+            </div>
+            <div>
+                <span class="bold">調整後：</span><br>
+                『STEINS;GATE』コラボ<br>
+                <br>
+                阿万音 鈴羽の特別コスチューム<br>
+                4着セット
+            </div>
+        </div>
+    </div>
+    <div>
+        また、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                9/13（金）20:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                9/27（金）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1348" class="weighty-column">
 
-            2024/09/12 16:40            
+            2024/09/12 16:40                            
+                <span class="bold">
+                                            (09/13 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない            </div>
@@ -45,6 +156,17 @@
         <div id="important-text-1348" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年09月13日 20:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
     <div>
         ■2024年09月12日 16:40<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1459,47 +1581,6 @@
         <div>
             旧定期パスの有効期間中でもご利用いただけますので、この機会にぜひ、新しい定期パスをお試しください。
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1329" class="weighty-column">
-
-            2024/08/16 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1329" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年08月16日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶シルフィーⅡの「エニグマ」を実装しました。
-        </div>
-        <div class="list">
-            ▶シルフィーⅡにユニゾン対応SPスキル「ブリッツメッサー/U」を追加しました。
-        </div>
-        <p class="list red">
-            ※追加されたSPスキルは、スキル詳細画面からSPスキルを付け替えることで使用可能となります。
-        </p>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
