@@ -36,8 +36,7 @@
         
         <div id="important-column-1350" class="weighty-column">
 
-            2024/09/16 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/09/16 14:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               マルチ任務「要撃対象：フロストファルコン」のプレイ中にエラーが発生することがある            </div>
