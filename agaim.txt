@@ -34,6 +34,48 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1352" class="weighty-column">
+
+            2024/09/18 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              阿万音 鈴羽のアクセサリー「エルピス2ndA/H」の装着部位「髪型」が正常に動作していない            </div>
+
+        </div>
+        <div id="important-text-1352" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年09月18日 16:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶阿万音 鈴羽のアクセサリー「エルピス2ndA/H」の装着部位「髪型」が正常に動作していない。
+        </div>
+        <p class="list red">
+            ※アクセサリー説明文に記載されている通り、正しい装着部位は「耳・髪型」となります。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1351" class="weighty-column">
 
             2024/09/18 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -1473,45 +1515,6 @@
     </div>
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1332" class="weighty-column">
-
-            2024/08/22 15:40                            
-                <span class="bold">
-                                            (08/22 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver1.83.0アプリより、ホーム画面のスカウト新着表示が消えなくなっている            </div>
-
-        </div>
-        <div id="important-text-1332" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年08月22日 15:40<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        以下の不具合が発生しておりましたが、修正が完了いたしましたのでご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver1.83.0アプリより、ホーム画面のスカウト新着表示が消えなくなっている。
-        </div>
-    </div>
-    <div>
-        このたびは、ご迷惑をおかけしてしまい誠に申し訳ございませんでした。
     </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
