@@ -34,6 +34,130 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1351" class="weighty-column">
+
+            2024/09/18 14:00                            
+                <span class="red bold">
+                                            (09/19 補填済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.84.1 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1351" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年09月19日 14:00 追記<br>
+        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                9/19（木）14:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 100
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                10/3（木）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
+    
+    <div>
+        ■2024年09月18日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.84.1のアプリにて、以下の修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.84.1の更新内容】</p>
+        
+        <div class="list hide_DMM">
+            ▶Ver.1.84.0アプリより、2人以上のキャラクターで任務に出撃し特定操作を行うと、回復、強化、状態異常などの効果が正しい対象に適用されず、開発意図と異なる効果値になることがある不具合を修正しました。
+        </div>
+        <div class="list">
+            ▶マルチ任務「要撃対象：フロストファルコン」のプレイ中にエラーが発生することがある問題を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.84.1の配信に伴い、<span class="bold red">9/19（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
+        <div id="important-column-1353" class="weighty-column">
+
+            2024/09/19 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している            </div>
+
+        </div>
+        <div id="important-text-1353" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年09月19日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.84.0アプリより、「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギアの一例】</p>
+            <div>
+                ・★4/蒼光円盤手裏剣・忍冬A（蛙坂 来弥）<br>
+                ・★4/フィオンサイユMk3（二子玉 舞）など
+            </div>
+        </div>
+        <div>
+            エリア移動中は弾数ゲージが自動回復する挙動となっておりましたが、現在は回復しない状態となっていることを確認しております。<br>
+            また、Ver.1.84.0アプリ以前の挙動では、端末のロード時間や通信環境によってエリア移動中の弾数ゲージ回復量が変動する、という問題があったことも確認しました。
+        </div>
+        <div>
+            上記を踏まえて、今後のアップデートにて対象ギアは「エリア移動時に弾数ゲージを全回復する」という挙動への修正を予定しております。
+        </div>
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1352" class="weighty-column">
 
             2024/09/18 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -71,45 +195,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1351" class="weighty-column">
-
-            2024/09/18 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.84.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1351" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月18日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.84.1のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.84.1の更新内容】</p>
-        
-        <div class="list hide_DMM">
-            ▶Ver.1.84.0アプリより、2人以上のキャラクターで任務に出撃し特定操作を行うと、回復、強化、状態異常などの効果が正しい対象に適用されず、開発意図と異なる効果値になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチ任務「要撃対象：フロストファルコン」のプレイ中にエラーが発生することがある問題を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.84.1の配信に伴い、<span class="bold red">9/19（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
@@ -469,7 +554,7 @@
             <div class="event-date">
                 特殊進化について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2763">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2764">
         </div>
        <div class="list">
             ▶属性変換対応ギアを追加しました。
@@ -486,7 +571,7 @@
             <div class="event-date">
                 属性変換について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2763">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2764">
         </div>
     </div>
     
@@ -546,7 +631,7 @@
                 SPスキル「AGアサルトアーツ」<br>
                 遠距離攻撃への派生ルートについて
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2763">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2764">
         </div>
         <div class="list">
             ▶阿万音 鈴羽の各種クロスギアの性能を調整しました。
@@ -1034,7 +1119,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2763">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2764">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
@@ -1320,7 +1405,7 @@
             ▶エミッショントランスの発動対象となる攻撃を敵にヒットさせた際に、画面上下にエフェクトが表示される仕様を追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2763">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240828/info_01.jpg?v=2764">
         </div>
         <div class="list">
             ▶複数敵に対して同時に攻撃をヒットさせ、エミッショントランスが発動した際に、対象の敵が一律で鈍重になるよう挙動を変更しました。
@@ -1459,62 +1544,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1333" class="weighty-column">
-
-            2024/08/22 20:00                            
-                <span class="bold">
-                                            (08/27 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.83.0アプリより、ボイス音量が開発意図よりも小さくなってしまうことがある            </div>
-
-        </div>
-        <div id="important-text-1333" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年08月27日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.83.2アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年08月22日 20:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.83.0アプリより、オプション＞サウンド関連からボイス音量を減少させている場合に、音量が開発意図よりも小さくなってしまう。
-        </div>
-        <p class="list red">
-            ※ボイス音量設定を変更していない場合は、音量に影響がないことを確認しております。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、原因を調査しております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
