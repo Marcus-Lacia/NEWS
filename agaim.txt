@@ -160,8 +160,7 @@
         
         <div id="important-column-1352" class="weighty-column">
 
-            2024/09/18 16:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/09/18 16:10            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               阿万音 鈴羽のアクセサリー「エルピス2ndA/H」の装着部位「髪型」が正常に動作していない            </div>
