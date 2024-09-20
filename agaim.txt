@@ -37,7 +37,7 @@
         <div id="important-column-1351" class="weighty-column">
 
             2024/09/18 14:00                            
-                <span class="red bold">
+                <span class="bold">
                                             (09/19 補填済)
                                     </span>
             
@@ -110,8 +110,7 @@
         
         <div id="important-column-1353" class="weighty-column">
 
-            2024/09/19 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/09/19 14:00            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している            </div>
