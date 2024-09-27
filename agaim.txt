@@ -36,7 +36,10 @@
         
         <div id="important-column-1359" class="weighty-column">
 
-            2024/09/27 10:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/09/27 10:55                            
+                <span class="red bold">
+                                            (09/27 補填済)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -46,6 +49,36 @@
         <div id="important-text-1359" class="weighty-notice hide">
            
 <div>
+    
+    <div>
+        ■2024年09月27日 18:00 追記<br>
+        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
+    </div>
+    <div class="sub-box bg_white">
+        <p class="bold">【対象者】</p>
+            <div class="paragraph">
+                9/27（金）18:00 までに<br>
+                アカウントを作成しているお客様
+            </div>
+        <div>
+            <p class="bold">【補填内容】</p>
+            <div class="paragraph">
+                スカウトポイント × 30
+            </div>
+        </div>
+        <div>
+            <p class="bold">【配布期間】</p>
+            <div class="paragraph">
+                10/11（金）23:59 まで
+            </div>
+        </div>
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
     
     <div>
         ■2024年09月27日 10:55<br>
@@ -124,7 +157,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2792">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2793">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1047,7 +1080,7 @@
             <div class="event-date">
                 特殊進化について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2792">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2793">
         </div>
        <div class="list">
             ▶属性変換対応ギアを追加しました。
@@ -1064,7 +1097,7 @@
             <div class="event-date">
                 属性変換について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2792">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2793">
         </div>
     </div>
     
@@ -1124,7 +1157,7 @@
                 SPスキル「AGアサルトアーツ」<br>
                 遠距離攻撃への派生ルートについて
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2792">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2793">
         </div>
         <div class="list">
             ▶阿万音 鈴羽の各種クロスギアの性能を調整しました。
@@ -1612,7 +1645,7 @@
             ※バナーが表示されていないお客様には、アクセサリーの回収は行われません。
         </p>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2792">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240829/info_01.jpg?v=2793">
         </div>
         <div>
             なお、アクセサリーの回収対象となるお客様につきましても、9月2日（月）14:59 までにいずれかのカラットをご購入いただいた場合はプレゼント獲得条件が達成され、アクセサリーの回収は行われません。
