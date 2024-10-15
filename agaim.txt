@@ -34,6 +34,53 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1365" class="weighty-column">
+
+            2024/10/15 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              アップデートのお知らせ            </div>
+
+        </div>
+        <div id="important-text-1365" class="weighty-notice hide">
+           
+    <div>
+        
+        <div>
+            ■2024年10月15日 15:00<br>
+            アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+            本日、以下のアップデートを実施いたしましたのでご報告いたします。
+        </div>
+        
+        <hr>
+        <div class="bg_white news-box">
+            <p class="bold">【アップデート内容】</p>
+            
+            <div class="list">
+                ▶ミア・Vのエニグマにセルを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                ・共通エリア<br>
+                パッシブスキルセルを追加。<br>
+                <br>
+                ・ノーマルエリア<br>
+                ・アナザーエリア<br>
+                スキルスロット拡張セルを追加。
+            </div>
+            <div class="list">
+                ▶属性変換対応ギアを追加しました。
+            </div>
+            <div class="sub-box bg_white">
+                ・ミア・V専用ギア一式
+            </div>
+        </div>
+        
+        <div>
+            今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+        </div>
+    </div>        </div>
+        
         <div id="important-column-1364" class="weighty-column">
 
             2024/10/15 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -246,13 +293,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2827">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2828">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2827">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2828">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -488,7 +535,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2827">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2828">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1411,7 +1458,7 @@
             <div class="event-date">
                 特殊進化について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2827">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2828">
         </div>
        <div class="list">
             ▶属性変換対応ギアを追加しました。
@@ -1428,133 +1475,8 @@
             <div class="event-date">
                 属性変換について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2827">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2828">
         </div>
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1345" class="weighty-column">
-
-            2024/09/12 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1345" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月12日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶阿万音 鈴羽のSPスキル「AGアサルトアーツ」の性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【調整内容】</p>
-            <p class="list">
-                ・発動時に「トップスとボトムススキルの使用回数を1回復する」効果を追加。
-            </p>
-            <p class="list">
-                ・近接攻撃のエフェクトを調整。
-            </p>
-            <p class="list">
-                ・フィニッシュブローのエフェクトを調整。
-            </p>
-            <p class="list">
-                ・フィニッシュブローのダメージを約12%増加。
-            </p>
-            <p class="list">
-                ・ジャスト入力の受付判定を緩和。
-            </p>
-            <p class="list">
-                ・ジャスト入力受付中に「遠距離攻撃」へ派生できるルートを追加。
-            </p>
-        </div>
-        <div class="center">
-            <div class="event-date">
-                SPスキル「AGアサルトアーツ」<br>
-                遠距離攻撃への派生ルートについて
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_35.jpg?v=2827">
-        </div>
-        <div class="list">
-            ▶阿万音 鈴羽の各種クロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★3/C27セレステ<br>
-                ・★3/C27セレステASs<br>
-                ・★3/C27セレステASsGen2<br>
-                ・★3/C27セレステASsGen3<br>
-                ・★4/C27セレステASsGen4<br>
-                ・★4/C27セレステASsGen5<br>
-                ・★4/C27セレステASsGen6
-            </div>
-            <p class="list">
-                ・ジャスト入力の受付判定を緩和。
-            </p>
-        </div>
-        <div class="list">
-            ▶エニグマで習得可能な下記のパッシブスキルに「ターン時のブースト消費を軽減」の効果を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象パッシブスキル】</p>
-            <div>
-                ・摂理の解明1<br>
-                ・夕闇の鶴翼1<br>
-                ・笑顔の力1<br>
-                ・歌声の力1
-            </div>
-        </div>
-        <div class="list">
-            ▶エニグマで習得可能なパッシブスキル「夕闇の鶴翼1」に、スキルタグ「機動力」を追加しました。
-        </div>
-        <div class="list">
-            ▶依城 えりのエニグマで修得可能なパッシブスキル「折り連なる刃1」の、「ターン時のブースト消費を軽減」の効果が正常に適用されていない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶下記キャラクターが専用トップスギアを装備した時、手首の見た目に違和感がある問題を緩和しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・牧瀬 紅莉栖<br>
-                ・阿万音 鈴羽
-            </div>
-        </div>
-        <div class="list">
-            ▶萬場 盟華のアクセサリー「コータムMW」の企業ロゴの誤記を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            誤：YASHIMA<br>
-            正：Mountain Witch
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
     <div>
