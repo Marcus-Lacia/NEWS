@@ -291,13 +291,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2839">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2841">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2839">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2841">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -533,7 +533,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2839">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2841">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1456,7 +1456,7 @@
             <div class="event-date">
                 特殊進化について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2839">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2841">
         </div>
        <div class="list">
             ▶属性変換対応ギアを追加しました。
@@ -1473,7 +1473,7 @@
             <div class="event-date">
                 属性変換について
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2839">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2841">
         </div>
     </div>
     
