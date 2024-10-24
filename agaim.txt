@@ -34,6 +34,140 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1366" class="weighty-column">
+
+            2024/10/24 14:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              Ver.1.85.0 配信のお知らせ            </div>
+
+        </div>
+        <div id="important-text-1366" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年10月24日 14:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        順次配信が開始されました、Ver.1.85.0のアプリにて、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【Ver.1.85.0の更新内容】</p>
+        
+        <div class="list">
+            ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
+        </div>
+        <div class="center">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2848">
+        </div>
+        <div class="list">
+            ▶リスト型の交換所を開いた際のロード時間を短縮しました。
+        </div>
+        <div class="list">
+            ▶任務中にアクセサリー「小型投影機/雲」が表示されるよう仕様を調整しました。
+        </div>
+        <div class="list show_only_iOS">
+            ▶各種任務の動作安定性を改善しました。
+        </div>
+        <div class="list">
+            ▶Ver.1.84.0アプリより、「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギアの一例】</p>
+            <div>
+                ・★4/蒼光円盤手裏剣・忍冬A（蛙坂 来弥）<br>
+                ・★4/フィオンサイユMk3（二子玉 舞）など
+            </div>
+        </div>
+        <p class="list red">
+            ※エリア移動時に弾数ゲージを全回復するのが、開発意図通りの挙動になります。
+        </p>
+        <div class="list">
+            ▶ロサガリカ各種が、形態移行中にダウン状態になった際、開発意図と異なる挙動をしてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶特定のバトルへクスに出現するサイフォゾーアの一部射撃攻撃が、開発意図よりも避けにくくなっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶ガーデンの子機に「誘爆」の状態異常を付与した後、子機のHPが0にも関わらず台座に「誘爆」の効果が残り続けてしまう問題を修正しました。
+        </div>
+        <div class="list">
+            ▶一部の敵に「誘爆」を付与した時、状態異常エフェクトが正しく表示されないことがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正であり、性能に影響はありません。
+        </p>
+        <div class="list">
+            ▶レントラー各種の出現直後にHPを極端に減らすと、形態変化時のモーションが正常に再生されないことがある問題を修正しました。
+        </div>    
+        <div class="list">
+            ▶特定の大型ヴァイス撃破演出直前に、違和感のある挙動をすることがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正であり、ゲームの進行に影響はありません。
+        </p>
+        <div class="list">
+            ▶敵が状態異常を受けた時、状態異常のエフェクトが敵に追従しないことがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正であり、性能に影響はありません。
+        </p>
+        <div class="list">
+            ▶パグロがバリアを展開している時、状態異常によるダメージが表示されない問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正であり、実際のダメージ量に影響はありません。
+        </p>
+        <div class="list">
+            ▶御茶ノ水 美里江がコスチューム「ゆうしゃのふく」とアクセサリー「キョンシー帽」をあわせて着用した時の見た目を調整しました。
+        </div>    
+        <div class="list">
+            ▶「メニュー」＞「アイテム」で特定操作を行うと、所持アイテムアイコンが複数表示されることがある問題を修正しました。
+        </div>
+        <p class="list red">
+            ※見た目のみの修正であり、実際の所持数に影響はありません。
+        </p>
+        <div class="list">
+            ▶特殊宙域作戦のデプスへクスの出撃前画面で深度変更を行い出撃すると、変更した深度とは異なるエリアに出撃してしまう問題を修正しました。
+        </div> 
+        <div class="list">
+            ▶エニグマでセル解放直後に、特定のタイミングで画面遷移を行うと、ロードが完了しないことがある不具合を修正しました。
+        </div> 
+        <div class="list">
+            ▶装備中のギアの属性変換を特定手順で行うと、変換後のステータスが一時的にキャラ一覧画面に正しく反映されないことがある問題を修正しました。
+        </div> 
+        <div class="list">
+            ▶シェル解析結果画面で、特定操作を行いギアを売却するとエラーが発生する不具合を修正しました。
+        </div> 
+        <div class="list">
+            ▶特定操作を行いシェルを解析すると、エラーが発生することがある不具合を修正しました。
+        </div> 
+        <div class="list">
+            ▶「アクセサリー交換所 6.5周年エディション」にて、所持済みアクセサリーが開発意図と異なる位置に表示される問題を修正しました。
+        </div> 
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        なお、Ver.1.85.0の配信に伴い、<span class="bold red">10/25（金）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
+        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1365" class="weighty-column">
 
             2024/10/15 15:00            
@@ -291,13 +425,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2847">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2848">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2847">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2848">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -533,7 +667,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2847">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2848">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -923,6 +1057,70 @@
     </div>
 </div>        </div>
         
+        <div id="important-column-1353" class="weighty-column">
+
+            2024/09/19 14:00                            
+                <span class="bold">
+                                            (10/24 修正済)
+                                    </span>
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している            </div>
+
+        </div>
+        <div id="important-text-1353" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年10月24日 14:10 追記<br>
+        本件につきまして、順次配信されましたVer1.85.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+
+    <div>
+        ■2024年09月19日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.84.0アプリより、「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ショットギアの一例】</p>
+            <div>
+                ・★4/蒼光円盤手裏剣・忍冬A（蛙坂 来弥）<br>
+                ・★4/フィオンサイユMk3（二子玉 舞）など
+            </div>
+        </div>
+        <div>
+            エリア移動中は弾数ゲージが自動回復する挙動となっておりましたが、現在は回復しない状態となっていることを確認しております。<br>
+            また、Ver.1.84.0アプリ以前の挙動では、端末のロード時間や通信環境によってエリア移動中の弾数ゲージ回復量が変動する、という問題があったことも確認しました。
+        </div>
+        <div>
+            上記を踏まえて、今後のアップデートにて対象ギアは「エリア移動時に弾数ゲージを全回復する」という挙動への修正を予定しております。
+        </div>
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1351" class="weighty-column">
 
             2024/09/18 14:00                            
@@ -992,55 +1190,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1353" class="weighty-column">
-
-            2024/09/19 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している            </div>
-
-        </div>
-        <div id="important-text-1353" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年09月19日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.84.0アプリより、「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギアの一例】</p>
-            <div>
-                ・★4/蒼光円盤手裏剣・忍冬A（蛙坂 来弥）<br>
-                ・★4/フィオンサイユMk3（二子玉 舞）など
-            </div>
-        </div>
-        <div>
-            エリア移動中は弾数ゲージが自動回復する挙動となっておりましたが、現在は回復しない状態となっていることを確認しております。<br>
-            また、Ver.1.84.0アプリ以前の挙動では、端末のロード時間や通信環境によってエリア移動中の弾数ゲージ回復量が変動する、という問題があったことも確認しました。
-        </div>
-        <div>
-            上記を踏まえて、今後のアップデートにて対象ギアは「エリア移動時に弾数ゲージを全回復する」という挙動への修正を予定しております。
-        </div>
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
@@ -1378,105 +1527,6 @@
         修正にはアプリ更新が必要となりますので、近日中に修正版アプリの配信を予定しております。<br>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1346" class="weighty-column">
-
-            2024/09/12 15:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              アップデートのお知らせ            </div>
-
-        </div>
-        <div id="important-text-1346" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月12日 15:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日、以下のアップデートを実施いたしましたのでご報告いたします。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【アップデート内容】</p>
-        
-        <div class="list">
-            ▶下記キャラクターの「エニグマ」を実装しました。
-        </div>
-        <p class="list red">
-            ※エニグマが表示されない場合は、一旦ホーム画面に遷移することで表示されるようになります。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・牧瀬 紅莉栖<br>
-                ・阿万音 鈴羽
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターに、追加の専用ギアを実装しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・牧瀬 紅莉栖<br>
-                ・阿万音 鈴羽
-            </div>
-        </div>
-        <div class="list">
-            ▶下記キャラクターに、追加のSギアシェルを実装しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・牧瀬 紅莉栖【因果】<br>
-                ・阿万音 鈴羽【戦士】
-            </div>
-        </div>
-        <div class="list">
-            ▶特殊進化対応ギアを追加しました。
-        </div>
-        <p class="list red">
-            ※特殊進化はギアをLv.80まで強化すると利用できます。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・牧瀬 紅莉栖専用ギア一式<br>
-                ・阿万音 鈴羽専用ギア一式
-            </div>
-        </div>
-        
-        <div class="center">
-            <div class="event-date">
-                特殊進化について
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_37.jpg?v=2847">
-        </div>
-       <div class="list">
-            ▶属性変換対応ギアを追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・牧瀬 紅莉栖専用ギア一式<br>
-                ・阿万音 鈴羽専用ギア一式
-            </div>
-        </div>
-        
-        <div class="center">
-            <div class="event-date">
-                属性変換について
-            </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/240912/info_38.jpg?v=2847">
-        </div>
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
