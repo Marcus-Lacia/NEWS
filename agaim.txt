@@ -34,6 +34,53 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1367" class="weighty-column">
+
+            2024/10/25 16:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.85.0アプリより、イベント「AEGiS 戦闘教練」の特定任務が正常にクリアできない            </div>
+
+        </div>
+        <div id="important-text-1367" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年10月25日 16:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.85.0アプリより、イベント「AEGiS 戦闘教練」の下記任務にて、登場・撃破時演出が正常に再生されず、達成条件を満たしても任務が正常に進行しない。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・ポイゾネルモス：1限目<br>
+                ・ポイゾネルモス：2限目<br>
+                ・ポイゾネルモス：3限目
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因の調査を行っております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1366" class="weighty-column">
 
             2024/10/24 14:10            
@@ -60,7 +107,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2850">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2851">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -424,13 +471,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2850">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2851">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2850">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2851">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -666,7 +713,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2850">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2851">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1467,63 +1514,6 @@
         本件につきまして、現在、修正作業を進めております。
     </div>
     <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1347" class="weighty-column">
-
-            2024/09/12 15:30                            
-                <span class="bold">
-                                            (09/18 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              任務中に回復、強化、状態異常などの効果が正常に適用されないことがある            </div>
-
-        </div>
-        <div id="important-text-1347" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年09月18日 14:00 追記<br>
-        本件につきまして、順次配信されましたVer1.84.1アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年09月12日 15:30<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.84.0アプリより、2人以上のキャラクターで任務に出撃し特定操作を行うと、回復、強化、状態異常などの効果が正しい対象に適用されず、開発意図と異なる効果値になることがある。
-        </div>
-        <p class="list red">
-            ※不具合によって、各種効果が1人のキャラクターに2重で適用されたり、逆に適用されない場合があることを確認しております。
-        </p>
-    </div>
-    <div>
-        本件について、原因調査を進めておりますが、Ver.1.84.0アプリにて任務の動作安定化を図る改修を実施した際に、予期せぬ状態が生じた結果、発生している不具合の可能性が高い状況です。
-    </div>
-    <div>
-        修正にはアプリ更新が必要となりますので、近日中に修正版アプリの配信を予定しております。<br>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
     <div>
