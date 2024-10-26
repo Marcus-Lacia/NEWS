@@ -36,8 +36,7 @@
         
         <div id="important-column-1367" class="weighty-column">
 
-            2024/10/25 16:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/10/25 16:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.85.0アプリより、イベント「AEGiS 戦闘教練」の特定任務が正常にクリアできない            </div>
