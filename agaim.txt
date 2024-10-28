@@ -34,9 +34,153 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1368" class="weighty-column">
+
+            2024/10/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1368" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年10月28日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶新谷 芹菜及び籠目 深沙希のエニグマにセルを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                ・共通エリア<br>
+                パッシブスキルセルを追加。<br>
+                <br>
+                ・ノーマルエリア<br>
+                ・アナザーエリア<br>
+                スキルスロット拡張セルを追加。
+            </div>
+        </div>
+        <div class="list">
+            ▶ヘルプ＞誕生日リストにファクター「新谷 芹菜」がお祝いするキャラクターを追記しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・3/21	：宇佐元 杏奈<br>
+                ・3/27	：蛙坂 来弥<br>
+                ・4/6	：四谷 ゆみ<br>
+                ・6/6	：伊戸倉 音緒<br>
+                ・7/24	：大関 小結<br>
+                ・11/7	：籠目 深沙希
+            </div>
+        </div>
+        <div class="list">
+            ▶ヘルプ＞誕生日リストにファクター「籠目 深沙希」がお祝いするキャラクターを追記しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・1/28	：鳳 加純<br>
+                ・2/20	：琴村 朱音、琴村 天音<br>
+                ・3/14	：新谷 芹菜<br>
+                ・3/27	：蛙坂 来弥<br>
+                ・4/13	：アンジェリカ・G<br>
+                ・6/15	：吾妻 京<br>
+                ・7/24	：大関 小結<br>
+                ・8/24	：愛宕 右京<br>
+                ・9/2	：巽 竜子<br>
+                ・9/5	：サンティ・R<br>
+	            ・11/11：尾長 晶乃<br>
+                ・11/14：山野 薫子
+            </div>
+        </div>
+        <div class="list">
+            ▶Ver.1.85.0アプリより、イベント「AEGiS 戦闘教練」の下記任務にて、登場・撃破時演出が正常に再生されず、達成条件を満たしても任務が正常に進行しない不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象任務】</p>
+            <div>
+                ・ポイゾネルモス：1限目<br>
+                ・ポイゾネルモス：2限目<br>
+                ・ポイゾネルモス：3限目
+            </div>
+        </div>
+        <div class="list">
+            ▶ミア【テンペランス】がSPスキル「ル・グランメナージュ」を装着した場合に表示される、SPスキル効果で性能が上書きされたボトムススキルの説明文の一部を調整しました。
+        </div>
+        <p class="list red">
+            ※説明文のみの調整となり、性能に変更はございません。
+        </p>
+        <div class="sub-box bg_white">            <div>
+                調整前：冷撃マルチビームを一斉掃射する<br>
+                調整後：焼夷マルチビームを一斉掃射する
+            </div>
+        </div>
+        <div class="list">
+            ▶ミア【テンペランス】のスキル詳細画面にて、SPスキルアイコンの外枠が、ノーマルの得意属性色になっている問題を修正しました。
+        </div>
+        <div class="list">
+            ▶下記キャラクターのアクセサリー「ディバイナーエナン」の装着部位に「髪型」が含まれている問題を修正しました。
+        </div>
+        <p class="list red">
+            ※アクセサリー説明文に記載されている通り、正しい装着部位は「頭・前頭」となります。
+        </p>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクトレス】</p>
+            <div>
+                ・ファティマ・B<br>
+            	・在賀 奈々
+            </div>
+        </div>
+        <div class="list">
+            ▶下記アクセサリーを着用した時、ホーム画面でアクセサリーが光って見えてしまうことがある問題を緩和しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象アクセサリー】</p>
+            <div>
+                ・プリンシパルの仮面<br>
+	            ・フルムーンピアス/イヤリング<br>
+	            ・バタフライピアス/イヤリング<br>
+	            ・ロッカーキーバンド<br>
+	            ・キョンシー帽
+            </div>
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1367" class="weighty-column">
 
-            2024/10/25 16:20            
+            2024/10/25 16:20                            
+                <span class="bold">
+                                            (10/28 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.85.0アプリより、イベント「AEGiS 戦闘教練」の特定任務が正常にクリアできない            </div>
@@ -45,6 +189,17 @@
         <div id="important-text-1367" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年10月28日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年10月25日 16:20<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -1451,70 +1606,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1348" class="weighty-column">
-
-            2024/09/12 16:40                            
-                <span class="bold">
-                                            (09/13 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない            </div>
-
-        </div>
-        <div id="important-text-1348" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年09月13日 20:00 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年09月12日 16:40<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラエピソード】</p>
-            <div>
-                ・Ep4-1<br>
-                ・Ep4-2<br>
-                ・Ep4-3
-            </div>
-        </div>
-        <p class="list red">
-            ※対象エピソードは、ノーマル★4もしくはアナザー★4キャラが加入することで開放されるのが開発意図通りの挙動となります。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
