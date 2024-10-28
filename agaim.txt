@@ -36,7 +36,10 @@
         
         <div id="important-column-1368" class="weighty-column">
 
-            2024/10/28 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/10/28 14:00                            
+                <span class="red bold">
+                                            (10/28 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
@@ -57,6 +60,27 @@
     <div class="bg_white news-box">
         <p class="bold">【データ更新内容】</p>
         
+        <p class="list red">
+            ※10/28（月）15:00 追記<br>
+            以下の項目を追記いたしました。
+        </p>
+        <div class="list">
+            ▶新谷 芹菜及び籠目 深沙希のエニグマにセルを追加しました。
+        </div>
+        <div class="sub-box bg_white">
+            <div>
+                ・共通エリア<br>
+                パッシブスキルセルを追加。<br>
+                <br>
+                ・ノーマルエリア<br>
+                ・アナザーエリア<br>
+                スキルスロット拡張セルを追加。
+            </div>
+        </div>
+            
+        
+        <hr class="red">
+
         <div class="list">
             ▶ヘルプ＞誕生日リストにファクター「新谷 芹菜」がお祝いするキャラクターを追記しました。
         </div>
@@ -248,7 +272,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2859">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2860">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -612,13 +636,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2859">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2860">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2859">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2860">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -854,7 +878,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2859">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2860">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
