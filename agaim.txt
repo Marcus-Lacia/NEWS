@@ -34,6 +34,55 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1370" class="weighty-column">
+
+            2024/10/30 19:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              籠目 深沙希の特定ボトムスギアのスキルによる攻撃の一部が、敵に着弾する前に消えてしまうことがある            </div>
+
+        </div>
+        <div id="important-text-1370" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年10月30日 19:25<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶籠目 深沙希の特定ボトムスギアのスキルによる攻撃の一部が、敵に着弾する前に消えてしまうことがある。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ボトムスギア】</p>
+            <div>
+                ・★4/BWマトリクス/B<br>
+                ・★4/BWマトリクス改/B
+            </div>
+        </div>
+        <p class="list red">
+            ※本不具合は、籠目 深沙希が専用ショットギアを装備している場合は発生しないことを確認しております。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1368" class="weighty-column">
 
             2024/10/28 14:00                            
@@ -1510,113 +1559,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1349" class="weighty-column">
-
-            2024/09/13 20:00                            
-                <span class="bold">
-                                            (09/13 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1349" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月13日 20:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶牧瀬 紅莉栖【因果】及び阿万音 鈴羽【戦士】が加入しても、一部キャラエピソードが開放されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラエピソード】</p>
-            <div>
-                ・Ep.4-1<br>
-                ・Ep.4-2<br>
-                ・Ep.4-3
-            </div>
-        </div>
-        <div class="list">
-            ▶「カラットショップ STEINS;GATE」の「コスセットA」の説明文を調整しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの調整となり、商品内容に変更はありません。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                <span class="bold">調整前：</span><br>
-                コスチュームセット
-            </div>
-            <div>
-                <span class="bold">調整後：</span><br>
-                『STEINS;GATE』コラボ<br>
-                <br>
-                牧瀬 紅莉栖の特別コスチューム<br>
-                4着セット
-            </div>
-        </div>
-        <div class="list">
-            ▶「カラットショップ STEINS;GATE」の「コスセットB」の説明文を調整しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの調整となり、商品内容に変更はありません。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                <span class="bold">調整前：</span><br>
-                コスチュームセット
-            </div>
-            <div>
-                <span class="bold">調整後：</span><br>
-                『STEINS;GATE』コラボ<br>
-                <br>
-                阿万音 鈴羽の特別コスチューム<br>
-                4着セット
-            </div>
-        </div>
-    </div>
-    <div>
-        また、データ更新のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                9/13（金）20:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 30
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                9/27（金）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
