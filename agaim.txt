@@ -84,8 +84,7 @@
         
         <div id="important-column-1370" class="weighty-column">
 
-            2024/10/30 19:25                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/10/30 19:25            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               籠目 深沙希の特定ボトムスギアのスキルによる攻撃の一部が、敵に着弾する前に消えてしまうことがある            </div>
