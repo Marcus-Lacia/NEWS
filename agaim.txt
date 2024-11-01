@@ -34,6 +34,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1371" class="weighty-column">
+
+            2024/11/01 21:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              Ver.1.85.0アプリより、一部任務に出現するVWヘヴィが特定状況でチャージ攻撃を行わない場合がある            </div>
+
+        </div>
+        <div id="important-text-1371" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年11月01日 21:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶Ver.1.85.0アプリより、一部任務に出現するVWヘヴィが特定状況でチャージ攻撃を行わない場合がある。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【出現任務の一例】</p>
+            <div>
+                ・マルチ任務「V-HARD 超重力大戦」<br>
+                ・マルチ任務「要撃対象：VWヘヴィ」など
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1369" class="weighty-column">
 
             2024/10/31 15:00            
@@ -367,7 +413,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2869">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2870">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -731,13 +777,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2869">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2870">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2869">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2870">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -973,7 +1019,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2869">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2870">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1496,62 +1542,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1352" class="weighty-column">
-
-            2024/09/18 16:10                            
-                <span class="bold">
-                                            (09/26 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              阿万音 鈴羽のアクセサリー「エルピス2ndA/H」の装着部位「髪型」が正常に動作していない            </div>
-
-        </div>
-        <div id="important-text-1352" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年09月26日 14:05 追記<br>
-        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年09月18日 16:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶阿万音 鈴羽のアクセサリー「エルピス2ndA/H」の装着部位「髪型」が正常に動作していない。
-        </div>
-        <p class="list red">
-            ※アクセサリー説明文に記載されている通り、正しい装着部位は「耳・髪型」となります。
-        </p>
-    </div>
-    <div>
-        本件につきまして、現在、修正作業を進めております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
