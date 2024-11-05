@@ -34,6 +34,52 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1372" class="weighty-column">
+
+            2024/11/05 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              一部キャラクターの待機ポーズが開発意図と異なっている            </div>
+
+        </div>
+        <div id="important-text-1372" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年11月05日 19:20<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶一部キャラクターのホーム画面や撮影ルームにおける待機ポーズが、開発意図と異なるものになっている。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・新谷 芹菜【ネクスト】<br>
+                ・籠目 深沙希【ネクスト】
+            </div>
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1371" class="weighty-column">
 
             2024/11/01 21:00            
@@ -1467,80 +1513,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1351" class="weighty-column">
-
-            2024/09/18 14:00                            
-                <span class="bold">
-                                            (09/19 補填済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.84.1 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1351" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月19日 14:00 追記<br>
-        不具合発生のお詫びとして、下記補填を受取箱に配布いたしております。
-    </div>
-    <div class="sub-box bg_white">
-        <p class="bold">【対象者】</p>
-            <div class="paragraph">
-                9/19（木）14:00 までに<br>
-                アカウントを作成しているお客様
-            </div>
-        <div>
-            <p class="bold">【補填内容】</p>
-            <div class="paragraph">
-                スカウトポイント × 100
-            </div>
-        </div>
-        <div>
-            <p class="bold">【配布期間】</p>
-            <div class="paragraph">
-                10/3（木）23:59 まで
-            </div>
-        </div>
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    
-    <div>
-        ■2024年09月18日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.84.1のアプリにて、以下の修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.84.1の更新内容】</p>
-        
-        <div class="list hide_DMM">
-            ▶Ver.1.84.0アプリより、2人以上のキャラクターで任務に出撃し特定操作を行うと、回復、強化、状態異常などの効果が正しい対象に適用されず、開発意図と異なる効果値になることがある不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶マルチ任務「要撃対象：フロストファルコン」のプレイ中にエラーが発生することがある問題を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.84.1の配信に伴い、<span class="bold red">9/19（木）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
