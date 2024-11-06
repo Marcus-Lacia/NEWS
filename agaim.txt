@@ -36,8 +36,7 @@
         
         <div id="important-column-1372" class="weighty-column">
 
-            2024/11/05 19:20                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/11/05 19:20            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部キャラクターの待機ポーズが開発意図と異なっている            </div>
