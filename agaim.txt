@@ -36,7 +36,10 @@
         
         <div id="important-column-1373" class="weighty-column">
 
-            2024/11/07 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            2024/11/07 17:10                            
+                <span class="red bold">
+                                            (11/07 更新)
+                                    </span>
             
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
@@ -70,10 +73,17 @@
             </div>
         </div>
         <div>
-            当該トップススキルは敵に対する攻撃能力を持つため、敵をロックオンしている状態でのみ発動できるのが、開発意図通りの挙動となります。
+            <s>当該トップススキルは敵に対する攻撃能力を持つため、敵をロックオンしている状態でのみ発動できるのが、開発意図通りの挙動となります。</s>
+        </div>
+        <div>
+            当該トップススキルは敵に対する攻撃能力を持ちませんが、スキル効果で出現する「周回性ユニット」が敵の一部攻撃を消滅させる効果を持つ性質上、敵が存在する場合でのみ発動できるのが、開発意図通りの挙動となります。
         </div>
         <p class="list red">
             ※ロックオンしていない状態で発動すると、スキル効果で出現する周回性ユニットが正常に出現しません。
+        </p>
+        <p class="list red">
+            ※11/7（木）17:25 追記<br>
+            スキルに関する説明の誤りを修正しました。
         </p>
     </div>
     <div>
@@ -510,7 +520,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2881">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2882">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -874,13 +884,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2881">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2882">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2881">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2882">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -1116,7 +1126,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2881">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2882">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
