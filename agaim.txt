@@ -34,6 +34,59 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1373" class="weighty-column">
+
+            2024/11/07 17:10                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定SPスキルの発動中、トップススキルが開発意図と異なる挙動になる            </div>
+
+        </div>
+        <div id="important-text-1373" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年11月07日 17:10<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶特定SPスキルの発動中に上書きされたトップススキルが、敵をロックオンしていない状態でも発動できてしまう。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・ランツィーラーSG（兼志谷 シタラ）<br>
+                ・ツヴァイシュベルトHP（ファティマ・B）<br>
+                ・ツヴァイシュベルトSG（新谷 芹菜）
+            </div>
+        </div>
+        <div>
+            当該トップススキルは敵に対する攻撃能力を持つため、敵をロックオンしている状態でのみ発動できるのが、開発意図通りの挙動となります。
+        </div>
+        <p class="list red">
+            ※ロックオンしていない状態で発動すると、スキル効果で出現する周回性ユニットが正常に出現しません。
+        </p>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1372" class="weighty-column">
 
             2024/11/05 19:20            
@@ -1448,70 +1501,6 @@
         強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1353" class="weighty-column">
-
-            2024/09/19 14:00                            
-                <span class="bold">
-                                            (10/24 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している            </div>
-
-        </div>
-        <div id="important-text-1353" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年10月24日 14:10 追記<br>
-        本件につきまして、順次配信されましたVer1.85.0アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-
-    <div>
-        ■2024年09月19日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.84.0アプリより、「弾数ゲージを自動回復するタイプのショットギア」で弾数ゲージを消費している際の、エリア移動中の挙動が変化している。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギアの一例】</p>
-            <div>
-                ・★4/蒼光円盤手裏剣・忍冬A（蛙坂 来弥）<br>
-                ・★4/フィオンサイユMk3（二子玉 舞）など
-            </div>
-        </div>
-        <div>
-            エリア移動中は弾数ゲージが自動回復する挙動となっておりましたが、現在は回復しない状態となっていることを確認しております。<br>
-            また、Ver.1.84.0アプリ以前の挙動では、端末のロード時間や通信環境によってエリア移動中の弾数ゲージ回復量が変動する、という問題があったことも確認しました。
-        </div>
-        <div>
-            上記を踏まえて、今後のアップデートにて対象ギアは「エリア移動時に弾数ゲージを全回復する」という挙動への修正を予定しております。
-        </div>
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
