@@ -37,7 +37,7 @@
         <div id="important-column-1373" class="weighty-column">
 
             2024/11/07 17:10                            
-                <span class="red bold">
+                <span class="bold">
                                             (11/07 更新)
                                     </span>
             
