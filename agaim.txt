@@ -34,11 +34,109 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1374" class="weighty-column">
+
+            2024/11/14 14:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
+              本日のデータ更新内容について            </div>
+
+        </div>
+        <div id="important-text-1374" class="weighty-notice hide">
+           
+<div>
+    
+    <div>
+        ■2024年11月14日 14:00<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
+        本日のデータ更新において、以下の追加、調整、修正を行いました。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【データ更新内容】</p>
+        
+        <div class="list">
+            ▶蛙坂 来弥のホーム小物を変更しました。
+        </div>
+        <div class="list">
+            ▶籠目 深沙希の特定ボトムスギアのスキルによる攻撃の一部が、敵に着弾する前に消えてしまうことがある不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象ボトムスギア】</p>
+            <div>
+                ・★4/BWマトリクス/B<br>
+                ・★4/BWマトリクス改/B
+            </div>
+        </div>
+        <div class="list">
+            ▶Ver.1.85.0アプリより、一部任務に出現するVWヘヴィが特定状況でチャージ攻撃を行わない場合がある問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【出現任務の一例】</p>
+            <div>
+                ・マルチ任務「V-HARD 超重力大戦」<br>
+                ・マルチ任務「要撃対象：VWヘヴィ」など
+            </div>
+        </div>
+        <div class="list">
+            ▶一部キャラクターのホーム画面や撮影ルームにおける待機ポーズが、開発意図と異なるものになっている問題を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象キャラクター】</p>
+            <div>
+                ・新谷 芹菜【ネクスト】<br>
+                ・籠目 深沙希【ネクスト】
+            </div>
+        </div>
+        <div class="list">
+            ▶特定SPスキルの発動中に上書きされたトップススキルが、敵をロックオンしていない状態でも発動できてしまう不具合を修正しました。
+        </div>
+        <div class="sub-box bg_white">
+            <p class="bold">【対象SPスキル】</p>
+            <div>
+                ・ランツィーラーSG（兼志谷 シタラ）<br>
+                ・ツヴァイシュベルトHP（ファティマ・B）<br>
+                ・ツヴァイシュベルトSG（新谷 芹菜）
+            </div>
+        </div>
+        <div class="list">
+            ▶ロサガリカ属性特異型が行う突進攻撃が、エフェクトの見た目以上に攻撃判定が長く続いている問題を調整しました。
+        </div>
+        <div class="list">
+            ▶コスチューム「ゾディアックバニー」着用中、肩に薄い線が見える問題を修正しました。
+        </div>
+        <div class="list">
+            ▶尾長 晶乃がコスチューム「ミメシス」とアクセサリー「一日隊長タスキ」を同時着用した際にお互いが干渉しないよう、コスチューム付属のボディバッグが非表示になるよう見た目を調整しました。
+        </div>
+        <div class="list">
+            ▶アクセサリー「キョンシー帽」と交換用アイテム「霊符」の一部デザインを微調整しました。
+        </div>
+        <div class="list">
+            ▶各種データを追加しました。
+        </div>
+        <div class="list">
+            ▶その他、軽微な各種調整を行いました。
+        </div>
+        <div class="list">
+        	▶その他、軽微な不具合を修正しました。
+        </div>
+    </div>
+    <div>
+        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
+    </div>
+    
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1373" class="weighty-column">
 
             2024/11/07 17:10                            
                 <span class="bold">
-                                            (11/07 更新)
+                                            (11/14 修正済)
                                     </span>
             
             <div class="column-text">
@@ -49,6 +147,17 @@
         <div id="important-text-1373" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年11月14日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年11月07日 17:10<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -99,7 +208,11 @@
         
         <div id="important-column-1372" class="weighty-column">
 
-            2024/11/05 19:20            
+            2024/11/05 19:20                            
+                <span class="bold">
+                                            (11/14 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               一部キャラクターの待機ポーズが開発意図と異なっている            </div>
@@ -108,6 +221,17 @@
         <div id="important-text-1372" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年11月14日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年11月05日 19:20<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -144,7 +268,11 @@
         
         <div id="important-column-1371" class="weighty-column">
 
-            2024/11/01 21:00            
+            2024/11/01 21:00                            
+                <span class="bold">
+                                            (11/14 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               Ver.1.85.0アプリより、一部任務に出現するVWヘヴィが特定状況でチャージ攻撃を行わない場合がある            </div>
@@ -153,6 +281,17 @@
         <div id="important-text-1371" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年11月14日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年11月01日 21:00<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -236,7 +375,11 @@
         
         <div id="important-column-1370" class="weighty-column">
 
-            2024/10/30 19:25            
+            2024/10/30 19:25                            
+                <span class="bold">
+                                            (11/14 修正済)
+                                    </span>
+            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               籠目 深沙希の特定ボトムスギアのスキルによる攻撃の一部が、敵に着弾する前に消えてしまうことがある            </div>
@@ -245,6 +388,17 @@
         <div id="important-text-1370" class="weighty-notice hide">
            
 <div>
+    <div>
+        ■2024年11月14日 14:00 追記<br>
+        本件につきまして、先ほど行いましたデータ更新にて修正が完了いたしましたので、ご報告申し上げます。
+    </div>
+    <div>
+        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
+    </div>
+    
+    
+    <hr class="red">
+    
     <div>
         ■2024年10月30日 19:25<br>
         アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
@@ -520,7 +674,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2889">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2890">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -884,13 +1038,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2889">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2890">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2889">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2890">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -1126,7 +1280,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2889">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2890">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1409,108 +1563,6 @@
     <div>
         修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
     </div>
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1354" class="weighty-column">
-
-            2024/09/24 14:00            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              Ver.1.84.2 配信のお知らせ            </div>
-
-        </div>
-        <div id="important-text-1354" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月24日 14:00<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        順次配信が開始されました、Ver.1.84.2のアプリにて、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【Ver.1.84.2の更新内容】</p>
-        
-        <div class="list hide_DMM">
-            ▶アプリアイコンのデザインを変更しました。
-        </div>
-      <div class="list">
-            ▶一部の小型ヴァイスを後方から攻撃した時、ダメージ値が表示されているにも関わらずHPが減らない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ヴァイス】</p>
-            <div>
-                ・ベイト<br>
-                ・ワ・クロサ
-            </div>
-        </div>
-        <div class="list">
-            ▶牧瀬 紅莉栖のエニグマで修得可能なパッシブスキル「ツインフレイム/BR」の説明文に誤りがあったため、修正しました。
-        </div>
-        <p class="list red">
-            ※説明文のみの修正であり、性能に変更はございません。
-        </p>
-        <div class="sub-box bg_white">
-            <div>
-                修正前：3.アクトレス3名でのバディリンク展開中、自身での攻撃に攻撃に焦熱効果を付与する<br>
-                修正後：3.アクトレス3名でのバディリンク展開中、自身での攻撃に焦熱効果を付与する
-            </div>
-        </div>    
-       <div class="list">
-            ▶下記SPスキルの発動演出を微調整しました。
-        </div>
-         <p class="list red">
-            ※見た目のみの調整であり、性能に変更はございません。
-        </p>       
-        <div class="sub-box bg_white">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・AG6Z:ビームセーバー<br>
-                ・AG6X:ビームセーバー
-            </div>
-        </div>
-       <div class="list">
-            ▶ホーム画面にて、下記キャラクターの特定ボイスが再生されない問題を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象キャラクター】</p>
-            <div>
-                ・牧瀬 紅莉栖<br>
-                ・阿万音 鈴羽
-            </div>
-        </div>
-        <div class="list">
-            ▶阿万音 鈴羽のボイスアーカイブ「シナリオ/コラボ」の一部ボイスが正しく再生されない不具合を修正しました。
-        </div>
-        <div class="list">
-            ▶イベント「共鳴時空のエンタングルメント ANOTHER」の一部エピソードの、ダイバージェンスメーター演出に誤りがあったため修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <div>
-                誤：17.00112<br>
-                正：17.00122
-            </div>
-        </div> 
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        なお、Ver.1.84.2の配信に伴い、<span class="bold red">9/25（水）14:00頃を目途に強制アップデートを実施</span>いたします。<br>
-        強制アップデート以後、旧バージョンのアプリではゲームにログインできなくなりますのでご注意下さい。
-    </div>
-    
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
