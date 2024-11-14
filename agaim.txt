@@ -34,6 +34,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1376" class="weighty-column">
+
+            2024/11/14 17:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              特定状況で、「封殺」の状態異常が2回連続で発生する場合がある            </div>
+
+        </div>
+        <div id="important-text-1376" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年11月14日 17:05<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶状態異常「封殺」によって行動停止する瞬間の敵に、「封殺」の状態異常値を蓄積すると、敵が再度行動可能になった時に連続で「封殺」が発生する場合がある。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、原因の調査を行っております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1375" class="weighty-column">
 
             2024/11/14 15:00                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
@@ -77,21 +116,21 @@
             <div class="list">
                 ▶九炉鉄 悠都の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/bnr_l00_inf_611_14.jpg?v=2897">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/bnr_l00_inf_611_14.jpg?v=2898">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 九炉鉄 悠都【引導】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/555?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_054_70/bnr_header.jpg?v=2897">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_054_70/bnr_header.jpg?v=2898">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
             <div class="list">
                 ▶新たな状態異常「封殺」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/info_01.jpg?v=2897">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/info_01.jpg?v=2898">
             </div>
             <div>
                 「封殺」は、敵の動きを停止させる状態異常です。<br>
@@ -746,7 +785,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2897">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2898">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -1110,13 +1149,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2897">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2898">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2897">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2898">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -1352,7 +1391,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2897">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2898">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
@@ -1512,66 +1551,6 @@
         このたびは、データ更新にご理解とご協力をいただきありがとうございます。
     </div>
     
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
-        
-        <div id="important-column-1356" class="weighty-column">
-
-            2024/09/25 16:10                            
-                <span class="bold">
-                                            (09/27 修正済)
-                                    </span>
-            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
-              Ver.1.84.2アプリより、バトル中の挙動が開発意図と異なるものになっている            </div>
-
-        </div>
-        <div id="important-text-1356" class="weighty-notice hide">
-           
-<div>
-    <div>
-        ■2024年09月27日 10:55 追記<br>
-        本件につきまして、順次配信されましたVer1.84.3アプリにて修正対応が完了いたしましたので、ご報告申し上げます。
-    </div>
-    <div>
-        このたびは、お客様にご迷惑をおかけしてしまい、誠に申し訳ありませんでした。
-    </div>
-    
-    
-    <hr class="red">
-    
-    <div>
-        ■2024年09月25日 16:10<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
-    </div>
-    <div>
-        現在、以下の不具合を確認しております。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【不具合内容】</p>
-        
-        <div class="list">
-            ▶Ver.1.84.2アプリより、バトル中の挙動が開発意図と異なるものになっている。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【開発意図と異なる挙動の一例】</p>
-            <div>
-                ・状態異常にかかりにくい<br>
-                ・ノックバックしにくい　など
-            </div>
-        </div>
-    </div>
-    <div>
-        本件につきまして、現在、原因の調査を行っております。
-    </div>
-    <div>
-        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
-    </div>
     <div>
         今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
     </div>
