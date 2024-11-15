@@ -34,6 +34,45 @@
 
       <div id="" class="weighty-list">
         
+        <div id="important-column-1377" class="weighty-column">
+
+            2024/11/15 17:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
+            
+            <div class="column-text">
+              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
+              九炉鉄 悠都がアクセサリー「ポンポン/水色」を着用している時の特殊モーションが、ドレッサー画面で再生されない            </div>
+
+        </div>
+        <div id="important-text-1377" class="weighty-notice hide">
+           
+<div>
+    <div>
+        ■2024年11月15日 17:55<br>
+        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。
+    </div>
+    <div>
+        現在、以下の不具合を確認しております。
+    </div>
+    
+    <hr>
+    <div class="bg_white news-box">
+        <p class="bold">【不具合内容】</p>
+        
+        <div class="list">
+            ▶11/14（木）14:00 のアップデートより、九炉鉄 悠都がアクセサリー「ポンポン/水色」を着用している時の特殊モーションが、ドレッサー画面で再生されない。
+        </div>
+    </div>
+    <div>
+        本件につきまして、現在、修正作業を進めております。
+    </div>
+    <div>
+        修正までの間、ご不便をおかけして申し訳ございませんが、今しばらくお時間をいただけると幸いにございます。
+    </div>
+    <div>
+        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
+    </div>
+</div>        </div>
+        
         <div id="important-column-1376" class="weighty-column">
 
             2024/11/14 17:05            
@@ -1400,158 +1439,6 @@
             今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
         </div>
     </div>        </div>
-        
-        <div id="important-column-1357" class="weighty-column">
-
-            2024/09/26 14:05            
-            <div class="column-text">
-              <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_update.png" class="icn-category">
-              本日のデータ更新内容について            </div>
-
-        </div>
-        <div id="important-text-1357" class="weighty-notice hide">
-           
-<div>
-    
-    <div>
-        ■2024年09月26日 14:05<br>
-        アリス・ギア・アイギスをお楽しみいただき、ありがとうございます。<br>
-        本日のデータ更新において、以下の追加、調整、修正を行いました。
-    </div>
-    
-    <hr>
-    <div class="bg_white news-box">
-        <p class="bold">【データ更新内容】</p>
-        
-        <div class="list">
-            ▶対象SPスキルの「ユニゾン」発動に必要なSPゲージ量を緩和しました。
-        </div>
-        <p class="lsit red">
-            ※操作キャラが対象SPスキルを装着している場合に適用されます。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">調整前：</p>
-            <div>
-                ・操作キャラ 100%<br>
-                ・バディ 100%
-            </div>
-            <p class="bold">調整後：</p>
-            <div>
-                ・操作キャラ 100%<br>
-                ・バディ 60%
-            </div>
-            
-            <hr class="red">
-            <p class="bold">【対象SPスキル】</p>
-            <div>
-                ・グートルーネ<br>
-                ・シルヴィア<br>
-                ・フェイタルアサルト<br>
-                ・ゴールデンパール<br>
-                ・クイック&amp;デッド<br>
-                ・アルゴルアドヴァンス<br>
-                ・レーヴ・ド・パピヨン<br>
-                ・共振励起レイブレード<br>
-                ・インペリアルフレイム<br>
-                ・ハドロン砲<br>
-                ・輻射波動：紅蓮
-            </div>
-        </div>
-        <div class="list">
-            ▶牧瀬 紅莉栖の各種クロスギアの性能を調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象クロスギア】</p>
-            <div>
-                ・★3/タケコプシューターAR<br>
-                ・★3/タケコプシューターA<br>
-                ・★3/タケコプシューターA1.2<br>
-                ・★3/タケコプシューターA1.5<br>
-                ・★4/タケコプシューターA2.0<br>
-                ・★4/タケコプシューターA2.62<br>
-                ・★4/タケコプシューターA2.67
-            </div>
-            <p class="list">
-                ・カウンター攻撃動作中にステップを行えるよう調整。
-            </p>
-        </div>
-        <div class="list">
-            ▶大関 小結専用ショットギアのアイコンデザインを調整しました。
-        </div>
-        <p class="list red">
-            ※アイコンのみの調整となり、ギアデザインに変更はありません。
-        </p>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ショットギア】</p>
-            <div>
-                ・★3/試作ライスシャワーAHVY	<br>
-                ・★3/試作ライスシャワーAHVY改<br>
-                ・★3/試作ライスシャワーAHVY真<br>
-                ・★4/試験用ライスシャワーAHVY<br>
-                ・★4/ライスシャワーHVY<br>
-                ・★4/ライスボールNIL
-            </div>
-        </div>
-        <div class="list">
-            ▶敵が一部の状態異常やデバフ効果を受けた時の、エフェクトの大きさを調整しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象状態異常】</p>
-            <div>
-                ・猛毒<br>
-                ・焦熱<br>
-                ・浸食<br>
-                ・短絡
-            </div>
-        </div>
-        <div class="list">
-            ▶敵が一部の状態異常を受けた時の効果音を追加しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象状態異常】</p>
-            <div>
-                ・猛毒<br>
-                ・焦熱
-            </div>
-        </div>
-        <div class="list">
-            ▶「STEINS;GATE ギア交換所」にて、一部ギアの説明文が正しく表示されない不具合を修正しました。
-        </div>
-        <div class="sub-box bg_white">
-            <p class="bold">【対象ギア】</p>
-            <div>
-                ・★3/タケコプシューターA<br>
-                ・★3/MK16スカ―ASsA
-            </div>
-        </div>
-        <div class="list">
-            ▶阿万音 鈴羽のアクセサリー「エルピス2ndA/H」の装着部位「髪型」が正常に動作していない不具合を修正しました。
-        </div>
-        <p class="list red">
-            ※アクセサリー説明文に記載されている通り、正しい装着部位は「耳・髪型」となります。
-        </p>
-        <div>
-            なお、不具合修正前に「エルピス2ndA/H」と他の髪型変更アクセサリーを併用されている場合は、キャラクターから「エルピス2ndA/H」を外した状態にする対応を実施させていただいております。<br>
-            本対応は、アプリを再起動することで反映されます。
-        </div>
-        <div class="list">
-            ▶各種データを追加しました。
-        </div>
-        <div class="list">
-            ▶その他、軽微な各種調整を行いました。
-        </div>
-        <div class="list">
-        	▶その他、軽微な不具合を修正しました。
-        </div>
-    </div>
-    <div>
-        このたびは、データ更新にご理解とご協力をいただきありがとうございます。
-    </div>
-    
-    <div>
-        今後もお客様にゲームをお楽しみいただけるよう、運営・開発を続けてまいりますので、これからもアリス・ギア・アイギスをよろしくお願いいたします。
-    </div>
-</div>        </div>
         
                   <div class="pager center">
                       <img src="//i-cf.alice.colopl.jp/img/common/gacha/icon-arrow.png" class="left-arrow">
