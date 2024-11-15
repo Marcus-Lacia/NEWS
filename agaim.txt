@@ -36,8 +36,7 @@
         
         <div id="important-column-1376" class="weighty-column">
 
-            2024/11/14 17:05                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/11/14 17:05            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               特定状況で、「封殺」の状態異常が2回連続で発生する場合がある            </div>
