@@ -36,8 +36,7 @@
         
         <div id="important-column-1377" class="weighty-column">
 
-            2024/11/15 17:55                            <img class="icn-new" src="//i-cf.alice.colopl.jp/img/common/news_new/new.png">
-            
+            2024/11/15 17:55            
             <div class="column-text">
               <img src="//i-cf.alice.colopl.jp/img/common/news_new/icn_bug.png" class="icn-category">
               九炉鉄 悠都がアクセサリー「ポンポン/水色」を着用している時の特殊モーションが、ドレッサー画面で再生されない            </div>
