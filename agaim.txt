@@ -152,21 +152,21 @@
             <div class="list">
                 ▶九炉鉄 悠都の専用ショットギアに進化分岐を追加しました。
             </div>
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/bnr_l00_inf_611_14.jpg?v=2902">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/bnr_l00_inf_611_14.jpg?v=2903">
     
             <div class="list red">
                 ※派生進化専用ギアの特殊な動作について、<br>
                 九炉鉄 悠都【引導】の詳細ページにて説明しております。
             </div>
             <a href="/news/show/id/555?returnUrl=back">
-                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_054_70/bnr_header.jpg?v=2902">
+                <img src="//i-cf.alice.colopl.jp/img/news/another/chr_054_70/bnr_header.jpg?v=2903">
                 <p class="center red">※バナーをタップすると詳細ページへジャンプします</p>
             </a>
             <div class="list">
                 ▶新たな状態異常「封殺」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/info_01.jpg?v=2902">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/241114/info_01.jpg?v=2903">
             </div>
             <div>
                 「封殺」は、敵の動きを停止させる状態異常です。<br>
@@ -820,7 +820,7 @@
             ▶任務リザルト画面に、挑戦した任務の推奨Lvを追加しました。
         </div>
         <div class="center">
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2902">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241024/info_01.jpg?v=2903">
         </div>
         <div class="list">
             ▶リスト型の交換所を開いた際のロード時間を短縮しました。
@@ -1184,13 +1184,13 @@
                 ▶イブリー・ハッドの専用クロスギアに進化分岐を追加しました。
             </div>
             
-            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2902">
+            <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_02.jpg?v=2903">
             <div class="list">
                 ※派生進化専用ギアの特殊な動作について、詳細ページにて説明しております。
             </div>
             <div>
                 <div class="browser" data-url="https://aliceevent.jp/custom-page/show/page-id/728bf945?s">
-                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2902">
+                    <img src="//i-cf.alice.colopl.jp/img/news/2024/241003/info_01.jpg?v=2903">
                     <p class="btn-window">詳細ページはコチラ</p>
                 </div>
             </div>
@@ -1426,7 +1426,7 @@
                 ▶新たな状態異常「誘爆」を実装しました。
             </div>
             <div class="center">
-                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2902">
+                <img src="//i-cf.alice.colopl.jp/img/news/2024/240926/info_02.jpg?v=2903">
             </div>
             <div>
                 「誘爆」は、敵に誘爆の状態異常を与える攻撃を行うことで発生します。<br>
